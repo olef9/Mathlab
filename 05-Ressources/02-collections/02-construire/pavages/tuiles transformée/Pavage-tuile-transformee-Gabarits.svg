@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="42" y="42" font-family="Arial" font-size="27" font-weight="bold">La tuile transformée – Gabarits</text>
+<text x="42" y="70" font-family="Arial" font-size="14">Découpe un bord, fais seulement glisser la pièce vers le bord opposé, puis utilise la tuile comme gabarit.</text>
+<text x="55" y="112" font-family="Arial" font-size="18" font-weight="bold">1. Carré de fabrication</text>
+<text x="55" y="140" font-family="Arial" font-size="14">Trace ton chemin entre les deux coins du bord gauche.</text>
+<line x1="65" y1="165" x2="65" y2="417" stroke="#777" stroke-width="0.8"/>
+<line x1="107" y1="165" x2="107" y2="417" stroke="#777" stroke-width="0.8"/>
+<line x1="149" y1="165" x2="149" y2="417" stroke="#777" stroke-width="0.8"/>
+<line x1="191" y1="165" x2="191" y2="417" stroke="#777" stroke-width="0.8"/>
+<line x1="233" y1="165" x2="233" y2="417" stroke="#777" stroke-width="0.8"/>
+<line x1="275" y1="165" x2="275" y2="417" stroke="#777" stroke-width="0.8"/>
+<line x1="317" y1="165" x2="317" y2="417" stroke="#777" stroke-width="0.8"/>
+<line x1="65" y1="165" x2="317" y2="165" stroke="#777" stroke-width="0.8"/>
+<line x1="65" y1="207" x2="317" y2="207" stroke="#777" stroke-width="0.8"/>
+<line x1="65" y1="249" x2="317" y2="249" stroke="#777" stroke-width="0.8"/>
+<line x1="65" y1="291" x2="317" y2="291" stroke="#777" stroke-width="0.8"/>
+<line x1="65" y1="333" x2="317" y2="333" stroke="#777" stroke-width="0.8"/>
+<line x1="65" y1="375" x2="317" y2="375" stroke="#777" stroke-width="0.8"/>
+<line x1="65" y1="417" x2="317" y2="417" stroke="#777" stroke-width="0.8"/>
+<rect x="65" y="165" width="252" height="252" fill="none" stroke="#111" stroke-width="2.2"/>
+<circle cx="65" cy="165" r="3" fill="#111"/>
+<text x="47" y="157" font-family="Arial" font-size="15" font-weight="bold">A</text>
+<circle cx="317" cy="165" r="3" fill="#111"/>
+<text x="325" y="157" font-family="Arial" font-size="15" font-weight="bold">B</text>
+<circle cx="317" cy="417" r="3" fill="#111"/>
+<text x="325" y="437" font-family="Arial" font-size="15" font-weight="bold">C</text>
+<circle cx="65" cy="417" r="3" fill="#111"/>
+<text x="47" y="437" font-family="Arial" font-size="15" font-weight="bold">D</text>
+<text x="65" y="450" font-family="Arial" font-size="14">Validation avant découpe : ______________________________</text>
+<text x="390" y="112" font-family="Arial" font-size="18" font-weight="bold">2. Carré de secours ou deuxième tuile</text>
+<text x="390" y="140" font-family="Arial" font-size="14">Utilise-le si la première découpe échoue ou pour un nouveau motif.</text>
+<line x1="405" y1="165" x2="405" y2="417" stroke="#777" stroke-width="0.8"/>
+<line x1="447" y1="165" x2="447" y2="417" stroke="#777" stroke-width="0.8"/>
+<line x1="489" y1="165" x2="489" y2="417" stroke="#777" stroke-width="0.8"/>
+<line x1="531" y1="165" x2="531" y2="417" stroke="#777" stroke-width="0.8"/>
+<line x1="573" y1="165" x2="573" y2="417" stroke="#777" stroke-width="0.8"/>
+<line x1="615" y1="165" x2="615" y2="417" stroke="#777" stroke-width="0.8"/>
+<line x1="657" y1="165" x2="657" y2="417" stroke="#777" stroke-width="0.8"/>
+<line x1="405" y1="165" x2="657" y2="165" stroke="#777" stroke-width="0.8"/>
+<line x1="405" y1="207" x2="657" y2="207" stroke="#777" stroke-width="0.8"/>
+<line x1="405" y1="249" x2="657" y2="249" stroke="#777" stroke-width="0.8"/>
+<line x1="405" y1="291" x2="657" y2="291" stroke="#777" stroke-width="0.8"/>
+<line x1="405" y1="333" x2="657" y2="333" stroke="#777" stroke-width="0.8"/>
+<line x1="405" y1="375" x2="657" y2="375" stroke="#777" stroke-width="0.8"/>
+<line x1="405" y1="417" x2="657" y2="417" stroke="#777" stroke-width="0.8"/>
+<rect x="405" y="165" width="252" height="252" fill="none" stroke="#111" stroke-width="2.2"/>
+<text x="710" y="112" font-family="Arial" font-size="18" font-weight="bold">3. Zone de test et de pavage</text>
+<text x="710" y="140" font-family="Arial" font-size="14">Commence par deux tuiles, puis poursuis après validation.</text>
+<line x1="710" y1="165" x2="710" y2="501" stroke="#777" stroke-width="1.8"/>
+<line x1="738" y1="165" x2="738" y2="501" stroke="#777" stroke-width="0.8"/>
+<line x1="766" y1="165" x2="766" y2="501" stroke="#777" stroke-width="0.8"/>
+<line x1="794" y1="165" x2="794" y2="501" stroke="#777" stroke-width="0.8"/>
+<line x1="822" y1="165" x2="822" y2="501" stroke="#777" stroke-width="0.8"/>
+<line x1="850" y1="165" x2="850" y2="501" stroke="#777" stroke-width="0.8"/>
+<line x1="878" y1="165" x2="878" y2="501" stroke="#777" stroke-width="1.8"/>
+<line x1="906" y1="165" x2="906" y2="501" stroke="#777" stroke-width="0.8"/>
+<line x1="934" y1="165" x2="934" y2="501" stroke="#777" stroke-width="0.8"/>
+<line x1="962" y1="165" x2="962" y2="501" stroke="#777" stroke-width="0.8"/>
+<line x1="990" y1="165" x2="990" y2="501" stroke="#777" stroke-width="0.8"/>
+<line x1="1018" y1="165" x2="1018" y2="501" stroke="#777" stroke-width="0.8"/>
+<line x1="1046" y1="165" x2="1046" y2="501" stroke="#777" stroke-width="1.8"/>
+<line x1="710" y1="165" x2="1046" y2="165" stroke="#777" stroke-width="1.8"/>
+<line x1="710" y1="193" x2="1046" y2="193" stroke="#777" stroke-width="0.8"/>
+<line x1="710" y1="221" x2="1046" y2="221" stroke="#777" stroke-width="0.8"/>
+<line x1="710" y1="249" x2="1046" y2="249" stroke="#777" stroke-width="0.8"/>
+<line x1="710" y1="277" x2="1046" y2="277" stroke="#777" stroke-width="0.8"/>
+<line x1="710" y1="305" x2="1046" y2="305" stroke="#777" stroke-width="0.8"/>
+<line x1="710" y1="333" x2="1046" y2="333" stroke="#777" stroke-width="1.8"/>
+<line x1="710" y1="361" x2="1046" y2="361" stroke="#777" stroke-width="0.8"/>
+<line x1="710" y1="389" x2="1046" y2="389" stroke="#777" stroke-width="0.8"/>
+<line x1="710" y1="417" x2="1046" y2="417" stroke="#777" stroke-width="0.8"/>
+<line x1="710" y1="445" x2="1046" y2="445" stroke="#777" stroke-width="0.8"/>
+<line x1="710" y1="473" x2="1046" y2="473" stroke="#777" stroke-width="0.8"/>
+<line x1="710" y1="501" x2="1046" y2="501" stroke="#777" stroke-width="1.8"/>
+<rect x="710" y="165" width="336" height="336" fill="none" stroke="#111" stroke-width="2.2"/>
+<text x="55" y="520" font-family="Arial" font-size="17" font-weight="bold">Rappel</text>
+<text x="55" y="550" font-family="Arial" font-size="15">• Le haut reste en haut.</text>
+<text x="55" y="578" font-family="Arial" font-size="15">• La pièce glisse horizontalement.</text>
+<text x="55" y="606" font-family="Arial" font-size="15">• Elle ne tourne pas et n’est pas retournée.</text>
+<text x="55" y="650" font-family="Arial" font-size="15">Nom : ____________________________________________</text>
+<text x="390" y="650" font-family="Arial" font-size="15">Équipe : __________________________________________</text>
+</svg>

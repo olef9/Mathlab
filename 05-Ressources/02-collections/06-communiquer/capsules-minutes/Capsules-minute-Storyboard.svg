@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="45" y="42" font-family="Arial" font-size="27" font-weight="bold">Capsule minute – Storyboard</text>
+<text x="45" y="70" font-family="Arial" font-size="14">Dessine ce qui sera visible et écris seulement les mots-clés prononcés.</text>
+<rect x="45" y="105" width="315" height="270" rx="8" fill="white" stroke="#333" stroke-width="1.8"/>
+<text x="60" y="135" font-family="Arial" font-size="17" font-weight="bold">1. Titre</text>
+<text x="345" y="135" text-anchor="end" font-family="Arial" font-size="13">0–15 s</text>
+<rect x="63" y="153" width="279" height="145" fill="white" stroke="#888" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="63" y="325" font-family="Arial" font-size="12">Mots-clés :</text>
+<line x1="63" y1="345" x2="342" y2="345" stroke="#777"/>
+<line x1="63" y1="365" x2="342" y2="365" stroke="#777"/>
+<rect x="404" y="105" width="315" height="270" rx="8" fill="white" stroke="#333" stroke-width="1.8"/>
+<text x="419" y="135" font-family="Arial" font-size="17" font-weight="bold">2. Mission</text>
+<text x="704" y="135" text-anchor="end" font-family="Arial" font-size="13">15–30 s</text>
+<rect x="422" y="153" width="279" height="145" fill="white" stroke="#888" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="422" y="325" font-family="Arial" font-size="12">Mots-clés :</text>
+<line x1="422" y1="345" x2="701" y2="345" stroke="#777"/>
+<line x1="422" y1="365" x2="701" y2="365" stroke="#777"/>
+<rect x="763" y="105" width="315" height="270" rx="8" fill="white" stroke="#333" stroke-width="1.8"/>
+<text x="778" y="135" font-family="Arial" font-size="17" font-weight="bold">3. Démarche</text>
+<text x="1063" y="135" text-anchor="end" font-family="Arial" font-size="13">30–75 s</text>
+<rect x="781" y="153" width="279" height="145" fill="white" stroke="#888" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="781" y="325" font-family="Arial" font-size="12">Mots-clés :</text>
+<line x1="781" y1="345" x2="1060" y2="345" stroke="#777"/>
+<line x1="781" y1="365" x2="1060" y2="365" stroke="#777"/>
+<rect x="45" y="425" width="315" height="270" rx="8" fill="white" stroke="#333" stroke-width="1.8"/>
+<text x="60" y="455" font-family="Arial" font-size="17" font-weight="bold">4. Démonstration</text>
+<text x="345" y="455" text-anchor="end" font-family="Arial" font-size="13">75–100 s</text>
+<rect x="63" y="473" width="279" height="145" fill="white" stroke="#888" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="63" y="645" font-family="Arial" font-size="12">Mots-clés :</text>
+<line x1="63" y1="665" x2="342" y2="665" stroke="#777"/>
+<line x1="63" y1="685" x2="342" y2="685" stroke="#777"/>
+<rect x="404" y="425" width="315" height="270" rx="8" fill="white" stroke="#333" stroke-width="1.8"/>
+<text x="419" y="455" font-family="Arial" font-size="17" font-weight="bold">5. Erreur et conseil</text>
+<text x="704" y="455" text-anchor="end" font-family="Arial" font-size="13">100–130 s</text>
+<rect x="422" y="473" width="279" height="145" fill="white" stroke="#888" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="422" y="645" font-family="Arial" font-size="12">Mots-clés :</text>
+<line x1="422" y1="665" x2="701" y2="665" stroke="#777"/>
+<line x1="422" y1="685" x2="701" y2="685" stroke="#777"/>
+<rect x="763" y="425" width="315" height="270" rx="8" fill="white" stroke="#333" stroke-width="1.8"/>
+<text x="778" y="455" font-family="Arial" font-size="17" font-weight="bold">6. Conclusion</text>
+<text x="1063" y="455" text-anchor="end" font-family="Arial" font-size="13">130–150 s</text>
+<rect x="781" y="473" width="279" height="145" fill="white" stroke="#888" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="781" y="645" font-family="Arial" font-size="12">Mots-clés :</text>
+<line x1="781" y1="665" x2="1060" y2="665" stroke="#777"/>
+<line x1="781" y1="685" x2="1060" y2="685" stroke="#777"/>
+</svg>
