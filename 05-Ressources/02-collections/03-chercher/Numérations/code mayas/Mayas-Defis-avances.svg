@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="40" font-family="Arial" font-size="26" font-weight="bold">Le code des Mayas – Défis avancés</text>
+<text x="40" y="66" font-family="Arial" font-size="13">Choisir un défi après validation des quatre cartes experts.</text>
+<rect x="35" y="95" width="515" height="300" rx="10" fill="white" stroke="#333" stroke-width="1.8"/>
+<text x="51" y="124" font-family="Arial" font-size="17" font-weight="bold">Défi 1 – Addition avec regroupement</text>
+<rect x="575" y="95" width="515" height="300" rx="10" fill="white" stroke="#333" stroke-width="1.8"/>
+<text x="591" y="124" font-family="Arial" font-size="17" font-weight="bold">Défi 2 – Même matériel, valeurs extrêmes</text>
+<rect x="35" y="430" width="515" height="300" rx="10" fill="white" stroke="#333" stroke-width="1.8"/>
+<text x="51" y="459" font-family="Arial" font-size="17" font-weight="bold">Défi 3 – Coder 1234</text>
+<rect x="575" y="430" width="515" height="300" rx="10" fill="white" stroke="#333" stroke-width="1.8"/>
+<text x="591" y="459" font-family="Arial" font-size="17" font-weight="bold">Défi 4 – Trois numérations</text>
+<rect x="75" y="155" width="90" height="80" fill="white" stroke="#aaa" stroke-width="1"/>
+<circle cx="115.45" cy="195.0" r="3.12" fill="#111"/>
+<circle cx="124.55" cy="195.0" r="3.12" fill="#111"/>
+<rect x="75" y="235" width="90" height="80" fill="white" stroke="#aaa" stroke-width="1"/>
+<rect x="101.15" y="288.0" width="37.7" height="5.2" rx="2.6" fill="#111"/>
+<rect x="101.15" y="279.55" width="37.7" height="5.2" rx="2.6" fill="#111"/>
+<rect x="101.15" y="271.1" width="37.7" height="5.2" rx="2.6" fill="#111"/>
+<circle cx="115.45" cy="261.34999999999997" r="3.12" fill="#111"/>
+<circle cx="124.55" cy="261.34999999999997" r="3.12" fill="#111"/>
+<text x="190" y="240" font-family="Arial" font-size="24">+</text>
+<rect x="230" y="155" width="90" height="80" fill="white" stroke="#aaa" stroke-width="1"/>
+<circle cx="275.0" cy="195.0" r="3.12" fill="#111"/>
+<rect x="230" y="235" width="90" height="80" fill="white" stroke="#aaa" stroke-width="1"/>
+<rect x="256.15" y="288.0" width="37.7" height="5.2" rx="2.6" fill="#111"/>
+<circle cx="265.9" cy="278.25" r="3.12" fill="#111"/>
+<circle cx="275.0" cy="278.25" r="3.12" fill="#111"/>
+<circle cx="284.09999999999997" cy="278.25" r="3.12" fill="#111"/>
+<text x="350" y="240" font-family="Arial" font-size="24">=</text>
+<rect x="390" y="155" width="105" height="160" fill="white" stroke="#777" stroke-dasharray="5 4"/>
+<text x="65" y="355" font-family="Arial" font-size="14">Calcule sans tout convertir en décimal. Que faire lorsque les unités atteignent 20 ?</text>
+<text x="605" y="150" font-family="Arial" font-size="15">Construis des nombres à deux niveaux avec exactement :</text>
+<text x="680" y="190" font-family="Arial" font-size="22" font-weight="bold">3 barres et 4 points</text>
+<text x="605" y="230" font-family="Arial" font-size="15">Chaque niveau doit contenir au moins un point ou une barre.</text>
+<text x="605" y="275" font-family="Arial" font-size="15">Plus petit nombre : __________________</text>
+<text x="605" y="315" font-family="Arial" font-size="15">Plus grand nombre : _________________</text>
+<text x="605" y="355" font-family="Arial" font-size="14">Dessine les deux inscriptions et justifie.</text>
+<text x="65" y="495" font-family="Arial" font-size="18">Écris 1234 avec trois niveaux.</text>
+<text x="65" y="540" font-family="Arial" font-size="15">1234 = ______ × 400 + ______ × 20 + ______</text>
+<rect x="320" y="500" width="120" height="190" fill="white" stroke="#777" stroke-dasharray="5 4"/>
+<text x="65" y="600" font-family="Arial" font-size="15">Vérification :</text>
+<line x1="65" y1="630" x2="280" y2="630" stroke="#777"/>
+<line x1="65" y1="660" x2="280" y2="660" stroke="#777"/>
+<text x="605" y="490" font-family="Arial" font-size="16">Choisis un nombre entre 40 et 100.</text>
+<text x="605" y="530" font-family="Arial" font-size="15">Écriture décimale : __________________</text>
+<text x="605" y="575" font-family="Arial" font-size="15">Écriture maya :</text>
+<rect x="820" y="545" width="100" height="145" fill="white" stroke="#777" stroke-dasharray="5 4"/>
+<text x="605" y="625" font-family="Arial" font-size="15">Écriture Trioz : _____________________</text>
+<text x="605" y="675" font-family="Arial" font-size="14">Vérifie que les trois écritures représentent le même nombre.</text>
+</svg>

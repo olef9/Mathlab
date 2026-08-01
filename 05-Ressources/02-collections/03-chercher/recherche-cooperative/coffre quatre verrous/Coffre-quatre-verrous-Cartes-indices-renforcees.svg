@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="42" y="40" font-family="Arial" font-size="25" font-weight="bold">Le coffre des quatre verrous – Cartes renforcées</text>
+<text x="42" y="66" font-family="Arial" font-size="14">Découper les cartes. Les experts Étoile et Triangle devront demander un résultat à leur équipe.</text>
+<rect x="35" y="92" width="515" height="305" rx="10" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="57" y="127" font-family="Arial" font-size="20" font-weight="bold">CARTE CARRÉ</text>
+<rect x="573" y="92" width="515" height="305" rx="10" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="595" y="127" font-family="Arial" font-size="20" font-weight="bold">CARTE CERCLE</text>
+<rect x="35" y="430" width="515" height="305" rx="10" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="57" y="465" font-family="Arial" font-size="20" font-weight="bold">CARTE ÉTOILE</text>
+<rect x="573" y="430" width="515" height="305" rx="10" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="595" y="465" font-family="Arial" font-size="20" font-weight="bold">CARTE TRIANGLE</text>
+<line x1="77" y1="162" x2="77" y2="297" stroke="#111" stroke-width="2.2"/>
+<line x1="77" y1="162" x2="212" y2="162" stroke="#111" stroke-width="2.2"/>
+<line x1="122" y1="162" x2="122" y2="297" stroke="#111" stroke-width="2.2"/>
+<line x1="77" y1="207" x2="212" y2="207" stroke="#111" stroke-width="2.2"/>
+<line x1="167" y1="162" x2="167" y2="297" stroke="#111" stroke-width="2.2"/>
+<line x1="77" y1="252" x2="212" y2="252" stroke="#111" stroke-width="2.2"/>
+<line x1="212" y1="162" x2="212" y2="297" stroke="#111" stroke-width="2.2"/>
+<line x1="77" y1="297" x2="212" y2="297" stroke="#111" stroke-width="2.2"/>
+<text x="245" y="177" font-family="Arial" font-size="16">Compte tous les carrés,</text>
+<text x="245" y="202" font-family="Arial" font-size="16">de toutes les tailles.</text>
+<text x="245" y="242" font-family="Arial" font-size="15">Le résultat comporte deux chiffres.</text>
+<text x="245" y="269" font-family="Arial" font-size="15">Le verrou garde le chiffre des unités.</text>
+<text x="57" y="362" font-family="Arial" font-size="14">Classe ta recherche par taille pour prouver que tu n’as rien oublié.</text>
+<circle cx="608" cy="170" r="3.5" fill="#111"/>
+<line x1="612" y1="170" x2="652" y2="170" stroke="#444" stroke-width="1.5"/>
+<line x1="608" y1="174" x2="608" y2="214" stroke="#444" stroke-width="1.5"/>
+<circle cx="608" cy="218" r="3.5" fill="#111"/>
+<line x1="612" y1="218" x2="652" y2="218" stroke="#444" stroke-width="1.5"/>
+<line x1="608" y1="222" x2="608" y2="262" stroke="#444" stroke-width="1.5"/>
+<circle cx="608" cy="266" r="3.5" fill="#111"/>
+<line x1="612" y1="266" x2="652" y2="266" stroke="#444" stroke-width="1.5"/>
+<circle cx="656" cy="170" r="3.5" fill="#111"/>
+<line x1="660" y1="170" x2="700" y2="170" stroke="#444" stroke-width="1.5"/>
+<line x1="656" y1="174" x2="656" y2="214" stroke="#444" stroke-width="1.5"/>
+<circle cx="656" cy="218" r="3.5" fill="#111"/>
+<line x1="661" y1="218" x2="699" y2="218" stroke="#111" stroke-width="2" stroke-dasharray="5 4"/>
+<line x1="672.0" y1="210" x2="688.0" y2="226" stroke="#111" stroke-width="3"/>
+<line x1="672.0" y1="226" x2="688.0" y2="210" stroke="#111" stroke-width="3"/>
+<line x1="656" y1="222" x2="656" y2="262" stroke="#444" stroke-width="1.5"/>
+<circle cx="656" cy="266" r="3.5" fill="#111"/>
+<line x1="660" y1="266" x2="700" y2="266" stroke="#444" stroke-width="1.5"/>
+<circle cx="704" cy="170" r="3.5" fill="#111"/>
+<line x1="708" y1="170" x2="748" y2="170" stroke="#444" stroke-width="1.5"/>
+<line x1="704" y1="174" x2="704" y2="214" stroke="#444" stroke-width="1.5"/>
+<circle cx="704" cy="218" r="3.5" fill="#111"/>
+<line x1="708" y1="218" x2="748" y2="218" stroke="#444" stroke-width="1.5"/>
+<line x1="704" y1="222" x2="704" y2="262" stroke="#444" stroke-width="1.5"/>
+<circle cx="704" cy="266" r="3.5" fill="#111"/>
+<line x1="708" y1="266" x2="748" y2="266" stroke="#444" stroke-width="1.5"/>
+<circle cx="752" cy="170" r="3.5" fill="#111"/>
+<line x1="752" y1="174" x2="752" y2="214" stroke="#444" stroke-width="1.5"/>
+<circle cx="752" cy="218" r="3.5" fill="#111"/>
+<line x1="752" y1="222" x2="752" y2="262" stroke="#444" stroke-width="1.5"/>
+<circle cx="752" cy="266" r="3.5" fill="#111"/>
+<text x="596" y="155" font-family="Arial" font-size="15" font-weight="bold">A</text>
+<text x="761" y="271" font-family="Arial" font-size="15" font-weight="bold">B</text>
+<text x="823" y="174" font-family="Arial" font-size="15">Va de A à B par un chemin</text>
+<text x="823" y="198" font-family="Arial" font-size="15">le plus court.</text>
+<text x="823" y="235" font-family="Arial" font-size="15">Tu peux aller seulement</text>
+<text x="823" y="259" font-family="Arial" font-size="15">à droite ou vers le bas.</text>
+<text x="823" y="296" font-family="Arial" font-size="15">Le segment barré est interdit.</text>
+<text x="595" y="362" font-family="Arial" font-size="14">Combien de chemins différents restent possibles ? Justifie ta liste.</text>
+<polygon points="117.0,517.0 128.8,548.8 162.7,550.2 136.0,571.2 145.2,603.8 117.0,585.0 88.8,603.8 98.0,571.2 71.3,550.2 105.2,548.8" fill="none" stroke="#111" stroke-width="2.5"/>
+<text x="195" y="508" font-family="Arial" font-size="15">Utilise une seule fois chacun des chiffres :</text>
+<text x="300" y="540" text-anchor="middle" font-family="Arial" font-size="22" font-weight="bold">1   2   3   4</text>
+<text x="195" y="573" font-family="Arial" font-size="15">Forme deux nombres à deux chiffres.</text>
+<text x="195" y="601" font-family="Arial" font-size="15">Leur différence vaut 3 × Cercle.</text>
+<text x="195" y="629" font-family="Arial" font-size="15">Le plus grand nombre est pair.</text>
+<text x="57" y="672" font-family="Arial" font-size="14">Étoile est le chiffre des dizaines du plus grand nombre.</text>
+<text x="57" y="700" font-family="Arial" font-size="14">Tu dois connaître le chiffre Cercle pour terminer.</text>
+<polygon points="655,508 608,610 702,610" fill="none" stroke="#111" stroke-width="2.5"/>
+<text x="733" y="508" font-family="Arial" font-size="15">Utilise une seule fois chacun des chiffres :</text>
+<text x="838" y="540" text-anchor="middle" font-family="Arial" font-size="22" font-weight="bold">2   3   5   7</text>
+<text x="733" y="573" font-family="Arial" font-size="15">Forme deux nombres à deux chiffres.</text>
+<text x="733" y="601" font-family="Arial" font-size="15">Leur différence vaut 5 × Carré − 1.</text>
+<text x="595" y="656" font-family="Arial" font-size="14">Triangle est le chiffre des dizaines du plus grand nombre.</text>
+<text x="595" y="685" font-family="Arial" font-size="14">Prouve qu’une autre disposition ne convient pas.</text>
+<text x="595" y="710" font-family="Arial" font-size="14">Tu dois connaître le chiffre Carré pour terminer.</text>
+</svg>

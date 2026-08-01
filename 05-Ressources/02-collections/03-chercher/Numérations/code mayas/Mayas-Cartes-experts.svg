@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="40" font-family="Arial" font-size="26" font-weight="bold">Le code des Mayas – Cartes experts</text>
+<text x="40" y="66" font-family="Arial" font-size="13">Découper les quatre cartes. Chaque expert prépare une traduction et une vérification.</text>
+<rect x="35" y="95" width="515" height="300" rx="10" fill="white" stroke="#333" stroke-width="1.8"/>
+<text x="51" y="124" font-family="Arial" font-size="17" font-weight="bold">A – Décoder</text>
+<rect x="575" y="95" width="515" height="300" rx="10" fill="white" stroke="#333" stroke-width="1.8"/>
+<text x="591" y="124" font-family="Arial" font-size="17" font-weight="bold">B – Coder 239</text>
+<rect x="35" y="430" width="515" height="300" rx="10" fill="white" stroke="#333" stroke-width="1.8"/>
+<text x="51" y="459" font-family="Arial" font-size="17" font-weight="bold">C – Le zéro indispensable</text>
+<rect x="575" y="430" width="515" height="300" rx="10" fill="white" stroke="#333" stroke-width="1.8"/>
+<text x="591" y="459" font-family="Arial" font-size="17" font-weight="bold">D – La traduction fautive</text>
+<rect x="85" y="155" width="110" height="85" fill="white" stroke="#aaa" stroke-width="1"/>
+<circle cx="134.96" cy="197.5" r="3.456" fill="#111"/>
+<circle cx="145.04000000000002" cy="197.5" r="3.456" fill="#111"/>
+<rect x="85" y="240" width="110" height="85" fill="white" stroke="#aaa" stroke-width="1"/>
+<rect x="119.12" y="296.90000000000003" width="41.76" height="5.76" rx="2.88" fill="#111"/>
+<circle cx="134.96" cy="286.1" r="3.456" fill="#111"/>
+<circle cx="145.04000000000002" cy="286.1" r="3.456" fill="#111"/>
+<text x="235" y="165" font-family="Arial" font-size="16">Décode cette inscription.</text>
+<text x="235" y="205" font-family="Arial" font-size="15">Décomposition :</text>
+<line x1="235" y1="230" x2="515" y2="230" stroke="#777"/>
+<text x="235" y="270" font-family="Arial" font-size="15">Valeur : __________________</text>
+<text x="235" y="315" font-family="Arial" font-size="14">Prépare une vérification.</text>
+<text x="610" y="155" font-family="Arial" font-size="17">Écris le nombre 239 dans le système maya.</text>
+<text x="610" y="195" font-family="Arial" font-size="15">239 = ______ × 20 + ______</text>
+<text x="610" y="235" font-family="Arial" font-size="15">Niveau supérieur :</text>
+<rect x="800" y="210" width="105" height="75" fill="white" stroke="#777" stroke-dasharray="5 4"/>
+<text x="610" y="315" font-family="Arial" font-size="15">Niveau inférieur :</text>
+<rect x="800" y="290" width="105" height="75" fill="white" stroke="#777" stroke-dasharray="5 4"/>
+<text x="65" y="485" font-family="Arial" font-size="16">Quelle inscription représente 405 ?</text>
+<rect x="75" y="520" width="85" height="65" fill="white" stroke="#aaa" stroke-width="1"/>
+<circle cx="117.5" cy="552.5" r="2.304" fill="#111"/>
+<rect x="75" y="585" width="85" height="65" fill="white" stroke="#aaa" stroke-width="1"/>
+<rect x="103.58" y="627.1" width="27.84" height="3.84" rx="1.92" fill="#111"/>
+<text x="117" y="695" text-anchor="middle" font-family="Arial" font-size="16">Choix 1</text>
+<rect x="220" y="520" width="85" height="48" fill="white" stroke="#aaa" stroke-width="1"/>
+<circle cx="262.5" cy="544.0" r="2.304" fill="#111"/>
+<rect x="220" y="568" width="85" height="48" fill="white" stroke="#aaa" stroke-width="1"/>
+<path d="M 249.54,598.0 Q 251.6136,586.0 262.5,586.0 Q 273.3864,586.0 275.46,598.0 Z" fill="white" stroke="#111" stroke-width="0.96"/>
+<line x1="256.7976" y1="588.64" x2="256.7976" y2="595.36" stroke="#777" stroke-width="0.576"/>
+<line x1="262.5" y1="588.64" x2="262.5" y2="595.36" stroke="#777" stroke-width="0.576"/>
+<line x1="268.2024" y1="588.64" x2="268.2024" y2="595.36" stroke="#777" stroke-width="0.576"/>
+<rect x="220" y="616" width="85" height="48" fill="white" stroke="#aaa" stroke-width="1"/>
+<rect x="248.58" y="649.6" width="27.84" height="3.84" rx="1.92" fill="#111"/>
+<text x="262" y="695" text-anchor="middle" font-family="Arial" font-size="16">Choix 2</text>
+<rect x="365" y="520" width="85" height="48" fill="white" stroke="#aaa" stroke-width="1"/>
+<circle cx="397.42" cy="544.0" r="2.304" fill="#111"/>
+<circle cx="404.14000000000004" cy="544.0" r="2.304" fill="#111"/>
+<circle cx="410.86" cy="544.0" r="2.304" fill="#111"/>
+<circle cx="417.58000000000004" cy="544.0" r="2.304" fill="#111"/>
+<rect x="365" y="568" width="85" height="48" fill="white" stroke="#aaa" stroke-width="1"/>
+<path d="M 394.54,598.0 Q 396.6136,586.0 407.5,586.0 Q 418.3864,586.0 420.46,598.0 Z" fill="white" stroke="#111" stroke-width="0.96"/>
+<line x1="401.7976" y1="588.64" x2="401.7976" y2="595.36" stroke="#777" stroke-width="0.576"/>
+<line x1="407.5" y1="588.64" x2="407.5" y2="595.36" stroke="#777" stroke-width="0.576"/>
+<line x1="413.2024" y1="588.64" x2="413.2024" y2="595.36" stroke="#777" stroke-width="0.576"/>
+<rect x="365" y="616" width="85" height="48" fill="white" stroke="#aaa" stroke-width="1"/>
+<rect x="393.58" y="649.6" width="27.84" height="3.84" rx="1.92" fill="#111"/>
+<text x="407" y="695" text-anchor="middle" font-family="Arial" font-size="16">Choix 3</text>
+<text x="365" y="555" font-family="Arial" font-size="14">Justifie le niveau contenant le zéro.</text>
+<line x1="365" y1="585" x2="520" y2="585" stroke="#777"/>
+<line x1="365" y1="615" x2="520" y2="615" stroke="#777"/>
+<rect x="625" y="490" width="110" height="62" fill="white" stroke="#aaa" stroke-width="1"/>
+<circle cx="676.15" cy="521.0" r="2.64" fill="#111"/>
+<circle cx="683.85" cy="521.0" r="2.64" fill="#111"/>
+<rect x="625" y="552" width="110" height="62" fill="white" stroke="#aaa" stroke-width="1"/>
+<path d="M 665.15,589.875 Q 667.526,576.125 680.0,576.125 Q 692.474,576.125 694.85,589.875 Z" fill="white" stroke="#111" stroke-width="1.1"/>
+<line x1="673.466" y1="579.15" x2="673.466" y2="586.85" stroke="#777" stroke-width="0.66"/>
+<line x1="680.0" y1="579.15" x2="680.0" y2="586.85" stroke="#777" stroke-width="0.66"/>
+<line x1="686.534" y1="579.15" x2="686.534" y2="586.85" stroke="#777" stroke-width="0.66"/>
+<rect x="625" y="614" width="110" height="62" fill="white" stroke="#aaa" stroke-width="1"/>
+<rect x="664.05" y="656.0" width="31.900000000000002" height="4.4" rx="2.2" fill="#111"/>
+<text x="775" y="500" font-family="Arial" font-size="16">Un scribe écrit :</text>
+<text x="775" y="540" font-family="Arial" font-size="23" font-weight="bold">« Cette inscription vaut 205. »</text>
+<text x="775" y="585" font-family="Arial" font-size="15">Explique son erreur.</text>
+<line x1="775" y1="615" x2="1050" y2="615" stroke="#777"/>
+<line x1="775" y1="645" x2="1050" y2="645" stroke="#777"/>
+<text x="775" y="690" font-family="Arial" font-size="15">Valeur correcte : __________________</text>
+</svg>
