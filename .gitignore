@@ -1,0 +1,15 @@
+# Auto detect text files and perform LF normalization
+# Réglages personnels d’Obsidian
+.obsidian/
+
+# Site généré localement par MkDocs
+site/
+
+# Environnements et fichiers temporaires Python
+.venv/
+__pycache__/
+*.pyc
+
+# Fichiers temporaires Windows et macOS
+Thumbs.db
+.DS_Store
