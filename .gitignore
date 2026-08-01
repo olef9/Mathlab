@@ -13,3 +13,9 @@ __pycache__/
 # Fichiers temporaires Windows et macOS
 Thumbs.db
 .DS_Store
+warnings-mkdocs.txt
+# Rapports et sauvegardes de réparation des liens
+warnings-mkdocs.txt
+rapport-liens-mkdocs.txt
+sauvegarde-docs-avant-liens-*/
+sauvegarde-docs-avant-liens-*.zip
