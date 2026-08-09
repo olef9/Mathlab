@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="29" font-weight="bold">S45 – Aide pour choisir les blocs</text>
+<text x="40" y="72" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="normal">Cette fiche indique la fonction des blocs, pas l’ordre complet de la solution.</text>
+<rect x="45" y="105" width="500" height="73" rx="10" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="65" y="128" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">ÉVÉNEMENT</text>
+<text x="225" y="128" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">quand drapeau vert cliqué</text>
+<text x="65" y="159" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">But :</text>
+<text x="130" y="159" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">lancer et réinitialiser</text>
+<rect x="580" y="105" width="500" height="73" rx="10" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="600" y="128" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">CONTRÔLE</text>
+<text x="760" y="128" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">répéter indéfiniment</text>
+<text x="600" y="159" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">But :</text>
+<text x="665" y="159" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">tester en permanence</text>
+<rect x="45" y="201" width="500" height="73" rx="10" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="65" y="224" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">CONTRÔLE</text>
+<text x="225" y="224" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">si… alors / sinon</text>
+<text x="65" y="255" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">But :</text>
+<text x="130" y="255" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">choisir selon une condition</text>
+<rect x="580" y="201" width="500" height="73" rx="10" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="600" y="224" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">CAPTEURS</text>
+<text x="760" y="224" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">touche … pressée ?</text>
+<text x="600" y="255" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">But :</text>
+<text x="665" y="255" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">détecter une flèche</text>
+<rect x="45" y="297" width="500" height="73" rx="10" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="65" y="320" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">CAPTEURS</text>
+<text x="225" y="320" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">couleur … touchée ?</text>
+<text x="65" y="351" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">But :</text>
+<text x="130" y="351" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">détecter un mur</text>
+<rect x="580" y="297" width="500" height="73" rx="10" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="600" y="320" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">CAPTEURS</text>
+<text x="760" y="320" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">touche le lutin … ?</text>
+<text x="600" y="351" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">But :</text>
+<text x="665" y="351" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">détecter un objet</text>
+<rect x="45" y="393" width="500" height="73" rx="10" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="65" y="416" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">MOUVEMENT</text>
+<text x="225" y="416" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">ajouter … à x / y</text>
+<text x="65" y="447" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">But :</text>
+<text x="130" y="447" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">déplacer le joueur</text>
+<rect x="580" y="393" width="500" height="73" rx="10" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="600" y="416" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">MOUVEMENT</text>
+<text x="760" y="416" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">aller à x… y…</text>
+<text x="600" y="447" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">But :</text>
+<text x="665" y="447" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">revenir au départ</text>
+<rect x="45" y="489" width="500" height="73" rx="10" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="65" y="512" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">VARIABLES</text>
+<text x="225" y="512" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">mettre … à …</text>
+<text x="65" y="543" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">But :</text>
+<text x="130" y="543" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">initialiser un état</text>
+<rect x="580" y="489" width="500" height="73" rx="10" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="600" y="512" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">VARIABLES</text>
+<text x="760" y="512" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">ajouter … à …</text>
+<text x="600" y="543" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">But :</text>
+<text x="665" y="543" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">modifier score ou vies</text>
+<rect x="45" y="585" width="500" height="73" rx="10" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="65" y="608" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">APPARENCE</text>
+<text x="225" y="608" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">montrer / cacher</text>
+<text x="65" y="639" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">But :</text>
+<text x="130" y="639" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">réinitialiser ou ramasser</text>
+<rect x="580" y="585" width="500" height="73" rx="10" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="600" y="608" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">CONTRÔLE</text>
+<text x="760" y="608" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">arrêter tout</text>
+<text x="600" y="639" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">But :</text>
+<text x="665" y="639" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">terminer le jeu</text>
+<text x="55" y="748" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">Question à se poser : quel événement ou quelle condition déclenche l’action ?</text>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L0,6 L9,3 z" fill="#222"/>
+</marker>
+</defs>
+<text x="40" y="40" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="30" font-weight="bold">S36 – La méthode avant de jouer</text>
+<text x="40" y="70" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="normal">Ne pas déplacer une pièce avant d’avoir regardé la réponse adverse.</text>
+<circle cx="85" cy="153" r="28" fill="white" stroke="#222" stroke-width="2"/>
+<text x="85" y="162" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="21" font-weight="bold">1</text>
+<rect x="135" y="115" width="920" height="78" rx="12" fill="white" stroke="#222" stroke-width="1.7"/>
+<text x="165" y="145" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">ÉCHEC ?</text>
+<text x="350" y="145" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="normal">Mon roi est-il attaqué ?</text>
+<text x="165" y="175" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Suis-je obligé de répondre ?</text>
+<circle cx="85" cy="265" r="28" fill="white" stroke="#222" stroke-width="2"/>
+<text x="85" y="274" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="21" font-weight="bold">2</text>
+<rect x="135" y="227" width="920" height="78" rx="12" fill="white" stroke="#222" stroke-width="1.7"/>
+<text x="165" y="257" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">MENACE ?</text>
+<text x="350" y="257" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="normal">Que veut jouer l’adversaire au prochain coup ?</text>
+<text x="165" y="287" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Puis-je perdre une pièce ou subir un mat ?</text>
+<circle cx="85" cy="377" r="28" fill="white" stroke="#222" stroke-width="2"/>
+<text x="85" y="386" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="21" font-weight="bold">3</text>
+<rect x="135" y="339" width="920" height="78" rx="12" fill="white" stroke="#222" stroke-width="1.7"/>
+<text x="165" y="369" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">CANDIDATS</text>
+<text x="350" y="369" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="normal">Quels échecs, captures, défenses et attaques puis-je comparer ?</text>
+<text x="165" y="399" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Je n’en garde que deux ou trois.</text>
+<circle cx="85" cy="489" r="28" fill="white" stroke="#222" stroke-width="2"/>
+<text x="85" y="498" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="21" font-weight="bold">4</text>
+<rect x="135" y="451" width="920" height="78" rx="12" fill="white" stroke="#222" stroke-width="1.7"/>
+<text x="165" y="481" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">RÉPONSE</text>
+<text x="350" y="481" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="normal">Quelle est la meilleure réponse de l’adversaire ?</text>
+<text x="165" y="511" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">L’adversaire ne coopère pas avec moi.</text>
+<circle cx="85" cy="601" r="28" fill="white" stroke="#222" stroke-width="2"/>
+<text x="85" y="610" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="21" font-weight="bold">5</text>
+<rect x="135" y="563" width="920" height="78" rx="12" fill="white" stroke="#222" stroke-width="1.7"/>
+<text x="165" y="593" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">BILAN</text>
+<text x="350" y="593" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="normal">Que reste-t-il après la réponse : roi, matériel, menace ?</text>
+<text x="165" y="623" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Je choisis seulement maintenant.</text>
+<rect x="190" y="700" width="740" height="58" rx="10" fill="white" stroke="#222" stroke-width="2"/>
+<text x="560" y="736" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">Le meilleur coup reste bon après la meilleure défense adverse.</text>
+</svg>

@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L0,6 L9,3 z" fill="#222"/>
+</marker>
+</defs>
+<text x="40" y="40" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="27" font-weight="bold">S36 – Équipe B – L’échange avantageux</text>
+<text x="40" y="68" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Niveau : Accessible · Les Blancs jouent.</text>
+<rect x="55.0" y="110.0" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="121.25" y="110.0" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="187.5" y="110.0" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="253.75" y="110.0" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="320.0" y="110.0" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="386.25" y="110.0" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="452.5" y="110.0" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="518.75" y="110.0" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="55.0" y="176.25" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="121.25" y="176.25" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="187.5" y="176.25" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="253.75" y="176.25" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="320.0" y="176.25" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="386.25" y="176.25" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="452.5" y="176.25" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="518.75" y="176.25" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="55.0" y="242.5" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="121.25" y="242.5" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="187.5" y="242.5" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="253.75" y="242.5" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="320.0" y="242.5" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="386.25" y="242.5" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="452.5" y="242.5" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="518.75" y="242.5" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="55.0" y="308.75" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="121.25" y="308.75" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="187.5" y="308.75" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="253.75" y="308.75" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="320.0" y="308.75" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="386.25" y="308.75" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="452.5" y="308.75" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="518.75" y="308.75" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="55.0" y="375.0" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="121.25" y="375.0" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="187.5" y="375.0" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="253.75" y="375.0" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="320.0" y="375.0" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="386.25" y="375.0" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="452.5" y="375.0" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="518.75" y="375.0" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="55.0" y="441.25" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="121.25" y="441.25" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="187.5" y="441.25" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="253.75" y="441.25" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="320.0" y="441.25" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="386.25" y="441.25" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="452.5" y="441.25" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="518.75" y="441.25" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="55.0" y="507.5" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="121.25" y="507.5" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="187.5" y="507.5" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="253.75" y="507.5" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="320.0" y="507.5" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="386.25" y="507.5" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="452.5" y="507.5" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="518.75" y="507.5" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="55.0" y="573.75" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="121.25" y="573.75" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="187.5" y="573.75" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="253.75" y="573.75" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="320.0" y="573.75" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="386.25" y="573.75" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="452.5" y="573.75" width="66.25" height="66.25" rx="0" fill="#cfcfcf" stroke="#888" stroke-width="0.5"/>
+<rect x="518.75" y="573.75" width="66.25" height="66.25" rx="0" fill="#f7f7f7" stroke="#888" stroke-width="0.5"/>
+<rect x="55" y="110" width="530" height="530" rx="0" fill="none" stroke="#222" stroke-width="2"/>
+<text x="88.125" y="658" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">a</text>
+<text x="154.375" y="658" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">b</text>
+<text x="220.625" y="658" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">c</text>
+<text x="286.875" y="658" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">d</text>
+<text x="353.125" y="658" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">e</text>
+<text x="419.375" y="658" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">f</text>
+<text x="485.625" y="658" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">g</text>
+<text x="551.875" y="658" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">h</text>
+<text x="42" y="151.075" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">8</text>
+<text x="42" y="217.325" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">7</text>
+<text x="42" y="283.57500000000005" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">6</text>
+<text x="42" y="349.82500000000005" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">5</text>
+<text x="42" y="416.075" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">4</text>
+<text x="42" y="482.325" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">3</text>
+<text x="42" y="548.575" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">2</text>
+<text x="42" y="614.825" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">1</text>
+<text x="485.625" y="625.425" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="51.675000000000004" font-weight="normal">♔</text>
+<text x="353.125" y="559.175" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="51.675000000000004" font-weight="normal">♕</text>
+<text x="286.875" y="625.425" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="51.675000000000004" font-weight="normal">♖</text>
+<text x="220.625" y="426.675" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="51.675000000000004" font-weight="normal">♗</text>
+<text x="419.375" y="559.175" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="51.675000000000004" font-weight="normal">♙</text>
+<text x="485.625" y="559.175" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="51.675000000000004" font-weight="normal">♙</text>
+<text x="551.875" y="559.175" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="51.675000000000004" font-weight="normal">♙</text>
+<text x="485.625" y="161.675" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="51.675000000000004" font-weight="normal">♚</text>
+<text x="286.875" y="161.675" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="51.675000000000004" font-weight="normal">♛</text>
+<text x="88.125" y="161.675" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="51.675000000000004" font-weight="normal">♜</text>
+<text x="419.375" y="161.675" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="51.675000000000004" font-weight="normal">♜</text>
+<text x="419.375" y="227.925" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="51.675000000000004" font-weight="normal">♟</text>
+<text x="485.625" y="227.925" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="51.675000000000004" font-weight="normal">♟</text>
+<text x="551.875" y="227.925" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="51.675000000000004" font-weight="normal">♟</text>
+<rect x="625" y="110" width="450" height="530" rx="14" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="850" y="150" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">TROIS COUPS CANDIDATS</text>
+<rect x="650" y="185" width="400" height="120" rx="12" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="680" cy="215" r="18" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="680" y="221" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">1</text>
+<text x="720" y="219" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="bold">Txd8</text>
+<text x="675" y="255" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">La tour prend la dame, puis une tour noire</text>
+<text x="675" y="274" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">reprend.</text>
+<rect x="650" y="323" width="400" height="120" rx="12" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="680" cy="353" r="18" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="680" y="359" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">2</text>
+<text x="720" y="357" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="bold">Fxf7+</text>
+<text x="675" y="393" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">Le fou prend un pion, mais la tour f8 peut le</text>
+<text x="675" y="412" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">reprendre.</text>
+<rect x="650" y="461" width="400" height="120" rx="12" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="680" cy="491" r="18" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="680" y="497" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">3</text>
+<text x="720" y="495" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="bold">De8?</text>
+<text x="675" y="531" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">La dame blanche se place devant la tour f8.</text>
+<text x="55" y="685" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">Notre meilleur coup : ___________________________</text>
+<text x="55" y="730" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Meilleure réponse adverse : _________________________________________________</text>
+<text x="55" y="770" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Résultat après cette réponse : ______________________________________________</text>
+</svg>

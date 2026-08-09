@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="40" text-anchor="start" font-family="Arial" font-size="28" font-weight="bold">CAN-07 – Périmètres express</text>
+<text x="40" y="68" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">Écrire uniquement les réponses.</text>
+<rect x="45" y="105" width="500" height="115" rx="9" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="80" cy="140" r="20" fill="white" stroke="#222" stroke-width="2"/>
+<text x="80" y="147" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">1</text>
+<text x="125" y="153" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">Carré de côté 5</text>
+<text x="355" y="189" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">P = ______</text>
+<rect x="580" y="105" width="500" height="115" rx="9" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="615" cy="140" r="20" fill="white" stroke="#222" stroke-width="2"/>
+<text x="615" y="147" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">2</text>
+<text x="660" y="153" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">Rectangle 3 × 7</text>
+<text x="890" y="189" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">P = ______</text>
+<rect x="45" y="245" width="500" height="115" rx="9" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="80" cy="280" r="20" fill="white" stroke="#222" stroke-width="2"/>
+<text x="80" y="287" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">3</text>
+<text x="125" y="293" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">Périmètre 24</text>
+<text x="355" y="329" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">demi-périmètre = ______</text>
+<rect x="580" y="245" width="500" height="115" rx="9" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="615" cy="280" r="20" fill="white" stroke="#222" stroke-width="2"/>
+<text x="615" y="287" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">4</text>
+<text x="660" y="293" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">2 × (4 + 8)</text>
+<text x="890" y="329" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">= ______</text>
+<rect x="45" y="385" width="500" height="115" rx="9" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="80" cy="420" r="20" fill="white" stroke="#222" stroke-width="2"/>
+<text x="80" y="427" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">5</text>
+<text x="125" y="433" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">P = 24 et L = 9</text>
+<text x="355" y="469" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">l = ______</text>
+<rect x="580" y="385" width="500" height="115" rx="9" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="615" cy="420" r="20" fill="white" stroke="#222" stroke-width="2"/>
+<text x="615" y="427" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">6</text>
+<text x="660" y="433" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">Rectangle 4 × 8</text>
+<text x="890" y="469" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">cases = ______</text>
+<rect x="45" y="525" width="500" height="115" rx="9" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="80" cy="560" r="20" fill="white" stroke="#222" stroke-width="2"/>
+<text x="80" y="567" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">7</text>
+<text x="125" y="573" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">Carré 6 × 6</text>
+<text x="355" y="609" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">cases = ______</text>
+<rect x="580" y="525" width="500" height="115" rx="9" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="615" cy="560" r="20" fill="white" stroke="#222" stroke-width="2"/>
+<text x="615" y="567" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">8</text>
+<text x="660" y="573" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">36 − 35</text>
+<text x="890" y="609" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">= ______</text>
+<text x="45" y="700" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">Bonus : P = 24 et largeur = 5 → longueur = ______ → cases = ______</text>
+</svg>

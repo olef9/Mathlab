@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L0,6 L9,3 z" fill="#222"/>
+</marker>
+</defs>
+<text x="40" y="40" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="28" font-weight="bold">S38 – Grille de validation croisée</text>
+<text x="40" y="68" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Équipe observée : ______   Objet : __________________________</text>
+<rect x="55" y="110" width="490" height="55" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.4"/>
+<text x="300.0" y="145" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Contrôle</text>
+<rect x="545" y="110" width="70" height="55" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.4"/>
+<text x="580.0" y="145" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Oui</text>
+<rect x="615" y="110" width="70" height="55" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.4"/>
+<text x="650.0" y="145" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Non</text>
+<rect x="685" y="110" width="110" height="55" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.4"/>
+<text x="740.0" y="145" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">À mesurer</text>
+<rect x="795" y="110" width="270" height="55" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.4"/>
+<text x="930.0" y="145" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Observation</text>
+<rect x="55" y="165" width="490" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="70" y="204" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">Le nombre de formes correspond à la fiche.</text>
+<rect x="545" y="165" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="580.0" y="204" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="615" y="165" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="650.0" y="204" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="685" y="165" width="110" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="740.0" y="204" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="795" y="165" width="270" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="930.0" y="204" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal"></text>
+<rect x="55" y="227" width="490" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="70" y="266" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">Les dimensions principales sont exactes.</text>
+<rect x="545" y="227" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="580.0" y="266" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="615" y="227" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="650.0" y="266" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="685" y="227" width="110" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="740.0" y="266" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="795" y="227" width="270" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="930.0" y="266" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal"></text>
+<rect x="55" y="289" width="490" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="70" y="328" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">Les pièces devant être centrées le sont.</text>
+<rect x="545" y="289" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="580.0" y="328" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="615" y="289" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="650.0" y="328" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="685" y="289" width="110" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="740.0" y="328" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="795" y="289" width="270" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="930.0" y="328" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal"></text>
+<rect x="55" y="351" width="490" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="70" y="390" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">Les éléments dupliqués sont identiques.</text>
+<rect x="545" y="351" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="580.0" y="390" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="615" y="351" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="650.0" y="390" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="685" y="351" width="110" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="740.0" y="390" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="795" y="351" width="270" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="930.0" y="390" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal"></text>
+<rect x="55" y="413" width="490" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="70" y="452" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">Les pièces symétriques sont bien réparties.</text>
+<rect x="545" y="413" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="580.0" y="452" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="615" y="413" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="650.0" y="452" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="685" y="413" width="110" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="740.0" y="452" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="795" y="413" width="270" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="930.0" y="452" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal"></text>
+<rect x="55" y="475" width="490" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="70" y="514" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">Aucune pièce ne flotte au-dessus du support.</text>
+<rect x="545" y="475" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="580.0" y="514" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="615" y="475" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="650.0" y="514" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="685" y="475" width="110" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="740.0" y="514" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="795" y="475" width="270" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="930.0" y="514" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal"></text>
+<rect x="55" y="537" width="490" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="70" y="576" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">Le modèle est correct dans deux vues.</text>
+<rect x="545" y="537" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="580.0" y="576" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="615" y="537" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="650.0" y="576" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="685" y="537" width="110" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="740.0" y="576" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="795" y="537" width="270" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="930.0" y="576" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal"></text>
+<rect x="55" y="599" width="490" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="70" y="638" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">Le nom du fichier respecte la convention.</text>
+<rect x="545" y="599" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="580.0" y="638" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="615" y="599" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="650.0" y="638" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="685" y="599" width="110" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="740.0" y="638" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="795" y="599" width="270" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="930.0" y="638" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal"></text>
+<text x="55" y="690" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">Verdict :</text>
+<rect x="165" y="662" width="245" height="45" rx="8" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="287" y="691" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">VALIDÉ</text>
+<rect x="445" y="662" width="245" height="45" rx="8" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="567" y="691" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">UNE CORRECTION</text>
+<rect x="725" y="662" width="245" height="45" rx="8" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="847" y="691" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">PLUSIEURS CORRECTIONS</text>
+<text x="55" y="750" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">Correction prioritaire : _______________________________________________________________________</text>
+</svg>

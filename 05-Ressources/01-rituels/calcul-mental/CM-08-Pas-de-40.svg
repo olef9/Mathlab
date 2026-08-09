@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="45" y="45" text-anchor="start" font-family="Arial" font-size="28" font-weight="bold">CM-08 – Pas de 40 et quarts de tour</text>
+<text x="45" y="78" text-anchor="start" font-family="Arial" font-size="16" font-weight="normal">Une case = 40 pas · Un quart de tour = 90°</text>
+<rect x="45" y="110" width="500" height="115" rx="8" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="80" cy="144" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="151" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">1</text>
+<text x="130" y="158" text-anchor="start" font-family="Arial" font-size="19" font-weight="bold">3 cases</text>
+<text x="355" y="192" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">________ pas</text>
+<rect x="580" y="110" width="500" height="115" rx="8" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="615" cy="144" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="151" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">2</text>
+<text x="665" y="158" text-anchor="start" font-family="Arial" font-size="19" font-weight="bold">6 cases</text>
+<text x="890" y="192" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">________ pas</text>
+<rect x="45" y="250" width="500" height="115" rx="8" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="80" cy="284" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="291" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">3</text>
+<text x="130" y="298" text-anchor="start" font-family="Arial" font-size="19" font-weight="bold">200 pas</text>
+<text x="355" y="332" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">________ cases</text>
+<rect x="580" y="250" width="500" height="115" rx="8" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="615" cy="284" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="291" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">4</text>
+<text x="665" y="298" text-anchor="start" font-family="Arial" font-size="19" font-weight="bold">320 pas</text>
+<text x="890" y="332" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">________ cases</text>
+<rect x="45" y="390" width="500" height="115" rx="8" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="80" cy="424" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="431" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">5</text>
+<text x="130" y="438" text-anchor="start" font-family="Arial" font-size="19" font-weight="bold">2 quarts de tour</text>
+<text x="355" y="472" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">________°</text>
+<rect x="580" y="390" width="500" height="115" rx="8" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="615" cy="424" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="431" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">6</text>
+<text x="665" y="438" text-anchor="start" font-family="Arial" font-size="19" font-weight="bold">3 quarts de tour</text>
+<text x="890" y="472" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">________°</text>
+<rect x="45" y="530" width="500" height="115" rx="8" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="80" cy="564" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="571" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">7</text>
+<text x="130" y="578" text-anchor="start" font-family="Arial" font-size="19" font-weight="bold">droite puis 1/4 à gauche</text>
+<text x="355" y="612" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">direction : ________</text>
+<rect x="580" y="530" width="500" height="115" rx="8" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="615" cy="564" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="571" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">8</text>
+<text x="665" y="578" text-anchor="start" font-family="Arial" font-size="19" font-weight="bold">haut puis 2/4 à droite</text>
+<text x="890" y="612" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">direction : ________</text>
+<text x="45" y="700" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">Bonus : 4 cases puis 3 cases = __________________ pas</text>
+<text x="45" y="748" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">Calcul : _______________________________________________________________</text>
+</svg>

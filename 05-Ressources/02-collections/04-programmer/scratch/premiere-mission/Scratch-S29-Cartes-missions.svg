@@ -1,0 +1,203 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="38" y="38" text-anchor="start" font-family="Arial" font-size="26" font-weight="bold">S29 – Cartes des missions Scratch</text>
+<text x="38" y="64" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Le lutin part de ▶ et doit atteindre l’étoile sans traverser les cases grises.</text>
+<rect x="35" y="95" width="330" height="285" rx="12" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="55" y="125" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">MISSION A</text>
+<text x="200" y="153" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">Le premier virage</text>
+<line x1="60.0" y1="173" x2="60.0" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="83.33333333333333" y1="173" x2="83.33333333333333" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="106.66666666666666" y1="173" x2="106.66666666666666" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="130.0" y1="173" x2="130.0" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="153.33333333333331" y1="173" x2="153.33333333333331" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="176.66666666666666" y1="173" x2="176.66666666666666" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="200.0" y1="173" x2="200.0" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="223.33333333333331" y1="173" x2="223.33333333333331" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="246.66666666666666" y1="173" x2="246.66666666666666" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="270.0" y1="173" x2="270.0" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="293.3333333333333" y1="173" x2="293.3333333333333" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="316.66666666666663" y1="173" x2="316.66666666666663" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="340.0" y1="173" x2="340.0" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="60" y1="173.0" x2="340" y2="173.0" stroke="#bbb" stroke-width="0.7"/>
+<line x1="60" y1="192.44444444444446" x2="340" y2="192.44444444444446" stroke="#bbb" stroke-width="0.7"/>
+<line x1="60" y1="211.88888888888889" x2="340" y2="211.88888888888889" stroke="#bbb" stroke-width="0.7"/>
+<line x1="60" y1="231.33333333333331" x2="340" y2="231.33333333333331" stroke="#bbb" stroke-width="0.7"/>
+<line x1="60" y1="250.77777777777777" x2="340" y2="250.77777777777777" stroke="#bbb" stroke-width="0.7"/>
+<line x1="60" y1="270.22222222222223" x2="340" y2="270.22222222222223" stroke="#bbb" stroke-width="0.7"/>
+<line x1="60" y1="289.66666666666663" x2="340" y2="289.66666666666663" stroke="#bbb" stroke-width="0.7"/>
+<line x1="60" y1="309.1111111111111" x2="340" y2="309.1111111111111" stroke="#bbb" stroke-width="0.7"/>
+<line x1="60" y1="328.55555555555554" x2="340" y2="328.55555555555554" stroke="#bbb" stroke-width="0.7"/>
+<line x1="60" y1="348.0" x2="340" y2="348.0" stroke="#bbb" stroke-width="0.7"/>
+<rect x="86.33333333333333" y="312.1111111111111" width="17.333333333333332" height="13.444444444444443" rx="4" fill="#eeeeee" stroke="#222" stroke-width="1.2"/>
+<text x="95.0" y="321.75" text-anchor="middle" font-family="Arial" font-size="10.694444444444445" font-weight="bold">▶</text>
+<polygon points="281.7,234.4 283.4,238.7 288.0,239.0 284.4,242.0 285.6,246.4 281.7,244.0 277.8,246.4 278.9,242.0 275.4,239.0 280.0,238.7" fill="white" stroke="#222" stroke-width="1.4"/>
+<rect x="60" y="173" width="280" height="175" rx="0" fill="none" stroke="#222" stroke-width="2"/>
+<text x="200" y="369" text-anchor="middle" font-family="Arial" font-size="11" font-weight="normal">Une case = 40 pas · Un quart de tour = 90°</text>
+<rect x="390" y="95" width="330" height="285" rx="12" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="410" y="125" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">MISSION B</text>
+<text x="555" y="153" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">Le mur vertical</text>
+<line x1="415.0" y1="173" x2="415.0" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="438.3333333333333" y1="173" x2="438.3333333333333" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="461.6666666666667" y1="173" x2="461.6666666666667" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="485.0" y1="173" x2="485.0" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="508.3333333333333" y1="173" x2="508.3333333333333" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="531.6666666666666" y1="173" x2="531.6666666666666" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="555.0" y1="173" x2="555.0" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="578.3333333333333" y1="173" x2="578.3333333333333" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="601.6666666666666" y1="173" x2="601.6666666666666" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="625.0" y1="173" x2="625.0" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="648.3333333333333" y1="173" x2="648.3333333333333" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="671.6666666666666" y1="173" x2="671.6666666666666" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="695.0" y1="173" x2="695.0" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="415" y1="173.0" x2="695" y2="173.0" stroke="#bbb" stroke-width="0.7"/>
+<line x1="415" y1="192.44444444444446" x2="695" y2="192.44444444444446" stroke="#bbb" stroke-width="0.7"/>
+<line x1="415" y1="211.88888888888889" x2="695" y2="211.88888888888889" stroke="#bbb" stroke-width="0.7"/>
+<line x1="415" y1="231.33333333333331" x2="695" y2="231.33333333333331" stroke="#bbb" stroke-width="0.7"/>
+<line x1="415" y1="250.77777777777777" x2="695" y2="250.77777777777777" stroke="#bbb" stroke-width="0.7"/>
+<line x1="415" y1="270.22222222222223" x2="695" y2="270.22222222222223" stroke="#bbb" stroke-width="0.7"/>
+<line x1="415" y1="289.66666666666663" x2="695" y2="289.66666666666663" stroke="#bbb" stroke-width="0.7"/>
+<line x1="415" y1="309.1111111111111" x2="695" y2="309.1111111111111" stroke="#bbb" stroke-width="0.7"/>
+<line x1="415" y1="328.55555555555554" x2="695" y2="328.55555555555554" stroke="#bbb" stroke-width="0.7"/>
+<line x1="415" y1="348.0" x2="695" y2="348.0" stroke="#bbb" stroke-width="0.7"/>
+<rect x="533.6666666666666" y="272.22222222222223" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="533.6666666666666" y="252.77777777777777" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="533.6666666666666" y="194.44444444444446" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="533.6666666666666" y="175.0" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="533.6666666666666" y="233.33333333333331" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="533.6666666666666" y="213.88888888888889" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="441.3333333333333" y="195.44444444444446" width="17.333333333333332" height="13.444444444444443" rx="4" fill="#eeeeee" stroke="#222" stroke-width="1.2"/>
+<text x="450.0" y="205.08333333333331" text-anchor="middle" font-family="Arial" font-size="10.694444444444445" font-weight="bold">▶</text>
+<polygon points="636.7,312.2 638.4,316.5 643.0,316.8 639.4,319.7 640.6,324.2 636.7,321.8 632.8,324.2 633.9,319.7 630.4,316.8 635.0,316.5" fill="white" stroke="#222" stroke-width="1.4"/>
+<rect x="415" y="173" width="280" height="175" rx="0" fill="none" stroke="#222" stroke-width="2"/>
+<text x="555" y="369" text-anchor="middle" font-family="Arial" font-size="11" font-weight="normal">Une case = 40 pas · Un quart de tour = 90°</text>
+<rect x="745" y="95" width="330" height="285" rx="12" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="765" y="125" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">MISSION C</text>
+<text x="910" y="153" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">Le passage à droite</text>
+<line x1="770.0" y1="173" x2="770.0" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="793.3333333333334" y1="173" x2="793.3333333333334" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="816.6666666666666" y1="173" x2="816.6666666666666" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="840.0" y1="173" x2="840.0" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="863.3333333333334" y1="173" x2="863.3333333333334" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="886.6666666666666" y1="173" x2="886.6666666666666" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="910.0" y1="173" x2="910.0" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="933.3333333333333" y1="173" x2="933.3333333333333" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="956.6666666666666" y1="173" x2="956.6666666666666" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="980.0" y1="173" x2="980.0" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="1003.3333333333333" y1="173" x2="1003.3333333333333" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="1026.6666666666665" y1="173" x2="1026.6666666666665" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="1050.0" y1="173" x2="1050.0" y2="348" stroke="#bbb" stroke-width="0.7"/>
+<line x1="770" y1="173.0" x2="1050" y2="173.0" stroke="#bbb" stroke-width="0.7"/>
+<line x1="770" y1="192.44444444444446" x2="1050" y2="192.44444444444446" stroke="#bbb" stroke-width="0.7"/>
+<line x1="770" y1="211.88888888888889" x2="1050" y2="211.88888888888889" stroke="#bbb" stroke-width="0.7"/>
+<line x1="770" y1="231.33333333333331" x2="1050" y2="231.33333333333331" stroke="#bbb" stroke-width="0.7"/>
+<line x1="770" y1="250.77777777777777" x2="1050" y2="250.77777777777777" stroke="#bbb" stroke-width="0.7"/>
+<line x1="770" y1="270.22222222222223" x2="1050" y2="270.22222222222223" stroke="#bbb" stroke-width="0.7"/>
+<line x1="770" y1="289.66666666666663" x2="1050" y2="289.66666666666663" stroke="#bbb" stroke-width="0.7"/>
+<line x1="770" y1="309.1111111111111" x2="1050" y2="309.1111111111111" stroke="#bbb" stroke-width="0.7"/>
+<line x1="770" y1="328.55555555555554" x2="1050" y2="328.55555555555554" stroke="#bbb" stroke-width="0.7"/>
+<line x1="770" y1="348.0" x2="1050" y2="348.0" stroke="#bbb" stroke-width="0.7"/>
+<rect x="865.3333333333334" y="252.77777777777777" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="935.3333333333333" y="252.77777777777777" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="818.6666666666666" y="252.77777777777777" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="772.0" y="252.77777777777777" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="842.0" y="252.77777777777777" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="958.6666666666666" y="252.77777777777777" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="888.6666666666666" y="252.77777777777777" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="912.0" y="252.77777777777777" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="795.3333333333334" y="252.77777777777777" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="796.3333333333334" y="312.1111111111111" width="17.333333333333332" height="13.444444444444443" rx="4" fill="#eeeeee" stroke="#222" stroke-width="1.2"/>
+<text x="805.0" y="321.75" text-anchor="middle" font-family="Arial" font-size="10.694444444444445" font-weight="bold">▶</text>
+<polygon points="1015.0,195.6 1016.7,199.8 1021.3,200.1 1017.8,203.1 1018.9,207.5 1015.0,205.1 1011.1,207.5 1012.2,203.1 1008.7,200.1 1013.3,199.8" fill="white" stroke="#222" stroke-width="1.4"/>
+<rect x="770" y="173" width="280" height="175" rx="0" fill="none" stroke="#222" stroke-width="2"/>
+<text x="910" y="369" text-anchor="middle" font-family="Arial" font-size="11" font-weight="normal">Une case = 40 pas · Un quart de tour = 90°</text>
+<rect x="210" y="425" width="330" height="285" rx="12" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="230" y="455" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">MISSION D</text>
+<text x="375" y="483" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">Le double détour</text>
+<line x1="235.0" y1="503" x2="235.0" y2="678" stroke="#bbb" stroke-width="0.7"/>
+<line x1="258.3333333333333" y1="503" x2="258.3333333333333" y2="678" stroke="#bbb" stroke-width="0.7"/>
+<line x1="281.6666666666667" y1="503" x2="281.6666666666667" y2="678" stroke="#bbb" stroke-width="0.7"/>
+<line x1="305.0" y1="503" x2="305.0" y2="678" stroke="#bbb" stroke-width="0.7"/>
+<line x1="328.3333333333333" y1="503" x2="328.3333333333333" y2="678" stroke="#bbb" stroke-width="0.7"/>
+<line x1="351.66666666666663" y1="503" x2="351.66666666666663" y2="678" stroke="#bbb" stroke-width="0.7"/>
+<line x1="375.0" y1="503" x2="375.0" y2="678" stroke="#bbb" stroke-width="0.7"/>
+<line x1="398.3333333333333" y1="503" x2="398.3333333333333" y2="678" stroke="#bbb" stroke-width="0.7"/>
+<line x1="421.66666666666663" y1="503" x2="421.66666666666663" y2="678" stroke="#bbb" stroke-width="0.7"/>
+<line x1="445.0" y1="503" x2="445.0" y2="678" stroke="#bbb" stroke-width="0.7"/>
+<line x1="468.3333333333333" y1="503" x2="468.3333333333333" y2="678" stroke="#bbb" stroke-width="0.7"/>
+<line x1="491.66666666666663" y1="503" x2="491.66666666666663" y2="678" stroke="#bbb" stroke-width="0.7"/>
+<line x1="515.0" y1="503" x2="515.0" y2="678" stroke="#bbb" stroke-width="0.7"/>
+<line x1="235" y1="503.0" x2="515" y2="503.0" stroke="#bbb" stroke-width="0.7"/>
+<line x1="235" y1="522.4444444444445" x2="515" y2="522.4444444444445" stroke="#bbb" stroke-width="0.7"/>
+<line x1="235" y1="541.8888888888889" x2="515" y2="541.8888888888889" stroke="#bbb" stroke-width="0.7"/>
+<line x1="235" y1="561.3333333333334" x2="515" y2="561.3333333333334" stroke="#bbb" stroke-width="0.7"/>
+<line x1="235" y1="580.7777777777778" x2="515" y2="580.7777777777778" stroke="#bbb" stroke-width="0.7"/>
+<line x1="235" y1="600.2222222222222" x2="515" y2="600.2222222222222" stroke="#bbb" stroke-width="0.7"/>
+<line x1="235" y1="619.6666666666666" x2="515" y2="619.6666666666666" stroke="#bbb" stroke-width="0.7"/>
+<line x1="235" y1="639.1111111111111" x2="515" y2="639.1111111111111" stroke="#bbb" stroke-width="0.7"/>
+<line x1="235" y1="658.5555555555555" x2="515" y2="658.5555555555555" stroke="#bbb" stroke-width="0.7"/>
+<line x1="235" y1="678.0" x2="515" y2="678.0" stroke="#bbb" stroke-width="0.7"/>
+<rect x="330.3333333333333" y="582.7777777777778" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="400.3333333333333" y="582.7777777777778" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="330.3333333333333" y="505.0" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="400.3333333333333" y="641.1111111111111" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="330.3333333333333" y="563.3333333333334" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="330.3333333333333" y="543.8888888888889" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="400.3333333333333" y="563.3333333333334" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="330.3333333333333" y="602.2222222222222" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="400.3333333333333" y="621.6666666666666" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="400.3333333333333" y="602.2222222222222" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="330.3333333333333" y="524.4444444444445" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="400.3333333333333" y="660.5555555555555" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="261.3333333333333" y="583.7777777777778" width="17.333333333333332" height="13.444444444444443" rx="4" fill="#eeeeee" stroke="#222" stroke-width="1.2"/>
+<text x="270.0" y="593.4166666666666" text-anchor="middle" font-family="Arial" font-size="10.694444444444445" font-weight="bold">▶</text>
+<polygon points="480.0,583.9 481.7,588.1 486.3,588.5 482.8,591.4 483.9,595.8 480.0,593.4 476.1,595.8 477.2,591.4 473.7,588.5 478.3,588.1" fill="white" stroke="#222" stroke-width="1.4"/>
+<rect x="235" y="503" width="280" height="175" rx="0" fill="none" stroke="#222" stroke-width="2"/>
+<text x="375" y="699" text-anchor="middle" font-family="Arial" font-size="11" font-weight="normal">Une case = 40 pas · Un quart de tour = 90°</text>
+<rect x="570" y="425" width="330" height="285" rx="12" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="590" y="455" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">MISSION E</text>
+<text x="735" y="483" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">Le petit labyrinthe</text>
+<line x1="595.0" y1="503" x2="595.0" y2="678" stroke="#bbb" stroke-width="0.7"/>
+<line x1="618.3333333333334" y1="503" x2="618.3333333333334" y2="678" stroke="#bbb" stroke-width="0.7"/>
+<line x1="641.6666666666666" y1="503" x2="641.6666666666666" y2="678" stroke="#bbb" stroke-width="0.7"/>
+<line x1="665.0" y1="503" x2="665.0" y2="678" stroke="#bbb" stroke-width="0.7"/>
+<line x1="688.3333333333334" y1="503" x2="688.3333333333334" y2="678" stroke="#bbb" stroke-width="0.7"/>
+<line x1="711.6666666666666" y1="503" x2="711.6666666666666" y2="678" stroke="#bbb" stroke-width="0.7"/>
+<line x1="735.0" y1="503" x2="735.0" y2="678" stroke="#bbb" stroke-width="0.7"/>
+<line x1="758.3333333333333" y1="503" x2="758.3333333333333" y2="678" stroke="#bbb" stroke-width="0.7"/>
+<line x1="781.6666666666666" y1="503" x2="781.6666666666666" y2="678" stroke="#bbb" stroke-width="0.7"/>
+<line x1="805.0" y1="503" x2="805.0" y2="678" stroke="#bbb" stroke-width="0.7"/>
+<line x1="828.3333333333333" y1="503" x2="828.3333333333333" y2="678" stroke="#bbb" stroke-width="0.7"/>
+<line x1="851.6666666666666" y1="503" x2="851.6666666666666" y2="678" stroke="#bbb" stroke-width="0.7"/>
+<line x1="875.0" y1="503" x2="875.0" y2="678" stroke="#bbb" stroke-width="0.7"/>
+<line x1="595" y1="503.0" x2="875" y2="503.0" stroke="#bbb" stroke-width="0.7"/>
+<line x1="595" y1="522.4444444444445" x2="875" y2="522.4444444444445" stroke="#bbb" stroke-width="0.7"/>
+<line x1="595" y1="541.8888888888889" x2="875" y2="541.8888888888889" stroke="#bbb" stroke-width="0.7"/>
+<line x1="595" y1="561.3333333333334" x2="875" y2="561.3333333333334" stroke="#bbb" stroke-width="0.7"/>
+<line x1="595" y1="580.7777777777778" x2="875" y2="580.7777777777778" stroke="#bbb" stroke-width="0.7"/>
+<line x1="595" y1="600.2222222222222" x2="875" y2="600.2222222222222" stroke="#bbb" stroke-width="0.7"/>
+<line x1="595" y1="619.6666666666666" x2="875" y2="619.6666666666666" stroke="#bbb" stroke-width="0.7"/>
+<line x1="595" y1="639.1111111111111" x2="875" y2="639.1111111111111" stroke="#bbb" stroke-width="0.7"/>
+<line x1="595" y1="658.5555555555555" x2="875" y2="658.5555555555555" stroke="#bbb" stroke-width="0.7"/>
+<line x1="595" y1="678.0" x2="875" y2="678.0" stroke="#bbb" stroke-width="0.7"/>
+<rect x="667.0" y="641.1111111111111" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="713.6666666666666" y="582.7777777777778" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="713.6666666666666" y="524.4444444444445" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="807.0" y="543.8888888888889" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="760.3333333333333" y="563.3333333333334" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="760.3333333333333" y="621.6666666666666" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="667.0" y="602.2222222222222" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="713.6666666666666" y="543.8888888888889" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="760.3333333333333" y="582.7777777777778" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="713.6666666666666" y="602.2222222222222" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="760.3333333333333" y="641.1111111111111" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="807.0" y="563.3333333333334" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="667.0" y="621.6666666666666" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="713.6666666666666" y="563.3333333333334" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="760.3333333333333" y="602.2222222222222" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="807.0" y="524.4444444444445" width="19.333333333333332" height="15.444444444444443" rx="0" fill="#d7d7d7" stroke="#555" stroke-width="1"/>
+<rect x="621.3333333333334" y="642.1111111111111" width="17.333333333333332" height="13.444444444444443" rx="4" fill="#eeeeee" stroke="#222" stroke-width="1.2"/>
+<text x="630.0" y="651.75" text-anchor="middle" font-family="Arial" font-size="10.694444444444445" font-weight="bold">▶</text>
+<polygon points="840.0,525.6 841.7,529.8 846.3,530.1 842.8,533.1 843.9,537.5 840.0,535.1 836.1,537.5 837.2,533.1 833.7,530.1 838.3,529.8" fill="white" stroke="#222" stroke-width="1.4"/>
+<rect x="595" y="503" width="280" height="175" rx="0" fill="none" stroke="#222" stroke-width="2"/>
+<text x="735" y="699" text-anchor="middle" font-family="Arial" font-size="11" font-weight="normal">Une case = 40 pas · Un quart de tour = 90°</text>
+</svg>

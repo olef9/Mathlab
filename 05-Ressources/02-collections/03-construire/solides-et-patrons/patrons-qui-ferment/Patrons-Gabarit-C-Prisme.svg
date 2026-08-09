@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="297mm" height="210mm" viewBox="0 0 297 210">
+<rect width="100%" height="100%" fill="white"/>
+<text x="12" y="12" text-anchor="start" font-family="Arial" font-size="7" font-weight="bold">Équipe C – Prisme triangulaire</text>
+<text x="12" y="21" text-anchor="start" font-family="Arial" font-size="4.2" font-weight="normal">Trois rectangles 5 × 3 et deux triangles équilatéraux de côté 3.</text>
+<rect x="18" y="45" width="50" height="30" rx="0" fill="#fafafa" stroke="#222" stroke-width="0.7"/>
+<text x="43.0" y="62.0" text-anchor="middle" font-family="Arial" font-size="4.2" font-weight="bold">rectangle 1</text>
+<rect x="82" y="45" width="50" height="30" rx="0" fill="#fafafa" stroke="#222" stroke-width="0.7"/>
+<text x="107.0" y="62.0" text-anchor="middle" font-family="Arial" font-size="4.2" font-weight="bold">rectangle 2</text>
+<rect x="146" y="45" width="50" height="30" rx="0" fill="#fafafa" stroke="#222" stroke-width="0.7"/>
+<text x="171.0" y="62.0" text-anchor="middle" font-family="Arial" font-size="4.2" font-weight="bold">rectangle 3</text>
+<polygon points="210.00,68.66 240.00,68.66 225.00,42.68" fill="#fafafa" stroke="#222" stroke-width="0.7"/>
+<text x="225" y="62" text-anchor="middle" font-family="Arial" font-size="4" font-weight="bold">base 1</text>
+<polygon points="248.00,68.66 278.00,68.66 263.00,42.68" fill="#fafafa" stroke="#222" stroke-width="0.7"/>
+<text x="263" y="62" text-anchor="middle" font-family="Arial" font-size="4" font-weight="bold">base 2</text>
+<text x="18" y="110" text-anchor="start" font-family="Arial" font-size="5" font-weight="bold">Avant de coller :</text>
+<text x="22" y="126" text-anchor="start" font-family="Arial" font-size="4.4" font-weight="normal">☐ former une bande de 3 rectangles</text>
+<text x="22" y="139" text-anchor="start" font-family="Arial" font-size="4.4" font-weight="normal">☐ placer les triangles aux deux extrémités</text>
+<text x="22" y="152" text-anchor="start" font-family="Arial" font-size="4.4" font-weight="normal">☐ vérifier que chaque côté de triangle mesure 3 cm</text>
+<text x="12" y="198" text-anchor="start" font-family="Arial" font-size="13" font-weight="bold">Découper sur les traits pleins.</text>
+<text x="12" y="220" text-anchor="start" font-family="Arial" font-size="12" font-weight="normal">Les articulations seront réalisées avec du ruban adhésif au dos.</text>
+</svg>

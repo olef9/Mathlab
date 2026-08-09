@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="Arial,DejaVu Sans,sans-serif" font-size="29" font-weight="bold">S51 – Aide Tinkercad : l’ordre à respecter</text>
+<text x="40" y="72" text-anchor="start" font-family="Arial,DejaVu Sans,sans-serif" font-size="15" font-weight="normal">Ne cherchez pas d’abord à décorer.</text>
+<circle cx="72" cy="135" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="141" text-anchor="middle" font-family="Arial,DejaVu Sans,sans-serif" font-size="15" font-weight="bold">1</text>
+<rect x="108" y="110" width="960" height="58" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="132" text-anchor="start" font-family="Arial,DejaVu Sans,sans-serif" font-size="15" font-weight="bold">FORME PRINCIPALE</text>
+<text x="350" y="132" text-anchor="start" font-family="Arial,DejaVu Sans,sans-serif" font-size="13.3" font-weight="normal">Placer la boîte ou le cylindre.</text>
+<circle cx="72" cy="223" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="229" text-anchor="middle" font-family="Arial,DejaVu Sans,sans-serif" font-size="15" font-weight="bold">2</text>
+<rect x="108" y="198" width="960" height="58" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="220" text-anchor="start" font-family="Arial,DejaVu Sans,sans-serif" font-size="15" font-weight="bold">DIMENSIONS</text>
+<text x="350" y="220" text-anchor="start" font-family="Arial,DejaVu Sans,sans-serif" font-size="13.3" font-weight="normal">Cliquer sur la forme et saisir les valeurs exactes.</text>
+<circle cx="72" cy="311" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="317" text-anchor="middle" font-family="Arial,DejaVu Sans,sans-serif" font-size="15" font-weight="bold">3</text>
+<rect x="108" y="286" width="960" height="58" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="308" text-anchor="start" font-family="Arial,DejaVu Sans,sans-serif" font-size="15" font-weight="bold">AJOUT</text>
+<text x="350" y="308" text-anchor="start" font-family="Arial,DejaVu Sans,sans-serif" font-size="13.3" font-weight="normal">Ajouter le texte, le symbole ou le trou demandé.</text>
+<circle cx="72" cy="399" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="405" text-anchor="middle" font-family="Arial,DejaVu Sans,sans-serif" font-size="15" font-weight="bold">4</text>
+<rect x="108" y="374" width="960" height="58" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="396" text-anchor="start" font-family="Arial,DejaVu Sans,sans-serif" font-size="15" font-weight="bold">ALIGNER</text>
+<text x="350" y="396" text-anchor="start" font-family="Arial,DejaVu Sans,sans-serif" font-size="13.3" font-weight="normal">Sélectionner les formes puis utiliser Aligner.</text>
+<circle cx="72" cy="487" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="493" text-anchor="middle" font-family="Arial,DejaVu Sans,sans-serif" font-size="15" font-weight="bold">5</text>
+<rect x="108" y="462" width="960" height="58" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="484" text-anchor="start" font-family="Arial,DejaVu Sans,sans-serif" font-size="15" font-weight="bold">HAUTEUR</text>
+<text x="350" y="484" text-anchor="start" font-family="Arial,DejaVu Sans,sans-serif" font-size="13.3" font-weight="normal">Vérifier que rien ne flotte au-dessus de la base.</text>
+<circle cx="72" cy="575" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="581" text-anchor="middle" font-family="Arial,DejaVu Sans,sans-serif" font-size="15" font-weight="bold">6</text>
+<rect x="108" y="550" width="960" height="58" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="572" text-anchor="start" font-family="Arial,DejaVu Sans,sans-serif" font-size="15" font-weight="bold">GROUPER</text>
+<text x="350" y="572" text-anchor="start" font-family="Arial,DejaVu Sans,sans-serif" font-size="13.3" font-weight="normal">Grouper seulement après les contrôles.</text>
+<rect x="145" y="660" width="835" height="80" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="562" y="692" text-anchor="middle" font-family="Arial,DejaVu Sans,sans-serif" font-size="15" font-weight="bold">Test final : dimensions exactes · alignement · aucune pièce flottante</text>
+<text x="562" y="720" text-anchor="start" font-family="Arial,DejaVu Sans,sans-serif" font-size="14" font-weight="middle">Tourner la vue avant de grouper.</text>
+</svg>

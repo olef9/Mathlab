@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="40" text-anchor="start" font-family="Arial" font-size="26" font-weight="bold">La boîte mystère – Cartes des indices</text>
+<text x="40" y="66" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Découper puis distribuer dans l’ordre A, B, C et D.</text>
+<rect x="50" y="105" width="500" height="285" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="300.0" y="143" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">ENVELOPPE A</text>
+<text x="300.0" y="175" text-anchor="middle" font-family="Arial" font-size="21" font-weight="bold">Vue de dessus</text>
+<rect x="575" y="105" width="500" height="285" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="825.0" y="143" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">ENVELOPPE B</text>
+<text x="825.0" y="175" text-anchor="middle" font-family="Arial" font-size="21" font-weight="bold">Vue de face</text>
+<rect x="50" y="430" width="500" height="285" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="300.0" y="468" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">ENVELOPPE C</text>
+<text x="300.0" y="500" text-anchor="middle" font-family="Arial" font-size="21" font-weight="bold">Vue de droite</text>
+<rect x="575" y="430" width="500" height="285" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="825.0" y="468" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">ENVELOPPE D</text>
+<text x="825.0" y="500" text-anchor="middle" font-family="Arial" font-size="21" font-weight="bold">Indice final</text>
+<rect x="205" y="205" width="48" height="48" rx="0" fill="white" stroke="#222" stroke-width="1.5"/>
+<rect x="253" y="205" width="48" height="48" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.5"/>
+<rect x="301" y="205" width="48" height="48" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.5"/>
+<rect x="205" y="253" width="48" height="48" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.5"/>
+<rect x="253" y="253" width="48" height="48" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.5"/>
+<rect x="301" y="253" width="48" height="48" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.5"/>
+<rect x="205" y="301" width="48" height="48" rx="0" fill="white" stroke="#222" stroke-width="1.5"/>
+<rect x="253" y="301" width="48" height="48" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.5"/>
+<rect x="301" y="301" width="48" height="48" rx="0" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="277.0" y="191" text-anchor="middle" font-family="Arial" font-size="11" font-weight="normal">ARRIÈRE</text>
+<text x="277.0" y="372" text-anchor="middle" font-family="Arial" font-size="11" font-weight="normal">AVANT</text>
+<text x="367" y="281.8" text-anchor="middle" font-family="Arial" font-size="11" font-weight="bold">D</text>
+<rect x="745" y="305" width="50" height="50" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<rect x="745" y="255" width="50" height="50" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<rect x="745" y="205" width="50" height="50" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<rect x="795" y="305" width="50" height="50" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<rect x="795" y="255" width="50" height="50" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<rect x="795" y="205" width="50" height="50" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<rect x="845" y="305" width="50" height="50" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<rect x="845" y="255" width="50" height="50" rx="0" fill="white" stroke="#222" stroke-width="1.2"/>
+<rect x="845" y="205" width="50" height="50" rx="0" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="820.0" y="190" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold"></text>
+<text x="770.0" y="377" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold">3</text>
+<text x="820.0" y="377" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold">3</text>
+<text x="870.0" y="377" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold">1</text>
+<rect x="220" y="630" width="50" height="50" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<rect x="220" y="580" width="50" height="50" rx="0" fill="white" stroke="#222" stroke-width="1.2"/>
+<rect x="220" y="530" width="50" height="50" rx="0" fill="white" stroke="#222" stroke-width="1.2"/>
+<rect x="270" y="630" width="50" height="50" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<rect x="270" y="580" width="50" height="50" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<rect x="270" y="530" width="50" height="50" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<rect x="320" y="630" width="50" height="50" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<rect x="320" y="580" width="50" height="50" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<rect x="320" y="530" width="50" height="50" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<text x="295.0" y="515" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold"></text>
+<text x="245.0" y="702" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold">1</text>
+<text x="295.0" y="702" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold">3</text>
+<text x="345.0" y="702" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold">3</text>
+<text x="825" y="570" text-anchor="middle" font-family="Arial" font-size="22" font-weight="bold">La construction</text>
+<text x="825" y="610" text-anchor="middle" font-family="Arial" font-size="22" font-weight="bold">utilise exactement</text>
+<text x="825" y="660" text-anchor="middle" font-family="Arial" font-size="34" font-weight="bold">11 CUBES</text>
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="38" text-anchor="start" font-family="Arial" font-size="27" font-weight="bold">S27 – Corrections visuelles</text>
+<text x="40" y="64" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Le schéma valide le sommet ; il faut ensuite tester la répétition.</text>
+<rect x="55" y="95" width="320" height="275" rx="12" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="75" y="125" text-anchor="start" font-family="Arial" font-size="15" font-weight="bold">A – 6 triangles</text>
+<polygon points="215.00,227.00 215.00,181.00 254.84,204.00" fill="white" stroke="#222" stroke-width="1.4"/>
+<polygon points="215.00,227.00 254.84,204.00 254.84,250.00" fill="#eeeeee" stroke="#222" stroke-width="1.4"/>
+<polygon points="215.00,227.00 254.84,250.00 215.00,273.00" fill="white" stroke="#222" stroke-width="1.4"/>
+<polygon points="215.00,227.00 215.00,273.00 175.16,250.00" fill="#eeeeee" stroke="#222" stroke-width="1.4"/>
+<polygon points="215.00,227.00 175.16,250.00 175.16,204.00" fill="white" stroke="#222" stroke-width="1.4"/>
+<polygon points="215.00,227.00 175.16,204.00 215.00,181.00" fill="#eeeeee" stroke="#222" stroke-width="1.4"/>
+<circle cx="215" cy="227" r="3" fill="#111"/>
+<text x="215" y="320" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">6 × 60° = 360°</text>
+<text x="215" y="349" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">POSSIBLE</text>
+<rect x="400" y="95" width="320" height="275" rx="12" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="420" y="125" text-anchor="start" font-family="Arial" font-size="15" font-weight="bold">B – 4 carrés</text>
+<polygon points="560.00,227.00 560.00,181.00 606.00,181.00 606.00,227.00" fill="white" stroke="#222" stroke-width="1.4"/>
+<polygon points="560.00,227.00 606.00,227.00 606.00,273.00 560.00,273.00" fill="#eeeeee" stroke="#222" stroke-width="1.4"/>
+<polygon points="560.00,227.00 560.00,273.00 514.00,273.00 514.00,227.00" fill="white" stroke="#222" stroke-width="1.4"/>
+<polygon points="560.00,227.00 514.00,227.00 514.00,181.00 560.00,181.00" fill="#eeeeee" stroke="#222" stroke-width="1.4"/>
+<circle cx="560" cy="227" r="3" fill="#111"/>
+<text x="560" y="320" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">4 × 90° = 360°</text>
+<text x="560" y="349" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">POSSIBLE</text>
+<rect x="745" y="95" width="320" height="275" rx="12" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="765" y="125" text-anchor="start" font-family="Arial" font-size="15" font-weight="bold">D – 3 hexagones</text>
+<polygon points="905.00,227.00 905.00,181.00 944.84,158.00 984.67,181.00 984.67,227.00 944.84,250.00" fill="white" stroke="#222" stroke-width="1.4"/>
+<polygon points="905.00,227.00 944.84,250.00 944.84,296.00 905.00,319.00 865.16,296.00 865.16,250.00" fill="#eeeeee" stroke="#222" stroke-width="1.4"/>
+<polygon points="905.00,227.00 865.16,250.00 825.33,227.00 825.33,181.00 865.16,158.00 905.00,181.00" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="905" cy="227" r="3" fill="#111"/>
+<text x="905" y="320" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">3 × 120° = 360°</text>
+<text x="905" y="349" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">POSSIBLE</text>
+<rect x="225" y="415" width="320" height="275" rx="12" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="245" y="445" text-anchor="start" font-family="Arial" font-size="15" font-weight="bold">E – 1 carré + 2 octogones</text>
+<polygon points="385.00,547.00 385.00,501.00 431.00,501.00 431.00,547.00" fill="white" stroke="#222" stroke-width="1.4"/>
+<polygon points="385.00,547.00 431.00,547.00 463.53,579.53 463.53,625.53 431.00,658.05 385.00,658.05 352.47,625.53 352.47,579.53" fill="#eeeeee" stroke="#222" stroke-width="1.4"/>
+<polygon points="385.00,547.00 352.47,579.53 306.47,579.53 273.95,547.00 273.95,501.00 306.47,468.47 352.47,468.47 385.00,501.00" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="385" cy="547" r="3" fill="#111"/>
+<text x="385" y="640" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">90° + 135° + 135° = 360°</text>
+<text x="385" y="669" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">POSSIBLE</text>
+<rect x="575" y="415" width="320" height="275" rx="12" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="595" y="445" text-anchor="start" font-family="Arial" font-size="15" font-weight="bold">F – 2 triangles + 2 hexagones</text>
+<polygon points="735.00,547.00 735.00,501.00 774.84,524.00" fill="white" stroke="#222" stroke-width="1.4"/>
+<polygon points="735.00,547.00 774.84,524.00 814.67,547.00 814.67,593.00 774.84,616.00 735.00,593.00" fill="#eeeeee" stroke="#222" stroke-width="1.4"/>
+<polygon points="735.00,547.00 735.00,593.00 695.16,570.00" fill="white" stroke="#222" stroke-width="1.4"/>
+<polygon points="735.00,547.00 695.16,570.00 655.33,547.00 655.33,501.00 695.16,478.00 735.00,501.00" fill="#eeeeee" stroke="#222" stroke-width="1.4"/>
+<circle cx="735" cy="547" r="3" fill="#111"/>
+<text x="735" y="640" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">60° + 120° + 60° + 120° = 360°</text>
+<text x="735" y="669" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">POSSIBLE</text>
+<rect x="55" y="415" width="145" height="275" rx="12" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="127" y="445" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">C – pentagones</text>
+<polygon points="127.00,535.00 127.00,497.00 163.14,485.26 185.48,516.00 163.14,546.74" fill="white" stroke="#222" stroke-width="1.4"/>
+<polygon points="127.00,535.00 163.14,546.74 163.14,584.74 127.00,596.49 104.66,565.74" fill="#eeeeee" stroke="#222" stroke-width="1.4"/>
+<polygon points="127.00,535.00 104.66,565.74 68.52,554.00 68.52,516.00 104.66,504.26" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="127" cy="535" r="3" fill="#111"/>
+<text x="127" y="622" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold">3 × 108° = 324°</text>
+<text x="127" y="650" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold">TROU DE 36°</text>
+<text x="55" y="745" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold">Pentagones : 3 laissent un trou ; 4 se chevauchent. Impossible avec cette seule forme régulière.</text>
+</svg>

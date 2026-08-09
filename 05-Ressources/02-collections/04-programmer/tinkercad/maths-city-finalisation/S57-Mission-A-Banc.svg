@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="35" y="38" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="25.5" font-weight="bold">S57 – Équipe A – Banc public</text>
+<rect x="35" y="75" width="1053" height="100" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="1.3"/>
+<text x="55" y="108" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">TEST FONCTIONNEL</text>
+<text x="220" y="108" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.6" font-weight="bold">Deux gabarits assis doivent tenir côte à côte sur l’assise sans se chevaucher.</text>
+<rect x="35" y="205" width="455" height="300" rx="12" fill="white" stroke="#222" stroke-width="1.3"/>
+<text x="262" y="238" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">À CONTRÔLER</text>
+<text x="65" y="282" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">☐ hauteur totale ≤ 80 mm</text>
+<text x="65" y="325" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">☐ épaisseur minimale ≥ 2 mm</text>
+<text x="65" y="368" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">☐ deux gabarits 12 × 16 × 25 mm tiennent côte à côte</text>
+<text x="65" y="411" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">☐ pieds réellement en contact avec l’assise et le sol</text>
+<text x="65" y="454" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">☐ éléments répétés alignés</text>
+<rect x="520" y="205" width="568" height="365" rx="12" fill="white" stroke="#222" stroke-width="1.3"/>
+<text x="804" y="238" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">TRAVAIL À FAIRE DANS L’ORDRE</text>
+<circle cx="550" cy="278" r="12" fill="#f4f4f4" stroke="#222" stroke-width="1"/>
+<text x="550" y="283" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10" font-weight="bold">1</text>
+<text x="577" y="270" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">Crée deux gabarits assis de 12 × 16 × 25 mm.</text>
+<circle cx="550" cy="326" r="12" fill="#f4f4f4" stroke="#222" stroke-width="1"/>
+<text x="550" y="331" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10" font-weight="bold">2</text>
+<text x="577" y="318" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">Pose-les sur l’assise et vérifie qu’ils ne se</text>
+<text x="577" y="334" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">chevauchent pas.</text>
+<circle cx="550" cy="374" r="12" fill="#f4f4f4" stroke="#222" stroke-width="1"/>
+<text x="550" y="379" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10" font-weight="bold">3</text>
+<text x="577" y="366" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">Mesure largeur, profondeur et hauteur du banc.</text>
+<circle cx="550" cy="422" r="12" fill="#f4f4f4" stroke="#222" stroke-width="1"/>
+<text x="550" y="427" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10" font-weight="bold">4</text>
+<text x="577" y="414" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">Corrige d’abord l’assise si le test des deux</text>
+<text x="577" y="430" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">gabarits échoue.</text>
+<circle cx="550" cy="470" r="12" fill="#f4f4f4" stroke="#222" stroke-width="1"/>
+<text x="550" y="475" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10" font-weight="bold">5</text>
+<text x="577" y="462" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">Corrige ensuite un défaut d’alignement ou</text>
+<text x="577" y="478" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">d’épaisseur.</text>
+<circle cx="550" cy="518" r="12" fill="#f4f4f4" stroke="#222" stroke-width="1"/>
+<text x="550" y="523" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10" font-weight="bold">6</text>
+<text x="577" y="510" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">Retire les deux gabarits avant la capture</text>
+<text x="577" y="526" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">finale.</text>
+<rect x="35" y="535" width="455" height="150" rx="12" fill="#f7f7f7" stroke="#222" stroke-width="1.3"/>
+<text x="60" y="568" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">MESURE OBLIGATOIRE</text>
+<text x="60" y="605" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="bold">Attendu : __________________________</text>
+<text x="60" y="638" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="bold">Observé : __________________________</text>
+<text x="60" y="670" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="bold">Verdict :  ☐ OK   ☐ à corriger</text>
+<rect x="520" y="600" width="568" height="85" rx="12" fill="#f7f7f7" stroke="#222" stroke-width="1.3"/>
+<text x="545" y="630" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">CAPTURE DE PREUVE</text>
+<text x="545" y="660" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">Capture conseillée : vue de face ou perspective avec les</text>
+<text x="545" y="676" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">deux gabarits assis visibles.</text>
+<rect x="80" y="715" width="960" height="48" rx="10" fill="#f4f4f4" stroke="#222" stroke-width="1.2"/>
+<text x="560" y="745" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">Retirer tous les gabarits temporaires avant la version finale.</text>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="29" font-weight="bold">S53 – Code maître de la classe</text>
+<text x="40" y="72" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="normal">Chaque équipe inscrit uniquement le chiffre obtenu par décodage.</text>
+<circle cx="100" cy="210" r="44" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="100" y="217" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="bold">A</text>
+<rect x="35" y="290" width="130" height="130" rx="14" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="100" y="370" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="36" font-weight="bold">___</text>
+<text x="100" y="455" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">1e chiffre</text>
+<circle cx="290" cy="210" r="44" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="290" y="217" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="bold">B</text>
+<rect x="225" y="290" width="130" height="130" rx="14" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="290" y="370" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="36" font-weight="bold">___</text>
+<text x="290" y="455" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">2e chiffre</text>
+<circle cx="480" cy="210" r="44" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="480" y="217" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="bold">C</text>
+<rect x="415" y="290" width="130" height="130" rx="14" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="480" y="370" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="36" font-weight="bold">___</text>
+<text x="480" y="455" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">3e chiffre</text>
+<circle cx="670" cy="210" r="44" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="670" y="217" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="bold">D</text>
+<rect x="605" y="290" width="130" height="130" rx="14" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="670" y="370" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="36" font-weight="bold">___</text>
+<text x="670" y="455" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">4e chiffre</text>
+<circle cx="860" cy="210" r="44" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="860" y="217" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="bold">E</text>
+<rect x="795" y="290" width="130" height="130" rx="14" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="860" y="370" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="36" font-weight="bold">___</text>
+<text x="860" y="455" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">5e chiffre</text>
+<rect x="155" y="540" width="815" height="115" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="562" y="580" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">CODE MAÎTRE</text>
+<text x="562" y="630" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="40" font-weight="bold">_  _  _  _  _</text>
+<text x="562" y="705" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">N’écrire le code complet qu’après les cinq contributions.</text>
+</svg>

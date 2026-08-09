@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="40" text-anchor="start" font-family="Arial" font-size="28" font-weight="bold">S30 – Frise des formes</text>
+<text x="40" y="68" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">Compléter le nom de chaque forme et l’action réalisée.</text>
+<rect x="60" y="130" width="120" height="430" rx="10" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="120" y="165" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">1</text>
+<rect x="80" y="220" width="80" height="55" rx="0" fill="white" stroke="#222" stroke-width="1.7"/>
+<text x="120" y="355" text-anchor="middle" font-family="Arial" font-size="11" font-weight="bold">Départ</text>
+<text x="70" y="410" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">Forme :</text>
+<line x1="70" y1="435" x2="170" y2="435" stroke="#222" stroke-width="1"/>
+<text x="70" y="485" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">Action :</text>
+<line x1="70" y1="510" x2="170" y2="510" stroke="#222" stroke-width="1"/>
+<rect x="210" y="130" width="120" height="430" rx="10" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="270" y="165" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">2</text>
+<rect x="230" y="220" width="80" height="55" rx="0" fill="white" stroke="#222" stroke-width="1.7"/>
+<text x="270" y="355" text-anchor="middle" font-family="Arial" font-size="11" font-weight="bold">Après le pli en deux</text>
+<text x="220" y="410" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">Forme :</text>
+<line x1="220" y1="435" x2="320" y2="435" stroke="#222" stroke-width="1"/>
+<text x="220" y="485" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">Action :</text>
+<line x1="220" y1="510" x2="320" y2="510" stroke="#222" stroke-width="1"/>
+<rect x="360" y="130" width="120" height="430" rx="10" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="420" y="165" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">3</text>
+<polygon points="380,285 420,215 460,285" fill="white" stroke="#222" stroke-width="1.7"/>
+<text x="420" y="355" text-anchor="middle" font-family="Arial" font-size="11" font-weight="bold">Après les coins</text>
+<text x="370" y="410" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">Forme :</text>
+<line x1="370" y1="435" x2="470" y2="435" stroke="#222" stroke-width="1"/>
+<text x="370" y="485" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">Action :</text>
+<line x1="370" y1="510" x2="470" y2="510" stroke="#222" stroke-width="1"/>
+<rect x="510" y="130" width="120" height="430" rx="10" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="570" y="165" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">4</text>
+<polygon points="570,210 615,260 570,310 525,260" fill="white" stroke="#222" stroke-width="1.7"/>
+<text x="570" y="355" text-anchor="middle" font-family="Arial" font-size="11" font-weight="bold">Après ouverture</text>
+<text x="520" y="410" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">Forme :</text>
+<line x1="520" y1="435" x2="620" y2="435" stroke="#222" stroke-width="1"/>
+<text x="520" y="485" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">Action :</text>
+<line x1="520" y1="510" x2="620" y2="510" stroke="#222" stroke-width="1"/>
+<rect x="660" y="130" width="120" height="430" rx="10" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="720" y="165" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">5</text>
+<polygon points="680,285 720,215 760,285" fill="white" stroke="#222" stroke-width="1.7"/>
+<text x="720" y="355" text-anchor="middle" font-family="Arial" font-size="11" font-weight="bold">Après pointes</text>
+<text x="670" y="410" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">Forme :</text>
+<line x1="670" y1="435" x2="770" y2="435" stroke="#222" stroke-width="1"/>
+<text x="670" y="485" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">Action :</text>
+<line x1="670" y1="510" x2="770" y2="510" stroke="#222" stroke-width="1"/>
+<rect x="810" y="130" width="120" height="430" rx="10" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="870" y="165" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">6</text>
+<polygon points="870,210 915,260 870,310 825,260" fill="white" stroke="#222" stroke-width="1.7"/>
+<text x="870" y="355" text-anchor="middle" font-family="Arial" font-size="11" font-weight="bold">Après ouverture</text>
+<text x="820" y="410" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">Forme :</text>
+<line x1="820" y1="435" x2="920" y2="435" stroke="#222" stroke-width="1"/>
+<text x="820" y="485" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">Action :</text>
+<line x1="820" y1="510" x2="920" y2="510" stroke="#222" stroke-width="1"/>
+<rect x="960" y="130" width="120" height="430" rx="10" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="1020" y="165" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">7</text>
+<polygon points="975,300 995,230 1020,265 1045,230 1065,300" fill="white" stroke="#222" stroke-width="1.7"/>
+<text x="1020" y="355" text-anchor="middle" font-family="Arial" font-size="11" font-weight="bold">Fin</text>
+<text x="970" y="410" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">Forme :</text>
+<line x1="970" y1="435" x2="1070" y2="435" stroke="#222" stroke-width="1"/>
+<text x="970" y="485" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">Action :</text>
+<line x1="970" y1="510" x2="1070" y2="510" stroke="#222" stroke-width="1"/>
+<text x="60" y="650" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">Phrase finale : ______________________________________________________________________________________</text>
+</svg>

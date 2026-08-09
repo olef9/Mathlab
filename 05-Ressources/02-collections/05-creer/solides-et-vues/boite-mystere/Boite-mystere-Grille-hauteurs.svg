@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="Arial" font-size="28" font-weight="bold">La boîte mystère – Grille des hauteurs</text>
+<text x="40" y="72" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">Écrire dans chaque case le nombre de cubes de la pile.</text>
+<rect x="170" y="175" width="120" height="120" rx="0" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="290" y="175" width="120" height="120" rx="0" fill="#eeeeee" stroke="#222" stroke-width="2"/>
+<rect x="410" y="175" width="120" height="120" rx="0" fill="#eeeeee" stroke="#222" stroke-width="2"/>
+<rect x="170" y="295" width="120" height="120" rx="0" fill="#eeeeee" stroke="#222" stroke-width="2"/>
+<rect x="290" y="295" width="120" height="120" rx="0" fill="#eeeeee" stroke="#222" stroke-width="2"/>
+<rect x="410" y="295" width="120" height="120" rx="0" fill="#eeeeee" stroke="#222" stroke-width="2"/>
+<rect x="170" y="415" width="120" height="120" rx="0" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="290" y="415" width="120" height="120" rx="0" fill="#eeeeee" stroke="#222" stroke-width="2"/>
+<rect x="410" y="415" width="120" height="120" rx="0" fill="white" stroke="#222" stroke-width="2"/>
+<text x="350.0" y="150" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">ARRIÈRE</text>
+<text x="350.0" y="567" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">AVANT</text>
+<text x="115" y="361.0" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold">GAUCHE</text>
+<text x="585" y="361.0" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold">DROITE</text>
+<rect x="640" y="150" width="400" height="145" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="840" y="185" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">VUE DE FACE</text>
+<text x="840" y="240" text-anchor="middle" font-family="Arial" font-size="25" font-weight="bold">3      –      3      –      1</text>
+<rect x="640" y="325" width="400" height="145" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="840" y="360" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">VUE DE DROITE</text>
+<text x="840" y="415" text-anchor="middle" font-family="Arial" font-size="25" font-weight="bold">1      –      3      –      3</text>
+<rect x="640" y="500" width="400" height="145" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="840" y="535" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">NOMBRE TOTAL</text>
+<text x="840" y="598" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold">________ cubes</text>
+<text x="75" y="725" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">Proposition n° ______</text>
+<text x="400" y="725" text-anchor="start" font-family="Arial" font-size="17" font-weight="normal">Validée par : ________________________________</text>
+</svg>

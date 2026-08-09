@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="40" text-anchor="start" font-family="Arial" font-size="28" font-weight="bold">CM-09 – Faces, arêtes et sommets express</text>
+<text x="40" y="68" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">À utiliser lorsqu’aucune énigme du lundi n’est disponible.</text>
+<rect x="45" y="105" width="500" height="112" rx="9" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="80" cy="140" r="20" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="80" y="147" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">1</text>
+<text x="125" y="153" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">Faces d’un cube</text>
+<text x="435" y="187" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">______</text>
+<rect x="580" y="105" width="500" height="112" rx="9" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="615" cy="140" r="20" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="615" y="147" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">2</text>
+<text x="660" y="153" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">Arêtes d’un cube</text>
+<text x="970" y="187" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">______</text>
+<rect x="45" y="245" width="500" height="112" rx="9" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="80" cy="280" r="20" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="80" y="287" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">3</text>
+<text x="125" y="293" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">Sommets d’un cube</text>
+<text x="435" y="327" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">______</text>
+<rect x="580" y="245" width="500" height="112" rx="9" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="615" cy="280" r="20" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="615" y="287" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">4</text>
+<text x="660" y="293" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">Faces d’un prisme triangulaire</text>
+<text x="970" y="327" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">______</text>
+<rect x="45" y="385" width="500" height="112" rx="9" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="80" cy="420" r="20" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="80" y="427" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">5</text>
+<text x="125" y="433" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">Arêtes d’un prisme triangulaire</text>
+<text x="435" y="467" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">______</text>
+<rect x="580" y="385" width="500" height="112" rx="9" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="615" cy="420" r="20" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="615" y="427" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">6</text>
+<text x="660" y="433" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">Sommets d’un prisme triangulaire</text>
+<text x="970" y="467" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">______</text>
+<rect x="45" y="525" width="500" height="112" rx="9" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="80" cy="560" r="20" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="80" y="567" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">7</text>
+<text x="125" y="573" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">Faces d’une pyramide carrée</text>
+<text x="435" y="607" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">______</text>
+<rect x="580" y="525" width="500" height="112" rx="9" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="615" cy="560" r="20" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="615" y="567" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">8</text>
+<text x="660" y="573" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">Arêtes d’une pyramide carrée</text>
+<text x="970" y="607" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">______</text>
+<text x="45" y="700" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">Bonus : sommets − arêtes + faces = ______</text>
+<text x="45" y="742" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">Essayer avec le cube, le prisme triangulaire et la pyramide carrée.</text>
+</svg>

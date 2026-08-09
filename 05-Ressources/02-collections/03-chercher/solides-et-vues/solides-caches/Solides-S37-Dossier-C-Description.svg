@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L0,6 L9,3 z" fill="#222"/>
+</marker>
+</defs>
+<text x="40" y="40" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="28" font-weight="bold">S37 – Équipe C – Le témoin décrit</text>
+<text x="40" y="70" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="normal">Construire sans image de l’objet.</text>
+<rect x="45" y="105" width="500" height="570" rx="14" fill="white" stroke="#222" stroke-width="1.7"/>
+<text x="295" y="145" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">TÉMOIGNAGE</text>
+<circle cx="85" cy="184" r="17" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="85" y="190" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">1</text>
+<text x="120" y="182" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">L’assemblage contient exactement 8 cubes.</text>
+<circle cx="85" cy="230" r="17" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="85" y="236" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">2</text>
+<text x="120" y="228" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Vu de dessus, quatre emplacements occupés</text>
+<text x="120" y="250" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">forment un T.</text>
+<circle cx="85" cy="298" r="17" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="85" y="304" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">3</text>
+<text x="120" y="296" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">La tour centrale de la rangée avant mesure 3</text>
+<text x="120" y="318" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">cubes.</text>
+<circle cx="85" cy="366" r="17" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="85" y="372" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">4</text>
+<text x="120" y="364" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">La tour centrale de la rangée arrière mesure 2</text>
+<text x="120" y="386" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">cubes.</text>
+<circle cx="85" cy="434" r="17" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="85" y="440" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">5</text>
+<text x="120" y="432" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">La tour avant gauche est un cube plus haute que</text>
+<text x="120" y="454" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">la tour avant droite.</text>
+<text x="75" y="590" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">Question décisive :</text>
+<text x="75" y="620" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Quelles sont les hauteurs des tours avant gauche</text>
+<text x="75" y="642" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">et avant droite ?</text>
+<rect x="585" y="105" width="495" height="570" rx="14" fill="white" stroke="#222" stroke-width="1.7"/>
+<text x="832" y="145" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">PRODUCTIONS</text>
+<text x="708.0" y="187" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">Vue de dessus à dessiner</text>
+<rect x="630" y="205" width="52" height="52" rx="0" fill="white" stroke="#333" stroke-width="1.2"/>
+<rect x="682" y="205" width="52" height="52" rx="0" fill="white" stroke="#333" stroke-width="1.2"/>
+<rect x="734" y="205" width="52" height="52" rx="0" fill="white" stroke="#333" stroke-width="1.2"/>
+<rect x="630" y="257" width="52" height="52" rx="0" fill="white" stroke="#333" stroke-width="1.2"/>
+<rect x="682" y="257" width="52" height="52" rx="0" fill="white" stroke="#333" stroke-width="1.2"/>
+<rect x="734" y="257" width="52" height="52" rx="0" fill="white" stroke="#333" stroke-width="1.2"/>
+<line x1="708.0" y1="347" x2="708.0" y2="317" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="708.0" y="367" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">AVANT</text>
+<text x="898.0" y="187" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">Vue de face</text>
+<rect x="835" y="205" width="42" height="42" rx="0" fill="white" stroke="#999" stroke-width="0.9"/>
+<rect x="877" y="205" width="42" height="42" rx="0" fill="white" stroke="#999" stroke-width="0.9"/>
+<rect x="919" y="205" width="42" height="42" rx="0" fill="white" stroke="#999" stroke-width="0.9"/>
+<rect x="835" y="247" width="42" height="42" rx="0" fill="white" stroke="#999" stroke-width="0.9"/>
+<rect x="877" y="247" width="42" height="42" rx="0" fill="white" stroke="#999" stroke-width="0.9"/>
+<rect x="919" y="247" width="42" height="42" rx="0" fill="white" stroke="#999" stroke-width="0.9"/>
+<rect x="835" y="289" width="42" height="42" rx="0" fill="white" stroke="#999" stroke-width="0.9"/>
+<rect x="877" y="289" width="42" height="42" rx="0" fill="white" stroke="#999" stroke-width="0.9"/>
+<rect x="919" y="289" width="42" height="42" rx="0" fill="white" stroke="#999" stroke-width="0.9"/>
+<text x="877.0" y="392" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">Vue de droite</text>
+<rect x="835" y="410" width="42" height="42" rx="0" fill="white" stroke="#999" stroke-width="0.9"/>
+<rect x="877" y="410" width="42" height="42" rx="0" fill="white" stroke="#999" stroke-width="0.9"/>
+<rect x="835" y="452" width="42" height="42" rx="0" fill="white" stroke="#999" stroke-width="0.9"/>
+<rect x="877" y="452" width="42" height="42" rx="0" fill="white" stroke="#999" stroke-width="0.9"/>
+<rect x="835" y="494" width="42" height="42" rx="0" fill="white" stroke="#999" stroke-width="0.9"/>
+<rect x="877" y="494" width="42" height="42" rx="0" fill="white" stroke="#999" stroke-width="0.9"/>
+<text x="630" y="430" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">Perspective</text>
+<circle cx="650.0" cy="470.0" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="684.0" cy="470.0" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="718.0" cy="470.0" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="752.0" cy="470.0" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="786.0" cy="470.0" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="820.0" cy="470.0" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="854.0" cy="470.0" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="667.0" cy="488.7" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="701.0" cy="488.7" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="735.0" cy="488.7" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="769.0" cy="488.7" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="803.0" cy="488.7" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="837.0" cy="488.7" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="871.0" cy="488.7" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="650.0" cy="507.4" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="684.0" cy="507.4" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="718.0" cy="507.4" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="752.0" cy="507.4" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="786.0" cy="507.4" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="820.0" cy="507.4" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="854.0" cy="507.4" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="667.0" cy="526.1" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="701.0" cy="526.1" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="735.0" cy="526.1" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="769.0" cy="526.1" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="803.0" cy="526.1" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="837.0" cy="526.1" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="871.0" cy="526.1" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="650.0" cy="544.8" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="684.0" cy="544.8" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="718.0" cy="544.8" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="752.0" cy="544.8" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="786.0" cy="544.8" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="820.0" cy="544.8" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="854.0" cy="544.8" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="667.0" cy="563.5" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="701.0" cy="563.5" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="735.0" cy="563.5" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="769.0" cy="563.5" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="803.0" cy="563.5" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="837.0" cy="563.5" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<circle cx="871.0" cy="563.5" r="1.8" fill="#555" stroke="#555" stroke-width="0.2"/>
+<text x="55" y="720" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">Conclusion : hauteur gauche = ______   hauteur droite = ______</text>
+</svg>

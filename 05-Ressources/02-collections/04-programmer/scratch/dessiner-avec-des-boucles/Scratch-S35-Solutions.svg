@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="40" text-anchor="start" font-family="Arial" font-size="28" font-weight="bold">S35 – Solutions visuelles</text>
+<text x="40" y="68" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">Chaque motif revient au point et à l’orientation de départ.</text>
+<rect x="35" y="100" width="330" height="285" rx="12" fill="white" stroke="#222" stroke-width="1.7"/>
+<text x="55" y="130" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold">MISSION A</text>
+<text x="200" y="155" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold">Le carré précis</text>
+<rect x="65" y="175" width="270" height="125" rx="0" fill="#fafafa" stroke="#222" stroke-width="1.1"/>
+<path d="M 153.80 191.30 L 246.20 191.30 L 246.20 283.70 L 153.80 283.70 L 153.80 191.30" fill="none" stroke="#222" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="57" y="320" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">répéter 4 fois</text>
+<text x="57" y="338" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">  avancer de 120 pas</text>
+<text x="57" y="356" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">  tourner à droite de 90°</text>
+<rect x="390" y="100" width="330" height="285" rx="12" fill="white" stroke="#222" stroke-width="1.7"/>
+<text x="410" y="130" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold">MISSION B</text>
+<text x="555" y="155" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold">Le triangle équilatéral</text>
+<rect x="420" y="175" width="270" height="125" rx="0" fill="#fafafa" stroke="#222" stroke-width="1.1"/>
+<path d="M 501.65 283.70 L 608.35 283.70 L 555.00 191.30 L 501.65 283.70" fill="none" stroke="#222" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="412" y="320" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">répéter 3 fois</text>
+<text x="412" y="338" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">  avancer de 140 pas</text>
+<text x="412" y="356" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">  tourner à gauche de 120°</text>
+<rect x="745" y="100" width="330" height="285" rx="12" fill="white" stroke="#222" stroke-width="1.7"/>
+<text x="765" y="130" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold">MISSION C</text>
+<text x="910" y="155" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold">L’étoile à cinq branches</text>
+<rect x="775" y="175" width="270" height="125" rx="0" fill="#fafafa" stroke="#222" stroke-width="1.1"/>
+<path d="M 879.98 283.70 L 910.00 191.30 L 940.02 283.70 L 861.42 226.59 L 958.58 226.59 L 879.98 283.70" fill="none" stroke="#222" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="767" y="320" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">répéter 5 fois</text>
+<text x="767" y="338" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">  avancer de 150 pas</text>
+<text x="767" y="356" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">  tourner à droite de 144°</text>
+<rect x="210" y="420" width="330" height="285" rx="12" fill="white" stroke="#222" stroke-width="1.7"/>
+<text x="230" y="450" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold">MISSION D</text>
+<text x="375" y="475" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold">La rosace de douze carrés</text>
+<rect x="240" y="495" width="270" height="125" rx="0" fill="#fafafa" stroke="#222" stroke-width="1.1"/>
+<path d="M 375.00 557.50 L 408.82 557.50 L 408.82 591.32 L 375.00 591.32 L 375.00 557.50 L 404.29 574.41 L 387.38 603.70 L 358.09 586.79 L 375.00 557.50 L 391.91 586.79 L 362.62 603.70 L 345.71 574.41 L 375.00 557.50 L 375.00 591.32 L 341.18 591.32 L 341.18 557.50 L 375.00 557.50 L 358.09 586.79 L 328.80 569.88 L 345.71 540.59 L 375.00 557.50 L 345.71 574.41 L 328.80 545.12 L 358.09 528.21 L 375.00 557.50 L 341.18 557.50 L 341.18 523.68 L 375.00 523.68 L 375.00 557.50 L 345.71 540.59 L 362.62 511.30 L 391.91 528.21 L 375.00 557.50 L 358.09 528.21 L 387.38 511.30 L 404.29 540.59 L 375.00 557.50 L 375.00 523.68 L 408.82 523.68 L 408.82 557.50 L 375.00 557.50 L 391.91 528.21 L 421.20 545.12 L 404.29 574.41 L 375.00 557.50 L 404.29 540.59 L 421.20 569.88 L 391.91 586.79 L 375.00 557.50" fill="none" stroke="#222" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="232" y="640" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">répéter 12 fois</text>
+<text x="232" y="658" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">  répéter 4 fois</text>
+<text x="232" y="676" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">    avancer de 55 pas</text>
+<text x="232" y="694" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">    tourner à droite de 90°</text>
+<rect x="570" y="420" width="330" height="285" rx="12" fill="white" stroke="#222" stroke-width="1.7"/>
+<text x="590" y="450" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold">MISSION E</text>
+<text x="735" y="475" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold">La fleur de douze triangles</text>
+<rect x="600" y="495" width="270" height="125" rx="0" fill="#fafafa" stroke="#222" stroke-width="1.1"/>
+<path d="M 735.00 557.50 L 781.20 557.50 L 758.10 517.49 L 735.00 557.50 L 775.01 580.60 L 775.01 534.40 L 735.00 557.50 L 758.10 597.51 L 781.20 557.50 L 735.00 557.50 L 735.00 603.70 L 775.01 580.60 L 735.00 557.50 L 711.90 597.51 L 758.10 597.51 L 735.00 557.50 L 694.99 580.60 L 735.00 603.70 L 735.00 557.50 L 688.80 557.50 L 711.90 597.51 L 735.00 557.50 L 694.99 534.40 L 694.99 580.60 L 735.00 557.50 L 711.90 517.49 L 688.80 557.50 L 735.00 557.50 L 735.00 511.30 L 694.99 534.40 L 735.00 557.50 L 758.10 517.49 L 711.90 517.49 L 735.00 557.50 L 775.01 534.40 L 735.00 511.30 L 735.00 557.50" fill="none" stroke="#222" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="592" y="640" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">répéter 12 fois</text>
+<text x="592" y="658" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">  répéter 3 fois</text>
+<text x="592" y="676" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">    avancer de 70 pas</text>
+<text x="592" y="694" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">    tourner à gauche de 120°</text>
+</svg>

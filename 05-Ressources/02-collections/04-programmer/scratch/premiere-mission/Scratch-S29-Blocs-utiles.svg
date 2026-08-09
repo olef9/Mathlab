@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="Arial" font-size="29" font-weight="bold">Scratch – Blocs utiles pour S29</text>
+<text x="40" y="72" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">Les blocs de départ sont déjà présents. Les élèves ajoutent les déplacements.</text>
+<rect x="55" y="105" width="500" height="125" rx="12" fill="white" stroke="#222" stroke-width="1.6"/>
+<text x="75" y="133" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">DÉJÀ PRÉSENT</text>
+<rect x="90" y="147" width="260" height="48" rx="12" fill="#eeeeee" stroke="#222" stroke-width="1.5"/>
+<text x="220" y="177" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">quand le drapeau vert est cliqué</text>
+<text x="370" y="171" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">déclenche le programme</text>
+<rect x="590" y="105" width="500" height="125" rx="12" fill="white" stroke="#222" stroke-width="1.6"/>
+<text x="610" y="133" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">DÉJÀ PRÉSENT</text>
+<rect x="625" y="147" width="260" height="48" rx="12" fill="#eeeeee" stroke="#222" stroke-width="1.5"/>
+<text x="755" y="177" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">aller à x : …  y : …</text>
+<text x="905" y="171" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">replace le lutin au départ</text>
+<rect x="55" y="260" width="500" height="125" rx="12" fill="white" stroke="#222" stroke-width="1.6"/>
+<text x="75" y="288" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">DÉJÀ PRÉSENT</text>
+<rect x="90" y="302" width="260" height="48" rx="12" fill="#eeeeee" stroke="#222" stroke-width="1.5"/>
+<text x="220" y="332" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">s’orienter à 90°</text>
+<text x="370" y="326" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">regarde vers la droite</text>
+<rect x="590" y="260" width="500" height="125" rx="12" fill="white" stroke="#222" stroke-width="1.6"/>
+<text x="610" y="288" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">À UTILISER</text>
+<rect x="625" y="302" width="260" height="48" rx="12" fill="#eeeeee" stroke="#222" stroke-width="1.5"/>
+<text x="755" y="332" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">avancer de 40 pas</text>
+<text x="905" y="326" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">avance d’une case</text>
+<text x="905" y="350" text-anchor="start" font-family="Arial" font-size="11" font-weight="bold">paramètre modifiable</text>
+<rect x="55" y="415" width="500" height="125" rx="12" fill="white" stroke="#222" stroke-width="1.6"/>
+<text x="75" y="443" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">À UTILISER</text>
+<rect x="90" y="457" width="260" height="48" rx="12" fill="#eeeeee" stroke="#222" stroke-width="1.5"/>
+<text x="220" y="487" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">tourner à droite de 90°</text>
+<text x="370" y="481" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">pivote d’un quart de tour</text>
+<text x="370" y="505" text-anchor="start" font-family="Arial" font-size="11" font-weight="bold">paramètre modifiable</text>
+<rect x="590" y="415" width="500" height="125" rx="12" fill="white" stroke="#222" stroke-width="1.6"/>
+<text x="610" y="443" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">À UTILISER</text>
+<rect x="625" y="457" width="260" height="48" rx="12" fill="#eeeeee" stroke="#222" stroke-width="1.5"/>
+<text x="755" y="487" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">tourner à gauche de 90°</text>
+<text x="905" y="481" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">pivote d’un quart de tour</text>
+<text x="905" y="505" text-anchor="start" font-family="Arial" font-size="11" font-weight="bold">paramètre modifiable</text>
+<rect x="55" y="570" width="500" height="125" rx="12" fill="white" stroke="#222" stroke-width="1.6"/>
+<text x="75" y="598" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">OPTIONNEL</text>
+<rect x="90" y="612" width="260" height="48" rx="12" fill="#eeeeee" stroke="#222" stroke-width="1.5"/>
+<text x="220" y="642" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">attendre 0.2 seconde</text>
+<text x="370" y="636" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">rend le trajet plus facile à observer</text>
+<rect x="590" y="570" width="500" height="125" rx="12" fill="white" stroke="#222" stroke-width="1.6"/>
+<text x="610" y="598" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">BONUS</text>
+<rect x="625" y="612" width="260" height="48" rx="12" fill="#eeeeee" stroke="#222" stroke-width="1.5"/>
+<text x="755" y="642" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">dire « Mission réussie ! »</text>
+<text x="905" y="636" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">affiche un message à l’arrivée</text>
+<text x="55" y="745" text-anchor="start" font-family="Arial" font-size="15" font-weight="bold">Rappel : 40, 90 et 0.2 sont des paramètres ; ils peuvent être remplacés par d’autres valeurs.</text>
+</svg>

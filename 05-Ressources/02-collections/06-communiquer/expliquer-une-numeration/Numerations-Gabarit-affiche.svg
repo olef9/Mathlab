@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="38" text-anchor="start" font-family="Arial" font-size="26" font-weight="bold">S26 – Gabarit d’affiche</text>
+<text x="40" y="62" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Le cadre représente une affiche A3 en orientation paysage.</text>
+<rect x="45" y="85" width="1030" height="660" rx="8" fill="white" stroke="#222" stroke-width="2.5"/>
+<rect x="75" y="110" width="970" height="80" rx="8" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="560" y="158" text-anchor="middle" font-family="Arial" font-size="26" font-weight="bold">TITRE DU SYSTÈME</text>
+<rect x="75" y="220" width="285" height="210" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="217" y="255" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">1. SYMBOLES</text>
+<text x="217" y="290" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">et valeur des positions</text>
+<rect x="390" y="220" width="310" height="210" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="545" y="255" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">2. DÉCODER</text>
+<text x="545" y="290" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">une écriture expliquée</text>
+<rect x="730" y="220" width="315" height="210" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="887" y="255" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">3. CODER</text>
+<text x="887" y="290" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">un nombre expliqué</text>
+<rect x="75" y="465" width="455" height="195" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="302" y="505" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">4. ERREUR ET CONSEIL</text>
+<text x="302" y="545" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">Montrer l’erreur, puis la correction.</text>
+<rect x="560" y="465" width="485" height="195" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="802" y="505" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">5. DÉFI</text>
+<text x="802" y="545" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">La réponse est placée au verso</text>
+<text x="802" y="570" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">ou sous un cache.</text>
+<text x="75" y="710" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Source : ________________________________________________________________</text>
+</svg>

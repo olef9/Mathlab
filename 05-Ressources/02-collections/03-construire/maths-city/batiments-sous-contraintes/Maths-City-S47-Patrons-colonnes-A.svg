@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+<rect width="100%" height="100%" fill="white"/>
+<text x="10" y="8" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="5.0" font-weight="bold">S47 A – Colonnes : 3 + 3 + 3 + 2 + 2 + 2 + 2 + 1 = 18</text>
+<text x="10" y="14" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="normal">Traits continus : découper · pointillés : plier · imprimer à 100 %.</text>
+<polygon points="10,20 100,20 100,80 90,80 90,90 10,90" fill="white" stroke="#222" stroke-width="0.45"/>
+<line x1="30" y1="20" x2="30" y2="80" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="50" y1="20" x2="50" y2="80" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="70" y1="20" x2="70" y2="80" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="90" y1="20" x2="90" y2="80" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="10" y1="80" x2="90" y2="80" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="30" y1="80" x2="30" y2="90" stroke="#222" stroke-width="0.4"/>
+<line x1="50" y1="80" x2="50" y2="90" stroke="#222" stroke-width="0.4"/>
+<line x1="70" y1="80" x2="70" y2="90" stroke="#222" stroke-width="0.4"/>
+<text x="50" y="25" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="bold">3 unité(s) – 60 mm</text>
+<text x="95" y="50.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.5" font-weight="bold">COLLE</text>
+<text x="50" y="87" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.5" font-weight="middle">languettes de base</text>
+<polygon points="110,20 200,20 200,80 190,80 190,90 110,90" fill="white" stroke="#222" stroke-width="0.45"/>
+<line x1="130" y1="20" x2="130" y2="80" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="150" y1="20" x2="150" y2="80" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="170" y1="20" x2="170" y2="80" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="190" y1="20" x2="190" y2="80" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="110" y1="80" x2="190" y2="80" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="130" y1="80" x2="130" y2="90" stroke="#222" stroke-width="0.4"/>
+<line x1="150" y1="80" x2="150" y2="90" stroke="#222" stroke-width="0.4"/>
+<line x1="170" y1="80" x2="170" y2="90" stroke="#222" stroke-width="0.4"/>
+<text x="150" y="25" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="bold">3 unité(s) – 60 mm</text>
+<text x="195" y="50.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.5" font-weight="bold">COLLE</text>
+<text x="150" y="87" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.5" font-weight="middle">languettes de base</text>
+<polygon points="10,95 100,95 100,155 90,155 90,165 10,165" fill="white" stroke="#222" stroke-width="0.45"/>
+<line x1="30" y1="95" x2="30" y2="155" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="50" y1="95" x2="50" y2="155" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="70" y1="95" x2="70" y2="155" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="90" y1="95" x2="90" y2="155" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="10" y1="155" x2="90" y2="155" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="30" y1="155" x2="30" y2="165" stroke="#222" stroke-width="0.4"/>
+<line x1="50" y1="155" x2="50" y2="165" stroke="#222" stroke-width="0.4"/>
+<line x1="70" y1="155" x2="70" y2="165" stroke="#222" stroke-width="0.4"/>
+<text x="50" y="100" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="bold">3 unité(s) – 60 mm</text>
+<text x="95" y="125.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.5" font-weight="bold">COLLE</text>
+<text x="50" y="162" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.5" font-weight="middle">languettes de base</text>
+<polygon points="110,95 200,95 200,135 190,135 190,145 110,145" fill="white" stroke="#222" stroke-width="0.45"/>
+<line x1="130" y1="95" x2="130" y2="135" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="150" y1="95" x2="150" y2="135" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="170" y1="95" x2="170" y2="135" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="190" y1="95" x2="190" y2="135" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="110" y1="135" x2="190" y2="135" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="130" y1="135" x2="130" y2="145" stroke="#222" stroke-width="0.4"/>
+<line x1="150" y1="135" x2="150" y2="145" stroke="#222" stroke-width="0.4"/>
+<line x1="170" y1="135" x2="170" y2="145" stroke="#222" stroke-width="0.4"/>
+<text x="150" y="100" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="bold">2 unité(s) – 40 mm</text>
+<text x="195" y="115.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.5" font-weight="bold">COLLE</text>
+<text x="150" y="142" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.5" font-weight="middle">languettes de base</text>
+<polygon points="10,170 100,170 100,210 90,210 90,220 10,220" fill="white" stroke="#222" stroke-width="0.45"/>
+<line x1="30" y1="170" x2="30" y2="210" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="50" y1="170" x2="50" y2="210" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="70" y1="170" x2="70" y2="210" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="90" y1="170" x2="90" y2="210" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="10" y1="210" x2="90" y2="210" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="30" y1="210" x2="30" y2="220" stroke="#222" stroke-width="0.4"/>
+<line x1="50" y1="210" x2="50" y2="220" stroke="#222" stroke-width="0.4"/>
+<line x1="70" y1="210" x2="70" y2="220" stroke="#222" stroke-width="0.4"/>
+<text x="50" y="175" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="bold">2 unité(s) – 40 mm</text>
+<text x="95" y="190.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.5" font-weight="bold">COLLE</text>
+<text x="50" y="217" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.5" font-weight="middle">languettes de base</text>
+<polygon points="110,170 200,170 200,210 190,210 190,220 110,220" fill="white" stroke="#222" stroke-width="0.45"/>
+<line x1="130" y1="170" x2="130" y2="210" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="150" y1="170" x2="150" y2="210" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="170" y1="170" x2="170" y2="210" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="190" y1="170" x2="190" y2="210" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="110" y1="210" x2="190" y2="210" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="130" y1="210" x2="130" y2="220" stroke="#222" stroke-width="0.4"/>
+<line x1="150" y1="210" x2="150" y2="220" stroke="#222" stroke-width="0.4"/>
+<line x1="170" y1="210" x2="170" y2="220" stroke="#222" stroke-width="0.4"/>
+<text x="150" y="175" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="bold">2 unité(s) – 40 mm</text>
+<text x="195" y="190.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.5" font-weight="bold">COLLE</text>
+<text x="150" y="217" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.5" font-weight="middle">languettes de base</text>
+<polygon points="10,225 100,225 100,265 90,265 90,275 10,275" fill="white" stroke="#222" stroke-width="0.45"/>
+<line x1="30" y1="225" x2="30" y2="265" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="50" y1="225" x2="50" y2="265" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="70" y1="225" x2="70" y2="265" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="90" y1="225" x2="90" y2="265" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="10" y1="265" x2="90" y2="265" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="30" y1="265" x2="30" y2="275" stroke="#222" stroke-width="0.4"/>
+<line x1="50" y1="265" x2="50" y2="275" stroke="#222" stroke-width="0.4"/>
+<line x1="70" y1="265" x2="70" y2="275" stroke="#222" stroke-width="0.4"/>
+<text x="50" y="230" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="bold">2 unité(s) – 40 mm</text>
+<text x="95" y="245.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.5" font-weight="bold">COLLE</text>
+<text x="50" y="272" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.5" font-weight="middle">languettes de base</text>
+<polygon points="110,225 200,225 200,245 190,245 190,255 110,255" fill="white" stroke="#222" stroke-width="0.45"/>
+<line x1="130" y1="225" x2="130" y2="245" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="150" y1="225" x2="150" y2="245" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="170" y1="225" x2="170" y2="245" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="190" y1="225" x2="190" y2="245" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="110" y1="245" x2="190" y2="245" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="130" y1="245" x2="130" y2="255" stroke="#222" stroke-width="0.4"/>
+<line x1="150" y1="245" x2="150" y2="255" stroke="#222" stroke-width="0.4"/>
+<line x1="170" y1="245" x2="170" y2="255" stroke="#222" stroke-width="0.4"/>
+<text x="150" y="230" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="bold">1 unité(s) – 20 mm</text>
+<text x="195" y="235.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.5" font-weight="bold">COLLE</text>
+<text x="150" y="252" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.5" font-weight="middle">languettes de base</text>
+<text x="10" y="292" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="bold">Une base terminée doit mesurer 20 × 20 mm.</text>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="35" y="40" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="27" font-weight="bold">S43 – Équipe C – Le parc des deux boucles</text>
+<text x="35" y="70" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">Trouver un circuit qui utilise chaque chemin une seule fois et revient au départ.</text>
+<rect x="35" y="105" width="650" height="455" rx="14" fill="white" stroke="#222" stroke-width="1.5"/>
+<path d="M348.2,260.4 Q269.0,197.39999999999998 189.79999999999998,134.39999999999998" fill="none" stroke="#222" stroke-width="3.5999999999999996" stroke-linecap="round"/>
+<rect x="256.0" y="186.39999999999998" width="26" height="22" rx="4" fill="white" stroke="#222" stroke-width="1.0"/>
+<path d="M189.79999999999998,134.39999999999998 Q348.2,134.39999999999998 506.6,134.39999999999998" fill="none" stroke="#222" stroke-width="3.5999999999999996" stroke-linecap="round"/>
+<rect x="335.2" y="123.39999999999998" width="26" height="22" rx="4" fill="white" stroke="#222" stroke-width="1.0"/>
+<path d="M506.6,134.39999999999998 Q427.4,197.39999999999998 348.2,260.4" fill="none" stroke="#222" stroke-width="3.5999999999999996" stroke-linecap="round"/>
+<rect x="414.4" y="186.39999999999998" width="26" height="22" rx="4" fill="white" stroke="#222" stroke-width="1.0"/>
+<path d="M348.2,260.4 Q269.0,337.79999999999995 189.79999999999998,415.2" fill="none" stroke="#222" stroke-width="3.5999999999999996" stroke-linecap="round"/>
+<rect x="256.0" y="326.79999999999995" width="26" height="22" rx="4" fill="white" stroke="#222" stroke-width="1.0"/>
+<path d="M189.79999999999998,415.2 Q348.2,415.2 506.6,415.2" fill="none" stroke="#222" stroke-width="3.5999999999999996" stroke-linecap="round"/>
+<rect x="335.2" y="404.2" width="26" height="22" rx="4" fill="white" stroke="#222" stroke-width="1.0"/>
+<path d="M506.6,415.2 Q427.4,337.79999999999995 348.2,260.4" fill="none" stroke="#222" stroke-width="3.5999999999999996" stroke-linecap="round"/>
+<rect x="414.4" y="326.79999999999995" width="26" height="22" rx="4" fill="white" stroke="#222" stroke-width="1.0"/>
+<circle cx="348.2" cy="260.4" r="25.2" fill="#f2f2f2" stroke="#222" stroke-width="1.44"/>
+<text x="348.2" y="264.71999999999997" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.68" font-weight="bold">A</text>
+<circle cx="189.79999999999998" cy="134.39999999999998" r="25.2" fill="#f2f2f2" stroke="#222" stroke-width="1.44"/>
+<text x="189.79999999999998" y="138.71999999999997" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.68" font-weight="bold">B</text>
+<circle cx="506.6" cy="134.39999999999998" r="25.2" fill="#f2f2f2" stroke="#222" stroke-width="1.44"/>
+<text x="506.6" y="138.71999999999997" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.68" font-weight="bold">C</text>
+<circle cx="189.79999999999998" cy="415.2" r="25.2" fill="#f2f2f2" stroke="#222" stroke-width="1.44"/>
+<text x="189.79999999999998" y="419.52" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.68" font-weight="bold">D</text>
+<circle cx="506.6" cy="415.2" r="25.2" fill="#f2f2f2" stroke="#222" stroke-width="1.44"/>
+<text x="506.6" y="419.52" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.68" font-weight="bold">E</text>
+<rect x="715" y="105" width="370" height="455" rx="14" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="900" y="140" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">TRAVAIL À FAIRE</text>
+<circle cx="755" cy="175" r="15" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="755" y="180" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">1</text>
+<text x="785" y="167" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">Numéroter les six chemins.</text>
+<circle cx="755" cy="250" r="15" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="755" y="255" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">2</text>
+<text x="785" y="242" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">Revenir exactement au départ.</text>
+<circle cx="755" cy="325" r="15" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="755" y="330" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">3</text>
+<text x="785" y="317" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">Compter les cinq degrés.</text>
+<circle cx="755" cy="400" r="15" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="755" y="405" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">4</text>
+<text x="785" y="392" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">Expliquer le degré 4 de A et les</text>
+<text x="785" y="410" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">deux boucles.</text>
+<rect x="35" y="585" width="1050" height="155" rx="12" fill="#f5f5f5" stroke="#222" stroke-width="1.4"/>
+<text x="60" y="618" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">PRODUCTION À RENDRE</text>
+<text x="70" y="650" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">☐</text>
+<text x="100" y="648" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">un circuit complet numéroté de 1 à 6</text>
+<text x="70" y="681" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">☐</text>
+<text x="100" y="679" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">le degré des cinq zones</text>
+<text x="70" y="712" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">☐</text>
+<text x="100" y="710" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">l’explication du passage deux fois par A sans réutiliser un chemin</text>
+<text x="60" y="730" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Conclusion de l’équipe : _______________________________________________________________</text>
+</svg>

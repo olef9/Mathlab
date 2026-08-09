@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="40" text-anchor="start" font-family="Arial" font-size="27" font-weight="bold">S26 – Plan du mini-diaporama</text>
+<text x="40" y="66" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Cinq diapositives · une idée principale par diapositive · police lisible</text>
+<rect x="45" y="105" width="320" height="250" rx="10" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="70" y="140" text-anchor="start" font-family="Arial" font-size="15" font-weight="bold">DIAPO 1</text>
+<text x="205.0" y="190" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">TITRE ET QUESTION</text>
+<text x="205.0" y="235" text-anchor="middle" font-family="Arial" font-size="13" font-weight="normal">Quelle numération allons-nous expliquer ?</text>
+<rect x="80" y="270" width="250" height="55" rx="5" fill="white" stroke="#222" stroke-width="1" stroke-dasharray="5 4"/>
+<text x="205.0" y="303" text-anchor="middle" font-family="Arial" font-size="12" font-weight="normal">Visuel principal</text>
+<rect x="395" y="105" width="320" height="250" rx="10" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="420" y="140" text-anchor="start" font-family="Arial" font-size="15" font-weight="bold">DIAPO 2</text>
+<text x="555.0" y="190" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">SYMBOLES ET RÈGLE</text>
+<text x="555.0" y="235" text-anchor="middle" font-family="Arial" font-size="13" font-weight="normal">Quels symboles ? Quelle valeur pour chaque position ?</text>
+<rect x="430" y="270" width="250" height="55" rx="5" fill="white" stroke="#222" stroke-width="1" stroke-dasharray="5 4"/>
+<text x="555.0" y="303" text-anchor="middle" font-family="Arial" font-size="12" font-weight="normal">Visuel principal</text>
+<rect x="745" y="105" width="320" height="250" rx="10" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="770" y="140" text-anchor="start" font-family="Arial" font-size="15" font-weight="bold">DIAPO 3</text>
+<text x="905.0" y="190" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">DÉCODAGE</text>
+<text x="905.0" y="235" text-anchor="middle" font-family="Arial" font-size="13" font-weight="normal">Un exemple décomposé et calculé.</text>
+<rect x="780" y="270" width="250" height="55" rx="5" fill="white" stroke="#222" stroke-width="1" stroke-dasharray="5 4"/>
+<text x="905.0" y="303" text-anchor="middle" font-family="Arial" font-size="12" font-weight="normal">Visuel principal</text>
+<rect x="220" y="430" width="320" height="250" rx="10" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="245" y="465" text-anchor="start" font-family="Arial" font-size="15" font-weight="bold">DIAPO 4</text>
+<text x="380.0" y="515" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">CODAGE ET ERREUR</text>
+<text x="380.0" y="560" text-anchor="middle" font-family="Arial" font-size="13" font-weight="normal">Un exemple dans l’autre sens et un conseil.</text>
+<rect x="255" y="595" width="250" height="55" rx="5" fill="white" stroke="#222" stroke-width="1" stroke-dasharray="5 4"/>
+<text x="380.0" y="628" text-anchor="middle" font-family="Arial" font-size="12" font-weight="normal">Visuel principal</text>
+<rect x="740" y="430" width="320" height="250" rx="10" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="765" y="465" text-anchor="start" font-family="Arial" font-size="15" font-weight="bold">DIAPO 5</text>
+<text x="900.0" y="515" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">DÉFI ET SOURCE</text>
+<text x="900.0" y="560" text-anchor="middle" font-family="Arial" font-size="13" font-weight="normal">Une question pour le public et l’attribution.</text>
+<rect x="775" y="595" width="250" height="55" rx="5" fill="white" stroke="#222" stroke-width="1" stroke-dasharray="5 4"/>
+<text x="900.0" y="628" text-anchor="middle" font-family="Arial" font-size="12" font-weight="normal">Visuel principal</text>
+<text x="40" y="760" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold">Règle : pas de paragraphe long ; préférer mots-clés, schémas et calculs.</text>
+</svg>

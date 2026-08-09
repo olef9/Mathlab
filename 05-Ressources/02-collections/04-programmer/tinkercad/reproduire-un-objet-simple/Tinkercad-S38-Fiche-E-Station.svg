@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L0,6 L9,3 z" fill="#222"/>
+</marker>
+</defs>
+<text x="40" y="40" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="27" font-weight="bold">S38 – Équipe E – La station météo</text>
+<text x="40" y="68" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Niveau : Avancé · Dimensions et élévations en millimètres.</text>
+<rect x="45" y="100" width="400" height="500" rx="14" fill="white" stroke="#222" stroke-width="1.6"/>
+<text x="245" y="132" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">MODÈLE À REPRODUIRE</text>
+<ellipse cx="245.0" cy="447.0" rx="52.0" ry="7" fill="#f5f5f5" stroke="#222" stroke-width="1.2"/>
+<rect x="193.0" y="447.0" width="104.0" height="8.0" rx="0" fill="#dddddd" stroke="#222" stroke-width="1.2"/>
+<ellipse cx="245.0" cy="455.0" rx="52.0" ry="7" fill="#dddddd" stroke="#222" stroke-width="1.2"/>
+<rect x="205.0" y="370.0" width="80.0" height="70.0" rx="0" fill="#d8d8d8" stroke="#222" stroke-width="1.3"/>
+<ellipse cx="245.0" cy="287.0" rx="10.0" ry="7" fill="#f5f5f5" stroke="#222" stroke-width="1.2"/>
+<rect x="235.0" y="287.0" width="20.0" height="78.0" rx="0" fill="#dddddd" stroke="#222" stroke-width="1.2"/>
+<ellipse cx="245.0" cy="365.0" rx="10.0" ry="7" fill="#dddddd" stroke="#222" stroke-width="1.2"/>
+<circle cx="245" cy="260.0" r="28.0" fill="#eeeeee" stroke="#222" stroke-width="1.3"/>
+<rect x="123.0" y="375.0" width="78.0" height="55.0" rx="0" fill="#d0d0d0" stroke="#222" stroke-width="1.2"/>
+<rect x="289.0" y="375.0" width="78.0" height="55.0" rx="0" fill="#d0d0d0" stroke="#222" stroke-width="1.2"/>
+<text x="245" y="565" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">Vue de face schématique</text>
+<rect x="475" y="100" width="610" height="500" rx="14" fill="white" stroke="#222" stroke-width="1.6"/>
+<text x="780" y="132" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">INVENTAIRE DES FORMES</text>
+<rect x="500" y="155" width="130" height="45" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.1"/>
+<text x="565.0" y="184" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Forme</text>
+<rect x="630" y="155" width="170" height="45" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.1"/>
+<text x="715.0" y="184" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Dimensions</text>
+<rect x="800" y="155" width="260" height="45" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.1"/>
+<text x="930.0" y="184" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Position</text>
+<rect x="500" y="200" width="130" height="62" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="565.0" y="220" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.2" font-weight="bold">Cylindre</text>
+<rect x="630" y="200" width="170" height="62" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="715.0" y="220" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.2" font-weight="bold">Ø 34 × 6</text>
+<rect x="800" y="200" width="260" height="62" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="930.0" y="220" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.2" font-weight="normal">base : z = 0</text>
+<rect x="500" y="262" width="130" height="62" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="565.0" y="282" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.2" font-weight="bold">Boîte</text>
+<rect x="630" y="262" width="170" height="62" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="715.0" y="282" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.2" font-weight="bold">24 × 24 × 24</text>
+<rect x="800" y="262" width="260" height="62" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="930.0" y="282" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.2" font-weight="normal">boîtier centré : base z = 6</text>
+<rect x="500" y="324" width="130" height="62" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="565.0" y="344" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.2" font-weight="bold">Cylindre</text>
+<rect x="630" y="324" width="170" height="62" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="715.0" y="344" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.2" font-weight="bold">Ø 6 × 32</text>
+<rect x="800" y="324" width="260" height="62" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="930.0" y="344" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.2" font-weight="normal">mât centré : base z = 30</text>
+<rect x="500" y="386" width="130" height="62" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="565.0" y="406" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.2" font-weight="bold">Sphère</text>
+<rect x="630" y="386" width="170" height="62" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="715.0" y="406" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.2" font-weight="bold">Ø 18</text>
+<rect x="800" y="386" width="260" height="62" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="930.0" y="406" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.2" font-weight="normal">capteur centré : base z = 62</text>
+<rect x="500" y="448" width="130" height="62" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="565.0" y="468" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.2" font-weight="bold">2 boîtes</text>
+<rect x="630" y="448" width="170" height="62" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="715.0" y="468" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.2" font-weight="bold">28 × 4 × 18</text>
+<rect x="800" y="448" width="260" height="62" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="930.0" y="468" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.2" font-weight="normal">panneaux latéraux : base z = 9</text>
+<text x="500" y="535" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Ordre conseillé :</text>
+<text x="515" y="560" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="normal">1. Empiler base, boîtier et mât.</text>
+<text x="515" y="585" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="normal">2. Placer la sphère au sommet.</text>
+<text x="515" y="610" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="normal">3. Créer un panneau latéral.</text>
+<text x="515" y="635" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="normal">4. Le dupliquer de l’autre côté à la même hauteur.</text>
+<rect x="45" y="630" width="1040" height="110" rx="12" fill="#f5f5f5" stroke="#222" stroke-width="1.4"/>
+<text x="70" y="660" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">Contrôles obligatoires</text>
+<text x="80" y="700" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">☐ symétrie des panneaux</text>
+<text x="420" y="700" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">☐ capteur centré</text>
+<text x="760" y="700" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">☐ aucune intersection inutile</text>
+<text x="45" y="775" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Nom du fichier : S38-Equipe-__-Objet-________________________</text>
+</svg>

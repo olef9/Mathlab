@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="42" y="42" text-anchor="start" font-family="Arial" font-size="29" font-weight="bold">EUR-06 – Le sommet incomplet</text>
+<text x="42" y="72" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">Quelle forme complète exactement le tour autour du point ?</text>
+<polygon points="360.00,380.00 360.00,275.00 450.93,327.50" fill="white" stroke="#222" stroke-width="1.4"/>
+<polygon points="360.00,380.00 450.93,327.50 503.43,418.43 412.50,470.93" fill="#eeeeee" stroke="#222" stroke-width="1.4"/>
+<polygon points="360.00,380.00 412.50,470.93 360.00,561.87 255.00,561.87 202.50,470.93 255.00,380.00" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="360" cy="380" r="3" fill="#111"/>
+<path d="M 360 380 L 490 380 A 130 130 0 0 1 360 250 Z" fill="none" stroke="#555" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="452" y="308" text-anchor="middle" font-family="Arial" font-size="40" font-weight="bold">?</text>
+<rect x="650" y="125" width="400" height="490" rx="14" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="850" y="165" text-anchor="middle" font-family="Arial" font-size="19" font-weight="bold">FORMES PROPOSÉES</text>
+<text x="690" y="243" text-anchor="start" font-family="Arial" font-size="20" font-weight="bold">A</text>
+<polygon points="760.00,209.60 782.00,247.70 738.00,247.70" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="825" y="231" text-anchor="start" font-family="Arial" font-size="16" font-weight="bold">triangle</text>
+<text x="825" y="254" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">60°</text>
+<text x="690" y="338" text-anchor="start" font-family="Arial" font-size="20" font-weight="bold">B</text>
+<polygon points="760.00,298.89 791.11,330.00 760.00,361.11 728.89,330.00" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="825" y="326" text-anchor="start" font-family="Arial" font-size="16" font-weight="bold">carré</text>
+<text x="825" y="349" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">90°</text>
+<text x="690" y="433" text-anchor="start" font-family="Arial" font-size="20" font-weight="bold">C</text>
+<polygon points="760.00,387.57 795.60,413.43 782.00,455.28 738.00,455.28 724.40,413.43" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="825" y="421" text-anchor="start" font-family="Arial" font-size="16" font-weight="bold">pentagone</text>
+<text x="825" y="444" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">108°</text>
+<text x="690" y="528" text-anchor="start" font-family="Arial" font-size="20" font-weight="bold">D</text>
+<polygon points="760.00,476.00 798.11,498.00 798.11,542.00 760.00,564.00 721.89,542.00 721.89,498.00" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="825" y="516" text-anchor="start" font-family="Arial" font-size="16" font-weight="bold">hexagone</text>
+<text x="825" y="539" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">120°</text>
+<text x="55" y="690" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">Calcul :</text>
+<text x="140" y="690" text-anchor="start" font-family="Arial" font-size="18" font-weight="normal">360° − (60° + 90° + 120°) = __________</text>
+<text x="55" y="745" text-anchor="start" font-family="Arial" font-size="17" font-weight="normal">Réponse : ______________________________</text>
+</svg>

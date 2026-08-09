@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="28.5" font-weight="bold">S64 – Protocole d&#x27;accueil d&#x27;un groupe CM2</text>
+<circle cx="72" cy="122" r="20" fill="#f4f4f4" stroke="#222" stroke-width="1.3"/>
+<text x="72" y="129" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">1</text>
+<rect x="108" y="95" width="960" height="60" rx="10" fill="#f7f7f7" stroke="#222" stroke-width="1.3"/>
+<text x="135" y="118" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">ACCUEILLIR</text>
+<text x="390" y="118" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">« Bonjour. Vous êtes à l&#x27;atelier… »</text>
+<circle cx="72" cy="210" r="20" fill="#f4f4f4" stroke="#222" stroke-width="1.3"/>
+<text x="72" y="217" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">2</text>
+<rect x="108" y="183" width="960" height="60" rx="10" fill="#f7f7f7" stroke="#222" stroke-width="1.3"/>
+<text x="135" y="206" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">DONNER LE CADRE</text>
+<text x="390" y="206" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">« Vous avez environ 8 minutes. Lisez toute la consigne. »</text>
+<circle cx="72" cy="298" r="20" fill="#f4f4f4" stroke="#222" stroke-width="1.3"/>
+<text x="72" y="305" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">3</text>
+<rect x="108" y="271" width="960" height="60" rx="10" fill="#f7f7f7" stroke="#222" stroke-width="1.3"/>
+<text x="135" y="294" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">LAISSER CHERCHER</text>
+<text x="390" y="294" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">Deux premières minutes sans indice.</text>
+<circle cx="72" cy="386" r="20" fill="#f4f4f4" stroke="#222" stroke-width="1.3"/>
+<text x="72" y="393" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">4</text>
+<rect x="108" y="359" width="960" height="60" rx="10" fill="#f7f7f7" stroke="#222" stroke-width="1.3"/>
+<text x="135" y="382" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">QUESTIONNER</text>
+<text x="390" y="382" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">« Qu&#x27;avez-vous déjà essayé ? »</text>
+<circle cx="72" cy="474" r="20" fill="#f4f4f4" stroke="#222" stroke-width="1.3"/>
+<text x="72" y="481" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">5</text>
+<rect x="108" y="447" width="960" height="60" rx="10" fill="#f7f7f7" stroke="#222" stroke-width="1.3"/>
+<text x="135" y="470" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">AIDER PROGRESSIVEMENT</text>
+<text x="390" y="470" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">Question → indice 1 → indice 2 si nécessaire.</text>
+<circle cx="72" cy="562" r="20" fill="#f4f4f4" stroke="#222" stroke-width="1.3"/>
+<text x="72" y="569" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">6</text>
+<rect x="108" y="535" width="960" height="60" rx="10" fill="#f7f7f7" stroke="#222" stroke-width="1.3"/>
+<text x="135" y="558" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">FAIRE EXPLIQUER</text>
+<text x="390" y="558" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">« Comment savez-vous que cela fonctionne ? »</text>
+<circle cx="72" cy="650" r="20" fill="#f4f4f4" stroke="#222" stroke-width="1.3"/>
+<text x="72" y="657" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">7</text>
+<rect x="108" y="623" width="960" height="60" rx="10" fill="#f7f7f7" stroke="#222" stroke-width="1.3"/>
+<text x="135" y="646" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">VALIDER ET RÉINITIALISER</text>
+<text x="390" y="646" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">Passeport, lettre, puis matériel remis à zéro.</text>
+</svg>

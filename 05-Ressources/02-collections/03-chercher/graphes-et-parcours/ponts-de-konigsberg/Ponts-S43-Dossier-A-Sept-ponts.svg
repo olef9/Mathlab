@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="35" y="40" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="27" font-weight="bold">S43 – Équipe A – Les sept ponts</text>
+<text x="35" y="70" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">Décider si les sept ponts peuvent être franchis exactement une fois.</text>
+<rect x="35" y="105" width="650" height="455" rx="14" fill="white" stroke="#222" stroke-width="1.5"/>
+<path d="M77.0,153.5 Q192.73567585425923,197.65569991017964 294.0,269.0" fill="none" stroke="#222" stroke-width="3.5" stroke-linecap="round"/>
+<rect x="179.73567585425923" y="186.65569991017964" width="26" height="22" rx="4" fill="white" stroke="#222" stroke-width="1.0"/>
+<path d="M77.0,153.5 Q178.26432414574077,224.84430008982036 294.0,269.0" fill="none" stroke="#222" stroke-width="3.5" stroke-linecap="round"/>
+<rect x="165.26432414574077" y="213.84430008982036" width="26" height="22" rx="4" fill="white" stroke="#222" stroke-width="1.0"/>
+<path d="M77.0,384.5 Q178.26432414574077,313.15569991017964 294.0,269.0" fill="none" stroke="#222" stroke-width="3.5" stroke-linecap="round"/>
+<rect x="165.26432414574077" y="302.15569991017964" width="26" height="22" rx="4" fill="white" stroke="#222" stroke-width="1.0"/>
+<path d="M77.0,384.5 Q192.73567585425923,340.34430008982036 294.0,269.0" fill="none" stroke="#222" stroke-width="3.5" stroke-linecap="round"/>
+<rect x="179.73567585425923" y="329.34430008982036" width="26" height="22" rx="4" fill="white" stroke="#222" stroke-width="1.0"/>
+<path d="M294.0,269.0 Q409.5,269.0 525.0,269.0" fill="none" stroke="#222" stroke-width="3.5" stroke-linecap="round"/>
+<rect x="396.5" y="258.0" width="26" height="22" rx="4" fill="white" stroke="#222" stroke-width="1.0"/>
+<path d="M77.0,153.5 Q301.0,211.25 525.0,269.0" fill="none" stroke="#222" stroke-width="3.5" stroke-linecap="round"/>
+<rect x="288.0" y="200.25" width="26" height="22" rx="4" fill="white" stroke="#222" stroke-width="1.0"/>
+<path d="M77.0,384.5 Q301.0,326.75 525.0,269.0" fill="none" stroke="#222" stroke-width="3.5" stroke-linecap="round"/>
+<rect x="288.0" y="315.75" width="26" height="22" rx="4" fill="white" stroke="#222" stroke-width="1.0"/>
+<circle cx="77.0" cy="153.5" r="24.5" fill="#f2f2f2" stroke="#222" stroke-width="1.4"/>
+<text x="77.0" y="157.7" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.299999999999999" font-weight="bold">N</text>
+<circle cx="77.0" cy="384.5" r="24.5" fill="#f2f2f2" stroke="#222" stroke-width="1.4"/>
+<text x="77.0" y="388.7" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.299999999999999" font-weight="bold">S</text>
+<circle cx="294.0" cy="269.0" r="24.5" fill="#f2f2f2" stroke="#222" stroke-width="1.4"/>
+<text x="294.0" y="273.2" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.299999999999999" font-weight="bold">I</text>
+<circle cx="525.0" cy="269.0" r="24.5" fill="#f2f2f2" stroke="#222" stroke-width="1.4"/>
+<text x="525.0" y="273.2" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.299999999999999" font-weight="bold">P</text>
+<rect x="715" y="105" width="370" height="455" rx="14" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="900" y="140" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">TRAVAIL À FAIRE</text>
+<circle cx="755" cy="175" r="15" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="755" y="180" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">1</text>
+<text x="785" y="167" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">Faire deux essais différents.</text>
+<circle cx="755" cy="250" r="15" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="755" y="255" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">2</text>
+<text x="785" y="242" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">Compter N, S, I et P.</text>
+<circle cx="755" cy="325" r="15" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="755" y="330" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">3</text>
+<text x="785" y="317" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">Entourer les quatre degrés</text>
+<text x="785" y="335" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">impairs.</text>
+<circle cx="755" cy="400" r="15" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="755" y="405" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">4</text>
+<text x="785" y="392" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">Rédiger trois phrases prouvant</text>
+<text x="785" y="410" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">l’impossibilité.</text>
+<rect x="35" y="585" width="1050" height="155" rx="12" fill="#f5f5f5" stroke="#222" stroke-width="1.4"/>
+<text x="60" y="618" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">PRODUCTION À RENDRE</text>
+<text x="70" y="650" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">☐</text>
+<text x="100" y="648" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">deux essais partant de zones différentes</text>
+<text x="70" y="681" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">☐</text>
+<text x="100" y="679" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">le degré des quatre zones</text>
+<text x="70" y="712" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">☐</text>
+<text x="100" y="710" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">une conclusion argumentée : possible ou impossible</text>
+<text x="60" y="730" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Conclusion de l’équipe : _______________________________________________________________</text>
+</svg>

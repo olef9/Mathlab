@@ -1,0 +1,227 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="40" font-family="Arial" font-size="26" font-weight="bold">Robomorpion – Défis complémentaires Math’Lab</text>
+<text x="40" y="66" font-family="Arial" font-size="13">○ : tourner à gauche · case vide : tout droit · × : tourner à droite</text>
+<rect x="35" y="95" width="335" height="650" rx="10" fill="white" stroke="#444" stroke-width="1.6"/>
+<text x="53" y="127" font-family="Arial" font-size="18" font-weight="bold">A – Prévoir</text>
+<rect x="394" y="95" width="335" height="650" rx="10" fill="white" stroke="#444" stroke-width="1.6"/>
+<text x="412" y="127" font-family="Arial" font-size="18" font-weight="bold">B – Retrouver</text>
+<rect x="753" y="95" width="335" height="650" rx="10" fill="white" stroke="#444" stroke-width="1.6"/>
+<text x="771" y="127" font-family="Arial" font-size="18" font-weight="bold">C – Choisir</text>
+<rect x="72" y="180" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="88.17" y1="196.17" x2="104.83" y2="212.83" stroke="#111" stroke-width="3"/>
+<line x1="104.83" y1="196.17" x2="88.17" y2="212.83" stroke="#111" stroke-width="3"/>
+<rect x="121" y="180" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<circle cx="145.5" cy="204.5" r="8.82" fill="#111"/>
+<rect x="170" y="180" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<rect x="219" y="180" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="235.17" y1="196.17" x2="251.83" y2="212.83" stroke="#111" stroke-width="3"/>
+<line x1="251.83" y1="196.17" x2="235.17" y2="212.83" stroke="#111" stroke-width="3"/>
+<rect x="268" y="180" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<circle cx="292.5" cy="204.5" r="8.82" fill="#111"/>
+<rect x="72" y="229" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<rect x="121" y="229" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="137.17" y1="245.17" x2="153.83" y2="261.83" stroke="#111" stroke-width="3"/>
+<line x1="153.83" y1="245.17" x2="137.17" y2="261.83" stroke="#111" stroke-width="3"/>
+<rect x="170" y="229" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<rect x="219" y="229" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="235.17" y1="245.17" x2="251.83" y2="261.83" stroke="#111" stroke-width="3"/>
+<line x1="251.83" y1="245.17" x2="235.17" y2="261.83" stroke="#111" stroke-width="3"/>
+<rect x="268" y="229" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<circle cx="292.5" cy="253.5" r="8.82" fill="#111"/>
+<rect x="72" y="278" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<circle cx="96.5" cy="302.5" r="8.82" fill="#111"/>
+<rect x="121" y="278" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<rect x="170" y="278" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="186.17" y1="294.17" x2="202.83" y2="310.83" stroke="#111" stroke-width="3"/>
+<line x1="202.83" y1="294.17" x2="186.17" y2="310.83" stroke="#111" stroke-width="3"/>
+<rect x="219" y="278" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<rect x="268" y="278" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="284.17" y1="294.17" x2="300.83" y2="310.83" stroke="#111" stroke-width="3"/>
+<line x1="300.83" y1="294.17" x2="284.17" y2="310.83" stroke="#111" stroke-width="3"/>
+<rect x="72" y="327" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<rect x="121" y="327" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<circle cx="145.5" cy="351.5" r="8.82" fill="#111"/>
+<rect x="170" y="327" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<circle cx="194.5" cy="351.5" r="8.82" fill="#111"/>
+<rect x="219" y="327" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<circle cx="243.5" cy="351.5" r="8.82" fill="#111"/>
+<rect x="268" y="327" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="284.17" y1="343.17" x2="300.83" y2="359.83" stroke="#111" stroke-width="3"/>
+<line x1="300.83" y1="343.17" x2="284.17" y2="359.83" stroke="#111" stroke-width="3"/>
+<rect x="72" y="376" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="88.17" y1="392.17" x2="104.83" y2="408.83" stroke="#111" stroke-width="3"/>
+<line x1="104.83" y1="392.17" x2="88.17" y2="408.83" stroke="#111" stroke-width="3"/>
+<rect x="121" y="376" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<rect x="170" y="376" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<circle cx="194.5" cy="400.5" r="8.82" fill="#111"/>
+<rect x="219" y="376" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="235.17" y1="392.17" x2="251.83" y2="408.83" stroke="#111" stroke-width="3"/>
+<line x1="251.83" y1="392.17" x2="235.17" y2="408.83" stroke="#111" stroke-width="3"/>
+<rect x="268" y="376" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<rect x="72" y="180" width="245" height="245" fill="none" stroke="#111" stroke-width="2.3"/>
+<text x="96.5" y="172" text-anchor="middle" font-family="Arial" font-size="11">1</text>
+<text x="145.5" y="172" text-anchor="middle" font-family="Arial" font-size="11">2</text>
+<text x="194.5" y="172" text-anchor="middle" font-family="Arial" font-size="11">3</text>
+<text x="243.5" y="172" text-anchor="middle" font-family="Arial" font-size="11">4</text>
+<text x="292.5" y="172" text-anchor="middle" font-family="Arial" font-size="11">5</text>
+<text x="60" y="210.38" text-anchor="middle" font-family="Arial" font-size="11">1</text>
+<text x="60" y="259.38" text-anchor="middle" font-family="Arial" font-size="11">2</text>
+<text x="60" y="308.38" text-anchor="middle" font-family="Arial" font-size="11">3</text>
+<text x="60" y="357.38" text-anchor="middle" font-family="Arial" font-size="11">4</text>
+<text x="60" y="406.38" text-anchor="middle" font-family="Arial" font-size="11">5</text>
+<line x1="30" y1="351.5" x2="67" y2="351.5" stroke="#111" stroke-width="2"/>
+<polygon points="72,351.5 59,343.5 59,359.5" fill="#111"/>
+<text x="27" y="339.5" font-family="Arial" font-size="12">entrée</text>
+<text x="62" y="475" font-family="Arial" font-size="14">Prévoir la sortie.</text>
+<text x="62" y="505" font-family="Arial" font-size="14">Nombre de changements :</text>
+<text x="62" y="535" font-family="Arial" font-size="14">________________________</text>
+<text x="62" y="585" font-family="Arial" font-size="14">Sortie :</text>
+<text x="62" y="615" font-family="Arial" font-size="14">________________________</text>
+<text x="62" y="675" font-family="Arial" font-size="12">Tracer seulement après la prévision.</text>
+<rect x="431" y="180" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<rect x="480" y="180" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<rect x="529" y="180" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<rect x="578" y="180" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<rect x="627" y="180" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="643.17" y1="196.17" x2="659.83" y2="212.83" stroke="#111" stroke-width="3"/>
+<line x1="659.83" y1="196.17" x2="643.17" y2="212.83" stroke="#111" stroke-width="3"/>
+<rect x="431" y="229" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="447.17" y1="245.17" x2="463.83" y2="261.83" stroke="#111" stroke-width="3"/>
+<line x1="463.83" y1="245.17" x2="447.17" y2="261.83" stroke="#111" stroke-width="3"/>
+<rect x="480" y="229" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<rect x="529" y="229" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<circle cx="553.5" cy="253.5" r="8.82" fill="#111"/>
+<rect x="578" y="229" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="594.17" y1="245.17" x2="610.83" y2="261.83" stroke="#111" stroke-width="3"/>
+<line x1="610.83" y1="245.17" x2="594.17" y2="261.83" stroke="#111" stroke-width="3"/>
+<rect x="627" y="229" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="643.17" y1="245.17" x2="659.83" y2="261.83" stroke="#111" stroke-width="3"/>
+<line x1="659.83" y1="245.17" x2="643.17" y2="261.83" stroke="#111" stroke-width="3"/>
+<rect x="431" y="278" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="447.17" y1="294.17" x2="463.83" y2="310.83" stroke="#111" stroke-width="3"/>
+<line x1="463.83" y1="294.17" x2="447.17" y2="310.83" stroke="#111" stroke-width="3"/>
+<rect x="480" y="278" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="496.17" y1="294.17" x2="512.83" y2="310.83" stroke="#111" stroke-width="3"/>
+<line x1="512.83" y1="294.17" x2="496.17" y2="310.83" stroke="#111" stroke-width="3"/>
+<rect x="529" y="278" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<rect x="578" y="278" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="594.17" y1="294.17" x2="610.83" y2="310.83" stroke="#111" stroke-width="3"/>
+<line x1="610.83" y1="294.17" x2="594.17" y2="310.83" stroke="#111" stroke-width="3"/>
+<rect x="627" y="278" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<circle cx="651.5" cy="302.5" r="8.82" fill="#111"/>
+<rect x="431" y="327" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<rect x="480" y="327" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="496.17" y1="343.17" x2="512.83" y2="359.83" stroke="#111" stroke-width="3"/>
+<line x1="512.83" y1="343.17" x2="496.17" y2="359.83" stroke="#111" stroke-width="3"/>
+<rect x="529" y="327" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<rect x="578" y="327" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="594.17" y1="343.17" x2="610.83" y2="359.83" stroke="#111" stroke-width="3"/>
+<line x1="610.83" y1="343.17" x2="594.17" y2="359.83" stroke="#111" stroke-width="3"/>
+<rect x="627" y="327" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<circle cx="651.5" cy="351.5" r="8.82" fill="#111"/>
+<rect x="431" y="376" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="447.17" y1="392.17" x2="463.83" y2="408.83" stroke="#111" stroke-width="3"/>
+<line x1="463.83" y1="392.17" x2="447.17" y2="408.83" stroke="#111" stroke-width="3"/>
+<rect x="480" y="376" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="496.17" y1="392.17" x2="512.83" y2="408.83" stroke="#111" stroke-width="3"/>
+<line x1="512.83" y1="392.17" x2="496.17" y2="408.83" stroke="#111" stroke-width="3"/>
+<rect x="529" y="376" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<circle cx="553.5" cy="400.5" r="8.82" fill="#111"/>
+<rect x="578" y="376" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<rect x="627" y="376" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<circle cx="651.5" cy="400.5" r="8.82" fill="#111"/>
+<rect x="431" y="180" width="245" height="245" fill="none" stroke="#111" stroke-width="2.3"/>
+<text x="455.5" y="172" text-anchor="middle" font-family="Arial" font-size="11">1</text>
+<text x="504.5" y="172" text-anchor="middle" font-family="Arial" font-size="11">2</text>
+<text x="553.5" y="172" text-anchor="middle" font-family="Arial" font-size="11">3</text>
+<text x="602.5" y="172" text-anchor="middle" font-family="Arial" font-size="11">4</text>
+<text x="651.5" y="172" text-anchor="middle" font-family="Arial" font-size="11">5</text>
+<text x="419" y="210.38" text-anchor="middle" font-family="Arial" font-size="11">1</text>
+<text x="419" y="259.38" text-anchor="middle" font-family="Arial" font-size="11">2</text>
+<text x="419" y="308.38" text-anchor="middle" font-family="Arial" font-size="11">3</text>
+<text x="419" y="357.38" text-anchor="middle" font-family="Arial" font-size="11">4</text>
+<text x="419" y="406.38" text-anchor="middle" font-family="Arial" font-size="11">5</text>
+<line x1="681" y1="302.5" x2="718" y2="302.5" stroke="#111" stroke-width="2"/>
+<polygon points="723,302.5 710,294.5 710,310.5" fill="#111"/>
+<text x="679" y="290.5" font-family="Arial" font-size="12">sortie</text>
+<text x="421" y="475" font-family="Arial" font-size="14">Retrouver l’entrée.</text>
+<text x="421" y="505" font-family="Arial" font-size="14">Côté : __________________</text>
+<text x="421" y="535" font-family="Arial" font-size="14">Ligne ou colonne : ______</text>
+<text x="421" y="585" font-family="Arial" font-size="14">Vérification dans le sens normal :</text>
+<text x="421" y="615" font-family="Arial" font-size="14">________________________</text>
+<text x="421" y="675" font-family="Arial" font-size="12">Une case est visitée deux fois.</text>
+<rect x="790" y="180" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="806.17" y1="196.17" x2="822.83" y2="212.83" stroke="#111" stroke-width="3"/>
+<line x1="822.83" y1="196.17" x2="806.17" y2="212.83" stroke="#111" stroke-width="3"/>
+<rect x="839" y="180" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<circle cx="863.5" cy="204.5" r="8.82" fill="#111"/>
+<rect x="888" y="180" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<rect x="937" y="180" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="953.17" y1="196.17" x2="969.83" y2="212.83" stroke="#111" stroke-width="3"/>
+<line x1="969.83" y1="196.17" x2="953.17" y2="212.83" stroke="#111" stroke-width="3"/>
+<rect x="986" y="180" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<circle cx="1010.5" cy="204.5" r="8.82" fill="#111"/>
+<rect x="790" y="229" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<rect x="839" y="229" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="855.17" y1="245.17" x2="871.83" y2="261.83" stroke="#111" stroke-width="3"/>
+<line x1="871.83" y1="245.17" x2="855.17" y2="261.83" stroke="#111" stroke-width="3"/>
+<rect x="888" y="229" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<rect x="937" y="229" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="953.17" y1="245.17" x2="969.83" y2="261.83" stroke="#111" stroke-width="3"/>
+<line x1="969.83" y1="245.17" x2="953.17" y2="261.83" stroke="#111" stroke-width="3"/>
+<rect x="986" y="229" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<circle cx="1010.5" cy="253.5" r="8.82" fill="#111"/>
+<rect x="790" y="278" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<circle cx="814.5" cy="302.5" r="8.82" fill="#111"/>
+<rect x="839" y="278" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<rect x="888" y="278" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="904.17" y1="294.17" x2="920.83" y2="310.83" stroke="#111" stroke-width="3"/>
+<line x1="920.83" y1="294.17" x2="904.17" y2="310.83" stroke="#111" stroke-width="3"/>
+<rect x="937" y="278" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<rect x="986" y="278" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="1002.17" y1="294.17" x2="1018.83" y2="310.83" stroke="#111" stroke-width="3"/>
+<line x1="1018.83" y1="294.17" x2="1002.17" y2="310.83" stroke="#111" stroke-width="3"/>
+<rect x="790" y="327" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<rect x="839" y="327" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<text x="863.5" y="359.5" text-anchor="middle" font-family="Arial" font-size="22.05" font-weight="bold">?</text>
+<rect x="888" y="327" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<circle cx="912.5" cy="351.5" r="8.82" fill="#111"/>
+<rect x="937" y="327" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<circle cx="961.5" cy="351.5" r="8.82" fill="#111"/>
+<rect x="986" y="327" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="1002.17" y1="343.17" x2="1018.83" y2="359.83" stroke="#111" stroke-width="3"/>
+<line x1="1018.83" y1="343.17" x2="1002.17" y2="359.83" stroke="#111" stroke-width="3"/>
+<rect x="790" y="376" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="806.17" y1="392.17" x2="822.83" y2="408.83" stroke="#111" stroke-width="3"/>
+<line x1="822.83" y1="392.17" x2="806.17" y2="408.83" stroke="#111" stroke-width="3"/>
+<rect x="839" y="376" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<rect x="888" y="376" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<circle cx="912.5" cy="400.5" r="8.82" fill="#111"/>
+<rect x="937" y="376" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<line x1="953.17" y1="392.17" x2="969.83" y2="408.83" stroke="#111" stroke-width="3"/>
+<line x1="969.83" y1="392.17" x2="953.17" y2="408.83" stroke="#111" stroke-width="3"/>
+<rect x="986" y="376" width="49" height="49" fill="white" stroke="#555" stroke-width="1"/>
+<rect x="790" y="180" width="245" height="245" fill="none" stroke="#111" stroke-width="2.3"/>
+<text x="814.5" y="172" text-anchor="middle" font-family="Arial" font-size="11">1</text>
+<text x="863.5" y="172" text-anchor="middle" font-family="Arial" font-size="11">2</text>
+<text x="912.5" y="172" text-anchor="middle" font-family="Arial" font-size="11">3</text>
+<text x="961.5" y="172" text-anchor="middle" font-family="Arial" font-size="11">4</text>
+<text x="1010.5" y="172" text-anchor="middle" font-family="Arial" font-size="11">5</text>
+<text x="778" y="210.38" text-anchor="middle" font-family="Arial" font-size="11">1</text>
+<text x="778" y="259.38" text-anchor="middle" font-family="Arial" font-size="11">2</text>
+<text x="778" y="308.38" text-anchor="middle" font-family="Arial" font-size="11">3</text>
+<text x="778" y="357.38" text-anchor="middle" font-family="Arial" font-size="11">4</text>
+<text x="778" y="406.38" text-anchor="middle" font-family="Arial" font-size="11">5</text>
+<line x1="748" y1="351.5" x2="785" y2="351.5" stroke="#111" stroke-width="2"/>
+<polygon points="790,351.5 777,343.5 777,359.5" fill="#111"/>
+<line x1="1010.5" y1="430" x2="1010.5" y2="467" stroke="#111" stroke-width="2"/>
+<polygon points="1010.5,472 1002.5,459 1018.5,459" fill="#111"/>
+<text x="780" y="475" font-family="Arial" font-size="14">Sortie imposée :</text>
+<text x="780" y="500" font-family="Arial" font-size="14">bas de la colonne 5.</text>
+<text x="780" y="545" font-family="Arial" font-size="14">Dans la case ? placer :</text>
+<text x="800" y="580" font-family="Arial" font-size="14">☐ rien</text>
+<text x="800" y="610" font-family="Arial" font-size="14">☐ un rond</text>
+<text x="800" y="640" font-family="Arial" font-size="14">☐ une croix</text>
+<text x="780" y="690" font-family="Arial" font-size="12">Justifier sans effacer les essais.</text>
+</svg>

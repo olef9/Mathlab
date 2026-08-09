@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="45" y="45" font-family="Arial" font-size="28" font-weight="bold">KANG-05 – La machine à tampons</text>
+<text x="45" y="78" font-family="Arial" font-size="15">SI le nombre est pair → ○ · SI le nombre est divisible par 3 → × · Les deux règles sont testées.</text>
+<rect x="45" y="115" width="500" height="125" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="80" cy="150" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="157" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">1</text>
+<text x="130" y="163" font-family="Arial" font-size="21" font-weight="bold">8</text>
+<text x="130" y="203" font-family="Arial" font-size="15">code : __________</text>
+<rect x="580" y="115" width="500" height="125" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="615" cy="150" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="157" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">2</text>
+<text x="665" y="163" font-family="Arial" font-size="21" font-weight="bold">9</text>
+<text x="665" y="203" font-family="Arial" font-size="15">code : __________</text>
+<rect x="45" y="260" width="500" height="125" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="80" cy="295" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="302" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">3</text>
+<text x="130" y="308" font-family="Arial" font-size="21" font-weight="bold">12</text>
+<text x="130" y="348" font-family="Arial" font-size="15">code : __________</text>
+<rect x="580" y="260" width="500" height="125" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="615" cy="295" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="302" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">4</text>
+<text x="665" y="308" font-family="Arial" font-size="21" font-weight="bold">25</text>
+<text x="665" y="348" font-family="Arial" font-size="15">code : __________</text>
+<rect x="45" y="405" width="500" height="125" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="80" cy="440" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="447" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">5</text>
+<text x="130" y="453" font-family="Arial" font-size="21" font-weight="bold">De 1 à 20</text>
+<text x="130" y="493" font-family="Arial" font-size="15">deux tampons : __________________</text>
+<rect x="580" y="405" width="500" height="125" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="615" cy="440" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="447" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">6</text>
+<text x="665" y="453" font-family="Arial" font-size="21" font-weight="bold">14, 15, 18 ou 21</text>
+<text x="665" y="493" font-family="Arial" font-size="15">seulement ○ : __________</text>
+<rect x="45" y="550" width="500" height="125" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="80" cy="585" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="592" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">7</text>
+<text x="130" y="598" font-family="Arial" font-size="21" font-weight="bold">&gt; 20</text>
+<text x="130" y="638" font-family="Arial" font-size="15">plus petit avec ○× : __________</text>
+<rect x="580" y="550" width="500" height="125" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="615" cy="585" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="592" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">8</text>
+<text x="665" y="598" font-family="Arial" font-size="21" font-weight="bold">De 1 à 30</text>
+<text x="665" y="638" font-family="Arial" font-size="15">combien avec ○× ? __________</text>
+<text x="45" y="720" font-family="Arial" font-size="16">Un nombre ne vérifiant aucune règle reçoit le code : ______</text>
+<text x="45" y="758" font-family="Arial" font-size="14">Stratégie utilisée : _________________________________________________________________</text>
+</svg>

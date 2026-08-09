@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L0,6 L9,3 z" fill="#222"/>
+</marker>
+</defs>
+<text x="40" y="40" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="29" font-weight="bold">S39 – Cinq tutoriels Scratch</text>
+<text x="40" y="68" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Découper une carte par équipe. Chaque tutoriel traite un problème différent.</text>
+<rect x="35" y="105" width="330" height="285" rx="14" fill="white" stroke="#222" stroke-width="1.8" stroke-dasharray="8 5"/>
+<circle cx="71" cy="141" r="22" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="71" y="148" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">A</text>
+<text x="200" y="143" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">Réinitialiser le lutin</text>
+<text x="200" y="181" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="normal">Le lutin avance encore à chaque clic</text>
+<text x="200" y="200" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="normal">et ne repart pas du point prévu.</text>
+<text x="57" y="250" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">À montrer :</text>
+<text x="57" y="273" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="normal">Comparer deux exécutions successives, puis</text>
+<text x="57" y="291" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="normal">ajouter une remise à zéro.</text>
+<text x="57" y="340" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">Phrase indispensable :</text>
+<text x="57" y="362" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.3" font-weight="normal">Le drapeau vert déclenche le programme,</text>
+<text x="57" y="379" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.3" font-weight="normal">mais ne replace pas automatiquement le</text>
+<text x="57" y="396" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.3" font-weight="normal">lutin.</text>
+<rect x="390" y="105" width="330" height="285" rx="14" fill="white" stroke="#222" stroke-width="1.8" stroke-dasharray="8 5"/>
+<circle cx="426" cy="141" r="22" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="426" y="148" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">B</text>
+<text x="555" y="143" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">Avancer et tourner</text>
+<text x="555" y="181" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="normal">Le premier segment est correct, mais</text>
+<text x="555" y="200" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="normal">le second part vers le bas au lieu de</text>
+<text x="555" y="219" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="normal">monter.</text>
+<text x="412" y="250" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">À montrer :</text>
+<text x="412" y="273" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="normal">Repérer le premier écart, remplacer la</text>
+<text x="412" y="291" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="normal">rotation à droite par une rotation à</text>
+<text x="412" y="309" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="normal">gauche, puis retester.</text>
+<text x="412" y="340" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">Phrase indispensable :</text>
+<text x="412" y="362" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.3" font-weight="normal">Une rotation change l’orientation ; elle ne</text>
+<text x="412" y="379" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.3" font-weight="normal">déplace pas le lutin.</text>
+<rect x="745" y="105" width="330" height="285" rx="14" fill="white" stroke="#222" stroke-width="1.8" stroke-dasharray="8 5"/>
+<circle cx="781" cy="141" r="22" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="781" y="148" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">C</text>
+<text x="910" y="143" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">Utiliser le stylo</text>
+<text x="910" y="181" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="normal">À la deuxième exécution, un trait</text>
+<text x="910" y="200" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="normal">relie la fin du dessin au point de</text>
+<text x="910" y="219" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="normal">départ.</text>
+<text x="767" y="250" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">À montrer :</text>
+<text x="767" y="273" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="normal">Exécuter deux fois, identifier le</text>
+<text x="767" y="291" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="normal">déplacement qui trace, puis relever le</text>
+<text x="767" y="309" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="normal">stylo avant le repositionnement.</text>
+<text x="767" y="340" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">Phrase indispensable :</text>
+<text x="767" y="362" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.3" font-weight="normal">Effacer le dessin ne relève pas le stylo.</text>
+<rect x="210" y="420" width="330" height="285" rx="14" fill="white" stroke="#222" stroke-width="1.8" stroke-dasharray="8 5"/>
+<circle cx="246" cy="456" r="22" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="246" y="463" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">D</text>
+<text x="375" y="458" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">Simplifier avec répéter</text>
+<text x="375" y="496" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="normal">Le programme fonctionne, mais la même</text>
+<text x="375" y="515" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="normal">paire de blocs est copiée quatre fois.</text>
+<text x="232" y="565" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">À montrer :</text>
+<text x="232" y="588" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="normal">Montrer le carré, entourer la partie</text>
+<text x="232" y="606" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="normal">répétée, puis remplacer les huit blocs par</text>
+<text x="232" y="624" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="normal">une boucle.</text>
+<text x="232" y="655" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">Phrase indispensable :</text>
+<text x="232" y="677" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.3" font-weight="normal">Un programme plus court est correct</text>
+<text x="232" y="694" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.3" font-weight="normal">seulement s’il produit exactement le même</text>
+<text x="232" y="711" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.3" font-weight="normal">résultat.</text>
+<rect x="570" y="420" width="330" height="285" rx="14" fill="white" stroke="#222" stroke-width="1.8" stroke-dasharray="8 5"/>
+<circle cx="606" cy="456" r="22" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="606" y="463" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">E</text>
+<text x="735" y="458" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">Déboguer deux boucles</text>
+<text x="735" y="496" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="normal">Les carrés ne se ferment pas et les</text>
+<text x="735" y="515" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="normal">douze figures dérivent.</text>
+<text x="592" y="565" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">À montrer :</text>
+<text x="592" y="588" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="normal">Observer un seul petit carré, corriger 80°</text>
+<text x="592" y="606" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="normal">en 90°, puis relancer toute la rosace.</text>
+<text x="592" y="655" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">Phrase indispensable :</text>
+<text x="592" y="677" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.3" font-weight="normal">La boucle intérieure doit ramener le lutin</text>
+<text x="592" y="694" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.3" font-weight="normal">au point et à l’orientation de départ.</text>
+</svg>

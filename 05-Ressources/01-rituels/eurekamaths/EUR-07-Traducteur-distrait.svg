@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="40" text-anchor="start" font-family="Arial" font-size="28" font-weight="bold">EUR-07 – Le traducteur distrait</text>
+<text x="40" y="68" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">RÉPÈTE 3 FOIS [ AVANCE 2 ; TOURNE À DROITE ] · Une case = 40 pas.</text>
+<rect x="55" y="115" width="500" height="250" rx="14" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="83" y="150" text-anchor="start" font-family="Arial" font-size="22" font-weight="bold">A</text>
+<rect x="125" y="185" width="330" height="48" rx="12" fill="#eee" stroke="#222" stroke-width="1.4"/>
+<text x="290.0" y="215" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">répéter 3 fois</text>
+<rect x="150" y="243" width="300" height="48" rx="12" fill="#eee" stroke="#222" stroke-width="1.4"/>
+<text x="300.0" y="273" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">avancer de 40 pas</text>
+<rect x="150" y="301" width="300" height="48" rx="12" fill="#eee" stroke="#222" stroke-width="1.4"/>
+<text x="300.0" y="331" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">tourner à droite de 90°</text>
+<rect x="590" y="115" width="500" height="250" rx="14" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="618" y="150" text-anchor="start" font-family="Arial" font-size="22" font-weight="bold">B</text>
+<rect x="660" y="185" width="330" height="48" rx="12" fill="#eee" stroke="#222" stroke-width="1.4"/>
+<text x="825.0" y="215" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">répéter 2 fois</text>
+<rect x="685" y="243" width="300" height="48" rx="12" fill="#eee" stroke="#222" stroke-width="1.4"/>
+<text x="835.0" y="273" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">avancer de 80 pas</text>
+<rect x="685" y="301" width="300" height="48" rx="12" fill="#eee" stroke="#222" stroke-width="1.4"/>
+<text x="835.0" y="331" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">tourner à droite de 90°</text>
+<rect x="55" y="415" width="500" height="250" rx="14" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="83" y="450" text-anchor="start" font-family="Arial" font-size="22" font-weight="bold">C</text>
+<rect x="125" y="485" width="330" height="48" rx="12" fill="#eee" stroke="#222" stroke-width="1.4"/>
+<text x="290.0" y="515" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">répéter 3 fois</text>
+<rect x="150" y="543" width="300" height="48" rx="12" fill="#eee" stroke="#222" stroke-width="1.4"/>
+<text x="300.0" y="573" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">avancer de 80 pas</text>
+<rect x="150" y="601" width="300" height="48" rx="12" fill="#eee" stroke="#222" stroke-width="1.4"/>
+<text x="300.0" y="631" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">tourner à droite de 90°</text>
+<rect x="590" y="415" width="500" height="250" rx="14" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="618" y="450" text-anchor="start" font-family="Arial" font-size="22" font-weight="bold">D</text>
+<rect x="660" y="485" width="330" height="48" rx="12" fill="#eee" stroke="#222" stroke-width="1.4"/>
+<text x="825.0" y="515" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">répéter 3 fois</text>
+<rect x="685" y="543" width="300" height="48" rx="12" fill="#eee" stroke="#222" stroke-width="1.4"/>
+<text x="835.0" y="573" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">tourner à droite de 90°</text>
+<rect x="685" y="601" width="300" height="48" rx="12" fill="#eee" stroke="#222" stroke-width="1.4"/>
+<text x="835.0" y="631" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">avancer de 80 pas</text>
+<text x="55" y="745" text-anchor="start" font-family="Arial" font-size="16" font-weight="bold">Réponse : ______      Justification : _________________________________________________________________</text>
+</svg>

@@ -1,0 +1,588 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="38" font-family="Arial" font-size="25" font-weight="bold">La frise des deux gestes – Support élève</text>
+<text x="40" y="64" font-family="Arial" font-size="13">Observe, complète, puis crée une frise régulière à partir d’un motif asymétrique.</text>
+<text x="45" y="103" font-family="Arial" font-size="18" font-weight="bold">1. Frise par simple glissement</text>
+<rect x="55" y="125" width="72" height="72" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="55" cy="125" r="2.2" fill="#888"/>
+<circle cx="55" cy="143" r="2.2" fill="#888"/>
+<circle cx="55" cy="161" r="2.2" fill="#888"/>
+<circle cx="55" cy="179" r="2.2" fill="#888"/>
+<circle cx="55" cy="197" r="2.2" fill="#888"/>
+<circle cx="73" cy="125" r="2.2" fill="#888"/>
+<circle cx="73" cy="143" r="2.2" fill="#888"/>
+<circle cx="73" cy="161" r="2.2" fill="#888"/>
+<circle cx="73" cy="179" r="2.2" fill="#888"/>
+<circle cx="73" cy="197" r="2.2" fill="#888"/>
+<circle cx="91" cy="125" r="2.2" fill="#888"/>
+<circle cx="91" cy="143" r="2.2" fill="#888"/>
+<circle cx="91" cy="161" r="2.2" fill="#888"/>
+<circle cx="91" cy="179" r="2.2" fill="#888"/>
+<circle cx="91" cy="197" r="2.2" fill="#888"/>
+<circle cx="109" cy="125" r="2.2" fill="#888"/>
+<circle cx="109" cy="143" r="2.2" fill="#888"/>
+<circle cx="109" cy="161" r="2.2" fill="#888"/>
+<circle cx="109" cy="179" r="2.2" fill="#888"/>
+<circle cx="109" cy="197" r="2.2" fill="#888"/>
+<circle cx="127" cy="125" r="2.2" fill="#888"/>
+<circle cx="127" cy="143" r="2.2" fill="#888"/>
+<circle cx="127" cy="161" r="2.2" fill="#888"/>
+<circle cx="127" cy="179" r="2.2" fill="#888"/>
+<circle cx="127" cy="197" r="2.2" fill="#888"/>
+<polyline points="55,161 73,125 109,125 127,143 109,161 127,197 91,179 73,197 55,161" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round"/>
+<rect x="136" y="125" width="72" height="72" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="136" cy="125" r="2.2" fill="#888"/>
+<circle cx="136" cy="143" r="2.2" fill="#888"/>
+<circle cx="136" cy="161" r="2.2" fill="#888"/>
+<circle cx="136" cy="179" r="2.2" fill="#888"/>
+<circle cx="136" cy="197" r="2.2" fill="#888"/>
+<circle cx="154" cy="125" r="2.2" fill="#888"/>
+<circle cx="154" cy="143" r="2.2" fill="#888"/>
+<circle cx="154" cy="161" r="2.2" fill="#888"/>
+<circle cx="154" cy="179" r="2.2" fill="#888"/>
+<circle cx="154" cy="197" r="2.2" fill="#888"/>
+<circle cx="172" cy="125" r="2.2" fill="#888"/>
+<circle cx="172" cy="143" r="2.2" fill="#888"/>
+<circle cx="172" cy="161" r="2.2" fill="#888"/>
+<circle cx="172" cy="179" r="2.2" fill="#888"/>
+<circle cx="172" cy="197" r="2.2" fill="#888"/>
+<circle cx="190" cy="125" r="2.2" fill="#888"/>
+<circle cx="190" cy="143" r="2.2" fill="#888"/>
+<circle cx="190" cy="161" r="2.2" fill="#888"/>
+<circle cx="190" cy="179" r="2.2" fill="#888"/>
+<circle cx="190" cy="197" r="2.2" fill="#888"/>
+<circle cx="208" cy="125" r="2.2" fill="#888"/>
+<circle cx="208" cy="143" r="2.2" fill="#888"/>
+<circle cx="208" cy="161" r="2.2" fill="#888"/>
+<circle cx="208" cy="179" r="2.2" fill="#888"/>
+<circle cx="208" cy="197" r="2.2" fill="#888"/>
+<polyline points="136,161 154,125 190,125 208,143 190,161 208,197 172,179 154,197 136,161" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round"/>
+<rect x="217" y="125" width="72" height="72" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="217" cy="125" r="2.2" fill="#888"/>
+<circle cx="217" cy="143" r="2.2" fill="#888"/>
+<circle cx="217" cy="161" r="2.2" fill="#888"/>
+<circle cx="217" cy="179" r="2.2" fill="#888"/>
+<circle cx="217" cy="197" r="2.2" fill="#888"/>
+<circle cx="235" cy="125" r="2.2" fill="#888"/>
+<circle cx="235" cy="143" r="2.2" fill="#888"/>
+<circle cx="235" cy="161" r="2.2" fill="#888"/>
+<circle cx="235" cy="179" r="2.2" fill="#888"/>
+<circle cx="235" cy="197" r="2.2" fill="#888"/>
+<circle cx="253" cy="125" r="2.2" fill="#888"/>
+<circle cx="253" cy="143" r="2.2" fill="#888"/>
+<circle cx="253" cy="161" r="2.2" fill="#888"/>
+<circle cx="253" cy="179" r="2.2" fill="#888"/>
+<circle cx="253" cy="197" r="2.2" fill="#888"/>
+<circle cx="271" cy="125" r="2.2" fill="#888"/>
+<circle cx="271" cy="143" r="2.2" fill="#888"/>
+<circle cx="271" cy="161" r="2.2" fill="#888"/>
+<circle cx="271" cy="179" r="2.2" fill="#888"/>
+<circle cx="271" cy="197" r="2.2" fill="#888"/>
+<circle cx="289" cy="125" r="2.2" fill="#888"/>
+<circle cx="289" cy="143" r="2.2" fill="#888"/>
+<circle cx="289" cy="161" r="2.2" fill="#888"/>
+<circle cx="289" cy="179" r="2.2" fill="#888"/>
+<circle cx="289" cy="197" r="2.2" fill="#888"/>
+<polyline points="217,161 235,125 271,125 289,143 271,161 289,197 253,179 235,197 217,161" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round"/>
+<rect x="298" y="125" width="72" height="72" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="298" cy="125" r="2.2" fill="#888"/>
+<circle cx="298" cy="143" r="2.2" fill="#888"/>
+<circle cx="298" cy="161" r="2.2" fill="#888"/>
+<circle cx="298" cy="179" r="2.2" fill="#888"/>
+<circle cx="298" cy="197" r="2.2" fill="#888"/>
+<circle cx="316" cy="125" r="2.2" fill="#888"/>
+<circle cx="316" cy="143" r="2.2" fill="#888"/>
+<circle cx="316" cy="161" r="2.2" fill="#888"/>
+<circle cx="316" cy="179" r="2.2" fill="#888"/>
+<circle cx="316" cy="197" r="2.2" fill="#888"/>
+<circle cx="334" cy="125" r="2.2" fill="#888"/>
+<circle cx="334" cy="143" r="2.2" fill="#888"/>
+<circle cx="334" cy="161" r="2.2" fill="#888"/>
+<circle cx="334" cy="179" r="2.2" fill="#888"/>
+<circle cx="334" cy="197" r="2.2" fill="#888"/>
+<circle cx="352" cy="125" r="2.2" fill="#888"/>
+<circle cx="352" cy="143" r="2.2" fill="#888"/>
+<circle cx="352" cy="161" r="2.2" fill="#888"/>
+<circle cx="352" cy="179" r="2.2" fill="#888"/>
+<circle cx="352" cy="197" r="2.2" fill="#888"/>
+<circle cx="370" cy="125" r="2.2" fill="#888"/>
+<circle cx="370" cy="143" r="2.2" fill="#888"/>
+<circle cx="370" cy="161" r="2.2" fill="#888"/>
+<circle cx="370" cy="179" r="2.2" fill="#888"/>
+<circle cx="370" cy="197" r="2.2" fill="#888"/>
+<polyline points="298,161 316,125 352,125 370,143 352,161 370,197 334,179 316,197 298,161" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round"/>
+<rect x="379" y="125" width="72" height="72" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="379" cy="125" r="2.2" fill="#888"/>
+<circle cx="379" cy="143" r="2.2" fill="#888"/>
+<circle cx="379" cy="161" r="2.2" fill="#888"/>
+<circle cx="379" cy="179" r="2.2" fill="#888"/>
+<circle cx="379" cy="197" r="2.2" fill="#888"/>
+<circle cx="397" cy="125" r="2.2" fill="#888"/>
+<circle cx="397" cy="143" r="2.2" fill="#888"/>
+<circle cx="397" cy="161" r="2.2" fill="#888"/>
+<circle cx="397" cy="179" r="2.2" fill="#888"/>
+<circle cx="397" cy="197" r="2.2" fill="#888"/>
+<circle cx="415" cy="125" r="2.2" fill="#888"/>
+<circle cx="415" cy="143" r="2.2" fill="#888"/>
+<circle cx="415" cy="161" r="2.2" fill="#888"/>
+<circle cx="415" cy="179" r="2.2" fill="#888"/>
+<circle cx="415" cy="197" r="2.2" fill="#888"/>
+<circle cx="433" cy="125" r="2.2" fill="#888"/>
+<circle cx="433" cy="143" r="2.2" fill="#888"/>
+<circle cx="433" cy="161" r="2.2" fill="#888"/>
+<circle cx="433" cy="179" r="2.2" fill="#888"/>
+<circle cx="433" cy="197" r="2.2" fill="#888"/>
+<circle cx="451" cy="125" r="2.2" fill="#888"/>
+<circle cx="451" cy="143" r="2.2" fill="#888"/>
+<circle cx="451" cy="161" r="2.2" fill="#888"/>
+<circle cx="451" cy="179" r="2.2" fill="#888"/>
+<circle cx="451" cy="197" r="2.2" fill="#888"/>
+<polyline points="379,161 397,125 433,125 451,143 433,161 451,197 415,179 397,197 379,161" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round"/>
+<rect x="460" y="125" width="72" height="72" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="460" cy="125" r="2.2" fill="#888"/>
+<circle cx="460" cy="143" r="2.2" fill="#888"/>
+<circle cx="460" cy="161" r="2.2" fill="#888"/>
+<circle cx="460" cy="179" r="2.2" fill="#888"/>
+<circle cx="460" cy="197" r="2.2" fill="#888"/>
+<circle cx="478" cy="125" r="2.2" fill="#888"/>
+<circle cx="478" cy="143" r="2.2" fill="#888"/>
+<circle cx="478" cy="161" r="2.2" fill="#888"/>
+<circle cx="478" cy="179" r="2.2" fill="#888"/>
+<circle cx="478" cy="197" r="2.2" fill="#888"/>
+<circle cx="496" cy="125" r="2.2" fill="#888"/>
+<circle cx="496" cy="143" r="2.2" fill="#888"/>
+<circle cx="496" cy="161" r="2.2" fill="#888"/>
+<circle cx="496" cy="179" r="2.2" fill="#888"/>
+<circle cx="496" cy="197" r="2.2" fill="#888"/>
+<circle cx="514" cy="125" r="2.2" fill="#888"/>
+<circle cx="514" cy="143" r="2.2" fill="#888"/>
+<circle cx="514" cy="161" r="2.2" fill="#888"/>
+<circle cx="514" cy="179" r="2.2" fill="#888"/>
+<circle cx="514" cy="197" r="2.2" fill="#888"/>
+<circle cx="532" cy="125" r="2.2" fill="#888"/>
+<circle cx="532" cy="143" r="2.2" fill="#888"/>
+<circle cx="532" cy="161" r="2.2" fill="#888"/>
+<circle cx="532" cy="179" r="2.2" fill="#888"/>
+<circle cx="532" cy="197" r="2.2" fill="#888"/>
+<polyline points="460,161 478,125 514,125 532,143 514,161 532,197 496,179 478,197 460,161" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round"/>
+<rect x="541" y="125" width="72" height="72" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="541" cy="125" r="2.2" fill="#888"/>
+<circle cx="541" cy="143" r="2.2" fill="#888"/>
+<circle cx="541" cy="161" r="2.2" fill="#888"/>
+<circle cx="541" cy="179" r="2.2" fill="#888"/>
+<circle cx="541" cy="197" r="2.2" fill="#888"/>
+<circle cx="559" cy="125" r="2.2" fill="#888"/>
+<circle cx="559" cy="143" r="2.2" fill="#888"/>
+<circle cx="559" cy="161" r="2.2" fill="#888"/>
+<circle cx="559" cy="179" r="2.2" fill="#888"/>
+<circle cx="559" cy="197" r="2.2" fill="#888"/>
+<circle cx="577" cy="125" r="2.2" fill="#888"/>
+<circle cx="577" cy="143" r="2.2" fill="#888"/>
+<circle cx="577" cy="161" r="2.2" fill="#888"/>
+<circle cx="577" cy="179" r="2.2" fill="#888"/>
+<circle cx="577" cy="197" r="2.2" fill="#888"/>
+<circle cx="595" cy="125" r="2.2" fill="#888"/>
+<circle cx="595" cy="143" r="2.2" fill="#888"/>
+<circle cx="595" cy="161" r="2.2" fill="#888"/>
+<circle cx="595" cy="179" r="2.2" fill="#888"/>
+<circle cx="595" cy="197" r="2.2" fill="#888"/>
+<circle cx="613" cy="125" r="2.2" fill="#888"/>
+<circle cx="613" cy="143" r="2.2" fill="#888"/>
+<circle cx="613" cy="161" r="2.2" fill="#888"/>
+<circle cx="613" cy="179" r="2.2" fill="#888"/>
+<circle cx="613" cy="197" r="2.2" fill="#888"/>
+<polyline points="541,161 559,125 595,125 613,143 595,161 613,197 577,179 559,197 541,161" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round"/>
+<text x="55" y="230" font-family="Arial" font-size="13">Que remarques-tu sur l’orientation ? ____________________________________________</text>
+<text x="45" y="275" font-family="Arial" font-size="18" font-weight="bold">2. Frise cryptée – Complète les panneaux 4 et 6</text>
+<text x="45" y="298" font-family="Arial" font-size="13">Le motif est déplacé vers la droite et une transformation est répétée.</text>
+<rect x="55" y="320" width="88" height="88" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="55" cy="320" r="2.2" fill="#888"/>
+<circle cx="55" cy="342" r="2.2" fill="#888"/>
+<circle cx="55" cy="364" r="2.2" fill="#888"/>
+<circle cx="55" cy="386" r="2.2" fill="#888"/>
+<circle cx="55" cy="408" r="2.2" fill="#888"/>
+<circle cx="77" cy="320" r="2.2" fill="#888"/>
+<circle cx="77" cy="342" r="2.2" fill="#888"/>
+<circle cx="77" cy="364" r="2.2" fill="#888"/>
+<circle cx="77" cy="386" r="2.2" fill="#888"/>
+<circle cx="77" cy="408" r="2.2" fill="#888"/>
+<circle cx="99" cy="320" r="2.2" fill="#888"/>
+<circle cx="99" cy="342" r="2.2" fill="#888"/>
+<circle cx="99" cy="364" r="2.2" fill="#888"/>
+<circle cx="99" cy="386" r="2.2" fill="#888"/>
+<circle cx="99" cy="408" r="2.2" fill="#888"/>
+<circle cx="121" cy="320" r="2.2" fill="#888"/>
+<circle cx="121" cy="342" r="2.2" fill="#888"/>
+<circle cx="121" cy="364" r="2.2" fill="#888"/>
+<circle cx="121" cy="386" r="2.2" fill="#888"/>
+<circle cx="121" cy="408" r="2.2" fill="#888"/>
+<circle cx="143" cy="320" r="2.2" fill="#888"/>
+<circle cx="143" cy="342" r="2.2" fill="#888"/>
+<circle cx="143" cy="364" r="2.2" fill="#888"/>
+<circle cx="143" cy="386" r="2.2" fill="#888"/>
+<circle cx="143" cy="408" r="2.2" fill="#888"/>
+<polyline points="55,364 77,320 121,320 143,342 121,364 143,408 99,386 77,408 55,364" fill="none" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<text x="99" y="428" text-anchor="middle" font-family="Arial" font-size="12">P1</text>
+<rect x="157" y="320" width="88" height="88" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="157" cy="320" r="2.2" fill="#888"/>
+<circle cx="157" cy="342" r="2.2" fill="#888"/>
+<circle cx="157" cy="364" r="2.2" fill="#888"/>
+<circle cx="157" cy="386" r="2.2" fill="#888"/>
+<circle cx="157" cy="408" r="2.2" fill="#888"/>
+<circle cx="179" cy="320" r="2.2" fill="#888"/>
+<circle cx="179" cy="342" r="2.2" fill="#888"/>
+<circle cx="179" cy="364" r="2.2" fill="#888"/>
+<circle cx="179" cy="386" r="2.2" fill="#888"/>
+<circle cx="179" cy="408" r="2.2" fill="#888"/>
+<circle cx="201" cy="320" r="2.2" fill="#888"/>
+<circle cx="201" cy="342" r="2.2" fill="#888"/>
+<circle cx="201" cy="364" r="2.2" fill="#888"/>
+<circle cx="201" cy="386" r="2.2" fill="#888"/>
+<circle cx="201" cy="408" r="2.2" fill="#888"/>
+<circle cx="223" cy="320" r="2.2" fill="#888"/>
+<circle cx="223" cy="342" r="2.2" fill="#888"/>
+<circle cx="223" cy="364" r="2.2" fill="#888"/>
+<circle cx="223" cy="386" r="2.2" fill="#888"/>
+<circle cx="223" cy="408" r="2.2" fill="#888"/>
+<circle cx="245" cy="320" r="2.2" fill="#888"/>
+<circle cx="245" cy="342" r="2.2" fill="#888"/>
+<circle cx="245" cy="364" r="2.2" fill="#888"/>
+<circle cx="245" cy="386" r="2.2" fill="#888"/>
+<circle cx="245" cy="408" r="2.2" fill="#888"/>
+<polyline points="157,364 179,408 223,408 245,386 223,364 245,320 201,342 179,320 157,364" fill="none" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<text x="201" y="428" text-anchor="middle" font-family="Arial" font-size="12">P2</text>
+<rect x="259" y="320" width="88" height="88" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="259" cy="320" r="2.2" fill="#888"/>
+<circle cx="259" cy="342" r="2.2" fill="#888"/>
+<circle cx="259" cy="364" r="2.2" fill="#888"/>
+<circle cx="259" cy="386" r="2.2" fill="#888"/>
+<circle cx="259" cy="408" r="2.2" fill="#888"/>
+<circle cx="281" cy="320" r="2.2" fill="#888"/>
+<circle cx="281" cy="342" r="2.2" fill="#888"/>
+<circle cx="281" cy="364" r="2.2" fill="#888"/>
+<circle cx="281" cy="386" r="2.2" fill="#888"/>
+<circle cx="281" cy="408" r="2.2" fill="#888"/>
+<circle cx="303" cy="320" r="2.2" fill="#888"/>
+<circle cx="303" cy="342" r="2.2" fill="#888"/>
+<circle cx="303" cy="364" r="2.2" fill="#888"/>
+<circle cx="303" cy="386" r="2.2" fill="#888"/>
+<circle cx="303" cy="408" r="2.2" fill="#888"/>
+<circle cx="325" cy="320" r="2.2" fill="#888"/>
+<circle cx="325" cy="342" r="2.2" fill="#888"/>
+<circle cx="325" cy="364" r="2.2" fill="#888"/>
+<circle cx="325" cy="386" r="2.2" fill="#888"/>
+<circle cx="325" cy="408" r="2.2" fill="#888"/>
+<circle cx="347" cy="320" r="2.2" fill="#888"/>
+<circle cx="347" cy="342" r="2.2" fill="#888"/>
+<circle cx="347" cy="364" r="2.2" fill="#888"/>
+<circle cx="347" cy="386" r="2.2" fill="#888"/>
+<circle cx="347" cy="408" r="2.2" fill="#888"/>
+<polyline points="259,364 281,320 325,320 347,342 325,364 347,408 303,386 281,408 259,364" fill="none" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<text x="303" y="428" text-anchor="middle" font-family="Arial" font-size="12">P3</text>
+<rect x="361" y="320" width="88" height="88" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="361" cy="320" r="2.2" fill="#888"/>
+<circle cx="361" cy="342" r="2.2" fill="#888"/>
+<circle cx="361" cy="364" r="2.2" fill="#888"/>
+<circle cx="361" cy="386" r="2.2" fill="#888"/>
+<circle cx="361" cy="408" r="2.2" fill="#888"/>
+<circle cx="383" cy="320" r="2.2" fill="#888"/>
+<circle cx="383" cy="342" r="2.2" fill="#888"/>
+<circle cx="383" cy="364" r="2.2" fill="#888"/>
+<circle cx="383" cy="386" r="2.2" fill="#888"/>
+<circle cx="383" cy="408" r="2.2" fill="#888"/>
+<circle cx="405" cy="320" r="2.2" fill="#888"/>
+<circle cx="405" cy="342" r="2.2" fill="#888"/>
+<circle cx="405" cy="364" r="2.2" fill="#888"/>
+<circle cx="405" cy="386" r="2.2" fill="#888"/>
+<circle cx="405" cy="408" r="2.2" fill="#888"/>
+<circle cx="427" cy="320" r="2.2" fill="#888"/>
+<circle cx="427" cy="342" r="2.2" fill="#888"/>
+<circle cx="427" cy="364" r="2.2" fill="#888"/>
+<circle cx="427" cy="386" r="2.2" fill="#888"/>
+<circle cx="427" cy="408" r="2.2" fill="#888"/>
+<circle cx="449" cy="320" r="2.2" fill="#888"/>
+<circle cx="449" cy="342" r="2.2" fill="#888"/>
+<circle cx="449" cy="364" r="2.2" fill="#888"/>
+<circle cx="449" cy="386" r="2.2" fill="#888"/>
+<circle cx="449" cy="408" r="2.2" fill="#888"/>
+<text x="405" y="368.4" text-anchor="middle" font-family="Arial" font-size="22">?</text>
+<text x="405" y="428" text-anchor="middle" font-family="Arial" font-size="12">P4</text>
+<rect x="463" y="320" width="88" height="88" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="463" cy="320" r="2.2" fill="#888"/>
+<circle cx="463" cy="342" r="2.2" fill="#888"/>
+<circle cx="463" cy="364" r="2.2" fill="#888"/>
+<circle cx="463" cy="386" r="2.2" fill="#888"/>
+<circle cx="463" cy="408" r="2.2" fill="#888"/>
+<circle cx="485" cy="320" r="2.2" fill="#888"/>
+<circle cx="485" cy="342" r="2.2" fill="#888"/>
+<circle cx="485" cy="364" r="2.2" fill="#888"/>
+<circle cx="485" cy="386" r="2.2" fill="#888"/>
+<circle cx="485" cy="408" r="2.2" fill="#888"/>
+<circle cx="507" cy="320" r="2.2" fill="#888"/>
+<circle cx="507" cy="342" r="2.2" fill="#888"/>
+<circle cx="507" cy="364" r="2.2" fill="#888"/>
+<circle cx="507" cy="386" r="2.2" fill="#888"/>
+<circle cx="507" cy="408" r="2.2" fill="#888"/>
+<circle cx="529" cy="320" r="2.2" fill="#888"/>
+<circle cx="529" cy="342" r="2.2" fill="#888"/>
+<circle cx="529" cy="364" r="2.2" fill="#888"/>
+<circle cx="529" cy="386" r="2.2" fill="#888"/>
+<circle cx="529" cy="408" r="2.2" fill="#888"/>
+<circle cx="551" cy="320" r="2.2" fill="#888"/>
+<circle cx="551" cy="342" r="2.2" fill="#888"/>
+<circle cx="551" cy="364" r="2.2" fill="#888"/>
+<circle cx="551" cy="386" r="2.2" fill="#888"/>
+<circle cx="551" cy="408" r="2.2" fill="#888"/>
+<polyline points="463,364 485,320 529,320 551,342 529,364 551,408 507,386 485,408 463,364" fill="none" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<text x="507" y="428" text-anchor="middle" font-family="Arial" font-size="12">P5</text>
+<rect x="565" y="320" width="88" height="88" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="565" cy="320" r="2.2" fill="#888"/>
+<circle cx="565" cy="342" r="2.2" fill="#888"/>
+<circle cx="565" cy="364" r="2.2" fill="#888"/>
+<circle cx="565" cy="386" r="2.2" fill="#888"/>
+<circle cx="565" cy="408" r="2.2" fill="#888"/>
+<circle cx="587" cy="320" r="2.2" fill="#888"/>
+<circle cx="587" cy="342" r="2.2" fill="#888"/>
+<circle cx="587" cy="364" r="2.2" fill="#888"/>
+<circle cx="587" cy="386" r="2.2" fill="#888"/>
+<circle cx="587" cy="408" r="2.2" fill="#888"/>
+<circle cx="609" cy="320" r="2.2" fill="#888"/>
+<circle cx="609" cy="342" r="2.2" fill="#888"/>
+<circle cx="609" cy="364" r="2.2" fill="#888"/>
+<circle cx="609" cy="386" r="2.2" fill="#888"/>
+<circle cx="609" cy="408" r="2.2" fill="#888"/>
+<circle cx="631" cy="320" r="2.2" fill="#888"/>
+<circle cx="631" cy="342" r="2.2" fill="#888"/>
+<circle cx="631" cy="364" r="2.2" fill="#888"/>
+<circle cx="631" cy="386" r="2.2" fill="#888"/>
+<circle cx="631" cy="408" r="2.2" fill="#888"/>
+<circle cx="653" cy="320" r="2.2" fill="#888"/>
+<circle cx="653" cy="342" r="2.2" fill="#888"/>
+<circle cx="653" cy="364" r="2.2" fill="#888"/>
+<circle cx="653" cy="386" r="2.2" fill="#888"/>
+<circle cx="653" cy="408" r="2.2" fill="#888"/>
+<text x="609" y="368.4" text-anchor="middle" font-family="Arial" font-size="22">?</text>
+<text x="609" y="428" text-anchor="middle" font-family="Arial" font-size="12">P6</text>
+<text x="45" y="475" font-family="Arial" font-size="18" font-weight="bold">3. Ma frise personnelle</text>
+<text x="45" y="498" font-family="Arial" font-size="13">Dessine le motif-graine dans P1, puis applique toujours le même protocole.</text>
+<rect x="45" y="525" width="64" height="64" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="45" cy="525" r="2.2" fill="#888"/>
+<circle cx="45" cy="541" r="2.2" fill="#888"/>
+<circle cx="45" cy="557" r="2.2" fill="#888"/>
+<circle cx="45" cy="573" r="2.2" fill="#888"/>
+<circle cx="45" cy="589" r="2.2" fill="#888"/>
+<circle cx="61" cy="525" r="2.2" fill="#888"/>
+<circle cx="61" cy="541" r="2.2" fill="#888"/>
+<circle cx="61" cy="557" r="2.2" fill="#888"/>
+<circle cx="61" cy="573" r="2.2" fill="#888"/>
+<circle cx="61" cy="589" r="2.2" fill="#888"/>
+<circle cx="77" cy="525" r="2.2" fill="#888"/>
+<circle cx="77" cy="541" r="2.2" fill="#888"/>
+<circle cx="77" cy="557" r="2.2" fill="#888"/>
+<circle cx="77" cy="573" r="2.2" fill="#888"/>
+<circle cx="77" cy="589" r="2.2" fill="#888"/>
+<circle cx="93" cy="525" r="2.2" fill="#888"/>
+<circle cx="93" cy="541" r="2.2" fill="#888"/>
+<circle cx="93" cy="557" r="2.2" fill="#888"/>
+<circle cx="93" cy="573" r="2.2" fill="#888"/>
+<circle cx="93" cy="589" r="2.2" fill="#888"/>
+<circle cx="109" cy="525" r="2.2" fill="#888"/>
+<circle cx="109" cy="541" r="2.2" fill="#888"/>
+<circle cx="109" cy="557" r="2.2" fill="#888"/>
+<circle cx="109" cy="573" r="2.2" fill="#888"/>
+<circle cx="109" cy="589" r="2.2" fill="#888"/>
+<text x="77" y="606" text-anchor="middle" font-family="Arial" font-size="10">P1</text>
+<rect x="117" y="525" width="64" height="64" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="117" cy="525" r="2.2" fill="#888"/>
+<circle cx="117" cy="541" r="2.2" fill="#888"/>
+<circle cx="117" cy="557" r="2.2" fill="#888"/>
+<circle cx="117" cy="573" r="2.2" fill="#888"/>
+<circle cx="117" cy="589" r="2.2" fill="#888"/>
+<circle cx="133" cy="525" r="2.2" fill="#888"/>
+<circle cx="133" cy="541" r="2.2" fill="#888"/>
+<circle cx="133" cy="557" r="2.2" fill="#888"/>
+<circle cx="133" cy="573" r="2.2" fill="#888"/>
+<circle cx="133" cy="589" r="2.2" fill="#888"/>
+<circle cx="149" cy="525" r="2.2" fill="#888"/>
+<circle cx="149" cy="541" r="2.2" fill="#888"/>
+<circle cx="149" cy="557" r="2.2" fill="#888"/>
+<circle cx="149" cy="573" r="2.2" fill="#888"/>
+<circle cx="149" cy="589" r="2.2" fill="#888"/>
+<circle cx="165" cy="525" r="2.2" fill="#888"/>
+<circle cx="165" cy="541" r="2.2" fill="#888"/>
+<circle cx="165" cy="557" r="2.2" fill="#888"/>
+<circle cx="165" cy="573" r="2.2" fill="#888"/>
+<circle cx="165" cy="589" r="2.2" fill="#888"/>
+<circle cx="181" cy="525" r="2.2" fill="#888"/>
+<circle cx="181" cy="541" r="2.2" fill="#888"/>
+<circle cx="181" cy="557" r="2.2" fill="#888"/>
+<circle cx="181" cy="573" r="2.2" fill="#888"/>
+<circle cx="181" cy="589" r="2.2" fill="#888"/>
+<text x="149" y="606" text-anchor="middle" font-family="Arial" font-size="10">P2</text>
+<rect x="189" y="525" width="64" height="64" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="189" cy="525" r="2.2" fill="#888"/>
+<circle cx="189" cy="541" r="2.2" fill="#888"/>
+<circle cx="189" cy="557" r="2.2" fill="#888"/>
+<circle cx="189" cy="573" r="2.2" fill="#888"/>
+<circle cx="189" cy="589" r="2.2" fill="#888"/>
+<circle cx="205" cy="525" r="2.2" fill="#888"/>
+<circle cx="205" cy="541" r="2.2" fill="#888"/>
+<circle cx="205" cy="557" r="2.2" fill="#888"/>
+<circle cx="205" cy="573" r="2.2" fill="#888"/>
+<circle cx="205" cy="589" r="2.2" fill="#888"/>
+<circle cx="221" cy="525" r="2.2" fill="#888"/>
+<circle cx="221" cy="541" r="2.2" fill="#888"/>
+<circle cx="221" cy="557" r="2.2" fill="#888"/>
+<circle cx="221" cy="573" r="2.2" fill="#888"/>
+<circle cx="221" cy="589" r="2.2" fill="#888"/>
+<circle cx="237" cy="525" r="2.2" fill="#888"/>
+<circle cx="237" cy="541" r="2.2" fill="#888"/>
+<circle cx="237" cy="557" r="2.2" fill="#888"/>
+<circle cx="237" cy="573" r="2.2" fill="#888"/>
+<circle cx="237" cy="589" r="2.2" fill="#888"/>
+<circle cx="253" cy="525" r="2.2" fill="#888"/>
+<circle cx="253" cy="541" r="2.2" fill="#888"/>
+<circle cx="253" cy="557" r="2.2" fill="#888"/>
+<circle cx="253" cy="573" r="2.2" fill="#888"/>
+<circle cx="253" cy="589" r="2.2" fill="#888"/>
+<text x="221" y="606" text-anchor="middle" font-family="Arial" font-size="10">P3</text>
+<rect x="261" y="525" width="64" height="64" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="261" cy="525" r="2.2" fill="#888"/>
+<circle cx="261" cy="541" r="2.2" fill="#888"/>
+<circle cx="261" cy="557" r="2.2" fill="#888"/>
+<circle cx="261" cy="573" r="2.2" fill="#888"/>
+<circle cx="261" cy="589" r="2.2" fill="#888"/>
+<circle cx="277" cy="525" r="2.2" fill="#888"/>
+<circle cx="277" cy="541" r="2.2" fill="#888"/>
+<circle cx="277" cy="557" r="2.2" fill="#888"/>
+<circle cx="277" cy="573" r="2.2" fill="#888"/>
+<circle cx="277" cy="589" r="2.2" fill="#888"/>
+<circle cx="293" cy="525" r="2.2" fill="#888"/>
+<circle cx="293" cy="541" r="2.2" fill="#888"/>
+<circle cx="293" cy="557" r="2.2" fill="#888"/>
+<circle cx="293" cy="573" r="2.2" fill="#888"/>
+<circle cx="293" cy="589" r="2.2" fill="#888"/>
+<circle cx="309" cy="525" r="2.2" fill="#888"/>
+<circle cx="309" cy="541" r="2.2" fill="#888"/>
+<circle cx="309" cy="557" r="2.2" fill="#888"/>
+<circle cx="309" cy="573" r="2.2" fill="#888"/>
+<circle cx="309" cy="589" r="2.2" fill="#888"/>
+<circle cx="325" cy="525" r="2.2" fill="#888"/>
+<circle cx="325" cy="541" r="2.2" fill="#888"/>
+<circle cx="325" cy="557" r="2.2" fill="#888"/>
+<circle cx="325" cy="573" r="2.2" fill="#888"/>
+<circle cx="325" cy="589" r="2.2" fill="#888"/>
+<text x="293" y="606" text-anchor="middle" font-family="Arial" font-size="10">P4</text>
+<rect x="333" y="525" width="64" height="64" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="333" cy="525" r="2.2" fill="#888"/>
+<circle cx="333" cy="541" r="2.2" fill="#888"/>
+<circle cx="333" cy="557" r="2.2" fill="#888"/>
+<circle cx="333" cy="573" r="2.2" fill="#888"/>
+<circle cx="333" cy="589" r="2.2" fill="#888"/>
+<circle cx="349" cy="525" r="2.2" fill="#888"/>
+<circle cx="349" cy="541" r="2.2" fill="#888"/>
+<circle cx="349" cy="557" r="2.2" fill="#888"/>
+<circle cx="349" cy="573" r="2.2" fill="#888"/>
+<circle cx="349" cy="589" r="2.2" fill="#888"/>
+<circle cx="365" cy="525" r="2.2" fill="#888"/>
+<circle cx="365" cy="541" r="2.2" fill="#888"/>
+<circle cx="365" cy="557" r="2.2" fill="#888"/>
+<circle cx="365" cy="573" r="2.2" fill="#888"/>
+<circle cx="365" cy="589" r="2.2" fill="#888"/>
+<circle cx="381" cy="525" r="2.2" fill="#888"/>
+<circle cx="381" cy="541" r="2.2" fill="#888"/>
+<circle cx="381" cy="557" r="2.2" fill="#888"/>
+<circle cx="381" cy="573" r="2.2" fill="#888"/>
+<circle cx="381" cy="589" r="2.2" fill="#888"/>
+<circle cx="397" cy="525" r="2.2" fill="#888"/>
+<circle cx="397" cy="541" r="2.2" fill="#888"/>
+<circle cx="397" cy="557" r="2.2" fill="#888"/>
+<circle cx="397" cy="573" r="2.2" fill="#888"/>
+<circle cx="397" cy="589" r="2.2" fill="#888"/>
+<text x="365" y="606" text-anchor="middle" font-family="Arial" font-size="10">P5</text>
+<rect x="405" y="525" width="64" height="64" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="405" cy="525" r="2.2" fill="#888"/>
+<circle cx="405" cy="541" r="2.2" fill="#888"/>
+<circle cx="405" cy="557" r="2.2" fill="#888"/>
+<circle cx="405" cy="573" r="2.2" fill="#888"/>
+<circle cx="405" cy="589" r="2.2" fill="#888"/>
+<circle cx="421" cy="525" r="2.2" fill="#888"/>
+<circle cx="421" cy="541" r="2.2" fill="#888"/>
+<circle cx="421" cy="557" r="2.2" fill="#888"/>
+<circle cx="421" cy="573" r="2.2" fill="#888"/>
+<circle cx="421" cy="589" r="2.2" fill="#888"/>
+<circle cx="437" cy="525" r="2.2" fill="#888"/>
+<circle cx="437" cy="541" r="2.2" fill="#888"/>
+<circle cx="437" cy="557" r="2.2" fill="#888"/>
+<circle cx="437" cy="573" r="2.2" fill="#888"/>
+<circle cx="437" cy="589" r="2.2" fill="#888"/>
+<circle cx="453" cy="525" r="2.2" fill="#888"/>
+<circle cx="453" cy="541" r="2.2" fill="#888"/>
+<circle cx="453" cy="557" r="2.2" fill="#888"/>
+<circle cx="453" cy="573" r="2.2" fill="#888"/>
+<circle cx="453" cy="589" r="2.2" fill="#888"/>
+<circle cx="469" cy="525" r="2.2" fill="#888"/>
+<circle cx="469" cy="541" r="2.2" fill="#888"/>
+<circle cx="469" cy="557" r="2.2" fill="#888"/>
+<circle cx="469" cy="573" r="2.2" fill="#888"/>
+<circle cx="469" cy="589" r="2.2" fill="#888"/>
+<text x="437" y="606" text-anchor="middle" font-family="Arial" font-size="10">P6</text>
+<rect x="477" y="525" width="64" height="64" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="477" cy="525" r="2.2" fill="#888"/>
+<circle cx="477" cy="541" r="2.2" fill="#888"/>
+<circle cx="477" cy="557" r="2.2" fill="#888"/>
+<circle cx="477" cy="573" r="2.2" fill="#888"/>
+<circle cx="477" cy="589" r="2.2" fill="#888"/>
+<circle cx="493" cy="525" r="2.2" fill="#888"/>
+<circle cx="493" cy="541" r="2.2" fill="#888"/>
+<circle cx="493" cy="557" r="2.2" fill="#888"/>
+<circle cx="493" cy="573" r="2.2" fill="#888"/>
+<circle cx="493" cy="589" r="2.2" fill="#888"/>
+<circle cx="509" cy="525" r="2.2" fill="#888"/>
+<circle cx="509" cy="541" r="2.2" fill="#888"/>
+<circle cx="509" cy="557" r="2.2" fill="#888"/>
+<circle cx="509" cy="573" r="2.2" fill="#888"/>
+<circle cx="509" cy="589" r="2.2" fill="#888"/>
+<circle cx="525" cy="525" r="2.2" fill="#888"/>
+<circle cx="525" cy="541" r="2.2" fill="#888"/>
+<circle cx="525" cy="557" r="2.2" fill="#888"/>
+<circle cx="525" cy="573" r="2.2" fill="#888"/>
+<circle cx="525" cy="589" r="2.2" fill="#888"/>
+<circle cx="541" cy="525" r="2.2" fill="#888"/>
+<circle cx="541" cy="541" r="2.2" fill="#888"/>
+<circle cx="541" cy="557" r="2.2" fill="#888"/>
+<circle cx="541" cy="573" r="2.2" fill="#888"/>
+<circle cx="541" cy="589" r="2.2" fill="#888"/>
+<text x="509" y="606" text-anchor="middle" font-family="Arial" font-size="10">P7</text>
+<rect x="549" y="525" width="64" height="64" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="549" cy="525" r="2.2" fill="#888"/>
+<circle cx="549" cy="541" r="2.2" fill="#888"/>
+<circle cx="549" cy="557" r="2.2" fill="#888"/>
+<circle cx="549" cy="573" r="2.2" fill="#888"/>
+<circle cx="549" cy="589" r="2.2" fill="#888"/>
+<circle cx="565" cy="525" r="2.2" fill="#888"/>
+<circle cx="565" cy="541" r="2.2" fill="#888"/>
+<circle cx="565" cy="557" r="2.2" fill="#888"/>
+<circle cx="565" cy="573" r="2.2" fill="#888"/>
+<circle cx="565" cy="589" r="2.2" fill="#888"/>
+<circle cx="581" cy="525" r="2.2" fill="#888"/>
+<circle cx="581" cy="541" r="2.2" fill="#888"/>
+<circle cx="581" cy="557" r="2.2" fill="#888"/>
+<circle cx="581" cy="573" r="2.2" fill="#888"/>
+<circle cx="581" cy="589" r="2.2" fill="#888"/>
+<circle cx="597" cy="525" r="2.2" fill="#888"/>
+<circle cx="597" cy="541" r="2.2" fill="#888"/>
+<circle cx="597" cy="557" r="2.2" fill="#888"/>
+<circle cx="597" cy="573" r="2.2" fill="#888"/>
+<circle cx="597" cy="589" r="2.2" fill="#888"/>
+<circle cx="613" cy="525" r="2.2" fill="#888"/>
+<circle cx="613" cy="541" r="2.2" fill="#888"/>
+<circle cx="613" cy="557" r="2.2" fill="#888"/>
+<circle cx="613" cy="573" r="2.2" fill="#888"/>
+<circle cx="613" cy="589" r="2.2" fill="#888"/>
+<text x="581" y="606" text-anchor="middle" font-family="Arial" font-size="10">P8</text>
+<text x="45" y="640" font-family="Arial" font-size="14">Protocole choisi :  ☐ glisser   ☐ demi-tour   ☐ miroir horizontal</text>
+<text x="45" y="675" font-family="Arial" font-size="14">Règle écrite : __________________________________________________________________________________</text>
+<text x="45" y="715" font-family="Arial" font-size="14">Titre de la frise : ______________________________________________________________________________</text>
+<text x="45" y="755" font-family="Arial" font-size="13">Validation extérieure :  ☐ panneau suivant correct   ☐ règle à préciser</text>
+</svg>

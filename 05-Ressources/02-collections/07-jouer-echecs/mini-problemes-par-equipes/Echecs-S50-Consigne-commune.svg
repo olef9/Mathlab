@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="bold" fill="#111">S50 – Résoudre puis créer un mini-problème</text>
+<text x="40" y="72" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="14.5" font-weight="normal" fill="#111">Chaque coup est annoncé avec une case de départ et une case d’arrivée.</text>
+<circle cx="72" cy="120" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="126" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="bold" fill="#111">1</text>
+<rect x="108" y="95" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="116" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="15.2" font-weight="bold" fill="#111">ORIENTER</text>
+<text x="365" y="116" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" font-weight="normal" fill="#111">Blancs en bas, lettres de a à h, case h1 claire.</text>
+<circle cx="72" cy="197" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="203" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="bold" fill="#111">2</text>
+<rect x="108" y="172" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="193" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="15.2" font-weight="bold" fill="#111">PLACER</text>
+<text x="365" y="193" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" font-weight="normal" fill="#111">Installer d’abord les rois, puis toutes les autres pièces.</text>
+<text x="135" y="216" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="11.6" font-weight="bold" fill="#111">Les deux rois ne doivent jamais se toucher.</text>
+<circle cx="72" cy="274" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="280" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="bold" fill="#111">3</text>
+<rect x="108" y="249" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="270" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="15.2" font-weight="bold" fill="#111">VÉRIFIER</text>
+<text x="365" y="270" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" font-weight="normal" fill="#111">Contrôler la position, le camp qui joue et la question.</text>
+<circle cx="72" cy="351" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="357" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="bold" fill="#111">4</text>
+<rect x="108" y="326" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="347" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="15.2" font-weight="bold" fill="#111">CHERCHER</text>
+<text x="365" y="347" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" font-weight="normal" fill="#111">Écrire au maximum trois coups candidats sans déplacer.</text>
+<circle cx="72" cy="428" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="434" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="bold" fill="#111">5</text>
+<rect x="108" y="403" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="424" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="15.2" font-weight="bold" fill="#111">TESTER</text>
+<text x="365" y="424" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" font-weight="normal" fill="#111">Jouer chaque coup, vérifier les règles puis remettre la position.</text>
+<text x="135" y="447" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="11.6" font-weight="bold" fill="#111">Un coup illégal est immédiatement éliminé.</text>
+<circle cx="72" cy="505" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="511" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="bold" fill="#111">6</text>
+<rect x="108" y="480" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="501" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="15.2" font-weight="bold" fill="#111">JUSTIFIER</text>
+<text x="365" y="501" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" font-weight="normal" fill="#111">Nommer l’effet du coup et les réponses impossibles.</text>
+<circle cx="72" cy="582" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="588" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="bold" fill="#111">7</text>
+<rect x="108" y="557" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="578" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="15.2" font-weight="bold" fill="#111">CRÉER</text>
+<text x="365" y="578" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" font-weight="normal" fill="#111">Suivre la recette de la carte et écrire une solution secrète.</text>
+<circle cx="72" cy="659" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="665" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="bold" fill="#111">8</text>
+<rect x="108" y="634" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="655" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="15.2" font-weight="bold" fill="#111">FAIRE TESTER</text>
+<text x="365" y="655" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" font-weight="normal" fill="#111">Rester silencieux pendant qu’une autre équipe résout.</text>
+<text x="135" y="678" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="11.6" font-weight="bold" fill="#111">Les auteurs ne donnent aucun indice oral.</text>
+<rect x="125" y="720" width="875" height="48" rx="10" fill="#f4f4f4" stroke="#222" stroke-width="1.3"/>
+<text x="562" y="750" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="bold" fill="#111">Position + question + coup solution + justification + test</text>
+</svg>

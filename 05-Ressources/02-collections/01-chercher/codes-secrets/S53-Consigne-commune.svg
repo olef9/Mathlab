@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="29" font-weight="bold">S53 – Décoder sans deviner</text>
+<text x="40" y="72" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="normal">Chaque symbole doit être transformé avec la règle de votre équipe.</text>
+<circle cx="72" cy="120" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="126" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">1</text>
+<rect x="108" y="95" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="116" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">LIRE</text>
+<text x="365" y="116" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">Lire toute la carte et entourer la règle.</text>
+<circle cx="72" cy="197" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="203" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">2</text>
+<rect x="108" y="172" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="193" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">ESSAYER</text>
+<text x="365" y="193" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">Réussir le petit exemple avant le vrai message.</text>
+<text x="135" y="216" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.6" font-weight="bold">Si l’exemple est faux, ne commencez pas le grand message.</text>
+<circle cx="72" cy="274" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="280" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">3</text>
+<rect x="108" y="249" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="270" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">DÉCODER</text>
+<text x="365" y="270" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">Transformer les symboles un par un.</text>
+<circle cx="72" cy="351" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="357" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">4</text>
+<rect x="108" y="326" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="347" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">MONTRER</text>
+<text x="365" y="347" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">Écrire au moins trois transformations détaillées.</text>
+<circle cx="72" cy="428" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="434" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">5</text>
+<rect x="108" y="403" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="424" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">VÉRIFIER</text>
+<text x="365" y="424" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">Décoder le mot test avec la même méthode.</text>
+<text x="135" y="447" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.6" font-weight="bold">Une phrase qui « semble juste » ne suffit pas.</text>
+<circle cx="72" cy="505" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="511" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">6</text>
+<rect x="108" y="480" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="501" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">CRÉER</text>
+<text x="365" y="501" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">Coder un nouveau message de 6 à 12 lettres.</text>
+<circle cx="72" cy="582" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="588" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">7</text>
+<rect x="108" y="557" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="578" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">AUTO-TESTER</text>
+<text x="365" y="578" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">Redécoder votre propre création.</text>
+<text x="135" y="601" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.6" font-weight="bold">Les auteurs doivent réussir leur propre décodage.</text>
+<circle cx="72" cy="659" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="665" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">8</text>
+<rect x="108" y="634" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="655" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">ÉCHANGER</text>
+<text x="365" y="655" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">Faire tester le message par une autre équipe.</text>
+<rect x="155" y="720" width="815" height="48" rx="10" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="562" y="750" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16.5" font-weight="bold">RÈGLE → TRANSFORMATIONS → MESSAGE → TEST</text>
+</svg>

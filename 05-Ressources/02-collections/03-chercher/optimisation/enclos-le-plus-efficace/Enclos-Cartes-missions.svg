@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="40" text-anchor="start" font-family="Arial" font-size="28" font-weight="bold">S32 – Cartes de mission</text>
+<text x="40" y="68" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">Découper une carte par équipe.</text>
+<rect x="45" y="105" width="320" height="280" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="205" y="150" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">MISSION PRINCIPALE</text>
+<text x="75" y="205" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• 24 segments</text>
+<text x="75" y="247" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• rectangle fermé</text>
+<text x="75" y="289" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• maximum de cases</text>
+<text x="75" y="350" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Résultat : ______________________</text>
+<rect x="405" y="105" width="320" height="280" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="565" y="150" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">BATTRE LE RECORD</text>
+<text x="435" y="205" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• conserver l’ancien essai</text>
+<text x="435" y="247" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• modifier les dimensions</text>
+<text x="435" y="289" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• annoncer le nouveau total</text>
+<text x="435" y="350" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Résultat : ______________________</text>
+<rect x="765" y="105" width="320" height="280" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="925" y="150" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">TOUS LES CAS</text>
+<text x="795" y="205" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• ne rien oublier</text>
+<text x="795" y="247" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• éviter les doublons</text>
+<text x="795" y="289" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• organiser dans un tableau</text>
+<text x="795" y="350" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Résultat : ______________________</text>
+<rect x="45" y="430" width="320" height="280" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="205" y="475" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">JUSTIFIER</text>
+<text x="75" y="530" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• citer tous les essais</text>
+<text x="75" y="572" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• comparer les contenus</text>
+<text x="75" y="614" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• écrire une conclusion</text>
+<text x="75" y="675" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Résultat : ______________________</text>
+<rect x="405" y="430" width="320" height="280" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="565" y="475" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">DÉFI DU MUR</text>
+<text x="435" y="530" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• un côté est gratuit</text>
+<text x="435" y="572" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• 24 segments pour 3 côtés</text>
+<text x="435" y="614" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• chercher un nouveau maximum</text>
+<text x="435" y="675" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Résultat : ______________________</text>
+<rect x="765" y="430" width="320" height="280" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="925" y="475" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">DÉFI LIBRE</text>
+<text x="795" y="530" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• forme non rectangulaire</text>
+<text x="795" y="572" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• 24 segments exactement</text>
+<text x="795" y="614" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• compter et expliquer</text>
+<text x="795" y="675" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Résultat : ______________________</text>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="40" text-anchor="start" font-family="Arial" font-size="30" font-weight="bold">Défendre une stratégie</text>
+<text x="40" y="70" text-anchor="start" font-family="Arial" font-size="16" font-weight="normal">Le jury doit pouvoir vérifier chaque étape.</text>
+<circle cx="80" cy="139" r="24" fill="white" stroke="#222" stroke-width="2"/>
+<text x="80" y="147" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">1</text>
+<rect x="125" y="105" width="930" height="68" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="155" y="132" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">CRITÈRE</text>
+<text x="330" y="132" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">Que faut-il minimiser, maximiser ou garantir ?</text>
+<text x="155" y="158" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold">Nous cherchons à…</text>
+<circle cx="80" cy="234" r="24" fill="white" stroke="#222" stroke-width="2"/>
+<text x="80" y="242" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">2</text>
+<rect x="125" y="200" width="930" height="68" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="155" y="227" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">COMPARAISON</text>
+<text x="330" y="227" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">Les différentes stratégies sont testées avec le même critère.</text>
+<text x="155" y="253" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold">Nous avons comparé…</text>
+<circle cx="80" cy="329" r="24" fill="white" stroke="#222" stroke-width="2"/>
+<text x="80" y="337" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">3</text>
+<rect x="125" y="295" width="930" height="68" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="155" y="322" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">PREUVE</text>
+<text x="330" y="322" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">Calcul, tableau, dessin, simulation ou suite de positions.</text>
+<text x="155" y="348" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold">Notre preuve est…</text>
+<circle cx="80" cy="424" r="24" fill="white" stroke="#222" stroke-width="2"/>
+<text x="80" y="432" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">4</text>
+<rect x="125" y="390" width="930" height="68" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="155" y="417" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">LIEN</text>
+<text x="330" y="417" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">Pourquoi la preuve montre-t-elle que cette stratégie est meilleure ?</text>
+<text x="155" y="443" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold">Cela montre que…</text>
+<circle cx="80" cy="519" r="24" fill="white" stroke="#222" stroke-width="2"/>
+<text x="80" y="527" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">5</text>
+<rect x="125" y="485" width="930" height="68" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="155" y="512" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">OBJECTION</text>
+<text x="330" y="512" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">Quelle question pourrait fragiliser l’argument ?</text>
+<text x="155" y="538" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold">On pourrait demander…</text>
+<circle cx="80" cy="614" r="24" fill="white" stroke="#222" stroke-width="2"/>
+<text x="80" y="622" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">6</text>
+<rect x="125" y="580" width="930" height="68" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="155" y="607" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">RÉPONSE</text>
+<text x="330" y="607" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">Quel élément permet de lever cette objection ?</text>
+<text x="155" y="633" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold">Nous répondons que…</text>
+<rect x="195" y="700" width="730" height="55" rx="10" fill="white" stroke="#222" stroke-width="2"/>
+<text x="560" y="735" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">Une stratégie doit fonctionner dans tous les cas annoncés.</text>
+</svg>

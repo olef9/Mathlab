@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="40" text-anchor="start" font-family="Arial" font-size="28" font-weight="bold">S35 – Cartes des cinq missions Scratch</text>
+<text x="40" y="68" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">Une carte par équipe. Utiliser le moins de blocs possible.</text>
+<rect x="35" y="100" width="330" height="285" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<circle cx="73" cy="138" r="23" fill="white" stroke="#222" stroke-width="2"/>
+<text x="73" y="145" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">A</text>
+<text x="200" y="138" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">Le carré précis</text>
+<text x="200" y="162" text-anchor="middle" font-family="Arial" font-size="12" font-weight="normal">Accessible</text>
+<rect x="70" y="182" width="260" height="115" rx="0" fill="#fafafa" stroke="#222" stroke-width="1.2"/>
+<path d="M 158.20 197.70 L 241.80 197.70 L 241.80 281.30 L 158.20 281.30 L 158.20 197.70" fill="none" stroke="#222" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="57" y="320" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">• Tracer un carré de côté 120 pas.</text>
+<text x="57" y="340" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">• Utiliser une seule boucle.</text>
+<text x="57" y="360" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">• Revenir au point et à l’orientation de départ.</text>
+<rect x="390" y="100" width="330" height="285" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<circle cx="428" cy="138" r="23" fill="white" stroke="#222" stroke-width="2"/>
+<text x="428" y="145" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">B</text>
+<text x="555" y="138" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">Le triangle équilatéral</text>
+<text x="555" y="162" text-anchor="middle" font-family="Arial" font-size="12" font-weight="normal">Accessible</text>
+<rect x="425" y="182" width="260" height="115" rx="0" fill="#fafafa" stroke="#222" stroke-width="1.2"/>
+<path d="M 506.73 281.30 L 603.27 281.30 L 555.00 197.70 L 506.73 281.30" fill="none" stroke="#222" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="412" y="320" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">• Tracer trois côtés de 140 pas.</text>
+<text x="412" y="340" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">• Déterminer l’angle de rotation.</text>
+<text x="412" y="360" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">• Utiliser une seule boucle.</text>
+<rect x="745" y="100" width="330" height="285" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<circle cx="783" cy="138" r="23" fill="white" stroke="#222" stroke-width="2"/>
+<text x="783" y="145" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">C</text>
+<text x="910" y="138" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">L’étoile à cinq branches</text>
+<text x="910" y="162" text-anchor="middle" font-family="Arial" font-size="12" font-weight="normal">Intermédiaire</text>
+<rect x="780" y="182" width="260" height="115" rx="0" fill="#fafafa" stroke="#222" stroke-width="1.2"/>
+<path d="M 882.84 281.30 L 910.00 197.70 L 937.16 281.30 L 866.05 229.63 L 953.95 229.63 L 882.84 281.30" fill="none" stroke="#222" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="767" y="320" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">• Tracer cinq segments de 150 pas.</text>
+<text x="767" y="340" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">• Sauter une pointe à chaque rotation.</text>
+<text x="767" y="360" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">• Trouver l’angle par essais raisonnés.</text>
+<rect x="210" y="420" width="330" height="285" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<circle cx="248" cy="458" r="23" fill="white" stroke="#222" stroke-width="2"/>
+<text x="248" y="465" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">D</text>
+<text x="375" y="458" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">La rosace de douze carrés</text>
+<text x="375" y="482" text-anchor="middle" font-family="Arial" font-size="12" font-weight="normal">Avancé</text>
+<rect x="245" y="502" width="260" height="115" rx="0" fill="#fafafa" stroke="#222" stroke-width="1.2"/>
+<path d="M 375.00 559.50 L 405.60 559.50 L 405.60 590.10 L 375.00 590.10 L 375.00 559.50 L 401.50 574.80 L 386.20 601.30 L 359.70 586.00 L 375.00 559.50 L 390.30 586.00 L 363.80 601.30 L 348.50 574.80 L 375.00 559.50 L 375.00 590.10 L 344.40 590.10 L 344.40 559.50 L 375.00 559.50 L 359.70 586.00 L 333.20 570.70 L 348.50 544.20 L 375.00 559.50 L 348.50 574.80 L 333.20 548.30 L 359.70 533.00 L 375.00 559.50 L 344.40 559.50 L 344.40 528.90 L 375.00 528.90 L 375.00 559.50 L 348.50 544.20 L 363.80 517.70 L 390.30 533.00 L 375.00 559.50 L 359.70 533.00 L 386.20 517.70 L 401.50 544.20 L 375.00 559.50 L 375.00 528.90 L 405.60 528.90 L 405.60 559.50 L 375.00 559.50 L 390.30 533.00 L 416.80 548.30 L 401.50 574.80 L 375.00 559.50 L 401.50 544.20 L 416.80 570.70 L 390.30 586.00 L 375.00 559.50" fill="none" stroke="#222" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="232" y="640" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">• Tracer douze carrés de côté 55 pas.</text>
+<text x="232" y="660" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">• Chaque carré commence au même point.</text>
+<text x="232" y="680" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">• Utiliser deux boucles imbriquées.</text>
+<rect x="570" y="420" width="330" height="285" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<circle cx="608" cy="458" r="23" fill="white" stroke="#222" stroke-width="2"/>
+<text x="608" y="465" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">E</text>
+<text x="735" y="458" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">La fleur de douze triangles</text>
+<text x="735" y="482" text-anchor="middle" font-family="Arial" font-size="12" font-weight="normal">Avancé</text>
+<rect x="605" y="502" width="260" height="115" rx="0" fill="#fafafa" stroke="#222" stroke-width="1.2"/>
+<path d="M 735.00 559.50 L 776.80 559.50 L 755.90 523.30 L 735.00 559.50 L 771.20 580.40 L 771.20 538.60 L 735.00 559.50 L 755.90 595.70 L 776.80 559.50 L 735.00 559.50 L 735.00 601.30 L 771.20 580.40 L 735.00 559.50 L 714.10 595.70 L 755.90 595.70 L 735.00 559.50 L 698.80 580.40 L 735.00 601.30 L 735.00 559.50 L 693.20 559.50 L 714.10 595.70 L 735.00 559.50 L 698.80 538.60 L 698.80 580.40 L 735.00 559.50 L 714.10 523.30 L 693.20 559.50 L 735.00 559.50 L 735.00 517.70 L 698.80 538.60 L 735.00 559.50 L 755.90 523.30 L 714.10 523.30 L 735.00 559.50 L 771.20 538.60 L 735.00 517.70 L 735.00 559.50" fill="none" stroke="#222" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="592" y="640" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">• Tracer douze triangles de côté 70 pas.</text>
+<text x="592" y="660" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">• Chaque triangle commence au même point.</text>
+<text x="592" y="680" text-anchor="start" font-family="Arial" font-size="11.3" font-weight="normal">• Utiliser deux boucles imbriquées.</text>
+</svg>

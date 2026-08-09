@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="40" font-family="Arial" font-size="27" font-weight="bold">Robomorpion – Arbre des décisions</text>
+<text x="40" y="68" font-family="Arial" font-size="14">À chaque case : observer, décider, avancer, recommencer.</text>
+<rect x="435" y="95" width="250" height="70" rx="20" fill="white" stroke="#222" stroke-width="2"/>
+<text x="560" y="137" text-anchor="middle" font-family="Arial" font-size="19" font-weight="bold">Lire la case actuelle</text>
+<line x1="560" y1="165" x2="560" y2="205" stroke="#222" stroke-width="2"/>
+<polygon points="560,215 552,201 568,201" fill="#222"/>
+<polygon points="560,215 552,201 568,201" fill="#222"/>
+<polygon points="560,210 700,280 560,350 420,280" fill="white" stroke="#222" stroke-width="2"/>
+<text x="560" y="275" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">La case contient</text>
+<text x="560" y="300" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">un rond ?</text>
+<text x="710" y="270" font-family="Arial" font-size="14">OUI</text>
+<text x="545" y="375" font-family="Arial" font-size="14">NON</text>
+<line x1="700" y1="280" x2="805" y2="280" stroke="#222" stroke-width="2"/>
+<polygon points="815,280 801,272 801,288" fill="#222"/>
+<rect x="815" y="235" width="250" height="90" rx="12" fill="white" stroke="#222" stroke-width="2"/>
+<text x="940" y="275" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">Tourner à gauche</text>
+<text x="940" y="302" text-anchor="middle" font-family="Arial" font-size="14">orientation − 1 quart de tour</text>
+<line x1="560" y1="350" x2="560" y2="405" stroke="#222" stroke-width="2"/>
+<polygon points="560,415 552,401 568,401" fill="#222"/>
+<polygon points="560,410 700,480 560,550 420,480" fill="white" stroke="#222" stroke-width="2"/>
+<text x="560" y="475" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">La case contient</text>
+<text x="560" y="500" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">une croix ?</text>
+<text x="710" y="470" font-family="Arial" font-size="14">OUI</text>
+<text x="545" y="575" font-family="Arial" font-size="14">NON</text>
+<line x1="700" y1="480" x2="805" y2="480" stroke="#222" stroke-width="2"/>
+<polygon points="815,480 801,472 801,488" fill="#222"/>
+<rect x="815" y="435" width="250" height="90" rx="12" fill="white" stroke="#222" stroke-width="2"/>
+<text x="940" y="475" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">Tourner à droite</text>
+<text x="940" y="502" text-anchor="middle" font-family="Arial" font-size="14">orientation + 1 quart de tour</text>
+<line x1="560" y1="550" x2="560" y2="610" stroke="#222" stroke-width="2"/>
+<polygon points="560,620 552,606 568,606" fill="#222"/>
+<rect x="405" y="620" width="310" height="70" rx="12" fill="white" stroke="#222" stroke-width="2"/>
+<text x="560" y="650" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">Case vide :</text>
+<text x="560" y="676" text-anchor="middle" font-family="Arial" font-size="16">conserver la direction</text>
+<line x1="940" y1="325" x2="940" y2="705" stroke="#777" stroke-width="1.5"/>
+<line x1="940" y1="525" x2="940" y2="705" stroke="#777" stroke-width="1.5"/>
+<line x1="715" y1="655" x2="780" y2="655" stroke="#777" stroke-width="1.5"/>
+<line x1="780" y1="655" x2="780" y2="705" stroke="#777" stroke-width="1.5"/>
+<line x1="780" y1="705" x2="940" y2="705" stroke="#777" stroke-width="1.5"/>
+<line x1="940" y1="705" x2="720" y2="705" stroke="#222" stroke-width="2"/>
+<polygon points="710,705 724,697 724,713" fill="#222"/>
+<rect x="410" y="695" width="300" height="65" rx="20" fill="white" stroke="#222" stroke-width="2"/>
+<text x="560" y="735" text-anchor="middle" font-family="Arial" font-size="19" font-weight="bold">Avancer d’une case</text>
+<path d="M 410 728 C 255 728, 255 130, 425 130" fill="none" stroke="#777" stroke-width="1.5" stroke-dasharray="6 5"/>
+<polygon points="435,130 421,122 421,138" fill="#777"/>
+<text x="85" y="415" font-family="Arial" font-size="15">Recommencer</text>
+<text x="75" y="445" font-family="Arial" font-size="15">jusqu’à la sortie</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+<rect width="100%" height="100%" fill="white"/>
+<text x="12" y="11" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="5.2" font-weight="bold">S60 – Gabarits de routes</text>
+<text x="12" y="18" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="normal">Imprimer à 100 %. Chaque route principale mesure 80 × 30 mm.</text>
+<rect x="15" y="28" width="80" height="30" rx="0" fill="#f7f7f7" stroke="#222" stroke-width="0.5"/>
+<line x1="15" y1="43" x2="95" y2="43" stroke="#777" stroke-width="0.25" stroke-dasharray="2 2"/>
+<text x="55" y="45" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.8" font-weight="bold">ROUTE 1 – 80 × 30</text>
+<rect x="110" y="28" width="80" height="30" rx="0" fill="#f7f7f7" stroke="#222" stroke-width="0.5"/>
+<line x1="110" y1="43" x2="190" y2="43" stroke="#777" stroke-width="0.25" stroke-dasharray="2 2"/>
+<text x="150" y="45" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.8" font-weight="bold">ROUTE 2 – 80 × 30</text>
+<rect x="15" y="70" width="80" height="30" rx="0" fill="#f7f7f7" stroke="#222" stroke-width="0.5"/>
+<line x1="15" y1="85" x2="95" y2="85" stroke="#777" stroke-width="0.25" stroke-dasharray="2 2"/>
+<text x="55" y="87" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.8" font-weight="bold">ROUTE 3 – 80 × 30</text>
+<rect x="110" y="70" width="80" height="30" rx="0" fill="#f7f7f7" stroke="#222" stroke-width="0.5"/>
+<line x1="110" y1="85" x2="190" y2="85" stroke="#777" stroke-width="0.25" stroke-dasharray="2 2"/>
+<text x="150" y="87" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.8" font-weight="bold">ROUTE 4 – 80 × 30</text>
+<rect x="15" y="112" width="80" height="30" rx="0" fill="#f7f7f7" stroke="#222" stroke-width="0.5"/>
+<line x1="15" y1="127" x2="95" y2="127" stroke="#777" stroke-width="0.25" stroke-dasharray="2 2"/>
+<text x="55" y="129" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.8" font-weight="bold">ROUTE 5 – 80 × 30</text>
+<rect x="110" y="112" width="80" height="30" rx="0" fill="#f7f7f7" stroke="#222" stroke-width="0.5"/>
+<line x1="110" y1="127" x2="190" y2="127" stroke="#777" stroke-width="0.25" stroke-dasharray="2 2"/>
+<text x="150" y="129" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.8" font-weight="bold">ROUTE 6 – 80 × 30</text>
+<rect x="65" y="160" width="80" height="80" rx="0" fill="white" stroke="#222" stroke-width="0.5"/>
+<rect x="90" y="160" width="30" height="80" rx="0" fill="#f7f7f7" stroke="#777" stroke-width="0.25"/>
+<rect x="65" y="185" width="80" height="30" rx="0" fill="#f7f7f7" stroke="#777" stroke-width="0.25"/>
+<text x="105" y="202" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="bold">CARREFOUR</text>
+<text x="12" y="260" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="bold">Raccord place : ouverture 40 mm, route 30 mm.</text>
+<rect x="12" y="267" width="40" height="12" rx="0" fill="white" stroke="#222" stroke-width="0.4"/>
+<rect x="17" y="267" width="30" height="12" rx="0" fill="#f7f7f7" stroke="#777" stroke-width="0.25"/>
+<text x="32" y="288" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="bold">5 mm | 30 mm | 5 mm</text>
+<text x="92" y="274" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="bold">Découper le carrefour pour la case (4,6).</text>
+<text x="92" y="284" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.8" font-weight="normal">Les autres bandes servent aux axes principaux et secondaires.</text>
+</svg>

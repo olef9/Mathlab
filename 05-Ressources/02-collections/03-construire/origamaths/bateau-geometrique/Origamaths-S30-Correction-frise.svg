@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="40" text-anchor="start" font-family="Arial" font-size="28" font-weight="bold">S30 – Correction de la frise</text>
+<rect x="55" y="130" width="130" height="500" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="120" y="170" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">1</text>
+<text x="120" y="260" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">rectangle</text>
+<text x="120" y="350" text-anchor="middle" font-family="Arial" font-size="12" font-weight="normal">aucune</text>
+<rect x="205" y="130" width="130" height="500" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="270" y="170" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">2</text>
+<text x="270" y="260" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">rectangle plié</text>
+<text x="270" y="350" text-anchor="middle" font-family="Arial" font-size="12" font-weight="normal">plier en deux</text>
+<rect x="355" y="130" width="130" height="500" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="420" y="170" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">3</text>
+<text x="420" y="260" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">triangle</text>
+<text x="420" y="350" text-anchor="middle" font-family="Arial" font-size="12" font-weight="normal">rabattre symétriquement</text>
+<rect x="505" y="130" width="130" height="500" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="570" y="170" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">4</text>
+<text x="570" y="260" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">carré</text>
+<text x="570" y="350" text-anchor="middle" font-family="Arial" font-size="12" font-weight="normal">ouvrir et aplatir</text>
+<rect x="655" y="130" width="130" height="500" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="720" y="170" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">5</text>
+<text x="720" y="260" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">triangle</text>
+<text x="720" y="350" text-anchor="middle" font-family="Arial" font-size="12" font-weight="normal">relever les pointes</text>
+<rect x="805" y="130" width="130" height="500" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="870" y="170" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">6</text>
+<text x="870" y="260" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">carré</text>
+<text x="870" y="350" text-anchor="middle" font-family="Arial" font-size="12" font-weight="normal">ouvrir et aplatir</text>
+<rect x="955" y="130" width="130" height="500" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="1020" y="170" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">7</text>
+<text x="1020" y="260" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">bateau</text>
+<text x="1020" y="350" text-anchor="middle" font-family="Arial" font-size="12" font-weight="normal">écarter et mettre en volume</text>
+<text x="560" y="710" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold">rectangle → triangle → carré → triangle → carré → bateau</text>
+</svg>

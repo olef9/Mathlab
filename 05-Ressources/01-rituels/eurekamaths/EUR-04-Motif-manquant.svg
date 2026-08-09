@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="45" y="48" font-family="Arial" font-size="29" font-weight="bold">EUR-04 – Le motif manquant</text>
+<text x="45" y="82" font-family="Arial" font-size="16">La flèche tourne d’un quart de tour. Le point se déplace d’un coin au suivant.</text>
+<rect x="55" y="170" width="140" height="140" fill="white" stroke="#333" stroke-width="2"/>
+<polygon points="125.0,205.0 104.0,240.0 118.0,240.0 118.0,275.0 132.0,275.0 132.0,240.0 146.0,240.0" fill="white" stroke="#111" stroke-width="2"/>
+<circle cx="75" cy="190" r="9" fill="#111"/>
+<text x="125.0" y="340" text-anchor="middle" font-family="Arial" font-size="15">Case 1</text>
+<rect x="225" y="170" width="140" height="140" fill="white" stroke="#333" stroke-width="2"/>
+<polygon points="330.0,240.0 295.0,219.0 295.0,233.0 260.0,233.0 260.0,247.0 295.0,247.0 295.0,261.0" fill="white" stroke="#111" stroke-width="2"/>
+<circle cx="345" cy="190" r="9" fill="#111"/>
+<text x="295.0" y="340" text-anchor="middle" font-family="Arial" font-size="15">Case 2</text>
+<rect x="395" y="170" width="140" height="140" fill="white" stroke="#333" stroke-width="2"/>
+<polygon points="465.0,275.0 444.0,240.0 458.0,240.0 458.0,205.0 472.0,205.0 472.0,240.0 486.0,240.0" fill="white" stroke="#111" stroke-width="2"/>
+<circle cx="515" cy="290" r="9" fill="#111"/>
+<text x="465.0" y="340" text-anchor="middle" font-family="Arial" font-size="15">Case 3</text>
+<rect x="565" y="170" width="140" height="140" fill="white" stroke="#333" stroke-width="2"/>
+<polygon points="600.0,240.0 635.0,219.0 635.0,233.0 670.0,233.0 670.0,247.0 635.0,247.0 635.0,261.0" fill="white" stroke="#111" stroke-width="2"/>
+<circle cx="585" cy="290" r="9" fill="#111"/>
+<text x="635.0" y="340" text-anchor="middle" font-family="Arial" font-size="15">Case 4</text>
+<rect x="735" y="170" width="140" height="140" fill="white" stroke="#333" stroke-width="2"/>
+<text x="805.0" y="250.0" text-anchor="middle" font-family="Arial" font-size="40">?</text>
+<text x="805.0" y="340" text-anchor="middle" font-family="Arial" font-size="15">Case 5</text>
+<rect x="905" y="170" width="140" height="140" fill="white" stroke="#333" stroke-width="2"/>
+<polygon points="1010.0,240.0 975.0,219.0 975.0,233.0 940.0,233.0 940.0,247.0 975.0,247.0 975.0,261.0" fill="white" stroke="#111" stroke-width="2"/>
+<circle cx="1025" cy="190" r="9" fill="#111"/>
+<text x="975.0" y="340" text-anchor="middle" font-family="Arial" font-size="15">Case 6</text>
+<text x="55" y="410" font-family="Arial" font-size="18" font-weight="bold">Quelle figure doit occuper la case 5 ?</text>
+<text x="85" y="540" font-family="Arial" font-size="22" font-weight="bold">A</text>
+<rect x="120" y="470" width="130" height="130" fill="white" stroke="#333" stroke-width="2"/>
+<polygon points="185.0,503.0 165.8,535.0 178.6,535.0 178.6,567.0 191.4,567.0 191.4,535.0 204.2,535.0" fill="white" stroke="#111" stroke-width="2"/>
+<circle cx="138" cy="488" r="8" fill="#111"/>
+<text x="330" y="540" font-family="Arial" font-size="22" font-weight="bold">B</text>
+<rect x="365" y="470" width="130" height="130" fill="white" stroke="#333" stroke-width="2"/>
+<polygon points="430.0,503.0 410.8,535.0 423.6,535.0 423.6,567.0 436.4,567.0 436.4,535.0 449.2,535.0" fill="white" stroke="#111" stroke-width="2"/>
+<circle cx="477" cy="582" r="8" fill="#111"/>
+<text x="575" y="540" font-family="Arial" font-size="22" font-weight="bold">C</text>
+<rect x="610" y="470" width="130" height="130" fill="white" stroke="#333" stroke-width="2"/>
+<polygon points="675.0,567.0 655.8,535.0 668.6,535.0 668.6,503.0 681.4,503.0 681.4,535.0 694.2,535.0" fill="white" stroke="#111" stroke-width="2"/>
+<circle cx="628" cy="488" r="8" fill="#111"/>
+<text x="820" y="540" font-family="Arial" font-size="22" font-weight="bold">D</text>
+<rect x="855" y="470" width="130" height="130" fill="white" stroke="#333" stroke-width="2"/>
+<polygon points="888.0,535.0 920.0,515.8 920.0,528.6 952.0,528.6 952.0,541.4 920.0,541.4 920.0,554.2" fill="white" stroke="#111" stroke-width="2"/>
+<circle cx="967" cy="488" r="8" fill="#111"/>
+<text x="55" y="690" font-family="Arial" font-size="16">Réponse : ______</text>
+<text x="300" y="690" font-family="Arial" font-size="16">Période de la suite : ______ cases</text>
+<text x="55" y="740" font-family="Arial" font-size="14">Conseil : étudie séparément la flèche et le point.</text>
+</svg>

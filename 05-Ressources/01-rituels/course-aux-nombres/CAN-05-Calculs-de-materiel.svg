@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="45" y="45" font-family="Arial" font-size="28" font-weight="bold">CAN-05 – Calculs de matériel</text>
+<text x="45" y="78" font-family="Arial" font-size="15">Pion = 1 · Cavalier = 3 · Fou = 3 · Tour = 5 · Dame = 9</text>
+<rect x="45" y="110" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="80" cy="145" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="152" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">1</text>
+<text x="130" y="160" font-family="Arial" font-size="21" font-weight="bold">tour + pion</text>
+<text x="405" y="198" font-family="Arial" font-size="17">________</text>
+<rect x="580" y="110" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="615" cy="145" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="152" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">2</text>
+<text x="665" y="160" font-family="Arial" font-size="21" font-weight="bold">fou + cavalier</text>
+<text x="940" y="198" font-family="Arial" font-size="17">________</text>
+<rect x="45" y="255" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="80" cy="290" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="297" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">3</text>
+<text x="130" y="305" font-family="Arial" font-size="21" font-weight="bold">2 tours</text>
+<text x="405" y="343" font-family="Arial" font-size="17">________</text>
+<rect x="580" y="255" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="615" cy="290" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="297" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">4</text>
+<text x="665" y="305" font-family="Arial" font-size="21" font-weight="bold">dame − tour</text>
+<text x="940" y="343" font-family="Arial" font-size="17">________</text>
+<rect x="45" y="400" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="80" cy="435" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="442" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">5</text>
+<text x="130" y="450" font-family="Arial" font-size="21" font-weight="bold">2 fous + cavalier</text>
+<text x="405" y="488" font-family="Arial" font-size="17">________</text>
+<rect x="580" y="400" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="615" cy="435" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="442" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">6</text>
+<text x="665" y="450" font-family="Arial" font-size="21" font-weight="bold">dame + tour + 2 pions</text>
+<text x="940" y="488" font-family="Arial" font-size="17">________</text>
+<rect x="45" y="545" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="80" cy="580" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="587" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">7</text>
+<text x="130" y="595" font-family="Arial" font-size="21" font-weight="bold">2 tours + fou</text>
+<text x="405" y="633" font-family="Arial" font-size="17">________</text>
+<rect x="580" y="545" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="615" cy="580" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="587" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">8</text>
+<text x="665" y="595" font-family="Arial" font-size="21" font-weight="bold">3 pions + cavalier</text>
+<text x="940" y="633" font-family="Arial" font-size="17">________</text>
+<text x="45" y="720" font-family="Arial" font-size="17" font-weight="bold">Bonus : dame échangée contre tour + 2 fous. Gain théorique : ______ points</text>
+<text x="45" y="758" font-family="Arial" font-size="14">Aujourd’hui, un mat vaut plus que tout gain de matériel.</text>
+</svg>

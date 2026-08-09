@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="35" y="38" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="25.5" font-weight="bold">S47 – Équipe D – La passerelle en papier plié</text>
+<rect x="35" y="88" width="1053" height="100" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="55" y="120" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">OBJECTIF</text>
+<text x="180" y="120" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Construire une passerelle rigide avec les pièces du patron.</text>
+<text x="55" y="160" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">À RENDRE</text>
+<text x="180" y="160" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="normal">passerelle + croquis coté + test de résistance</text>
+<rect x="35" y="215" width="650" height="410" rx="12" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="360" y="246" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16.5" font-weight="bold">TRAVAIL À FAIRE DANS L’ORDRE</text>
+<circle cx="68" cy="285" r="13" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="68" y="290" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" font-weight="bold">1</text>
+<text x="95" y="276" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.7" font-weight="normal">Former les deux poutres triangulaires en suivant les quatre</text>
+<text x="95" y="293" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.7" font-weight="normal">plis.</text>
+<circle cx="68" cy="343" r="13" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="68" y="348" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" font-weight="bold">2</text>
+<text x="95" y="334" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.7" font-weight="normal">Plier les deux bords du tablier de 10 mm vers le bas.</text>
+<circle cx="68" cy="401" r="13" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="68" y="406" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" font-weight="bold">3</text>
+<text x="95" y="392" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.7" font-weight="normal">Coller les poutres sous le tablier, parallèlement.</text>
+<circle cx="68" cy="459" r="13" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="68" y="464" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" font-weight="bold">4</text>
+<text x="95" y="450" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.7" font-weight="normal">Plier les quatre pieds à angle droit.</text>
+<circle cx="68" cy="517" r="13" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="68" y="522" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" font-weight="bold">5</text>
+<text x="95" y="508" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.7" font-weight="normal">Placer les pieds de chaque côté de la route de 30 mm.</text>
+<circle cx="68" cy="575" r="13" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="68" y="580" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" font-weight="bold">6</text>
+<text x="95" y="566" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.7" font-weight="normal">Poser la gomme au centre pendant 10 secondes.</text>
+<rect x="715" y="215" width="373" height="410" rx="12" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="901" y="246" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">TESTS OBLIGATOIRES</text>
+<circle cx="750" cy="287" r="13" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="750" y="292" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" font-weight="bold">1</text>
+<text x="778" y="278" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.7" font-weight="normal">route libre 30 mm</text>
+<circle cx="750" cy="345" r="13" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="750" y="350" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" font-weight="bold">2</text>
+<text x="778" y="336" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.7" font-weight="normal">hauteur libre 45 mm</text>
+<circle cx="750" cy="403" r="13" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="750" y="408" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" font-weight="bold">3</text>
+<text x="778" y="394" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.7" font-weight="normal">tablier 100 mm</text>
+<circle cx="750" cy="461" r="13" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="750" y="466" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" font-weight="bold">4</text>
+<text x="778" y="452" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.7" font-weight="normal">4 pieds hors route</text>
+<circle cx="750" cy="519" r="13" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="750" y="524" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" font-weight="bold">5</text>
+<text x="778" y="510" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.7" font-weight="normal">gomme 10 s</text>
+<rect x="35" y="655" width="1053" height="82" rx="11" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="55" y="684" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">AVANT LE CONTRÔLE</text>
+<text x="245" y="684" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">☐ découpes   ☐ plis   ☐ mesures   ☐ total   ☐ stabilité</text>
+<text x="55" y="720" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">Correction de la version 2 : ________________________________________________________________</text>
+<text x="40" y="775" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Le prototype doit tenir sans être maintenu à la main.</text>
+</svg>

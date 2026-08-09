@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="28.5" font-weight="bold">S54 – Créer librement, prouver précisément</text>
+<text x="40" y="72" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="normal">La décoration vient après la validation géométrique.</text>
+<circle cx="72" cy="120" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="126" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">1</text>
+<rect x="108" y="95" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="116" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">LIRE</text>
+<text x="365" y="116" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">Numérotez toutes les contraintes de votre carte.</text>
+<circle cx="72" cy="197" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="203" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">2</text>
+<rect x="108" y="172" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="193" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">PRÉVOIR</text>
+<text x="365" y="193" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">Pour chaque contrainte, choisissez une construction et une preuve.</text>
+<text x="135" y="216" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.5" font-weight="bold">Une preuve peut être une mesure, un comptage ou un contrôle à l’instrument.</text>
+<circle cx="72" cy="274" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="280" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">3</text>
+<rect x="108" y="249" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="270" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">CROQUIS</text>
+<text x="365" y="270" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">Placez rapidement les éléments avant de tracer au propre.</text>
+<circle cx="72" cy="351" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="357" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">4</text>
+<rect x="108" y="326" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="347" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">CONSTRUIRE</text>
+<text x="365" y="347" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">Utilisez règle, équerre ou compas selon la mission.</text>
+<circle cx="72" cy="428" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="434" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">5</text>
+<rect x="108" y="403" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="424" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">VÉRIFIER</text>
+<text x="365" y="424" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">Mesurez ou comptez après chaque contrainte.</text>
+<text x="135" y="447" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.5" font-weight="bold">Ne validez jamais une propriété seulement « à l’œil ».</text>
+<circle cx="72" cy="505" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="511" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">6</text>
+<rect x="108" y="480" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="501" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">FAIRE TESTER</text>
+<text x="365" y="501" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">Une autre équipe contrôle avec les instruments.</text>
+<text x="135" y="524" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.5" font-weight="bold">Chaque NON doit être accompagné d’une raison précise.</text>
+<circle cx="72" cy="582" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="588" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">7</text>
+<rect x="108" y="557" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="578" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">CORRIGER</text>
+<text x="365" y="578" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">Réparez une propriété fausse avant toute finition.</text>
+<circle cx="72" cy="659" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="665" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">8</text>
+<rect x="108" y="634" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="655" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">FINALISER</text>
+<text x="365" y="655" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">Repassez, effacez les traits inutiles et ajoutez au plus 3 couleurs.</text>
+<rect x="160" y="720" width="805" height="48" rx="10" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="562" y="750" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">CONTRAINTE → CONSTRUCTION → PREUVE → CONTRÔLE</text>
+</svg>

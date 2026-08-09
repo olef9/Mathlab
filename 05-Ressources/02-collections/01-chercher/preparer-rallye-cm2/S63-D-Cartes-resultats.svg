@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+<rect width="100%" height="100%" fill="white"/>
+<text x="12" y="12" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="5.2" font-weight="bold">Atelier D – Cartes résultats</text>
+<rect x="20" y="35" width="170" height="55" rx="4" fill="white" stroke="#222" stroke-width="0.5"/>
+<text x="105" y="65" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="4.5" font-weight="bold">PLATEAU GAUCHE PLUS LOURD</text>
+<rect x="20" y="110" width="170" height="55" rx="4" fill="white" stroke="#222" stroke-width="0.5"/>
+<text x="105" y="140" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="5.3" font-weight="bold">ÉQUILIBRE</text>
+<rect x="20" y="185" width="170" height="55" rx="4" fill="white" stroke="#222" stroke-width="0.5"/>
+<text x="105" y="215" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="4.5" font-weight="bold">PLATEAU DROIT PLUS LOURD</text>
+<text x="20" y="270" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.3" font-weight="bold">Découper. L&#x27;animateur peut les poser pour aider à raisonner sur les trois cas.</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="38" y="38" text-anchor="start" font-family="Arial" font-size="26" font-weight="bold">S28 – Cartes des quatre missions</text>
+<text x="38" y="64" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Chaque équipe reprend une recherche déjà menée et la transforme en présentation de trois minutes.</text>
+<rect x="55" y="95" width="475" height="300" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="80" y="130" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">MISSION A</text>
+<text x="292" y="177" text-anchor="middle" font-family="Arial" font-size="23" font-weight="bold">ENQUÊTE LOGIQUE</text>
+<text x="292" y="210" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">L’enquête des suspects</text>
+<text x="90" y="260" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• Montrer une déduction directe.</text>
+<text x="90" y="295" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• Montrer un croisement d’indices.</text>
+<text x="90" y="330" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• Justifier la conclusion.</text>
+<text x="90" y="377" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Question centrale : ___________________________________</text>
+<rect x="590" y="95" width="475" height="300" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="615" y="130" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">MISSION B</text>
+<text x="827" y="177" text-anchor="middle" font-family="Arial" font-size="23" font-weight="bold">CHANGER DE VUE</text>
+<text x="827" y="210" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">La boîte mystère</text>
+<text x="625" y="260" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• Présenter les trois vues.</text>
+<text x="625" y="295" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• Montrer l’ambiguïté.</text>
+<text x="625" y="330" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• Expliquer l’indice décisif.</text>
+<text x="625" y="377" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Question centrale : ___________________________________</text>
+<rect x="55" y="435" width="475" height="300" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="80" y="470" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">MISSION C</text>
+<text x="292" y="517" text-anchor="middle" font-family="Arial" font-size="23" font-weight="bold">EXPÉRIMENTER</text>
+<text x="292" y="550" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">Ce pavage est-il possible ?</text>
+<text x="90" y="600" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• Montrer l’essai.</text>
+<text x="90" y="635" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• Calculer autour du sommet.</text>
+<text x="90" y="670" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• Vérifier la répétition.</text>
+<text x="90" y="717" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Question centrale : ___________________________________</text>
+<rect x="590" y="435" width="475" height="300" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="615" y="470" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">MISSION D</text>
+<text x="827" y="517" text-anchor="middle" font-family="Arial" font-size="23" font-weight="bold">EXÉCUTER</text>
+<text x="827" y="550" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">Robomorpion ou boucles</text>
+<text x="625" y="600" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• Présenter les règles.</text>
+<text x="625" y="635" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• Exécuter pas à pas.</text>
+<text x="625" y="670" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">• Montrer une vérification.</text>
+<text x="625" y="717" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Question centrale : ___________________________________</text>
+</svg>

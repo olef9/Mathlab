@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="35" y="38" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="24.8" font-weight="bold">S62 – Équipe D – À Math&#x27;Lab, on jouer et raisonner</text>
+<text x="35" y="68" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Exemple : Mini-problème d&#x27;échecs</text>
+<rect x="35" y="95" width="1053" height="90" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="1.3"/>
+<text x="55" y="125" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">OUVERTURE IMPOSÉE</text>
+<text x="250" y="125" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">« À Math&#x27;Lab, on joue et on raisonne. »</text>
+<rect x="35" y="215" width="500" height="160" rx="12" fill="#f7f7f7" stroke="#222" stroke-width="1.3"/>
+<text x="60" y="248" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">LE DÉFI À EXPLIQUER</text>
+<text x="60" y="282" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="bold">Choisir un bon coup et expliquer pourquoi il est</text>
+<text x="60" y="300" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="bold">préférable à un coup au hasard.</text>
+<rect x="565" y="215" width="523" height="250" rx="12" fill="white" stroke="#222" stroke-width="1.3"/>
+<text x="826" y="248" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">À MONTRER</text>
+<circle cx="600" cy="290" r="12" fill="#f4f4f4" stroke="#222" stroke-width="1.3"/>
+<text x="600" y="295" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10" font-weight="bold">1</text>
+<text x="628" y="282" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.6" font-weight="bold">montrer la position</text>
+<circle cx="600" cy="348" r="12" fill="#f4f4f4" stroke="#222" stroke-width="1.3"/>
+<text x="600" y="353" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10" font-weight="bold">2</text>
+<text x="628" y="340" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.6" font-weight="bold">montrer le coup choisi</text>
+<circle cx="600" cy="406" r="12" fill="#f4f4f4" stroke="#222" stroke-width="1.3"/>
+<text x="600" y="411" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10" font-weight="bold">3</text>
+<text x="628" y="398" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.6" font-weight="bold">montrer la réponse ou la conséquence</text>
+<rect x="35" y="405" width="500" height="170" rx="12" fill="#f7f7f7" stroke="#222" stroke-width="1.3"/>
+<text x="60" y="438" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">IDÉE MATHÉMATIQUE</text>
+<text x="60" y="472" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.6" font-weight="bold">Un coup devient intéressant quand on anticipe</text>
+<text x="60" y="490" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.6" font-weight="bold">ce que l&#x27;adversaire peut faire ensuite.</text>
+<rect x="565" y="495" width="523" height="120" rx="12" fill="#f7f7f7" stroke="#222" stroke-width="1.3"/>
+<text x="590" y="527" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">PREUVE / VÉRIFICATION</text>
+<text x="590" y="561" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.4" font-weight="bold">Montrer précisément ce que le coup permet</text>
+<text x="590" y="578" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.4" font-weight="bold">d&#x27;obtenir.</text>
+<rect x="100" y="650" width="925" height="72" rx="10" fill="#f4f4f4" stroke="#222" stroke-width="1.3"/>
+<text x="562" y="678" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.7" font-weight="bold">À éviter : numéro de séance · jargon non expliqué · récit de toute l&#x27;année</text>
+<text x="562" y="705" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.2" font-weight="bold">À viser : 60–75 s · une action · une idée · une preuve</text>
+<text x="40" y="770" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">Dernière phrase : « Voilà un exemple de ce qu&#x27;on fait à Math&#x27;Lab. »</text>
+</svg>

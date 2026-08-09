@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+<rect width="100%" height="100%" fill="white"/>
+<text x="12" y="10" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="5.5" font-weight="bold" fill="#111">S50 – Échiquier vierge et fiche de position</text>
+<rect x="25" y="24" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="45" y="24" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="65" y="24" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="85" y="24" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="105" y="24" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="125" y="24" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="145" y="24" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="165" y="24" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="25" y="44" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="45" y="44" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="65" y="44" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="85" y="44" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="105" y="44" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="125" y="44" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="145" y="44" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="165" y="44" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="25" y="64" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="45" y="64" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="65" y="64" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="85" y="64" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="105" y="64" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="125" y="64" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="145" y="64" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="165" y="64" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="25" y="84" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="45" y="84" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="65" y="84" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="85" y="84" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="105" y="84" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="125" y="84" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="145" y="84" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="165" y="84" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="25" y="104" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="45" y="104" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="65" y="104" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="85" y="104" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="105" y="104" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="125" y="104" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="145" y="104" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="165" y="104" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="25" y="124" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="45" y="124" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="65" y="124" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="85" y="124" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="105" y="124" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="125" y="124" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="145" y="124" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="165" y="124" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="25" y="144" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="45" y="144" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="65" y="144" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="85" y="144" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="105" y="144" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="125" y="144" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="145" y="144" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="165" y="144" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="25" y="164" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="45" y="164" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="65" y="164" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="85" y="164" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="105" y="164" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="125" y="164" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<rect x="145" y="164" width="20" height="20" rx="0" fill="#9d9d9d" stroke="#555" stroke-width="0.55"/>
+<rect x="165" y="164" width="20" height="20" rx="0" fill="#f1f1f1" stroke="#555" stroke-width="0.55"/>
+<text x="35.0" y="202" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#111">a</text>
+<text x="55.0" y="202" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#111">b</text>
+<text x="75.0" y="202" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#111">c</text>
+<text x="95.0" y="202" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#111">d</text>
+<text x="115.0" y="202" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#111">e</text>
+<text x="135.0" y="202" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#111">f</text>
+<text x="155.0" y="202" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#111">g</text>
+<text x="175.0" y="202" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#111">h</text>
+<text x="13" y="36.6" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#111">8</text>
+<text x="13" y="56.599999999999994" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#111">7</text>
+<text x="13" y="76.6" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#111">6</text>
+<text x="13" y="96.6" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#111">5</text>
+<text x="13" y="116.6" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#111">4</text>
+<text x="13" y="136.6" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#111">3</text>
+<text x="13" y="156.6" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#111">2</text>
+<text x="13" y="176.6" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#111">1</text>
+<rect x="25" y="24" width="160" height="160" rx="0" fill="none" stroke="#222" stroke-width="1.6"/>
+<text x="25" y="201" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="4.1" font-weight="bold" fill="#111">Camp qui joue :  ☐ Blancs   ☐ Noirs</text>
+<text x="25" y="212" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="4.1" font-weight="bold" fill="#111">Question :</text>
+<line x1="48" y1="211" x2="190" y2="211" stroke="#222" stroke-width="0.4"/>
+<line x1="25" y1="220" x2="190" y2="220" stroke="#222" stroke-width="0.4"/>
+<text x="25" y="232" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="4.1" font-weight="bold" fill="#111">Coup solution :</text>
+<line x1="58" y1="231" x2="190" y2="231" stroke="#222" stroke-width="0.4"/>
+<text x="25" y="244" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="4.0" font-weight="normal" fill="#111">Départ : ______    Arrivée : ______</text>
+<text x="25" y="256" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="4.1" font-weight="bold" fill="#111">Pourquoi le coup fonctionne-t-il ?</text>
+<line x1="25" y1="264" x2="190" y2="264" stroke="#222" stroke-width="0.4"/>
+<line x1="25" y1="272" x2="190" y2="272" stroke="#222" stroke-width="0.4"/>
+<line x1="25" y1="280" x2="190" y2="280" stroke="#222" stroke-width="0.4"/>
+<text x="25" y="290" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.7" font-weight="normal" fill="#111">Auteurs : ____________________   Équipe testeuse : ____________________</text>
+</svg>

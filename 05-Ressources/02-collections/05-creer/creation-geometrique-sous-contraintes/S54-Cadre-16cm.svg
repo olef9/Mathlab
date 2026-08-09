@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+<rect width="100%" height="100%" fill="white"/>
+<text x="25" y="18" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="5.5" font-weight="bold">S54 – Cadre de création</text>
+<text x="25" y="25" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.5" font-weight="normal">Imprimer à 100 %. Le carré doit mesurer 16 cm de côté.</text>
+<rect x="25" y="38" width="160" height="160" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="105" y="205" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.5" font-weight="bold">16 cm</text>
+<text x="105" y="220" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.8" font-weight="bold">Titre : ______________________________________________</text>
+<text x="25" y="235" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.8" font-weight="bold">Équipe : ______    Mission : ______</text>
+<text x="25" y="247" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.4" font-weight="normal">Preuve 1 : ________________________________________________</text>
+<text x="25" y="258" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.4" font-weight="normal">Preuve 2 : ________________________________________________</text>
+<text x="25" y="269" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.4" font-weight="normal">Preuve 3 : ________________________________________________</text>
+<text x="25" y="286" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.6" font-weight="bold">Ne pas colorier avant le contrôle croisé.</text>
+</svg>

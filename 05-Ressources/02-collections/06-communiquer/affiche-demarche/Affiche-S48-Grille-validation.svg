@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="28.5" font-weight="bold">S48 – Grille de validation de l’affiche</text>
+<text x="40" y="70" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Équipe : ______   Mission : ______</text>
+<rect x="20" y="105" width="580" height="48" rx="0" fill="#ededed" stroke="#222" stroke-width="1.1"/>
+<text x="310.0" y="136" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">Critère</text>
+<rect x="600" y="105" width="90" height="48" rx="0" fill="#ededed" stroke="#222" stroke-width="1.1"/>
+<text x="645.0" y="136" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">Oui</text>
+<rect x="690" y="105" width="110" height="48" rx="0" fill="#ededed" stroke="#222" stroke-width="1.1"/>
+<text x="745.0" y="136" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">À corriger</text>
+<rect x="800" y="105" width="320" height="48" rx="0" fill="#ededed" stroke="#222" stroke-width="1.1"/>
+<text x="960.0" y="136" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">Observation</text>
+<rect x="20" y="153" width="580" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="34" y="183" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">Le titre est formulé comme une question.</text>
+<rect x="600" y="153" width="90" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="645.0" y="183" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">☐</text>
+<rect x="690" y="153" width="110" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="745.0" y="183" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">☐</text>
+<rect x="800" y="153" width="320" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="960.0" y="183" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="normal"></text>
+<rect x="20" y="202" width="580" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="34" y="232" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">La situation de départ est compréhensible.</text>
+<rect x="600" y="202" width="90" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="645.0" y="232" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">☐</text>
+<rect x="690" y="202" width="110" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="745.0" y="232" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">☐</text>
+<rect x="800" y="202" width="320" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="960.0" y="232" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="normal"></text>
+<rect x="20" y="251" width="580" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="34" y="281" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">Le but à atteindre est explicite.</text>
+<rect x="600" y="251" width="90" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="645.0" y="281" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">☐</text>
+<rect x="690" y="251" width="110" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="745.0" y="281" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">☐</text>
+<rect x="800" y="251" width="320" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="960.0" y="281" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="normal"></text>
+<rect x="20" y="300" width="580" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="34" y="330" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">Les étapes sont numérotées et ordonnées.</text>
+<rect x="600" y="300" width="90" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="645.0" y="330" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">☐</text>
+<rect x="690" y="300" width="110" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="745.0" y="330" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">☐</text>
+<rect x="800" y="300" width="320" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="960.0" y="330" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="normal"></text>
+<rect x="20" y="349" width="580" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="34" y="379" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">Chaque étape commence par un verbe précis.</text>
+<rect x="600" y="349" width="90" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="645.0" y="379" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">☐</text>
+<rect x="690" y="349" width="110" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="745.0" y="379" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">☐</text>
+<rect x="800" y="349" width="320" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="960.0" y="379" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="normal"></text>
+<rect x="20" y="398" width="580" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="34" y="428" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">Au moins deux visuels sont utiles et légendés.</text>
+<rect x="600" y="398" width="90" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="645.0" y="428" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">☐</text>
+<rect x="690" y="398" width="110" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="745.0" y="428" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">☐</text>
+<rect x="800" y="398" width="320" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="960.0" y="428" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="normal"></text>
+<rect x="20" y="447" width="580" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="34" y="477" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">Une preuve, un test ou un exemple est vérifiable.</text>
+<rect x="600" y="447" width="90" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="645.0" y="477" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">☐</text>
+<rect x="690" y="447" width="110" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="745.0" y="477" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">☐</text>
+<rect x="800" y="447" width="320" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="960.0" y="477" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="normal"></text>
+<rect x="20" y="496" width="580" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="34" y="526" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">Une erreur fréquente est expliquée.</text>
+<rect x="600" y="496" width="90" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="645.0" y="526" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">☐</text>
+<rect x="690" y="496" width="110" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="745.0" y="526" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">☐</text>
+<rect x="800" y="496" width="320" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="960.0" y="526" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="normal"></text>
+<rect x="20" y="545" width="580" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="34" y="575" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">La conclusion répond à la question.</text>
+<rect x="600" y="545" width="90" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="645.0" y="575" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">☐</text>
+<rect x="690" y="545" width="110" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="745.0" y="575" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">☐</text>
+<rect x="800" y="545" width="320" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="960.0" y="575" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="normal"></text>
+<rect x="20" y="594" width="580" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="34" y="624" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">Les textes sont lisibles à environ deux mètres.</text>
+<rect x="600" y="594" width="90" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="645.0" y="624" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">☐</text>
+<rect x="690" y="594" width="110" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="745.0" y="624" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="bold">☐</text>
+<rect x="800" y="594" width="320" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="960.0" y="624" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.1" font-weight="normal"></text>
+<text x="35" y="675" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">Trois corrections prioritaires :</text>
+<line x1="250" y1="705" x2="1065" y2="705" stroke="#222" stroke-width="1"/>
+<line x1="250" y1="735" x2="1065" y2="735" stroke="#222" stroke-width="1"/>
+<line x1="250" y1="765" x2="1065" y2="765" stroke="#222" stroke-width="1"/>
+</svg>

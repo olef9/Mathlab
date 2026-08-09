@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+<rect width="100%" height="100%" fill="white"/>
+<text x="10" y="10" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="5.2" font-weight="bold">Atelier E – Pièces du pavage</text>
+<text x="10" y="18" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.1" font-weight="normal">Imprimer à 100 %, découper sur le contour extérieur. Chaque petit carré mesure 30 mm.</text>
+<rect x="10" y="35" width="30" height="30" rx="0" fill="#f7f7f7" stroke="#222" stroke-width="0.5"/>
+<rect x="40" y="35" width="30" height="30" rx="0" fill="#f7f7f7" stroke="#222" stroke-width="0.5"/>
+<rect x="70" y="35" width="30" height="30" rx="0" fill="#f7f7f7" stroke="#222" stroke-width="0.5"/>
+<rect x="100" y="35" width="30" height="30" rx="0" fill="#f7f7f7" stroke="#222" stroke-width="0.5"/>
+<text x="70" y="72" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="4" font-weight="bold">I</text>
+<rect x="145" y="35" width="30" height="30" rx="0" fill="#f7f7f7" stroke="#222" stroke-width="0.5"/>
+<rect x="175" y="35" width="30" height="30" rx="0" fill="#f7f7f7" stroke="#222" stroke-width="0.5"/>
+<rect x="145" y="65" width="30" height="30" rx="0" fill="#f7f7f7" stroke="#222" stroke-width="0.5"/>
+<rect x="175" y="65" width="30" height="30" rx="0" fill="#f7f7f7" stroke="#222" stroke-width="0.5"/>
+<text x="175" y="68" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="4" font-weight="bold">O</text>
+<rect x="15" y="105" width="30" height="30" rx="0" fill="#f7f7f7" stroke="#222" stroke-width="0.5"/>
+<rect x="15" y="135" width="30" height="30" rx="0" fill="#f7f7f7" stroke="#222" stroke-width="0.5"/>
+<rect x="15" y="165" width="30" height="30" rx="0" fill="#f7f7f7" stroke="#222" stroke-width="0.5"/>
+<rect x="45" y="165" width="30" height="30" rx="0" fill="#f7f7f7" stroke="#222" stroke-width="0.5"/>
+<text x="30" y="155" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="4" font-weight="bold">L1</text>
+<rect x="115" y="105" width="30" height="30" rx="0" fill="#f7f7f7" stroke="#222" stroke-width="0.5"/>
+<rect x="115" y="135" width="30" height="30" rx="0" fill="#f7f7f7" stroke="#222" stroke-width="0.5"/>
+<rect x="115" y="165" width="30" height="30" rx="0" fill="#f7f7f7" stroke="#222" stroke-width="0.5"/>
+<rect x="145" y="165" width="30" height="30" rx="0" fill="#f7f7f7" stroke="#222" stroke-width="0.5"/>
+<text x="130" y="155" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="4" font-weight="bold">L2</text>
+<rect x="45" y="210" width="20" height="20" rx="0" fill="white" stroke="#999" stroke-width="0.3"/>
+<rect x="65" y="210" width="20" height="20" rx="0" fill="white" stroke="#999" stroke-width="0.3"/>
+<rect x="85" y="210" width="20" height="20" rx="0" fill="white" stroke="#999" stroke-width="0.3"/>
+<rect x="105" y="210" width="20" height="20" rx="0" fill="white" stroke="#999" stroke-width="0.3"/>
+<rect x="45" y="230" width="20" height="20" rx="0" fill="white" stroke="#999" stroke-width="0.3"/>
+<rect x="65" y="230" width="20" height="20" rx="0" fill="white" stroke="#999" stroke-width="0.3"/>
+<rect x="85" y="230" width="20" height="20" rx="0" fill="white" stroke="#999" stroke-width="0.3"/>
+<rect x="105" y="230" width="20" height="20" rx="0" fill="white" stroke="#999" stroke-width="0.3"/>
+<rect x="45" y="250" width="20" height="20" rx="0" fill="white" stroke="#999" stroke-width="0.3"/>
+<rect x="65" y="250" width="20" height="20" rx="0" fill="white" stroke="#999" stroke-width="0.3"/>
+<rect x="85" y="250" width="20" height="20" rx="0" fill="white" stroke="#999" stroke-width="0.3"/>
+<rect x="105" y="250" width="20" height="20" rx="0" fill="white" stroke="#999" stroke-width="0.3"/>
+<rect x="45" y="270" width="20" height="20" rx="0" fill="white" stroke="#999" stroke-width="0.3"/>
+<rect x="65" y="270" width="20" height="20" rx="0" fill="white" stroke="#999" stroke-width="0.3"/>
+<rect x="85" y="270" width="20" height="20" rx="0" fill="white" stroke="#999" stroke-width="0.3"/>
+<rect x="105" y="270" width="20" height="20" rx="0" fill="white" stroke="#999" stroke-width="0.3"/>
+<text x="85" y="205" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="bold">Cible de contrôle 4 × 4</text>
+</svg>

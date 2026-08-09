@@ -1,0 +1,245 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="40" font-family="Arial" font-size="26" font-weight="bold">Frises – Cartes transformations</text>
+<text x="40" y="67" font-family="Arial" font-size="13">Découper les cartes. Elles servent d’aide et de choix de protocole.</text>
+<rect x="45" y="100" width="500" height="290" rx="12" fill="white" stroke="#333" stroke-width="1.8" stroke-dasharray="7 5"/>
+<text x="63" y="132" font-family="Arial" font-size="19" font-weight="bold">A – GLISSER</text>
+<rect x="95" y="165" width="96" height="96" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="95" cy="165" r="2.2" fill="#888"/>
+<circle cx="95" cy="189" r="2.2" fill="#888"/>
+<circle cx="95" cy="213" r="2.2" fill="#888"/>
+<circle cx="95" cy="237" r="2.2" fill="#888"/>
+<circle cx="95" cy="261" r="2.2" fill="#888"/>
+<circle cx="119" cy="165" r="2.2" fill="#888"/>
+<circle cx="119" cy="189" r="2.2" fill="#888"/>
+<circle cx="119" cy="213" r="2.2" fill="#888"/>
+<circle cx="119" cy="237" r="2.2" fill="#888"/>
+<circle cx="119" cy="261" r="2.2" fill="#888"/>
+<circle cx="143" cy="165" r="2.2" fill="#888"/>
+<circle cx="143" cy="189" r="2.2" fill="#888"/>
+<circle cx="143" cy="213" r="2.2" fill="#888"/>
+<circle cx="143" cy="237" r="2.2" fill="#888"/>
+<circle cx="143" cy="261" r="2.2" fill="#888"/>
+<circle cx="167" cy="165" r="2.2" fill="#888"/>
+<circle cx="167" cy="189" r="2.2" fill="#888"/>
+<circle cx="167" cy="213" r="2.2" fill="#888"/>
+<circle cx="167" cy="237" r="2.2" fill="#888"/>
+<circle cx="167" cy="261" r="2.2" fill="#888"/>
+<circle cx="191" cy="165" r="2.2" fill="#888"/>
+<circle cx="191" cy="189" r="2.2" fill="#888"/>
+<circle cx="191" cy="213" r="2.2" fill="#888"/>
+<circle cx="191" cy="237" r="2.2" fill="#888"/>
+<circle cx="191" cy="261" r="2.2" fill="#888"/>
+<polyline points="95,213 119,165 167,165 191,189 167,213 191,261 143,237 119,261 95,213" fill="none" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<text x="270" y="220" text-anchor="middle" font-family="Arial" font-size="28">→</text>
+<rect x="315" y="165" width="96" height="96" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="315" cy="165" r="2.2" fill="#888"/>
+<circle cx="315" cy="189" r="2.2" fill="#888"/>
+<circle cx="315" cy="213" r="2.2" fill="#888"/>
+<circle cx="315" cy="237" r="2.2" fill="#888"/>
+<circle cx="315" cy="261" r="2.2" fill="#888"/>
+<circle cx="339" cy="165" r="2.2" fill="#888"/>
+<circle cx="339" cy="189" r="2.2" fill="#888"/>
+<circle cx="339" cy="213" r="2.2" fill="#888"/>
+<circle cx="339" cy="237" r="2.2" fill="#888"/>
+<circle cx="339" cy="261" r="2.2" fill="#888"/>
+<circle cx="363" cy="165" r="2.2" fill="#888"/>
+<circle cx="363" cy="189" r="2.2" fill="#888"/>
+<circle cx="363" cy="213" r="2.2" fill="#888"/>
+<circle cx="363" cy="237" r="2.2" fill="#888"/>
+<circle cx="363" cy="261" r="2.2" fill="#888"/>
+<circle cx="387" cy="165" r="2.2" fill="#888"/>
+<circle cx="387" cy="189" r="2.2" fill="#888"/>
+<circle cx="387" cy="213" r="2.2" fill="#888"/>
+<circle cx="387" cy="237" r="2.2" fill="#888"/>
+<circle cx="387" cy="261" r="2.2" fill="#888"/>
+<circle cx="411" cy="165" r="2.2" fill="#888"/>
+<circle cx="411" cy="189" r="2.2" fill="#888"/>
+<circle cx="411" cy="213" r="2.2" fill="#888"/>
+<circle cx="411" cy="237" r="2.2" fill="#888"/>
+<circle cx="411" cy="261" r="2.2" fill="#888"/>
+<polyline points="315,213 339,165 387,165 411,189 387,213 411,261 363,237 339,261 315,213" fill="none" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<text x="67" y="305" font-family="Arial" font-size="14">Même orientation.</text>
+<text x="67" y="330" font-family="Arial" font-size="14">Déplacement vers la droite.</text>
+<text x="67" y="355" font-family="Arial" font-size="14">Période : 1 panneau.</text>
+<rect x="575" y="100" width="500" height="290" rx="12" fill="white" stroke="#333" stroke-width="1.8" stroke-dasharray="7 5"/>
+<text x="593" y="132" font-family="Arial" font-size="19" font-weight="bold">B – DEMI-TOUR</text>
+<rect x="625" y="165" width="96" height="96" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="625" cy="165" r="2.2" fill="#888"/>
+<circle cx="625" cy="189" r="2.2" fill="#888"/>
+<circle cx="625" cy="213" r="2.2" fill="#888"/>
+<circle cx="625" cy="237" r="2.2" fill="#888"/>
+<circle cx="625" cy="261" r="2.2" fill="#888"/>
+<circle cx="649" cy="165" r="2.2" fill="#888"/>
+<circle cx="649" cy="189" r="2.2" fill="#888"/>
+<circle cx="649" cy="213" r="2.2" fill="#888"/>
+<circle cx="649" cy="237" r="2.2" fill="#888"/>
+<circle cx="649" cy="261" r="2.2" fill="#888"/>
+<circle cx="673" cy="165" r="2.2" fill="#888"/>
+<circle cx="673" cy="189" r="2.2" fill="#888"/>
+<circle cx="673" cy="213" r="2.2" fill="#888"/>
+<circle cx="673" cy="237" r="2.2" fill="#888"/>
+<circle cx="673" cy="261" r="2.2" fill="#888"/>
+<circle cx="697" cy="165" r="2.2" fill="#888"/>
+<circle cx="697" cy="189" r="2.2" fill="#888"/>
+<circle cx="697" cy="213" r="2.2" fill="#888"/>
+<circle cx="697" cy="237" r="2.2" fill="#888"/>
+<circle cx="697" cy="261" r="2.2" fill="#888"/>
+<circle cx="721" cy="165" r="2.2" fill="#888"/>
+<circle cx="721" cy="189" r="2.2" fill="#888"/>
+<circle cx="721" cy="213" r="2.2" fill="#888"/>
+<circle cx="721" cy="237" r="2.2" fill="#888"/>
+<circle cx="721" cy="261" r="2.2" fill="#888"/>
+<polyline points="625,213 649,165 697,165 721,189 697,213 721,261 673,237 649,261 625,213" fill="none" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<text x="800" y="220" text-anchor="middle" font-family="Arial" font-size="28">→</text>
+<rect x="845" y="165" width="96" height="96" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="845" cy="165" r="2.2" fill="#888"/>
+<circle cx="845" cy="189" r="2.2" fill="#888"/>
+<circle cx="845" cy="213" r="2.2" fill="#888"/>
+<circle cx="845" cy="237" r="2.2" fill="#888"/>
+<circle cx="845" cy="261" r="2.2" fill="#888"/>
+<circle cx="869" cy="165" r="2.2" fill="#888"/>
+<circle cx="869" cy="189" r="2.2" fill="#888"/>
+<circle cx="869" cy="213" r="2.2" fill="#888"/>
+<circle cx="869" cy="237" r="2.2" fill="#888"/>
+<circle cx="869" cy="261" r="2.2" fill="#888"/>
+<circle cx="893" cy="165" r="2.2" fill="#888"/>
+<circle cx="893" cy="189" r="2.2" fill="#888"/>
+<circle cx="893" cy="213" r="2.2" fill="#888"/>
+<circle cx="893" cy="237" r="2.2" fill="#888"/>
+<circle cx="893" cy="261" r="2.2" fill="#888"/>
+<circle cx="917" cy="165" r="2.2" fill="#888"/>
+<circle cx="917" cy="189" r="2.2" fill="#888"/>
+<circle cx="917" cy="213" r="2.2" fill="#888"/>
+<circle cx="917" cy="237" r="2.2" fill="#888"/>
+<circle cx="917" cy="261" r="2.2" fill="#888"/>
+<circle cx="941" cy="165" r="2.2" fill="#888"/>
+<circle cx="941" cy="189" r="2.2" fill="#888"/>
+<circle cx="941" cy="213" r="2.2" fill="#888"/>
+<circle cx="941" cy="237" r="2.2" fill="#888"/>
+<circle cx="941" cy="261" r="2.2" fill="#888"/>
+<polyline points="941,213 917,261 869,261 845,237 869,213 845,165 893,189 917,165 941,213" fill="none" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<text x="597" y="305" font-family="Arial" font-size="14">Rotation de 180°.</text>
+<text x="597" y="330" font-family="Arial" font-size="14">Deux orientations alternent.</text>
+<text x="597" y="355" font-family="Arial" font-size="14">Période : 2 panneaux.</text>
+<rect x="45" y="430" width="500" height="290" rx="12" fill="white" stroke="#333" stroke-width="1.8" stroke-dasharray="7 5"/>
+<text x="63" y="462" font-family="Arial" font-size="19" font-weight="bold">C – MIROIR HORIZONTAL</text>
+<rect x="95" y="495" width="96" height="96" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="95" cy="495" r="2.2" fill="#888"/>
+<circle cx="95" cy="519" r="2.2" fill="#888"/>
+<circle cx="95" cy="543" r="2.2" fill="#888"/>
+<circle cx="95" cy="567" r="2.2" fill="#888"/>
+<circle cx="95" cy="591" r="2.2" fill="#888"/>
+<circle cx="119" cy="495" r="2.2" fill="#888"/>
+<circle cx="119" cy="519" r="2.2" fill="#888"/>
+<circle cx="119" cy="543" r="2.2" fill="#888"/>
+<circle cx="119" cy="567" r="2.2" fill="#888"/>
+<circle cx="119" cy="591" r="2.2" fill="#888"/>
+<circle cx="143" cy="495" r="2.2" fill="#888"/>
+<circle cx="143" cy="519" r="2.2" fill="#888"/>
+<circle cx="143" cy="543" r="2.2" fill="#888"/>
+<circle cx="143" cy="567" r="2.2" fill="#888"/>
+<circle cx="143" cy="591" r="2.2" fill="#888"/>
+<circle cx="167" cy="495" r="2.2" fill="#888"/>
+<circle cx="167" cy="519" r="2.2" fill="#888"/>
+<circle cx="167" cy="543" r="2.2" fill="#888"/>
+<circle cx="167" cy="567" r="2.2" fill="#888"/>
+<circle cx="167" cy="591" r="2.2" fill="#888"/>
+<circle cx="191" cy="495" r="2.2" fill="#888"/>
+<circle cx="191" cy="519" r="2.2" fill="#888"/>
+<circle cx="191" cy="543" r="2.2" fill="#888"/>
+<circle cx="191" cy="567" r="2.2" fill="#888"/>
+<circle cx="191" cy="591" r="2.2" fill="#888"/>
+<polyline points="95,543 119,495 167,495 191,519 167,543 191,591 143,567 119,591 95,543" fill="none" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<text x="270" y="550" text-anchor="middle" font-family="Arial" font-size="28">→</text>
+<rect x="315" y="495" width="96" height="96" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="315" cy="495" r="2.2" fill="#888"/>
+<circle cx="315" cy="519" r="2.2" fill="#888"/>
+<circle cx="315" cy="543" r="2.2" fill="#888"/>
+<circle cx="315" cy="567" r="2.2" fill="#888"/>
+<circle cx="315" cy="591" r="2.2" fill="#888"/>
+<circle cx="339" cy="495" r="2.2" fill="#888"/>
+<circle cx="339" cy="519" r="2.2" fill="#888"/>
+<circle cx="339" cy="543" r="2.2" fill="#888"/>
+<circle cx="339" cy="567" r="2.2" fill="#888"/>
+<circle cx="339" cy="591" r="2.2" fill="#888"/>
+<circle cx="363" cy="495" r="2.2" fill="#888"/>
+<circle cx="363" cy="519" r="2.2" fill="#888"/>
+<circle cx="363" cy="543" r="2.2" fill="#888"/>
+<circle cx="363" cy="567" r="2.2" fill="#888"/>
+<circle cx="363" cy="591" r="2.2" fill="#888"/>
+<circle cx="387" cy="495" r="2.2" fill="#888"/>
+<circle cx="387" cy="519" r="2.2" fill="#888"/>
+<circle cx="387" cy="543" r="2.2" fill="#888"/>
+<circle cx="387" cy="567" r="2.2" fill="#888"/>
+<circle cx="387" cy="591" r="2.2" fill="#888"/>
+<circle cx="411" cy="495" r="2.2" fill="#888"/>
+<circle cx="411" cy="519" r="2.2" fill="#888"/>
+<circle cx="411" cy="543" r="2.2" fill="#888"/>
+<circle cx="411" cy="567" r="2.2" fill="#888"/>
+<circle cx="411" cy="591" r="2.2" fill="#888"/>
+<polyline points="315,543 339,591 387,591 411,567 387,543 411,495 363,519 339,495 315,543" fill="none" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<text x="67" y="635" font-family="Arial" font-size="14">Le haut et le bas s’échangent.</text>
+<text x="67" y="660" font-family="Arial" font-size="14">La gauche et la droite restent.</text>
+<text x="67" y="685" font-family="Arial" font-size="14">Période : 2 panneaux.</text>
+<rect x="575" y="430" width="500" height="290" rx="12" fill="white" stroke="#333" stroke-width="1.8" stroke-dasharray="7 5"/>
+<text x="593" y="462" font-family="Arial" font-size="19" font-weight="bold">D – MIROIR VERTICAL</text>
+<rect x="625" y="495" width="96" height="96" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="625" cy="495" r="2.2" fill="#888"/>
+<circle cx="625" cy="519" r="2.2" fill="#888"/>
+<circle cx="625" cy="543" r="2.2" fill="#888"/>
+<circle cx="625" cy="567" r="2.2" fill="#888"/>
+<circle cx="625" cy="591" r="2.2" fill="#888"/>
+<circle cx="649" cy="495" r="2.2" fill="#888"/>
+<circle cx="649" cy="519" r="2.2" fill="#888"/>
+<circle cx="649" cy="543" r="2.2" fill="#888"/>
+<circle cx="649" cy="567" r="2.2" fill="#888"/>
+<circle cx="649" cy="591" r="2.2" fill="#888"/>
+<circle cx="673" cy="495" r="2.2" fill="#888"/>
+<circle cx="673" cy="519" r="2.2" fill="#888"/>
+<circle cx="673" cy="543" r="2.2" fill="#888"/>
+<circle cx="673" cy="567" r="2.2" fill="#888"/>
+<circle cx="673" cy="591" r="2.2" fill="#888"/>
+<circle cx="697" cy="495" r="2.2" fill="#888"/>
+<circle cx="697" cy="519" r="2.2" fill="#888"/>
+<circle cx="697" cy="543" r="2.2" fill="#888"/>
+<circle cx="697" cy="567" r="2.2" fill="#888"/>
+<circle cx="697" cy="591" r="2.2" fill="#888"/>
+<circle cx="721" cy="495" r="2.2" fill="#888"/>
+<circle cx="721" cy="519" r="2.2" fill="#888"/>
+<circle cx="721" cy="543" r="2.2" fill="#888"/>
+<circle cx="721" cy="567" r="2.2" fill="#888"/>
+<circle cx="721" cy="591" r="2.2" fill="#888"/>
+<polyline points="625,543 649,495 697,495 721,519 697,543 721,591 673,567 649,591 625,543" fill="none" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<text x="800" y="550" text-anchor="middle" font-family="Arial" font-size="28">→</text>
+<rect x="845" y="495" width="96" height="96" fill="white" stroke="#333" stroke-width="1.8"/>
+<circle cx="845" cy="495" r="2.2" fill="#888"/>
+<circle cx="845" cy="519" r="2.2" fill="#888"/>
+<circle cx="845" cy="543" r="2.2" fill="#888"/>
+<circle cx="845" cy="567" r="2.2" fill="#888"/>
+<circle cx="845" cy="591" r="2.2" fill="#888"/>
+<circle cx="869" cy="495" r="2.2" fill="#888"/>
+<circle cx="869" cy="519" r="2.2" fill="#888"/>
+<circle cx="869" cy="543" r="2.2" fill="#888"/>
+<circle cx="869" cy="567" r="2.2" fill="#888"/>
+<circle cx="869" cy="591" r="2.2" fill="#888"/>
+<circle cx="893" cy="495" r="2.2" fill="#888"/>
+<circle cx="893" cy="519" r="2.2" fill="#888"/>
+<circle cx="893" cy="543" r="2.2" fill="#888"/>
+<circle cx="893" cy="567" r="2.2" fill="#888"/>
+<circle cx="893" cy="591" r="2.2" fill="#888"/>
+<circle cx="917" cy="495" r="2.2" fill="#888"/>
+<circle cx="917" cy="519" r="2.2" fill="#888"/>
+<circle cx="917" cy="543" r="2.2" fill="#888"/>
+<circle cx="917" cy="567" r="2.2" fill="#888"/>
+<circle cx="917" cy="591" r="2.2" fill="#888"/>
+<circle cx="941" cy="495" r="2.2" fill="#888"/>
+<circle cx="941" cy="519" r="2.2" fill="#888"/>
+<circle cx="941" cy="543" r="2.2" fill="#888"/>
+<circle cx="941" cy="567" r="2.2" fill="#888"/>
+<circle cx="941" cy="591" r="2.2" fill="#888"/>
+<polyline points="941,543 917,495 869,495 845,519 869,543 845,591 893,567 917,591 941,543" fill="none" stroke="#111" stroke-width="2.4" stroke-linejoin="round"/>
+<text x="597" y="635" font-family="Arial" font-size="14">La gauche et la droite s’échangent.</text>
+<text x="597" y="660" font-family="Arial" font-size="14">Le haut et le bas restent.</text>
+<text x="597" y="685" font-family="Arial" font-size="14">Défi avancé.</text>
+</svg>

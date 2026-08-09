@@ -2,794 +2,2398 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://olef9.github.io/Mathlab/</loc>
-         <lastmod>2026-08-01</lastmod>
-    </url>
-    <url>
-         <loc>https://olef9.github.io/Mathlab/00-README/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/01-le%20projet/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/01-le%20projet/01-Manifeste/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/01-le%20projet/02-principe%20p%C3%A9dagogiques/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/01-le%20projet/03-Charte-Mathlab/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/01-le%20projet/04-Evolutions%20du%20projet/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
-         <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Regles/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Demarrer-MathLab/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Guide-enseignant-general-MathLab/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Materiel-MathLab/</loc>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Badges/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Badges/Argent/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Badges/Badges%20secrets/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Badges/Badges-secrets-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Badges/Bronze/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
-         <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Badges/FAQ/</loc>
-         <lastmod>2026-08-01</lastmod>
-    </url>
-    <url>
-         <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Badges/Fonctionnement/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Badges/Guide-attribution-badges-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Badges/L%C3%A9gende/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Badges/Or/</loc>
-         <lastmod>2026-08-01</lastmod>
-    </url>
-    <url>
-         <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Badges/cat%C3%A9gorie/</loc>
-         <lastmod>2026-08-01</lastmod>
-    </url>
-    <url>
-         <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Boutique/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Equipes/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Equipes/Carnet-%C3%A9quipes/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Equipes/Constitutions/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Equipes/D%C3%A9fis-%C3%A9quipes/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Equipes/Identit%C3%A9/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Equipes/Kit-%C3%A9quipe/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Equipes/Roles/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Equipes/XP-%C3%A9quipe/</loc>
-         <lastmod>2026-08-01</lastmod>
-    </url>
-    <url>
-         <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Evenements/</loc>
-         <lastmod>2026-08-01</lastmod>
-    </url>
-    <url>
-         <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Evenements/D%C3%A9fis/</loc>
-         <lastmod>2026-08-01</lastmod>
-    </url>
-    <url>
-         <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Evenements/Fin%20ann%C3%A9e/</loc>
-         <lastmod>2026-08-01</lastmod>
-    </url>
-    <url>
-         <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Evenements/Lancement/</loc>
-         <lastmod>2026-08-01</lastmod>
-    </url>
-    <url>
-         <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Evenements/Projets/</loc>
-         <lastmod>2026-08-01</lastmod>
-    </url>
-    <url>
-         <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Evenements/Valorisation/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/Niveaux/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/XP/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/XP/Attribution-XP-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/02-Fonctionnement/XP/gagner-des-xp/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/03-Progression%20annuelle/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/03-Progression%20annuelle/01-Vision-annuelle/</loc>
-         <lastmod>2026-08-01</lastmod>
-    </url>
-    <url>
-         <loc>https://olef9.github.io/Mathlab/03-Progression%20annuelle/02-Progression-64-seances/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/03-Progression%20annuelle/03-Calendrier-global/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/03-Progression%20annuelle/04-Progression-des-competences/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/03-Progression%20annuelle/05-Grands-projets/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/03-Progression%20annuelle/Calendrier-64-seances-MathLab/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/03-Progression%20annuelle/Plan-projet-Maths-City-2026-2027/</loc>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/03-Progression%20annuelle/Periodes/P1-entrer-dans-le-mathslab/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/03-Progression%20annuelle/Periodes/P2-devenir-chercheur/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/03-Progression%20annuelle/Periodes/P3-manipuler-creer/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/03-Progression%20annuelle/Periodes/P4-D%C3%A9velopper-des-projets/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/03-Progression%20annuelle/Periodes/P5-Partager-transmettre/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/00-catalogues%20des%20formats/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/S01-Hextoile/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/S02-Pentominos/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/S03-Renard-triangule/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/S04-Robot-maladroit/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/S05-Trioz/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/S06-Expliquer-sans-devoiler/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/S07-Rosace-six-distances/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/S08-Programme-sabote-complet/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/S09-Simple-motif-complet/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/S10-Coffre-quatre-verrous-renforce/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/S11-Echecs-Capturer-ou-proteger/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/S12-Programme-construction-inverse/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/S13-Tuile-transformee/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/S14-Capsules-minute/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/S15-Code-des-Mayas/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/S16-Les-boucles-humaines/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/S17-Red-fish-animal-compasse/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/S18-Territoires-aux-champignons/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S19-Frise-des-deux-gestes/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S20-Vrai-faux-parfois-vrai/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S21-Rosace-de-precision/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S22-Si-alors-Robomorpion/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S23-Enquete-des-suspects/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S24-Echecs-Mat-en-un/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S25-Boite-mystere/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S26-Expliquer-une-numeration/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S27-Ce-pavage-est-il-possible/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S28-Forum-des-chercheurs/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S29-Scratch-premiere-mission/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S30-Origamaths-Bateau-geometrique/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S31-Du-robot-au-lutin/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S32-Enclos-le-plus-efficace/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S33-Patrons-qui-ferment/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S34-Defendre-une-strategie/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S35-Scratch-Dessiner-avec-des-boucles/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S36-Echecs-Choisir-le-meilleur-coup/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S37-Solides-caches/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S38-Tinkercad-Reproduire-un-objet-simple/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S39-Tutoriel-Scratch/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S40-Origamaths-Phoque-Construire-le-patron/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S41-Origamaths-Phoque-Plier-et-mettre-en-volume/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S42-Tinkercad-Maths-City-Mobilier-urbain/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S43-Ponts-de-Konigsberg/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S44-Creation-symetrique-grand-format/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S45-Scratch-Le-labyrinthe/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S46-La-balance-mysterieuse/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S47-Maths-City-Batiments-sous-contraintes/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S48-Affiche-d-une-demarche/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S49-Maths-City-Place-pavee-collaborative/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S50-Echecs-Mini-problemes-par-equipes/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S51-Projet-court-Scratch-ou-3D/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S52-Pitch-et-critique-constructive/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S53-Codes-secrets/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S54-Creation-geometrique-libre-sous-contraintes/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S55-Maths-City-Batiments-en-papercraft/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S56-Grande-recherche-ouverte/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S57-Maths-City-Finaliser-objets-numeriques/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S58-Creer-le-tutoriel/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S59-Le-tribunal-des-affirmations/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S60-Assembler-Maths-City/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S61-Parcours-retrospectif-a-stations/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S62-Capsules-MathLab-futurs-6e/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S63-Preparer-Rallye-MathLab-CM2/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/04-Seances/S64-Repetition-generale-Ambassadeurs-MathLab/</loc>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/Chercher/00-lire-en-premier/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/Chercher/debat-mathematiques/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/Chercher/defi-de-logique/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/Chercher/enquete-mathematique/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/Chercher/plusieurs-solutions/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/Chercher/recherche-cooperative/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/Chercher/recherche-ouvert/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/Construire/00-lire-en-premier/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/Construire/animaux-compasses/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/Construire/animaux-triangules/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/Construire/constructions%20irem/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/Construire/frises-geometriques/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/Construire/pavages/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/Construire/programmes-de-constructions/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/Construire/rosaces/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/Creer/00-lire-en-premier/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/Creer/01-Creation-geometrique/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/Creer/02-Modelisation-dun-environnement/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/Creer/03-Exposition-mathematique/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/Creer/04-Projet-creatif/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/Programmer/00-lir-en-premier/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/Programmer/01-Algorithmique-debranchee/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/Programmer/02-Programmation-visuelle/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/Programmer/03-Projet-de-programmation/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/Programmer/04-Modelisation-3D/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/Programmer/05-prototypage%20et%20fabrication/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/communiquer/00-lire-en-premier/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/communiquer/communication-orale/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/communiquer/presenter-demarche/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/communiquer/produire-support-communication/</loc>
-         <lastmod>2026-08-01</lastmod>
-    </url>
-    <url>
-         <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/jouer/00-lire-en-premier/</loc>
-         <lastmod>2026-08-01</lastmod>
-    </url>
-    <url>
-         <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/jouer/escape-game/</loc>
-         <lastmod>2026-08-01</lastmod>
-    </url>
-    <url>
-         <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/jouer/jeux-de-cartes/</loc>
-         <lastmod>2026-08-01</lastmod>
-    </url>
-    <url>
-         <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/jouer/jeux-de-des/</loc>
-         <lastmod>2026-08-01</lastmod>
-    </url>
-    <url>
-         <loc>https://olef9.github.io/Mathlab/04-Seances/01-formats-de-seances/jouer/jeux-echec/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/00-Guide-des-ressources/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/calcul-mental/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/calcul-mental/CM-01-Automatismes-debut-annee/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/calcul-mental/CM-02-Decompositions-rapides/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/calcul-mental/CM-03-Complements-et-ajustements/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/calcul-mental/CM-04-Produits-et-ajustements/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/calcul-mental/CM-05-Doubles-moities-quarts/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/calcul-mental/CM-06-Fractions-de-tour/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/calcul-mental/CM-07-Cubes-en-piles/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/calcul-mental/CM-08-Pas-de-40/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/calcul-mental/CM-09-Faces-aretes-sommets/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/calcul-mental/CM-10-Cubes-caches-express/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/calcul-mental/CM-11-Plier-doubler-partager/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/calcul-mental/CM-12-Calculs-a-completer/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/calcul-mental/CM-13-Automatismes-varies/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/calcul-mental/CM-14-Calculs-astucieux/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/calcul-mental/CM-15-Calculs-en-cascade/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/calcul-mental/CM-16-Cibles-express/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/course-aux-nombres/CAN-04-Parite-divisibilite/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/course-aux-nombres/CAN-05-Calculs-de-materiel/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/course-aux-nombres/CAN-06-Sprint-des-chercheurs/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/course-aux-nombres/CAN-07-Perimetres-express/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/course-aux-nombres/CAN-08-Valeur-et-echanges/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/course-aux-nombres/CAN-09-Mesures-du-carre/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/course-aux-nombres/CAN-10-Reperes-numeriques-express/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/course-aux-nombres/CAN-11-Calculs-en-chaine/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/course-aux-nombres/CAN-12-Nombres-express/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/course-aux-nombres/CAN-13-Calculs-a-completer/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/course-aux-nombres/CAN-14-Automatismes-express/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/course-aux-nombres/CAN-15-Automatismes-varies/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/course-aux-nombres/CAN-16-Sprint-final/</loc>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/courses-nombres/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/courses-nombres/CAN-01-Depart-express/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/courses-nombres/CAN-02-Calculs-en-chaine/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/courses-nombres/CAN-03-Boucles-de-calcul/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/defis-logiques/LOG-12-Animaux-et-badges/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/defis-logiques/LOG-13-Le-code-des-trois-cartes/</loc>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/eurekamaths/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/eurekamaths/EUR-01-Triangle-magique/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/eurekamaths/EUR-02-Carre-magique-incomplet/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/eurekamaths/EUR-03-Les-quatre-reines/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/eurekamaths/EUR-04-Motif-manquant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/eurekamaths/EUR-05-Les-trois-boites/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/eurekamaths/EUR-06-Sommet-incomplet/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/eurekamaths/EUR-07-Traducteur-distrait/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/eurekamaths/EUR-08-Le-polygone-code/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/eurekamaths/EUR-09-Le-script-mystere/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/eurekamaths/EUR-10-Le-chemin-du-facteur/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/eurekamaths/EUR-10-Les-trois-boites/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/eurekamaths/EUR-11-Les-trois-cartes-nombres/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/eurekamaths/EUR-12-Le-coffre-a-trois-chiffres/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/eurekamaths/EUR-13-Les-trois-sacs/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/eurekamaths/EUR-14-Les-quatre-enveloppes/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/eurekamaths/EUR-15-Les-quatre-cartes-nombres/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/eurekamaths/EUR-16-La-grille-des-quatre-cases/</loc>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/kangourou/KANG-01-Combien-de-chiffres-1/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/kangourou/KANG-02-La-rangee-de-carres/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/kangourou/KANG-03-Les-pages-du-livre/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/kangourou/KANG-04-Partage-du-potager/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/kangourou/KANG-05-Machine-a-tampons/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/kangourou/KANG-06-Compteur-a-trois-chiffres/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/kangourou/KANG-07-Carre-des-milieux/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/kangourou/KANG-07-Rectangle-plie/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/kangourou/KANG-08-Aire-intruse/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/kangourou/KANG-08-Le-nombre-retourne/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/kangourou/KANG-09-La-tour-demontee/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/kangourou/KANG-10-La-place-de-Maths-City/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/kangourou/KANG-10-Le-casier-sans-chute/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/kangourou/KANG-11-Le-cadenas-a-trois-chiffres/</loc>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/rallye%20irem/RALLYE-01-Tetonor-express/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/rallye%20irem/RALLYE-02-Deux-pommes-trois-pains-express/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/01-rituels/rallye%20irem/RALLYE-03-Former-des-equipes/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
-         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/02-construire/00-Lire-en-premier/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/codes-secrets/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/codes-secrets/S53-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/codes-secrets/S53-Fiche-decodage-creation/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/codes-secrets/S53-Guide-eleve/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/codes-secrets/S53-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/codes-secrets/S53-Script-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/codes-secrets/S53-Solutions/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/grande-recherche-ouverte/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/grande-recherche-ouverte/S56-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/grande-recherche-ouverte/S56-Dossier-recherche/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/grande-recherche-ouverte/S56-Guide-eleve/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/grande-recherche-ouverte/S56-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/grande-recherche-ouverte/S56-Script-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/grande-recherche-ouverte/S56-Solutions-et-demonstration/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/logique-et-deduction/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/logique-et-deduction/Enquete-des-suspects/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/logique-et-deduction/Enquete-des-suspects/Enquete-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/logique-et-deduction/Enquete-des-suspects/Enquete-Fiche-equipe/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/logique-et-deduction/Enquete-des-suspects/Enquete-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/parcours-retrospectif-stations/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/parcours-retrospectif-stations/S61-Bilan-individuel/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/parcours-retrospectif-stations/S61-Carnet-de-defis/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/parcours-retrospectif-stations/S61-Guide-eleve/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/parcours-retrospectif-stations/S61-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/parcours-retrospectif-stations/S61-Script-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/parcours-retrospectif-stations/S61-Solutions-et-demarches/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/preparer-rallye-cm2/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/preparer-rallye-cm2/S63-Animateur-A-Coffre-nombres/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/preparer-rallye-cm2/S63-Animateur-B-Tour-contraintes/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/preparer-rallye-cm2/S63-Animateur-C-Robot/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/preparer-rallye-cm2/S63-Animateur-D-Une-pesee/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/preparer-rallye-cm2/S63-Animateur-E-Carre-pave/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/preparer-rallye-cm2/S63-Checklist-kit/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/preparer-rallye-cm2/S63-Guide-organisateur/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/preparer-rallye-cm2/S63-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/preparer-rallye-cm2/S63-Script-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/preparer-rallye-cm2/S63-Solutions-et-validations/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/raisonnement-par-cas/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/raisonnement-par-cas/balance-mysterieuse/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/raisonnement-par-cas/balance-mysterieuse/Balance-S46-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/raisonnement-par-cas/balance-mysterieuse/Balance-S46-Fiche-strategie/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/raisonnement-par-cas/balance-mysterieuse/Balance-S46-Guide-eleve/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/raisonnement-par-cas/balance-mysterieuse/Balance-S46-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/raisonnement-par-cas/balance-mysterieuse/Balance-S46-Solutions/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/tribunal-des-affirmations/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/tribunal-des-affirmations/S59-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/tribunal-des-affirmations/S59-Fiche-enquete/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/tribunal-des-affirmations/S59-Guide-eleve/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/tribunal-des-affirmations/S59-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/tribunal-des-affirmations/S59-Script-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/01-chercher/tribunal-des-affirmations/S59-Solutions-et-preuves/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/02-construire/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/02-construire/Papiers-crayons/</loc>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/02-construire/Papiers-crayons/00-Lire-en-premier/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/02-construire/Papiers-crayons/Hextoile/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/02-construire/Papiers-crayons/Hextoile/Hextoile-Reperes-enseignant/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/02-construire/Papiers-crayons/redfiche/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/02-construire/Papiers-crayons/redfiche/Red-fish-Acces-officiel/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/02-construire/Papiers-crayons/redfiche/Red-fish-Fiche-mission/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/02-construire/Papiers-crayons/redfiche/Red-fish-Reperes-enseignant/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/02-construire/Papiers-crayons/simple%20motif/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/02-construire/Papiers-crayons/simple%20motif/Simple-motif-Fiche-mission-complete/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/02-construire/Papiers-crayons/simple%20motif/Simple-motif-Reperes-enseignant-complet/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/02-construire/Papiers-crayons/soissons/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/02-construire/Papiers-crayons/soissons/Soissons-Defi-rapide/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/02-construire/pavages/tuiles%20transform%C3%A9e/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/02-construire/pavages/tuiles%20transform%C3%A9e/Pavage-tuile-transformee-Fiche-eleve/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/02-construire/pavages/tuiles%20transform%C3%A9e/Pavage-tuile-transformee-Reperes-enseignant/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
-         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/00-Lire-en-premier/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/</loc>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/Num%C3%A9rations/code%20mayas/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/Num%C3%A9rations/code%20mayas/Mayas-Fiche-equipe/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/Num%C3%A9rations/code%20mayas/Mayas-Reperes-enseignant/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/Num%C3%A9rations/trioz/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/Num%C3%A9rations/trioz/Trioz-Fiche-mission/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/Num%C3%A9rations/trioz/Trioz-Reperes-enseignant/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/graphes-et-parcours/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/graphes-et-parcours/ponts-de-konigsberg/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/graphes-et-parcours/ponts-de-konigsberg/Ponts-S43-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/graphes-et-parcours/ponts-de-konigsberg/Ponts-S43-Fiche-equipe/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/graphes-et-parcours/ponts-de-konigsberg/Ponts-S43-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/optimisation/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/optimisation/enclos-le-plus-efficace/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/optimisation/enclos-le-plus-efficace/Enclos-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/optimisation/enclos-le-plus-efficace/Enclos-Fiche-equipe/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/optimisation/enclos-le-plus-efficace/Enclos-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/partage%20et%20decoupage/territoire%20champignons/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/partage%20et%20decoupage/territoire%20champignons/Territoires-champignons-Defis-avances/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/partage%20et%20decoupage/territoire%20champignons/Territoires-champignons-Fiche-equipe/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/partage%20et%20decoupage/territoire%20champignons/Territoires-champignons-Reperes-enseignant/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/partage%20et%20decoupage/territoire%20champignons/Territoires-champignons-Source-Rallye/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/pavages/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/pavages/ce-pavage-est-il-possible/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/pavages/ce-pavage-est-il-possible/Pavages-Compte-rendu/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/pavages/ce-pavage-est-il-possible/Pavages-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/pavages/ce-pavage-est-il-possible/Pavages-Fiche-recherche/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/pavages/ce-pavage-est-il-possible/Pavages-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/pentaminos/</loc>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/pentaminos/Pentominos-Fiche-eleve/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/pentaminos/Pentominos-Reperes-enseignant/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/recherche-cooperative/coffre%20quatre%20verrous/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/recherche-cooperative/coffre%20quatre%20verrous/Coffre-quatre-verrous-Defis-avances-renforces/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/recherche-cooperative/coffre%20quatre%20verrous/Coffre-quatre-verrous-Fiche-equipe-renforcee/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/recherche-cooperative/coffre%20quatre%20verrous/Coffre-quatre-verrous-Reperes-enseignant-renforces/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
-         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/00-Lire-en-premier/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/solides-et-vues/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/solides-et-vues/solides-caches/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/solides-et-vues/solides-caches/Solides-S37-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/solides-et-vues/solides-caches/Solides-S37-Fiche-equipe/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-chercher/solides-et-vues/solides-caches/Solides-S37-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/compas-et-regle/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/compas-et-regle/Rosace-de-precision/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/compas-et-regle/Rosace-de-precision/Rosace-precision-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/compas-et-regle/Rosace-de-precision/Rosace-precision-Fiche-controle/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/compas-et-regle/Rosace-de-precision/Rosace-precision-Programme-eleve/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/compas-et-regle/Rosace-de-precision/Rosace-precision-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/compas-et-regle/Rosace-de-precision/Officiel-IREM/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/maths-city/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/maths-city/batiments-papercraft/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/maths-city/batiments-papercraft/S55-Fiche-decomposition-montage/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/maths-city/batiments-papercraft/S55-Fiche-identite/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/maths-city/batiments-papercraft/S55-Guide-eleve/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/maths-city/batiments-papercraft/S55-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/maths-city/batiments-papercraft/S55-Script-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/maths-city/batiments-papercraft/S55-Solutions-et-controles/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/maths-city/batiments-sous-contraintes/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/maths-city/batiments-sous-contraintes/Maths-City-S47-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/maths-city/batiments-sous-contraintes/Maths-City-S47-Fiche-conception/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/maths-city/batiments-sous-contraintes/Maths-City-S47-Fiche-identite/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/maths-city/batiments-sous-contraintes/Maths-City-S47-Guide-eleve/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/maths-city/batiments-sous-contraintes/Maths-City-S47-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/maths-city/batiments-sous-contraintes/Maths-City-S47-Solutions/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/origamaths/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/origamaths/bateau-geometrique/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/origamaths/bateau-geometrique/Origamaths-S30-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/origamaths/bateau-geometrique/Origamaths-S30-Fiche-observation/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/origamaths/bateau-geometrique/Origamaths-S30-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/origamaths/le-phoque-patron/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/origamaths/le-phoque-patron/Origamaths-S40-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/origamaths/le-phoque-patron/Origamaths-S40-Droits-et-acces/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/origamaths/le-phoque-patron/Origamaths-S40-Fiche-suivi/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/origamaths/le-phoque-patron/Origamaths-S40-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/origamaths/le-phoque-pliage/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/origamaths/le-phoque-pliage/Origamaths-S41-Depannage/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/origamaths/le-phoque-pliage/Origamaths-S41-Droits-et-acces/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/origamaths/le-phoque-pliage/Origamaths-S41-Fiche-bilan/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/origamaths/le-phoque-pliage/Origamaths-S41-Plan-projection/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/origamaths/le-phoque-pliage/Origamaths-S41-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/solides-et-patrons/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/solides-et-patrons/patrons-qui-ferment/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/solides-et-patrons/patrons-qui-ferment/Patrons-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/solides-et-patrons/patrons-qui-ferment/Patrons-Fiche-equipe/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/solides-et-patrons/patrons-qui-ferment/Patrons-Prolongement-Maquettes/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/03-construire/solides-et-patrons/patrons-qui-ferment/Patrons-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/Algorithmique-debranchee/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/Algorithmique-debranchee/Robomorpion/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/Algorithmique-debranchee/Robomorpion/Robomorpion-Fiche-equipe/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/Algorithmique-debranchee/Robomorpion/Robomorpion-Integration-future/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/Algorithmique-debranchee/Robomorpion/Robomorpion-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/Algorithmique-debranchee/boucle%20humaine/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/Algorithmique-debranchee/boucle%20humaine/Boucles-humaines-Defis-avances/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/Algorithmique-debranchee/boucle%20humaine/Boucles-humaines-Fiche-eleve/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/Algorithmique-debranchee/boucle%20humaine/Boucles-humaines-Reperes-enseignant/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/Algorithmique-debranchee/programme%20sabot%C3%A9/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/Algorithmique-debranchee/programme%20sabot%C3%A9/Programme-sabote-Fiche-eleve-complete/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/Algorithmique-debranchee/programme%20sabot%C3%A9/Programme-sabote-Reperes-enseignant-complet/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/Algorithmique-debranchee/robot%20maladroit/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/Algorithmique-debranchee/robot%20maladroit/Robot-maladroit-Fiche-eleve/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/Algorithmique-debranchee/robot%20maladroit/Robot-maladroit-Reperes-enseignant/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
-         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/Algorithmique-debranchee/robotmorpion/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/scratch/</loc>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
-         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/Algorithmique-debranchee/robotmorpion/Robomorpion-Integration-future/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/scratch/dessiner-avec-des-boucles/</loc>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
-         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/00-Lire-en-premier/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/scratch/dessiner-avec-des-boucles/Scratch-S35-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/scratch/dessiner-avec-des-boucles/Scratch-S35-Fiche-equipe/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/scratch/dessiner-avec-des-boucles/Scratch-S35-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/scratch/du-robot-au-lutin/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/scratch/du-robot-au-lutin/Scratch-S31-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/scratch/du-robot-au-lutin/Scratch-S31-Fiche-equipe/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/scratch/du-robot-au-lutin/Scratch-S31-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/scratch/labyrinthe/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/scratch/labyrinthe/Scratch-S45-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/scratch/labyrinthe/Scratch-S45-Fiche-projet/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/scratch/labyrinthe/Scratch-S45-Guide-eleve/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/scratch/labyrinthe/Scratch-S45-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/scratch/labyrinthe/Scratch-S45-Solutions/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/scratch/premiere-mission/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/scratch/premiere-mission/Scratch-S29-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/scratch/premiere-mission/Scratch-S29-Fiche-equipe/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/scratch/premiere-mission/Scratch-S29-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/tinkercad/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/tinkercad/maths-city-finalisation/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/tinkercad/maths-city-finalisation/S57-Controles-attendus/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/tinkercad/maths-city-finalisation/S57-Fiche-audit/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/tinkercad/maths-city-finalisation/S57-Fiche-captures-export/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/tinkercad/maths-city-finalisation/S57-Guide-eleve/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/tinkercad/maths-city-finalisation/S57-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/tinkercad/maths-city-finalisation/S57-Script-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/tinkercad/maths-city-mobilier-urbain/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/tinkercad/maths-city-mobilier-urbain/Maths-City-S42-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/tinkercad/maths-city-mobilier-urbain/Maths-City-S42-Fiche-conception/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/tinkercad/maths-city-mobilier-urbain/Maths-City-S42-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/tinkercad/reproduire-un-objet-simple/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/tinkercad/reproduire-un-objet-simple/Tinkercad-S38-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/tinkercad/reproduire-un-objet-simple/Tinkercad-S38-Fiche-equipe/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/04-programmer/tinkercad/reproduire-un-objet-simple/Tinkercad-S38-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/</loc>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/animaux%20triangul%C3%A9s/renard%20triangul%C3%A9/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/animaux%20triangul%C3%A9s/renard%20triangul%C3%A9/Renard-triangule-Fiche-eleve/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/animaux%20triangul%C3%A9s/renard%20triangul%C3%A9/Renard-triangule-Reperes-enseignant/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/creation-geometrique-sous-contraintes/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/creation-geometrique-sous-contraintes/S54-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/creation-geometrique-sous-contraintes/S54-Fiche-preparation-preuve/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/creation-geometrique-sous-contraintes/S54-Guide-eleve/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/creation-geometrique-sous-contraintes/S54-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/creation-geometrique-sous-contraintes/S54-Script-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/creation-geometrique-sous-contraintes/S54-Solutions-et-validations/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/frises-geometriques/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/frises-geometriques/Frise-des-deux-gestes/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/frises-geometriques/Frise-des-deux-gestes/Frise-deux-gestes-Acces-IREM/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/frises-geometriques/Frise-des-deux-gestes/Frise-deux-gestes-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/frises-geometriques/Frise-des-deux-gestes/Frise-deux-gestes-Fiche-eleve/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/frises-geometriques/Frise-des-deux-gestes/Frise-deux-gestes-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/maths-city/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/maths-city/assemblage-final/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/maths-city/assemblage-final/S60-Fiche-inventaire-implantation/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/maths-city/assemblage-final/S60-Guide-eleve/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/maths-city/assemblage-final/S60-Plan-implantation-detaille/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/maths-city/assemblage-final/S60-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/maths-city/assemblage-final/S60-Script-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/maths-city/place-pavee-collaborative/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/maths-city/place-pavee-collaborative/Maths-City-S49-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/maths-city/place-pavee-collaborative/Maths-City-S49-Fiche-conception/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/maths-city/place-pavee-collaborative/Maths-City-S49-Fiche-identite/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/maths-city/place-pavee-collaborative/Maths-City-S49-Guide-eleve/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/maths-city/place-pavee-collaborative/Maths-City-S49-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/maths-city/place-pavee-collaborative/Maths-City-S49-Script-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/maths-city/place-pavee-collaborative/Maths-City-S49-Solutions/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/projet-court/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/projet-court/scratch-ou-3d/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/projet-court/scratch-ou-3d/S51-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/projet-court/scratch-ou-3d/S51-Fiche-bilan-S52/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/projet-court/scratch-ou-3d/S51-Fiche-projet/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/projet-court/scratch-ou-3d/S51-Guide-eleve/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/projet-court/scratch-ou-3d/S51-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/projet-court/scratch-ou-3d/S51-Script-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/projet-court/scratch-ou-3d/S51-Solutions-et-criteres/</loc>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/rosaces/rosaces%206%20distances/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/rosaces/rosaces%206%20distances/Rosace-six-distances-Fiche-eleve/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/rosaces/rosaces%206%20distances/Rosace-six-distances-Reperes-enseignant/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
-         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/00-Lire-en-premier/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/solides-et-vues/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/solides-et-vues/boite-mystere/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/solides-et-vues/boite-mystere/Boite-mystere-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/solides-et-vues/boite-mystere/Boite-mystere-Fiche-equipe/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/solides-et-vues/boite-mystere/Boite-mystere-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/symetrie/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/symetrie/creation-grand-format/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/symetrie/creation-grand-format/Symetrie-S44-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/symetrie/creation-grand-format/Symetrie-S44-Fiche-projet/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/symetrie/creation-grand-format/Symetrie-S44-Guide-eleve/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/05-creer/symetrie/creation-grand-format/Symetrie-S44-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/affiche-demarche/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/affiche-demarche/Affiche-S48-Contenus-attendus/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/affiche-demarche/Affiche-S48-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/affiche-demarche/Affiche-S48-Fiche-preparation/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/affiche-demarche/Affiche-S48-Guide-eleve/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/affiche-demarche/Affiche-S48-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/ambassadeurs-mathlab/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/ambassadeurs-mathlab/S64-Checklist-jour-J/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/ambassadeurs-mathlab/S64-FAQ-futurs-6e/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/ambassadeurs-mathlab/S64-Guide-ambassadeur/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/ambassadeurs-mathlab/S64-Repartition-roles/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/ambassadeurs-mathlab/S64-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/ambassadeurs-mathlab/S64-Scenarios-imprevus/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/ambassadeurs-mathlab/S64-Script-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/capsules-futurs-6e/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/capsules-futurs-6e/S62-Contenus-attendus/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/capsules-futurs-6e/S62-Fiche-repetition/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/capsules-futurs-6e/S62-Guide-eleve/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/capsules-futurs-6e/S62-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/capsules-futurs-6e/S62-Script-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/capsules-futurs-6e/S62-Storyboard/</loc>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/capsules-minutes/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/capsules-minutes/Capsules-minute-Fiche-script/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/capsules-minutes/Capsules-minute-Grille-visionnage/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/capsules-minutes/Capsules-minute-Plan-tournage/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/capsules-minutes/Capsules-minute-Reperes-enseignant/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/creer-un-tutoriel/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/creer-un-tutoriel/S58-Attendus-et-exemples/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/creer-un-tutoriel/S58-Fiche-storyboard/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/creer-un-tutoriel/S58-Fiche-version-finale/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/creer-un-tutoriel/S58-Guide-eleve/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/creer-un-tutoriel/S58-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/creer-un-tutoriel/S58-Script-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/debattre-conjectures/Vrai-faux-parfois-vrai/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/debattre-conjectures/Vrai-faux-parfois-vrai/Conjectures-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/debattre-conjectures/Vrai-faux-parfois-vrai/Conjectures-Fiche-equipe/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/debattre-conjectures/Vrai-faux-parfois-vrai/Conjectures-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/defendre-une-strategie/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/defendre-une-strategie/Strategies-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/defendre-une-strategie/Strategies-Fiche-avocat/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/defendre-une-strategie/Strategies-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/defendre-une-strategie/Strategies-S34-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/defendre-une-strategie/Strategies-S34-Fiche-equipe/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/defendre-une-strategie/Strategies-S34-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/expliquer-une-numeration/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/expliquer-une-numeration/Numerations-Diffusion-et-sources/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/expliquer-une-numeration/Numerations-Exemples-valides/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/expliquer-une-numeration/Numerations-Fiche-preparation/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/expliquer-une-numeration/Numerations-Grille-validation/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/expliquer-une-numeration/Numerations-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/expliquer-une-numeration/productions-eleves/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/forum-des-chercheurs/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/forum-des-chercheurs/Forum-Bilan-periode/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/forum-des-chercheurs/Forum-Fiche-preparation/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/forum-des-chercheurs/Forum-Grille-ecoute/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/forum-des-chercheurs/Forum-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/pitch-et-critique-constructive/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/pitch-et-critique-constructive/S52-Bilan-depart-S51/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/pitch-et-critique-constructive/S52-Exemples-critiques/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/pitch-et-critique-constructive/S52-Fiche-amelioration/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/pitch-et-critique-constructive/S52-Fiche-preparation-pitch/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/pitch-et-critique-constructive/S52-Guide-eleve/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/pitch-et-critique-constructive/S52-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/pitch-et-critique-constructive/S52-Script-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/presenter-demarche/expliquer%20sans%20devoiller/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/presenter-demarche/expliquer%20sans%20devoiller/Expliquer-sans-devoiler-Cartes-experts/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/presenter-demarche/expliquer%20sans%20devoiller/Expliquer-sans-devoiler-Fiche-equipe/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/presenter-demarche/expliquer%20sans%20devoiller/Expliquer-sans-devoiler-Reperes-enseignant/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/programme%20de%20constructions/construction%20inversee/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/programme%20de%20constructions/construction%20inversee/Construction-inversee-Fiche-auteurs/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/programme%20de%20constructions/construction%20inversee/Construction-inversee-Fiche-testeurs/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/programme%20de%20constructions/construction%20inversee/Construction-inversee-Reperes-enseignant/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
-         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/07-jouer/00-Lire-en-premier/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/tutoriel-scratch/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/tutoriel-scratch/Scratch-S39-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/tutoriel-scratch/Scratch-S39-Fiche-script/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/tutoriel-scratch/Scratch-S39-Plan-tournage/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/tutoriel-scratch/Scratch-S39-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/06-communiquer/tutoriel-scratch/Scratch-S39-Solutions/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/07-jouer/</loc>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/07-jouer/capturer%20ou%20prot%C3%A9g%C3%A9r/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/07-jouer/capturer%20ou%20prot%C3%A9g%C3%A9r/Echecs-Capturer-ou-proteger-Fiche-eleve/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
          <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/07-jouer/capturer%20ou%20prot%C3%A9g%C3%A9r/Echecs-Capturer-ou-proteger-Reperes-enseignant/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <lastmod>2026-08-09</lastmod>
     </url>
     <url>
-         <loc>https://olef9.github.io/Mathlab/10-Patrimoine-mathlab/00-readme/</loc>
-         <lastmod>2026-08-01</lastmod>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/07-jouer-echecs/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/07-jouer-echecs/choisir-le-meilleur-coup/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/07-jouer-echecs/choisir-le-meilleur-coup/Echecs-S36-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/07-jouer-echecs/choisir-le-meilleur-coup/Echecs-S36-Fiche-equipe/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/07-jouer-echecs/choisir-le-meilleur-coup/Echecs-S36-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/07-jouer-echecs/mat-en-un/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/07-jouer-echecs/mat-en-un/Echecs-Mat-en-un-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/07-jouer-echecs/mat-en-un/Echecs-Mat-en-un-Fiche-equipe/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/07-jouer-echecs/mat-en-un/Echecs-Mat-en-un-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/07-jouer-echecs/mini-problemes-par-equipes/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/07-jouer-echecs/mini-problemes-par-equipes/Echecs-S50-Defis-avances/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/07-jouer-echecs/mini-problemes-par-equipes/Echecs-S50-Fiche-resolution-creation/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/07-jouer-echecs/mini-problemes-par-equipes/Echecs-S50-Guide-eleve/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/07-jouer-echecs/mini-problemes-par-equipes/Echecs-S50-Reperes-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/05-Ressources/02-collections/07-jouer-echecs/mini-problemes-par-equipes/Echecs-S50-Solutions/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/STRUCTURE-28-PAGES/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/01-Couverture/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/02-Bienvenue/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/03-Mon-identite-et-mon-equipe/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/04-Esprit-MathLab/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/05-Mes-XP/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/06-Mes-niveaux/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/07-Mes-badges-Bronze-Argent/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/08-Mes-badges-Or-Legende/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/09-Mon-carnet-XP/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/10-Mon-carnet-badges/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/11-Mon-parcours-MathLab/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/12-Mes-objectifs-personnels/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/13-Carnet-chercheur-1-Je-cherche/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/14-Carnet-chercheur-1-Je-teste-et-jexplique/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/15-Carnet-chercheur-2-Je-cherche/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/16-Carnet-chercheur-2-Je-teste-et-jexplique/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/17-Carnet-chercheur-3-Je-cherche/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/18-Carnet-chercheur-3-Je-teste-et-jexplique/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/19-Carnet-chercheur-4-Je-cherche/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/20-Carnet-chercheur-4-Je-teste-et-jexplique/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/21-Carnet-chercheur-5-Je-cherche/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/22-Carnet-chercheur-5-Je-teste-et-jexplique/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/23-Carnet-chercheur-6-Je-cherche/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/24-Carnet-chercheur-6-Je-teste-et-jexplique/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/25-Mes-grandes-realisations/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/26-Mon-bilan-MathLab/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/27-Passeport-MathLab-valide/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/06-Livret-eleve/pages/28-Quatrieme-de-couverture/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/10-Patrimoine-mathlab/Archivage-annuel-MathLab/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/10-Patrimoine-mathlab/Plan-projet-Maths-City-2026-2027/</loc>
+         <lastmod>2026-08-09</lastmod>
+    </url>
+    <url>
+         <loc>https://olef9.github.io/Mathlab/11-Livres-enseignant/</loc>
+         <lastmod>2026-08-09</lastmod>
     </url>
 </urlset>

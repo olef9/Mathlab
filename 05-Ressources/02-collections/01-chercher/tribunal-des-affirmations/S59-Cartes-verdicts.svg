@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+<rect width="100%" height="100%" fill="white"/>
+<text x="15" y="12" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="5.5" font-weight="bold">S59 – Cartes de verdict</text>
+<text x="15" y="19" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.5" font-weight="normal">Découper une série par équipe.</text>
+<rect x="20" y="35" width="170" height="62" rx="4" fill="white" stroke="#222" stroke-width="0.6"/>
+<text x="105" y="57" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="6.2" font-weight="bold">TOUJOURS VRAIE</text>
+<text x="105" y="76" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.6" font-weight="bold">Raison générale obligatoire.</text>
+<text x="105" y="88" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="middle">Équipe : ______  Affirmation : ______</text>
+<rect x="20" y="113" width="170" height="62" rx="4" fill="white" stroke="#222" stroke-width="0.6"/>
+<text x="105" y="135" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="6.2" font-weight="bold">PARFOIS VRAIE</text>
+<text x="105" y="154" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.6" font-weight="bold">Exemple vrai + contre-exemple.</text>
+<text x="105" y="166" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="middle">Équipe : ______  Affirmation : ______</text>
+<rect x="20" y="191" width="170" height="62" rx="4" fill="white" stroke="#222" stroke-width="0.6"/>
+<text x="105" y="213" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="5.2" font-weight="bold">FAUSSE DANS TOUS LES CAS</text>
+<text x="105" y="232" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.6" font-weight="bold">Expliquer pourquoi aucun cas ne marche.</text>
+<text x="105" y="244" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="middle">Équipe : ______  Affirmation : ______</text>
+<text x="20" y="279" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.5" font-weight="bold">Ne poser la carte qu’après avoir préparé la justification.</text>
+</svg>

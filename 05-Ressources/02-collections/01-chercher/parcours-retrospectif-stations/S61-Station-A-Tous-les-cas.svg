@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="35" y="40" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="26" font-weight="bold">S61 – Station A – Les nombres sous contrainte</text>
+<rect x="35" y="80" width="1053" height="115" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="1.3"/>
+<text x="55" y="112" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">DÉFI</text>
+<text x="160" y="112" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Avec les chiffres 1, 2, 3 et 4, former TOUS les nombres de trois chiffres qui</text>
+<text x="160" y="131" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">respectent les contraintes ci-dessous.</text>
+<rect x="55" y="225" width="470" height="330" rx="12" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="290" y="258" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">CONTRAINTES</text>
+<circle cx="90" cy="300" r="14" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="90" y="305" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" font-weight="bold">1</text>
+<text x="122" y="305" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">aucun chiffre n’est répété</text>
+<circle cx="90" cy="355" r="14" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="90" y="360" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" font-weight="bold">2</text>
+<text x="122" y="360" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">le nombre est strictement supérieur à 300</text>
+<circle cx="90" cy="410" r="14" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="90" y="415" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" font-weight="bold">3</text>
+<text x="122" y="415" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">le nombre est pair</text>
+<circle cx="90" cy="465" r="14" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="90" y="470" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" font-weight="bold">4</text>
+<text x="122" y="470" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">on utilise seulement les chiffres 1, 2, 3 et 4</text>
+<rect x="555" y="225" width="510" height="330" rx="12" fill="#f7f7f7" stroke="#222" stroke-width="1.2"/>
+<text x="810" y="258" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">À ÉCRIRE DANS LE CARNET</text>
+<text x="585" y="310" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">1. La liste complète des nombres.</text>
+<text x="585" y="355" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">2. Le nombre total de solutions.</text>
+<text x="585" y="400" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">3. Une trace montrant pourquoi il n’en manque aucun.</text>
+<text x="585" y="465" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Question de contrôle :</text>
+<text x="585" y="495" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">Si une autre équipe annonce un nombre</text>
+<text x="585" y="512" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">supplémentaire, pouvez-vous dire</text>
+<text x="585" y="529" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">immédiatement dans quelle catégorie il</text>
+<text x="585" y="546" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">devrait apparaître ?</text>
+<rect x="120" y="715" width="885" height="48" rx="10" fill="#f4f4f4" stroke="#222" stroke-width="1.2"/>
+<text x="562" y="745" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.8" font-weight="bold">Avant de partir : réponse + trace + démarche + « utile quand… » dans le carnet.</text>
+</svg>

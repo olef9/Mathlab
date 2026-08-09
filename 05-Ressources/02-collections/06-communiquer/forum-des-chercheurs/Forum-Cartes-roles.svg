@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="38" y="38" text-anchor="start" font-family="Arial" font-size="26" font-weight="bold">S28 – Cartes des rôles</text>
+<text x="38" y="64" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Découper un jeu par équipe.</text>
+<rect x="65" y="105" width="460" height="280" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="295" y="163" text-anchor="middle" font-family="Arial" font-size="21" font-weight="bold">PORTE-PAROLE</text>
+<text x="100" y="230" text-anchor="start" font-family="Arial" font-size="16" font-weight="normal">Je présente le problème et la conclusion.</text>
+<text x="100" y="280" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">Je surveille le temps général.</text>
+<text x="100" y="340" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold">Ma phrase ou mon action :</text>
+<text x="100" y="368" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">________________________________________</text>
+<rect x="595" y="105" width="460" height="280" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="825" y="163" text-anchor="middle" font-family="Arial" font-size="21" font-weight="bold">DÉMONSTRATEUR</text>
+<text x="630" y="230" text-anchor="start" font-family="Arial" font-size="16" font-weight="normal">Je manipule le support ou montre l’exemple.</text>
+<text x="630" y="280" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">Je laisse le public voir.</text>
+<text x="630" y="340" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold">Ma phrase ou mon action :</text>
+<text x="630" y="368" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">________________________________________</text>
+<rect x="65" y="430" width="460" height="280" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="295" y="488" text-anchor="middle" font-family="Arial" font-size="21" font-weight="bold">GARDIEN DE LA PREUVE</text>
+<text x="100" y="555" text-anchor="start" font-family="Arial" font-size="16" font-weight="normal">J’explique pourquoi la solution fonctionne.</text>
+<text x="100" y="605" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">Je distingue exemple et preuve.</text>
+<text x="100" y="665" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold">Ma phrase ou mon action :</text>
+<text x="100" y="693" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">________________________________________</text>
+<rect x="595" y="430" width="460" height="280" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="825" y="488" text-anchor="middle" font-family="Arial" font-size="21" font-weight="bold">MAÎTRE DES QUESTIONS</text>
+<text x="630" y="555" text-anchor="start" font-family="Arial" font-size="16" font-weight="normal">J’écoute, je reformule et j’organise la réponse.</text>
+<text x="630" y="605" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">Je peux demander dix secondes.</text>
+<text x="630" y="665" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold">Ma phrase ou mon action :</text>
+<text x="630" y="693" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">________________________________________</text>
+</svg>

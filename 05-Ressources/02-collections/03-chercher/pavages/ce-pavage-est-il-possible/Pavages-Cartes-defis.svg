@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="38" y="38" text-anchor="start" font-family="Arial" font-size="26" font-weight="bold">S27 – Cartes des défis</text>
+<text x="38" y="64" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Chaque carte indique seulement les formes autorisées. Les élèves doivent inventer l’assemblage.</text>
+<rect x="35" y="92" width="330" height="310" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="59" y="126" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">DÉFI A</text>
+<text x="200.0" y="164" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">TRIANGLES ÉQUILATÉRAUX</text>
+<polygon points="200.00,189.66 241.00,260.67 159.00,260.67" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="200.0" y="302" text-anchor="middle" font-family="Arial" font-size="13" font-weight="normal">Avec uniquement cette forme,</text>
+<text x="200.0" y="324" text-anchor="middle" font-family="Arial" font-size="13" font-weight="normal">peut-on paver le plan ?</text>
+<text x="55" y="356" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">• entourer un point</text>
+<text x="55" y="376" text-anchor="start" font-family="Arial" font-size="11" font-weight="normal">• poursuivre autour de deux sommets voisins</text>
+<text x="55" y="394" text-anchor="start" font-family="Arial" font-size="11" font-weight="normal">• justifier ensuite avec les angles</text>
+<rect x="395" y="92" width="330" height="310" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="419" y="126" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">DÉFI B</text>
+<text x="560.0" y="164" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">CARRÉS</text>
+<polygon points="601.00,278.00 519.00,278.00 519.00,196.00 601.00,196.00" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="560.0" y="302" text-anchor="middle" font-family="Arial" font-size="13" font-weight="normal">Avec uniquement cette forme,</text>
+<text x="560.0" y="324" text-anchor="middle" font-family="Arial" font-size="13" font-weight="normal">peut-on paver le plan ?</text>
+<text x="415" y="356" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">• entourer un point</text>
+<text x="415" y="376" text-anchor="start" font-family="Arial" font-size="11" font-weight="normal">• poursuivre autour de deux sommets voisins</text>
+<text x="415" y="394" text-anchor="start" font-family="Arial" font-size="11" font-weight="normal">• justifier ensuite avec les angles</text>
+<rect x="755" y="92" width="330" height="310" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="779" y="126" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">DÉFI C</text>
+<text x="920.0" y="164" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">PENTAGONES RÉGULIERS</text>
+<polygon points="920.00,170.65 983.10,216.50 959.00,290.68 881.00,290.68 856.90,216.50" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="920.0" y="302" text-anchor="middle" font-family="Arial" font-size="13" font-weight="normal">Avec uniquement cette forme,</text>
+<text x="920.0" y="324" text-anchor="middle" font-family="Arial" font-size="13" font-weight="normal">peut-on paver le plan ?</text>
+<text x="775" y="356" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">• entourer un point</text>
+<text x="775" y="376" text-anchor="start" font-family="Arial" font-size="11" font-weight="normal">• poursuivre autour de deux sommets voisins</text>
+<text x="775" y="394" text-anchor="start" font-family="Arial" font-size="11" font-weight="normal">• justifier ensuite avec les angles</text>
+<rect x="35" y="432" width="330" height="310" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="59" y="466" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">DÉFI D</text>
+<text x="200.0" y="504" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">HEXAGONES RÉGULIERS</text>
+<polygon points="265.82,615.00 200.00,653.00 134.18,615.00 134.18,539.00 200.00,501.00 265.82,539.00" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="200.0" y="642" text-anchor="middle" font-family="Arial" font-size="13" font-weight="normal">Avec uniquement cette forme,</text>
+<text x="200.0" y="664" text-anchor="middle" font-family="Arial" font-size="13" font-weight="normal">peut-on paver le plan ?</text>
+<text x="55" y="696" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">• entourer un point</text>
+<text x="55" y="716" text-anchor="start" font-family="Arial" font-size="11" font-weight="normal">• poursuivre autour de deux sommets voisins</text>
+<text x="55" y="734" text-anchor="start" font-family="Arial" font-size="11" font-weight="normal">• justifier ensuite avec les angles</text>
+<rect x="395" y="432" width="330" height="310" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="419" y="466" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">DÉFI E</text>
+<text x="560.0" y="504" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">CARRÉS ET OCTOGONES</text>
+<polygon points="540.00,607.00 480.00,607.00 480.00,547.00 540.00,547.00" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="560.0" y="585" text-anchor="middle" font-family="Arial" font-size="27" font-weight="bold">+</text>
+<polygon points="682.43,607.00 640.00,649.43 580.00,649.43 537.57,607.00 537.57,547.00 580.00,504.57 640.00,504.57 682.43,547.00" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="560.0" y="642" text-anchor="middle" font-family="Arial" font-size="13" font-weight="normal">Avec ces deux formes de même côté,</text>
+<text x="560.0" y="664" text-anchor="middle" font-family="Arial" font-size="13" font-weight="normal">peut-on paver le plan ?</text>
+<text x="415" y="696" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">• entourer un point</text>
+<text x="415" y="716" text-anchor="start" font-family="Arial" font-size="11" font-weight="normal">• poursuivre autour de deux sommets voisins</text>
+<text x="415" y="734" text-anchor="start" font-family="Arial" font-size="11" font-weight="normal">• justifier ensuite avec les angles</text>
+<rect x="755" y="432" width="330" height="310" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="779" y="466" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">DÉFI F</text>
+<text x="920.0" y="504" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">TRIANGLES ET HEXAGONES</text>
+<polygon points="870.00,539.47 902.50,595.76 837.50,595.76" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="920.0" y="585" text-anchor="middle" font-family="Arial" font-size="27" font-weight="bold">+</text>
+<polygon points="1026.29,609.50 970.00,642.00 913.71,609.50 913.71,544.50 970.00,512.00 1026.29,544.50" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="920.0" y="642" text-anchor="middle" font-family="Arial" font-size="13" font-weight="normal">Avec ces deux formes de même côté,</text>
+<text x="920.0" y="664" text-anchor="middle" font-family="Arial" font-size="13" font-weight="normal">peut-on paver le plan ?</text>
+<text x="775" y="696" text-anchor="start" font-family="Arial" font-size="12" font-weight="bold">• entourer un point</text>
+<text x="775" y="716" text-anchor="start" font-family="Arial" font-size="11" font-weight="normal">• poursuivre autour de deux sommets voisins</text>
+<text x="775" y="734" text-anchor="start" font-family="Arial" font-size="11" font-weight="normal">• justifier ensuite avec les angles</text>
+</svg>

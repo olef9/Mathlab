@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+<rect width="210" height="297" fill="white"/>
+<text x="15" y="15" text-anchor="start" font-family="Arial, sans-serif" font-size="5" font-weight="bold">Maths City S42 – Gabarits de test – impression à 100 %</text>
+<text x="15" y="23" text-anchor="start" font-family="Arial, sans-serif" font-size="4" font-weight="normal">La barre témoin doit mesurer exactement 50 mm.</text>
+<rect x="15" y="30" width="50" height="4" fill="none" stroke="#222" stroke-width="0.5"/>
+<text x="40" y="39" text-anchor="middle" font-family="Arial, sans-serif" font-size="4" font-weight="bold">50 mm</text>
+<text x="15" y="55" text-anchor="start" font-family="Arial, sans-serif" font-size="4.2" font-weight="bold">Personnage debout – face 12 × 45 mm</text>
+<rect x="15" y="60" width="12" height="45" fill="none" stroke="#222" stroke-width="0.5" stroke-dasharray="2 1"/>
+<text x="21" y="84" text-anchor="middle" font-family="Arial, sans-serif" font-size="3.5" font-weight="bold">45</text>
+<text x="40" y="55" text-anchor="start" font-family="Arial, sans-serif" font-size="4.2" font-weight="bold">Personnage debout – côté 8 × 45 mm</text>
+<rect x="40" y="60" width="8" height="45" fill="none" stroke="#222" stroke-width="0.5" stroke-dasharray="2 1"/>
+<text x="70" y="55" text-anchor="start" font-family="Arial, sans-serif" font-size="4.2" font-weight="bold">Gabarit assis – 12 × 16 × 25 mm</text>
+<rect x="70" y="80" width="12" height="25" fill="none" stroke="#222" stroke-width="0.5" stroke-dasharray="2 1"/>
+<rect x="82" y="89" width="16" height="16" fill="none" stroke="#222" stroke-width="0.5" stroke-dasharray="2 1"/>
+<text x="84" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="3.5" font-weight="normal">profil schématique</text>
+<text x="15" y="130" text-anchor="start" font-family="Arial, sans-serif" font-size="4.2" font-weight="bold">Zone lampadaire – 30 × 30 mm</text>
+<rect x="15" y="135" width="30" height="30" fill="none" stroke="#222" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="60" y="130" text-anchor="start" font-family="Arial, sans-serif" font-size="4.2" font-weight="bold">Parcelle réduite à vérifier dans Tinkercad : 80 × 80 mm</text>
+<rect x="60" y="135" width="80" height="80" fill="none" stroke="#222" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="100" y="178" text-anchor="middle" font-family="Arial, sans-serif" font-size="5" font-weight="bold">PARCELLE</text>
+<text x="15" y="230" text-anchor="start" font-family="Arial, sans-serif" font-size="4.2" font-weight="bold">Emprise fontaine – 60 × 60 mm</text>
+<rect x="15" y="225" width="60" height="60" fill="none" stroke="#222" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="45" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="4" font-weight="bold">60 mm</text>
+<text x="95" y="240" text-anchor="start" font-family="Arial, sans-serif" font-size="4" font-weight="normal">Les gabarits papier servent à comprendre les dimensions.</text>
+<text x="95" y="250" text-anchor="start" font-family="Arial, sans-serif" font-size="4" font-weight="normal">Le test final est réalisé avec des boîtes temporaires dans Tinkercad.</text>
+<text x="95" y="270" text-anchor="start" font-family="Arial, sans-serif" font-size="4" font-weight="bold">Supprimer les gabarits avant la sauvegarde finale.</text>
+</svg>

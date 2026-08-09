@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+<rect width="100%" height="100%" fill="white"/>
+<text x="15" y="11" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="5.2" font-weight="bold">S55 – Parcelles Maths City A, B, C et E</text>
+<text x="15" y="17" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.3" font-weight="normal">Imprimer à 100 %. Chaque carré doit mesurer 80 mm.</text>
+<rect x="15" y="28" width="80" height="80" rx="0" fill="white" stroke="#222" stroke-width="0.6"/>
+<line x1="35" y1="28" x2="35" y2="108" stroke="#bbb" stroke-width="0.25"/>
+<line x1="15" y1="48" x2="95" y2="48" stroke="#bbb" stroke-width="0.25"/>
+<line x1="55" y1="28" x2="55" y2="108" stroke="#bbb" stroke-width="0.25"/>
+<line x1="15" y1="68" x2="95" y2="68" stroke="#bbb" stroke-width="0.25"/>
+<line x1="75" y1="28" x2="75" y2="108" stroke="#bbb" stroke-width="0.25"/>
+<line x1="15" y1="88" x2="95" y2="88" stroke="#bbb" stroke-width="0.25"/>
+<text x="55" y="24" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="4" font-weight="bold">PARCELLE A</text>
+<text x="19" y="36" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="bold">↑ N</text>
+<rect x="115" y="28" width="80" height="80" rx="0" fill="white" stroke="#222" stroke-width="0.6"/>
+<line x1="135" y1="28" x2="135" y2="108" stroke="#bbb" stroke-width="0.25"/>
+<line x1="115" y1="48" x2="195" y2="48" stroke="#bbb" stroke-width="0.25"/>
+<line x1="155" y1="28" x2="155" y2="108" stroke="#bbb" stroke-width="0.25"/>
+<line x1="115" y1="68" x2="195" y2="68" stroke="#bbb" stroke-width="0.25"/>
+<line x1="175" y1="28" x2="175" y2="108" stroke="#bbb" stroke-width="0.25"/>
+<line x1="115" y1="88" x2="195" y2="88" stroke="#bbb" stroke-width="0.25"/>
+<text x="155" y="24" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="4" font-weight="bold">PARCELLE B</text>
+<text x="119" y="36" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="bold">↑ N</text>
+<rect x="15" y="128" width="80" height="80" rx="0" fill="white" stroke="#222" stroke-width="0.6"/>
+<line x1="35" y1="128" x2="35" y2="208" stroke="#bbb" stroke-width="0.25"/>
+<line x1="15" y1="148" x2="95" y2="148" stroke="#bbb" stroke-width="0.25"/>
+<line x1="55" y1="128" x2="55" y2="208" stroke="#bbb" stroke-width="0.25"/>
+<line x1="15" y1="168" x2="95" y2="168" stroke="#bbb" stroke-width="0.25"/>
+<line x1="75" y1="128" x2="75" y2="208" stroke="#bbb" stroke-width="0.25"/>
+<line x1="15" y1="188" x2="95" y2="188" stroke="#bbb" stroke-width="0.25"/>
+<text x="55" y="124" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="4" font-weight="bold">PARCELLE C</text>
+<text x="19" y="136" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="bold">↑ N</text>
+<rect x="115" y="128" width="80" height="80" rx="0" fill="white" stroke="#222" stroke-width="0.6"/>
+<line x1="135" y1="128" x2="135" y2="208" stroke="#bbb" stroke-width="0.25"/>
+<line x1="115" y1="148" x2="195" y2="148" stroke="#bbb" stroke-width="0.25"/>
+<line x1="155" y1="128" x2="155" y2="208" stroke="#bbb" stroke-width="0.25"/>
+<line x1="115" y1="168" x2="195" y2="168" stroke="#bbb" stroke-width="0.25"/>
+<line x1="175" y1="128" x2="175" y2="208" stroke="#bbb" stroke-width="0.25"/>
+<line x1="115" y1="188" x2="195" y2="188" stroke="#bbb" stroke-width="0.25"/>
+<text x="155" y="124" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="4" font-weight="bold">PARCELLE E</text>
+<text x="119" y="136" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="bold">↑ N</text>
+<text x="15" y="230" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.4" font-weight="bold">Découper le carré puis le coller sur carton fin si nécessaire.</text>
+<text x="15" y="241" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="normal">A : corps principal centré.</text>
+<text x="15" y="249" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="normal">B : utiliser la grille 3 × 3 centrale de 20 mm.</text>
+<text x="15" y="257" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="normal">C : utiliser une base maximale de 3 × 3 cases.</text>
+<text x="15" y="265" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="normal">E : ailes sur les côtés et au nord ; passage au sud.</text>
+<text x="15" y="284" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.3" font-weight="bold">Contrôle d’impression : 80 mm entre deux côtés du carré.</text>
+</svg>

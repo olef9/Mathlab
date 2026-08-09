@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L0,6 L9,3 z" fill="#222"/>
+</marker>
+</defs>
+<text x="40" y="40" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="30" font-weight="bold">S37 – Enquêter sur un solide caché</text>
+<text x="40" y="70" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="normal">Une conclusion doit respecter toutes les informations.</text>
+<circle cx="82" cy="140" r="25" fill="white" stroke="#222" stroke-width="2"/>
+<text x="82" y="148" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">1</text>
+<rect x="128" y="108" width="930" height="67" rx="11" fill="white" stroke="#222" stroke-width="1.6"/>
+<text x="158" y="135" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">NOMMER</text>
+<text x="335" y="135" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="normal">Vue, ombre, description, total ou témoignage.</text>
+<text x="158" y="162" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Quelle représentation ai-je reçue ?</text>
+<circle cx="82" cy="234" r="25" fill="white" stroke="#222" stroke-width="2"/>
+<text x="82" y="242" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">2</text>
+<rect x="128" y="202" width="930" height="67" rx="11" fill="white" stroke="#222" stroke-width="1.6"/>
+<text x="158" y="229" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">SÉPARER</text>
+<text x="335" y="229" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="normal">Ce qui est directement observé et ce qui doit être déduit.</text>
+<text x="158" y="256" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Je n’invente pas une hauteur sans preuve.</text>
+<circle cx="82" cy="328" r="25" fill="white" stroke="#222" stroke-width="2"/>
+<text x="82" y="336" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">3</text>
+<rect x="128" y="296" width="930" height="67" rx="11" fill="white" stroke="#222" stroke-width="1.6"/>
+<text x="158" y="323" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">CONSTRUIRE</text>
+<text x="335" y="323" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="normal">Proposer un candidat avec des cubes ou un dessin.</text>
+<text x="158" y="350" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Je conserve l’orientation AVANT.</text>
+<circle cx="82" cy="422" r="25" fill="white" stroke="#222" stroke-width="2"/>
+<text x="82" y="430" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">4</text>
+<rect x="128" y="390" width="930" height="67" rx="11" fill="white" stroke="#222" stroke-width="1.6"/>
+<text x="158" y="417" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">TESTER</text>
+<text x="335" y="417" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="normal">Comparer le candidat à chaque indice.</text>
+<text x="158" y="444" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Un indice oublié peut rendre la solution fausse.</text>
+<circle cx="82" cy="516" r="25" fill="white" stroke="#222" stroke-width="2"/>
+<text x="82" y="524" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">5</text>
+<rect x="128" y="484" width="930" height="67" rx="11" fill="white" stroke="#222" stroke-width="1.6"/>
+<text x="158" y="511" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">CONTREDIRE</text>
+<text x="335" y="511" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="normal">Chercher une seconde solution ou un indice non respecté.</text>
+<text x="158" y="538" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Une bonne enquête essaie de se réfuter.</text>
+<circle cx="82" cy="610" r="25" fill="white" stroke="#222" stroke-width="2"/>
+<text x="82" y="618" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">6</text>
+<rect x="128" y="578" width="930" height="67" rx="11" fill="white" stroke="#222" stroke-width="1.6"/>
+<text x="158" y="605" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">JUSTIFIER</text>
+<text x="335" y="605" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="normal">Expliquer l’indice décisif et la vérification finale.</text>
+<text x="158" y="632" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Je distingue « je vois » et « j’en déduis ».</text>
+<rect x="175" y="705" width="770" height="55" rx="10" fill="white" stroke="#222" stroke-width="2"/>
+<text x="560" y="740" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">Trouver une construction ne suffit pas : il faut éliminer les autres.</text>
+</svg>

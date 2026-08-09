@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+<rect width="100%" height="100%" fill="white"/>
+<text x="12" y="11" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="5.5" font-weight="bold">S58 – Gabarit du tutoriel</text>
+<text x="12" y="18" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.8" font-weight="bold">Titre : __________________________________________________________</text>
+<text x="12" y="26" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.5" font-weight="normal">Objectif : À la fin, le lecteur saura ________________________________________________</text>
+<rect x="12" y="38" width="88" height="56" rx="2" fill="white" stroke="#222" stroke-width="0.45"/>
+<text x="16" y="45" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.5" font-weight="bold">ÉTAPE 1</text>
+<text x="16" y="53" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="bold">Action :</text>
+<line x1="30" y1="52" x2="96" y2="52" stroke="#222" stroke-width="0.25"/>
+<text x="16" y="62" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="bold">Valeur / outil :</text>
+<line x1="41" y1="61" x2="96" y2="61" stroke="#222" stroke-width="0.25"/>
+<rect x="16" y="67" width="80" height="22" rx="0" fill="#f7f7f7" stroke="#777" stroke-width="0.25" stroke-dasharray="1.5 1"/>
+<text x="56" y="80" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.8" font-weight="normal">capture / schéma</text>
+<rect x="106" y="38" width="88" height="56" rx="2" fill="white" stroke="#222" stroke-width="0.45"/>
+<text x="110" y="45" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.5" font-weight="bold">ÉTAPE 2</text>
+<text x="110" y="53" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="bold">Action :</text>
+<line x1="124" y1="52" x2="190" y2="52" stroke="#222" stroke-width="0.25"/>
+<text x="110" y="62" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="bold">Valeur / outil :</text>
+<line x1="135" y1="61" x2="190" y2="61" stroke="#222" stroke-width="0.25"/>
+<rect x="110" y="67" width="80" height="22" rx="0" fill="#f7f7f7" stroke="#777" stroke-width="0.25" stroke-dasharray="1.5 1"/>
+<text x="150" y="80" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.8" font-weight="normal">capture / schéma</text>
+<rect x="12" y="102" width="88" height="56" rx="2" fill="white" stroke="#222" stroke-width="0.45"/>
+<text x="16" y="109" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.5" font-weight="bold">ÉTAPE 3</text>
+<text x="16" y="117" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="bold">Action :</text>
+<line x1="30" y1="116" x2="96" y2="116" stroke="#222" stroke-width="0.25"/>
+<text x="16" y="126" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="bold">Valeur / outil :</text>
+<line x1="41" y1="125" x2="96" y2="125" stroke="#222" stroke-width="0.25"/>
+<rect x="16" y="131" width="80" height="22" rx="0" fill="#f7f7f7" stroke="#777" stroke-width="0.25" stroke-dasharray="1.5 1"/>
+<text x="56" y="144" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.8" font-weight="normal">capture / schéma</text>
+<rect x="106" y="102" width="88" height="56" rx="2" fill="white" stroke="#222" stroke-width="0.45"/>
+<text x="110" y="109" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.5" font-weight="bold">ÉTAPE 4</text>
+<text x="110" y="117" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="bold">Action :</text>
+<line x1="124" y1="116" x2="190" y2="116" stroke="#222" stroke-width="0.25"/>
+<text x="110" y="126" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="bold">Valeur / outil :</text>
+<line x1="135" y1="125" x2="190" y2="125" stroke="#222" stroke-width="0.25"/>
+<rect x="110" y="131" width="80" height="22" rx="0" fill="#f7f7f7" stroke="#777" stroke-width="0.25" stroke-dasharray="1.5 1"/>
+<text x="150" y="144" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.8" font-weight="normal">capture / schéma</text>
+<rect x="12" y="166" width="88" height="56" rx="2" fill="white" stroke="#222" stroke-width="0.45"/>
+<text x="16" y="173" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.5" font-weight="bold">ÉTAPE 5</text>
+<text x="16" y="181" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="bold">Action :</text>
+<line x1="30" y1="180" x2="96" y2="180" stroke="#222" stroke-width="0.25"/>
+<text x="16" y="190" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="bold">Valeur / outil :</text>
+<line x1="41" y1="189" x2="96" y2="189" stroke="#222" stroke-width="0.25"/>
+<rect x="16" y="195" width="80" height="22" rx="0" fill="#f7f7f7" stroke="#777" stroke-width="0.25" stroke-dasharray="1.5 1"/>
+<text x="56" y="208" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.8" font-weight="normal">capture / schéma</text>
+<rect x="106" y="166" width="88" height="56" rx="2" fill="white" stroke="#222" stroke-width="0.45"/>
+<text x="110" y="173" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.5" font-weight="bold">ÉTAPE 6</text>
+<text x="110" y="181" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="bold">Action :</text>
+<line x1="124" y1="180" x2="190" y2="180" stroke="#222" stroke-width="0.25"/>
+<text x="110" y="190" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="bold">Valeur / outil :</text>
+<line x1="135" y1="189" x2="190" y2="189" stroke="#222" stroke-width="0.25"/>
+<rect x="110" y="195" width="80" height="22" rx="0" fill="#f7f7f7" stroke="#777" stroke-width="0.25" stroke-dasharray="1.5 1"/>
+<text x="150" y="208" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.8" font-weight="normal">capture / schéma</text>
+<rect x="12" y="235" width="88" height="32" rx="2" fill="white" stroke="#222" stroke-width="0.45"/>
+<text x="16" y="243" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.5" font-weight="bold">CONTRÔLE FINAL</text>
+<text x="16" y="252" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="normal">Le résultat est correct si :</text>
+<line x1="16" y1="258" x2="96" y2="258" stroke="#222" stroke-width="0.25"/>
+<line x1="16" y1="264" x2="96" y2="264" stroke="#222" stroke-width="0.25"/>
+<rect x="106" y="235" width="92" height="32" rx="2" fill="white" stroke="#222" stroke-width="0.45"/>
+<text x="110" y="243" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.5" font-weight="bold">ERREUR FRÉQUENTE</text>
+<line x1="110" y1="252" x2="194" y2="252" stroke="#222" stroke-width="0.25"/>
+<line x1="110" y1="258" x2="194" y2="258" stroke="#222" stroke-width="0.25"/>
+<line x1="110" y1="264" x2="194" y2="264" stroke="#222" stroke-width="0.25"/>
+<text x="12" y="281" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.5" font-weight="bold">Équipe : ______   Testé par : ______   Version : ☐ V1 ☐ finale</text>
+<text x="12" y="291" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="bold">Imprimer à 100 %. Une page maximum.</text>
+</svg>

@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L0,6 L9,3 z" fill="#222"/>
+</marker>
+</defs>
+<text x="40" y="40" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="28" font-weight="bold">S38 – Solutions visuelles et contrôles</text>
+<text x="40" y="68" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Les dessins sont schématiques : les dimensions de la fiche restent la référence.</text>
+<rect x="35" y="105" width="330" height="285" rx="12" fill="white" stroke="#222" stroke-width="1.5"/>
+<circle cx="65" cy="135" r="19" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="65" y="142" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">A</text>
+<text x="200" y="140" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">La balise lumineuse</text>
+<rect x="165.35" y="295.25" width="69.30000000000001" height="9.9" rx="0" fill="#d8d8d8" stroke="#222" stroke-width="1.3"/>
+<ellipse cx="200.0" cy="241.75" rx="8.25" ry="7" fill="#f5f5f5" stroke="#222" stroke-width="1.2"/>
+<rect x="191.75" y="241.75" width="16.5" height="47.60000000000001" rx="0" fill="#dddddd" stroke="#222" stroke-width="1.2"/>
+<ellipse cx="200.0" cy="289.35" rx="8.25" ry="7" fill="#dddddd" stroke="#222" stroke-width="1.2"/>
+<ellipse cx="200.0" cy="217" rx="23.1" ry="7" fill="#f5f5f5" stroke="#222" stroke-width="1.2"/>
+<rect x="176.9" y="217" width="46.2" height="13.500000000000004" rx="0" fill="#dddddd" stroke="#222" stroke-width="1.2"/>
+<ellipse cx="200.0" cy="230.5" rx="23.1" ry="7" fill="#dddddd" stroke="#222" stroke-width="1.2"/>
+<ellipse cx="200.0" cy="206.20000000000002" rx="26.400000000000002" ry="6" fill="#e8e8e8" stroke="#222" stroke-width="1.2"/>
+<polygon points="200.00,186.90 173.60,206.20 226.40,206.20" fill="#e8e8e8" stroke="#222" stroke-width="1.2"/>
+<text x="57" y="330" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.5" font-weight="normal">• hauteur totale 80 mm</text>
+<text x="57" y="348" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.5" font-weight="normal">• quatre centres superposés</text>
+<text x="57" y="366" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.5" font-weight="normal">• aucune pièce flottante</text>
+<rect x="390" y="105" width="330" height="285" rx="12" fill="white" stroke="#222" stroke-width="1.5"/>
+<circle cx="420" cy="135" r="19" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="420" y="142" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">B</text>
+<text x="555" y="140" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">Le robot gardien</text>
+<rect x="528.6" y="232.0" width="52.800000000000004" height="47.300000000000004" rx="0" fill="#d8d8d8" stroke="#222" stroke-width="1.3"/>
+<rect x="534.1" y="200.1" width="41.800000000000004" height="30.250000000000004" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.3"/>
+<rect x="538.5" y="279.3" width="13.200000000000001" height="29.700000000000003" rx="0" fill="#d0d0d0" stroke="#222" stroke-width="1.2"/>
+<rect x="558.3" y="279.3" width="13.200000000000001" height="29.700000000000003" rx="0" fill="#d0d0d0" stroke="#222" stroke-width="1.2"/>
+<rect x="535.2" y="309.0" width="17.6" height="8.25" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.2"/>
+<rect x="557.2" y="309.0" width="17.6" height="8.25" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.2"/>
+<rect x="517.6" y="234.75" width="9.9" height="42.900000000000006" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<rect x="582.5" y="234.75" width="9.9" height="42.900000000000006" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<ellipse cx="555.0" cy="190.6" rx="3.8500000000000005" ry="7" fill="#f5f5f5" stroke="#222" stroke-width="1.2"/>
+<rect x="551.15" y="190.6" width="7.700000000000001" height="2.5" rx="0" fill="#dddddd" stroke="#222" stroke-width="1.2"/>
+<ellipse cx="555.0" cy="193.1" rx="3.8500000000000005" ry="7" fill="#dddddd" stroke="#222" stroke-width="1.2"/>
+<text x="412" y="330" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.5" font-weight="normal">• symétrie gauche-droite</text>
+<text x="412" y="348" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.5" font-weight="normal">• deux pieds au contact du plan</text>
+<text x="412" y="366" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.5" font-weight="normal">• tête centrée</text>
+<rect x="745" y="105" width="330" height="285" rx="12" fill="white" stroke="#222" stroke-width="1.5"/>
+<circle cx="775" cy="135" r="19" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="775" y="142" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">C</text>
+<text x="910" y="140" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">La mini-fusée</text>
+<ellipse cx="910.0" cy="230.75" rx="19.25" ry="7" fill="#f5f5f5" stroke="#222" stroke-width="1.2"/>
+<rect x="890.75" y="230.75" width="38.5" height="65.75" rx="0" fill="#dddddd" stroke="#222" stroke-width="1.2"/>
+<ellipse cx="910.0" cy="296.5" rx="19.25" ry="7" fill="#dddddd" stroke="#222" stroke-width="1.2"/>
+<ellipse cx="910.0" cy="305.0" rx="25.85" ry="7" fill="#f5f5f5" stroke="#222" stroke-width="1.2"/>
+<rect x="884.15" y="305.0" width="51.7" height="-0.7999999999999989" rx="0" fill="#dddddd" stroke="#222" stroke-width="1.2"/>
+<ellipse cx="910.0" cy="304.2" rx="25.85" ry="7" fill="#dddddd" stroke="#222" stroke-width="1.2"/>
+<ellipse cx="910.0" cy="220.5" rx="22.0" ry="6" fill="#e8e8e8" stroke="#222" stroke-width="1.2"/>
+<polygon points="910.00,188.00 888.00,220.50 932.00,220.50" fill="#e8e8e8" stroke="#222" stroke-width="1.2"/>
+<rect x="878.1" y="273.25" width="12.100000000000001" height="35.75" rx="0" fill="#d0d0d0" stroke="#222" stroke-width="1.2"/>
+<rect x="929.8" y="273.25" width="12.100000000000001" height="35.75" rx="0" fill="#d0d0d0" stroke="#222" stroke-width="1.2"/>
+<text x="767" y="330" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.5" font-weight="normal">• hauteur totale 74 mm</text>
+<text x="767" y="348" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.5" font-weight="normal">• quatre ailerons répartis</text>
+<text x="767" y="366" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.5" font-weight="normal">• nez centré</text>
+<rect x="210" y="420" width="330" height="285" rx="12" fill="white" stroke="#222" stroke-width="1.5"/>
+<circle cx="240" cy="450" r="19" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="240" y="457" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">D</text>
+<text x="375" y="455" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">Le pont miniature</text>
+<rect x="314.5" y="588.25" width="24.750000000000004" height="60.50000000000001" rx="0" fill="#d8d8d8" stroke="#222" stroke-width="1.3"/>
+<rect x="410.75" y="588.25" width="24.750000000000004" height="60.50000000000001" rx="0" fill="#d8d8d8" stroke="#222" stroke-width="1.3"/>
+<rect x="300.75" y="571.75" width="148.5" height="17.6" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.3"/>
+<rect x="300.75" y="555.25" width="148.5" height="9.9" rx="0" fill="#cfcfcf" stroke="#222" stroke-width="1.2"/>
+<text x="232" y="645" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.5" font-weight="normal">• tablier horizontal</text>
+<text x="232" y="663" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.5" font-weight="normal">• piliers symétriques</text>
+<text x="232" y="681" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.5" font-weight="normal">• garde-corps parallèles</text>
+<rect x="570" y="420" width="330" height="285" rx="12" fill="white" stroke="#222" stroke-width="1.5"/>
+<circle cx="600" cy="450" r="19" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="600" y="457" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">E</text>
+<text x="735" y="455" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">La station météo</text>
+<ellipse cx="735.0" cy="628.25" rx="28.6" ry="7" fill="#f5f5f5" stroke="#222" stroke-width="1.2"/>
+<rect x="706.4" y="628.25" width="57.2" height="-1.8999999999999986" rx="0" fill="#dddddd" stroke="#222" stroke-width="1.2"/>
+<ellipse cx="735.0" cy="626.35" rx="28.6" ry="7" fill="#dddddd" stroke="#222" stroke-width="1.2"/>
+<rect x="713.0" y="582.75" width="44.0" height="38.5" rx="0" fill="#d8d8d8" stroke="#222" stroke-width="1.3"/>
+<ellipse cx="735.0" cy="540.25" rx="5.5" ry="7" fill="#f5f5f5" stroke="#222" stroke-width="1.2"/>
+<rect x="729.5" y="540.25" width="11.0" height="36.6" rx="0" fill="#dddddd" stroke="#222" stroke-width="1.2"/>
+<ellipse cx="735.0" cy="576.85" rx="5.5" ry="7" fill="#dddddd" stroke="#222" stroke-width="1.2"/>
+<circle cx="735" cy="522.25" r="15.400000000000002" fill="#eeeeee" stroke="#222" stroke-width="1.3"/>
+<rect x="667.9" y="585.5" width="42.900000000000006" height="30.250000000000004" rx="0" fill="#d0d0d0" stroke="#222" stroke-width="1.2"/>
+<rect x="759.2" y="585.5" width="42.900000000000006" height="30.250000000000004" rx="0" fill="#d0d0d0" stroke="#222" stroke-width="1.2"/>
+<text x="592" y="645" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.5" font-weight="normal">• symétrie des panneaux</text>
+<text x="592" y="663" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.5" font-weight="normal">• capteur centré</text>
+<text x="592" y="681" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.5" font-weight="normal">• aucune intersection inutile</text>
+</svg>

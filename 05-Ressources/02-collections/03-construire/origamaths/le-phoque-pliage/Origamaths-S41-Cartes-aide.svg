@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L0,6 L9,3 z" fill="#222"/>
+</marker>
+</defs>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="30" font-weight="bold">S41 – Cartes d’aide et de statut</text>
+<text x="40" y="72" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Découper puis poser la carte visible sur la table.</text>
+<rect x="55" y="110" width="500" height="170" rx="14" fill="#f5f5f5" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="305" y="148" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">VERT</text>
+<text x="305" y="188" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="bold">NOUS AVANÇONS</text>
+<text x="305" y="225" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="normal">Étape comprise. Sens du pli vérifié.</text>
+<text x="305" y="263" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">Équipe : ______   Étape : ______</text>
+<rect x="590" y="110" width="500" height="170" rx="14" fill="#eeeeee" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="840" y="148" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">JAUNE</text>
+<text x="840" y="188" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="bold">NOUS AVONS UN DOUTE</text>
+<text x="840" y="225" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="normal">Nous observons encore et comparons.</text>
+<text x="840" y="263" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">Équipe : ______   Étape : ______</text>
+<rect x="55" y="315" width="500" height="170" rx="14" fill="#e5e5e5" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="305" y="353" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">ROUGE</text>
+<text x="305" y="393" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="bold">NOUS SOMMES BLOQUÉS</text>
+<text x="305" y="430" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="normal">Plus de 45 secondes sans solution.</text>
+<text x="305" y="468" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">Équipe : ______   Étape : ______</text>
+<rect x="590" y="315" width="500" height="170" rx="14" fill="#f5f5f5" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="840" y="353" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">PAUSE</text>
+<text x="840" y="393" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="bold">NE PAS TOUCHER</text>
+<text x="840" y="430" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="normal">Le modèle attend une validation.</text>
+<text x="840" y="468" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">Équipe : ______   Étape : ______</text>
+<rect x="55" y="520" width="500" height="170" rx="14" fill="#eeeeee" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="305" y="558" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">AIDE LECTURE</text>
+<text x="305" y="598" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="bold">REPÉRER LES POINTS</text>
+<text x="305" y="635" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="normal">Nommer le segment avant de plier.</text>
+<text x="305" y="673" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">Équipe : ______   Étape : ______</text>
+<rect x="590" y="520" width="500" height="170" rx="14" fill="#e5e5e5" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="840" y="558" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">AIDE GESTE</text>
+<text x="840" y="598" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="bold">FEUILLE D’ESSAI</text>
+<text x="840" y="635" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="normal">Tester le mouvement hors du patron.</text>
+<text x="840" y="673" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">Équipe : ______   Étape : ______</text>
+<text x="55" y="745" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">La carte rouge demande une aide ciblée : numéro d’étape + point ou segment concerné.</text>
+</svg>

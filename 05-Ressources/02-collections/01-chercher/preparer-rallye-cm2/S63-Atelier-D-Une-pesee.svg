@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="35" y="40" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="26" font-weight="bold">Rallye CM2 – Atelier D – Une seule pesée</text>
+<rect x="35" y="80" width="1053" height="120" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="1.3"/>
+<text x="55" y="112" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.8" font-weight="bold">Trois boîtes A, B et C paraissent identiques. Une seule est plus lourde. Les deux autres</text>
+<text x="55" y="131" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.8" font-weight="bold">ont exactement la même masse.</text>
+<text x="55" y="158" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.8" font-weight="bold">Tu disposes d&#x27;une balance à deux plateaux et d&#x27;UNE SEULE pesée. Explique une stratégie</text>
+<text x="55" y="177" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.8" font-weight="bold">qui permet de toujours trouver la boîte la plus lourde.</text>
+<rect x="230" y="270" width="150" height="110" rx="12" fill="#f7f7f7" stroke="#222" stroke-width="1.3"/>
+<text x="305" y="330" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="25" font-weight="bold">A</text>
+<rect x="460" y="270" width="150" height="110" rx="12" fill="#f7f7f7" stroke="#222" stroke-width="1.3"/>
+<text x="535" y="330" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="25" font-weight="bold">B</text>
+<rect x="690" y="270" width="150" height="110" rx="12" fill="#f7f7f7" stroke="#222" stroke-width="1.3"/>
+<text x="765" y="330" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="25" font-weight="bold">C</text>
+<rect x="130" y="455" width="865" height="150" rx="12" fill="white" stroke="#222" stroke-width="1.3"/>
+<text x="562" y="490" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">TA STRATÉGIE</text>
+<text x="160" y="530" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Je compare : __________________________</text>
+<text x="160" y="570" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">Si __________________________________ alors _________________________________</text>
+<text x="160" y="600" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">Si __________________________________ alors _________________________________</text>
+<text x="55" y="700" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Pour valider, il faut expliquer les trois résultats possibles d&#x27;une pesée.</text>
+</svg>

@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="30" font-weight="bold">CAN-11 – Calculs en chaîne</text>
+<text x="40" y="72" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="normal">Rituel indépendant de la séance de communication.</text>
+<rect x="50" y="120" width="320" height="470" rx="14" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="210" y="155" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">CHAÎNE A</text>
+<circle cx="210" cy="220" r="42" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="210" y="228" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="bold">12</text>
+<text x="210" y="300" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="bold">× 5</text>
+<line x1="210" y1="312" x2="210" y2="350" stroke="#222" stroke-width="1.5"/>
+<circle cx="210" cy="388" r="30" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="210" y="395" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">____</text>
+<text x="210" y="382" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="bold">− 20</text>
+<line x1="210" y1="394" x2="210" y2="432" stroke="#222" stroke-width="1.5"/>
+<circle cx="210" cy="470" r="30" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="210" y="477" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">____</text>
+<text x="210" y="464" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="bold">÷ 4</text>
+<line x1="210" y1="476" x2="210" y2="514" stroke="#222" stroke-width="1.5"/>
+<circle cx="210" cy="552" r="30" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="210" y="559" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">____</text>
+<text x="210" y="546" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="bold">+ 17</text>
+<line x1="210" y1="558" x2="210" y2="596" stroke="#222" stroke-width="1.5"/>
+<circle cx="210" cy="634" r="30" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="210" y="641" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">____</text>
+<text x="210" y="560" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">résultat final</text>
+<rect x="405" y="120" width="320" height="470" rx="14" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="565" y="155" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">CHAÎNE B</text>
+<circle cx="565" cy="220" r="42" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="565" y="228" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="bold">3,5</text>
+<text x="565" y="300" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="bold">× 2</text>
+<line x1="565" y1="312" x2="565" y2="350" stroke="#222" stroke-width="1.5"/>
+<circle cx="565" cy="388" r="30" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="565" y="395" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">____</text>
+<text x="565" y="382" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="bold">+ 6</text>
+<line x1="565" y1="394" x2="565" y2="432" stroke="#222" stroke-width="1.5"/>
+<circle cx="565" cy="470" r="30" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="565" y="477" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">____</text>
+<text x="565" y="464" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="bold">÷ 2</text>
+<line x1="565" y1="476" x2="565" y2="514" stroke="#222" stroke-width="1.5"/>
+<circle cx="565" cy="552" r="30" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="565" y="559" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">____</text>
+<text x="565" y="546" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="bold">− 1,5</text>
+<line x1="565" y1="558" x2="565" y2="596" stroke="#222" stroke-width="1.5"/>
+<circle cx="565" cy="634" r="30" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="565" y="641" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">____</text>
+<text x="565" y="560" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">résultat final</text>
+<rect x="760" y="120" width="320" height="470" rx="14" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="920" y="155" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">CHAÎNE C</text>
+<circle cx="920" cy="220" r="42" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="920" y="228" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="bold">80</text>
+<text x="920" y="300" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="bold">÷ 4</text>
+<line x1="920" y1="312" x2="920" y2="350" stroke="#222" stroke-width="1.5"/>
+<circle cx="920" cy="388" r="30" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="920" y="395" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">____</text>
+<text x="920" y="382" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="bold">+ 15</text>
+<line x1="920" y1="394" x2="920" y2="432" stroke="#222" stroke-width="1.5"/>
+<circle cx="920" cy="470" r="30" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="920" y="477" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">____</text>
+<text x="920" y="464" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="bold">× 2</text>
+<line x1="920" y1="476" x2="920" y2="514" stroke="#222" stroke-width="1.5"/>
+<circle cx="920" cy="552" r="30" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="920" y="559" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">____</text>
+<text x="920" y="546" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="bold">− 10</text>
+<line x1="920" y1="558" x2="920" y2="596" stroke="#222" stroke-width="1.5"/>
+<circle cx="920" cy="634" r="30" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="920" y="641" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">____</text>
+<text x="920" y="560" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">résultat final</text>
+<rect x="155" y="640" width="815" height="80" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="562" y="672" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">Choisir une chaîne et écrire tous les résultats intermédiaires.</text>
+<text x="562" y="704" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="middle">Une seule erreur intermédiaire suffit à modifier le résultat final.</text>
+<text x="55" y="770" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">Temps : 2 min seul · 3 min en équipe · 2 min de correction</text>
+</svg>

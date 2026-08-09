@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="Arial" font-size="29" font-weight="bold">S25 – La boîte mystère</text>
+<text x="40" y="72" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">Reconstruire une maquette de cubes sans voir l’intérieur de la boîte.</text>
+<rect x="40" y="100" width="1040" height="90" rx="12" fill="white" stroke="#222" stroke-width="2"/>
+<text x="65" y="135" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">MISSION</text>
+<text x="65" y="167" text-anchor="start" font-family="Arial" font-size="16" font-weight="normal">Construire la seule maquette compatible avec toutes les vues et tous les indices.</text>
+<rect x="55" y="230" width="310" height="410" rx="12" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="210.0" y="268" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">VUE DE DESSUS</text>
+<rect x="405" y="230" width="310" height="410" rx="12" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="560.0" y="268" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">VUE DE FACE</text>
+<rect x="755" y="230" width="310" height="410" rx="12" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="910.0" y="268" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">VUE DE DROITE</text>
+<rect x="128" y="330" width="55" height="55" rx="0" fill="white" stroke="#222" stroke-width="1.5"/>
+<rect x="183" y="330" width="55" height="55" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.5"/>
+<rect x="238" y="330" width="55" height="55" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.5"/>
+<rect x="128" y="385" width="55" height="55" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.5"/>
+<rect x="183" y="385" width="55" height="55" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.5"/>
+<rect x="238" y="385" width="55" height="55" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.5"/>
+<rect x="128" y="440" width="55" height="55" rx="0" fill="white" stroke="#222" stroke-width="1.5"/>
+<rect x="183" y="440" width="55" height="55" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.5"/>
+<rect x="238" y="440" width="55" height="55" rx="0" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="210.5" y="316" text-anchor="middle" font-family="Arial" font-size="11" font-weight="normal">ARRIÈRE</text>
+<text x="210.5" y="518" text-anchor="middle" font-family="Arial" font-size="11" font-weight="normal">AVANT</text>
+<text x="311" y="418.0" text-anchor="middle" font-family="Arial" font-size="11" font-weight="bold">D</text>
+<rect x="490" y="440" width="55" height="55" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<rect x="490" y="385" width="55" height="55" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<rect x="490" y="330" width="55" height="55" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<rect x="545" y="440" width="55" height="55" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<rect x="545" y="385" width="55" height="55" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<rect x="545" y="330" width="55" height="55" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<rect x="600" y="440" width="55" height="55" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<rect x="600" y="385" width="55" height="55" rx="0" fill="white" stroke="#222" stroke-width="1.2"/>
+<rect x="600" y="330" width="55" height="55" rx="0" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="572.5" y="315" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold"></text>
+<text x="517.5" y="517" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold">3</text>
+<text x="572.5" y="517" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold">3</text>
+<text x="627.5" y="517" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold">1</text>
+<rect x="840" y="440" width="55" height="55" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<rect x="840" y="385" width="55" height="55" rx="0" fill="white" stroke="#222" stroke-width="1.2"/>
+<rect x="840" y="330" width="55" height="55" rx="0" fill="white" stroke="#222" stroke-width="1.2"/>
+<rect x="895" y="440" width="55" height="55" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<rect x="895" y="385" width="55" height="55" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<rect x="895" y="330" width="55" height="55" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<rect x="950" y="440" width="55" height="55" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<rect x="950" y="385" width="55" height="55" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<rect x="950" y="330" width="55" height="55" rx="0" fill="#c8c8c8" stroke="#222" stroke-width="1.2"/>
+<text x="922.5" y="315" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold"></text>
+<text x="867.5" y="517" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold">1</text>
+<text x="922.5" y="517" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold">3</text>
+<text x="977.5" y="517" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold">3</text>
+<text x="55" y="690" text-anchor="start" font-family="Arial" font-size="16" font-weight="bold">Dernier indice à distribuer séparément :</text>
+<rect x="365" y="658" width="500" height="70" rx="12" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="615" y="701" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold">La construction utilise exactement 11 cubes.</text>
+<text x="55" y="758" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">■ = au moins un cube dans la case · Hauteur maximale : 3 cubes</text>
+</svg>

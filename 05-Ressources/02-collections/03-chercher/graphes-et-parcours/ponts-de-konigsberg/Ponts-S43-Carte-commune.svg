@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L0,6 L9,3 z" fill="#222"/>
+</marker>
+</defs>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="30" font-weight="bold">S43 – Les sept ponts</text>
+<text x="40" y="72" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="normal">Traverser chaque pont une seule fois, en partant où vous voulez.</text>
+<rect x="40" y="100" width="1040" height="545" rx="16" fill="white" stroke="#222" stroke-width="1.7"/>
+<path d="M210.0,190.0 Q375.3366797917989,253.07957130025662 520.0,355.0" fill="none" stroke="#222" stroke-width="5.0" stroke-linecap="round"/>
+<rect x="361.3366797917989" y="241.07957130025662" width="28" height="24" rx="5" fill="white" stroke="#222" stroke-width="1.2"/>
+<path d="M210.0,190.0 Q354.6633202082011,291.92042869974335 520.0,355.0" fill="none" stroke="#222" stroke-width="5.0" stroke-linecap="round"/>
+<rect x="340.6633202082011" y="279.92042869974335" width="28" height="24" rx="5" fill="white" stroke="#222" stroke-width="1.2"/>
+<path d="M210.0,520.0 Q354.6633202082011,418.07957130025665 520.0,355.0" fill="none" stroke="#222" stroke-width="5.0" stroke-linecap="round"/>
+<rect x="340.6633202082011" y="406.07957130025665" width="28" height="24" rx="5" fill="white" stroke="#222" stroke-width="1.2"/>
+<path d="M210.0,520.0 Q375.3366797917989,456.92042869974335 520.0,355.0" fill="none" stroke="#222" stroke-width="5.0" stroke-linecap="round"/>
+<rect x="361.3366797917989" y="444.92042869974335" width="28" height="24" rx="5" fill="white" stroke="#222" stroke-width="1.2"/>
+<path d="M520.0,355.0 Q685.0,355.0 850.0,355.0" fill="none" stroke="#222" stroke-width="5.0" stroke-linecap="round"/>
+<rect x="671.0" y="343.0" width="28" height="24" rx="5" fill="white" stroke="#222" stroke-width="1.2"/>
+<path d="M210.0,190.0 Q530.0,272.5 850.0,355.0" fill="none" stroke="#222" stroke-width="5.0" stroke-linecap="round"/>
+<rect x="516.0" y="260.5" width="28" height="24" rx="5" fill="white" stroke="#222" stroke-width="1.2"/>
+<path d="M210.0,520.0 Q530.0,437.5 850.0,355.0" fill="none" stroke="#222" stroke-width="5.0" stroke-linecap="round"/>
+<rect x="516.0" y="425.5" width="28" height="24" rx="5" fill="white" stroke="#222" stroke-width="1.2"/>
+<circle cx="210.0" cy="190.0" r="38.0" fill="#f3f3f3" stroke="#222" stroke-width="2.0"/>
+<text x="210.0" y="197.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="20.0" font-weight="bold">N</text>
+<circle cx="210.0" cy="520.0" r="38.0" fill="#f3f3f3" stroke="#222" stroke-width="2.0"/>
+<text x="210.0" y="527.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="20.0" font-weight="bold">S</text>
+<circle cx="520.0" cy="355.0" r="38.0" fill="#f3f3f3" stroke="#222" stroke-width="2.0"/>
+<text x="520.0" y="362.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="20.0" font-weight="bold">I</text>
+<circle cx="850.0" cy="355.0" r="38.0" fill="#f3f3f3" stroke="#222" stroke-width="2.0"/>
+<text x="850.0" y="362.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="20.0" font-weight="bold">P</text>
+<text x="210" y="115" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">NORD</text>
+<text x="210" y="585" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">SUD</text>
+<text x="520" y="680" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">Départ choisi : ______   Arrivée ou blocage : ______</text>
+<text x="55" y="735" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">Règle : numéroter les ponts dans l’ordre du parcours.</text>
+</svg>

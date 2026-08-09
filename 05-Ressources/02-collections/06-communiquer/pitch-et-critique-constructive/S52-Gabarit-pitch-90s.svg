@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="29" font-weight="bold">S52 – Pitch de 90 secondes</text>
+<text x="40" y="72" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="normal">Ne racontez pas tout : sélectionnez cinq informations.</text>
+<rect x="55" y="110" width="1010" height="88" rx="11" fill="white" stroke="#222" stroke-width="1.3"/>
+<rect x="70" y="124" width="150" height="60" rx="9" fill="#f4f4f4" stroke="#222" stroke-width="1.0"/>
+<text x="145" y="162" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16.5" font-weight="bold">0–15 s</text>
+<text x="255" y="144" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">PROJET + OBJECTIF</text>
+<text x="255" y="174" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="normal">Nous avons créé… afin de…</text>
+<rect x="55" y="222" width="1010" height="88" rx="11" fill="white" stroke="#222" stroke-width="1.3"/>
+<rect x="70" y="236" width="150" height="60" rx="9" fill="#f4f4f4" stroke="#222" stroke-width="1.0"/>
+<text x="145" y="274" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16.5" font-weight="bold">15–35 s</text>
+<text x="255" y="256" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">DÉMONSTRATION</text>
+<text x="255" y="286" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="normal">Une seule fonction ou un seul contrôle.</text>
+<rect x="55" y="334" width="1010" height="88" rx="11" fill="white" stroke="#222" stroke-width="1.3"/>
+<rect x="70" y="348" width="150" height="60" rx="9" fill="#f4f4f4" stroke="#222" stroke-width="1.0"/>
+<text x="145" y="386" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16.5" font-weight="bold">35–55 s</text>
+<text x="255" y="368" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">UN CHOIX</text>
+<text x="255" y="398" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="normal">Nous avons choisi… parce que…</text>
+<rect x="55" y="446" width="1010" height="88" rx="11" fill="white" stroke="#222" stroke-width="1.3"/>
+<rect x="70" y="460" width="150" height="60" rx="9" fill="#f4f4f4" stroke="#222" stroke-width="1.0"/>
+<text x="145" y="498" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16.5" font-weight="bold">55–70 s</text>
+<text x="255" y="480" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">PROBLÈME + CORRECTION</text>
+<text x="255" y="510" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="normal">Le test a montré… nous avons donc…</text>
+<rect x="55" y="558" width="1010" height="88" rx="11" fill="white" stroke="#222" stroke-width="1.3"/>
+<rect x="70" y="572" width="150" height="60" rx="9" fill="#f4f4f4" stroke="#222" stroke-width="1.0"/>
+<text x="145" y="610" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16.5" font-weight="bold">70–90 s</text>
+<text x="255" y="592" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">SUITE</text>
+<text x="255" y="622" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="normal">Une amélioration encore possible est…</text>
+<rect x="165" y="700" width="795" height="52" rx="10" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="562" y="732" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">À 90 secondes : STOP. Même si vous n’avez pas terminé.</text>
+</svg>

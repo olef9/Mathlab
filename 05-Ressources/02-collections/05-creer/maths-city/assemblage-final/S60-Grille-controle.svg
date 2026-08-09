@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="28.5" font-weight="bold">S60 – Grille de contrôle croisé</text>
+<text x="40" y="70" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Quartier contrôlé : ______   Équipe contrôleuse : ______</text>
+<rect x="20" y="105" width="510" height="50" rx="0" fill="#ededed" stroke="#222" stroke-width="1"/>
+<text x="275.0" y="137" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">Contrôle</text>
+<rect x="530" y="105" width="210" height="50" rx="0" fill="#ededed" stroke="#222" stroke-width="1"/>
+<text x="635.0" y="137" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">Attendu</text>
+<rect x="740" y="105" width="245" height="50" rx="0" fill="#ededed" stroke="#222" stroke-width="1"/>
+<text x="862.5" y="137" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">Observé</text>
+<rect x="985" y="105" width="135" height="50" rx="0" fill="#ededed" stroke="#222" stroke-width="1"/>
+<text x="1052.5" y="137" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">Verdict</text>
+<rect x="20" y="155" width="510" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="32" y="191" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.9" font-weight="bold">Le bâtiment est dans la bonne zone ou aux coordonnées validées.</text>
+<rect x="530" y="155" width="210" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="740" y="155" width="245" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="985" y="155" width="135" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="1052.5" y="191" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.9" font-weight="normal">☐ OK ☐ NON</text>
+<rect x="20" y="216" width="510" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="32" y="252" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.9" font-weight="bold">La façade ou le passage est orienté vers la route.</text>
+<rect x="530" y="216" width="210" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="740" y="216" width="245" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="985" y="216" width="135" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="1052.5" y="252" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.9" font-weight="normal">☐ OK ☐ NON</text>
+<rect x="20" y="277" width="510" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="32" y="313" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.9" font-weight="bold">La route principale mesure 30 mm de large.</text>
+<rect x="530" y="277" width="210" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="740" y="277" width="245" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="985" y="277" width="135" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="1052.5" y="313" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.9" font-weight="normal">☐ OK ☐ NON</text>
+<rect x="20" y="338" width="510" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="32" y="374" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.9" font-weight="bold">Le raccord avec la place est centré.</text>
+<rect x="530" y="338" width="210" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="740" y="338" width="245" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="985" y="338" width="135" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="1052.5" y="374" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.9" font-weight="normal">☐ OK ☐ NON</text>
+<rect x="20" y="399" width="510" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="32" y="435" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.9" font-weight="bold">Aucun élément n’empiète sur une chaussée.</text>
+<rect x="530" y="399" width="210" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="740" y="399" width="245" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="985" y="399" width="135" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="1052.5" y="435" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.9" font-weight="normal">☐ OK ☐ NON</text>
+<rect x="20" y="460" width="510" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="32" y="496" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.9" font-weight="bold">Le mobilier physique ou son socle est identifié.</text>
+<rect x="530" y="460" width="210" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="740" y="460" width="245" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="985" y="460" width="135" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="1052.5" y="496" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.9" font-weight="normal">☐ OK ☐ NON</text>
+<rect x="20" y="521" width="510" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="32" y="557" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.9" font-weight="bold">L’espace vert ne dépasse pas 40 × 40 mm.</text>
+<rect x="530" y="521" width="210" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="740" y="521" width="245" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="985" y="521" width="135" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="1052.5" y="557" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.9" font-weight="normal">☐ OK ☐ NON</text>
+<rect x="20" y="582" width="510" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="32" y="618" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.9" font-weight="bold">Le quartier peut être compris sans explication orale.</text>
+<rect x="530" y="582" width="210" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="740" y="582" width="245" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="985" y="582" width="135" height="61" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="1052.5" y="618" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.9" font-weight="normal">☐ OK ☐ NON</text>
+<text x="35" y="655" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Mesure réelle effectuée : __________________________________________________________________</text>
+<text x="35" y="700" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Défaut prioritaire : _______________________________________________________________________</text>
+<text x="35" y="745" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Après correction :  ☐ quartier validé   ☐ à reprendre</text>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="45" y="45" text-anchor="start" font-family="Arial" font-size="28" font-weight="bold">CM-07 – Des cubes en piles</text>
+<text x="45" y="78" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">Répondre mentalement. Une hauteur indique le nombre de cubes de la pile.</text>
+<rect x="45" y="110" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="80" cy="145" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="152" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">1</text>
+<text x="127" y="158" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">3 piles de 2 cubes</text>
+<text x="415" y="198" text-anchor="start" font-family="Arial" font-size="17" font-weight="normal">________</text>
+<rect x="580" y="110" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="615" cy="145" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="152" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">2</text>
+<text x="662" y="158" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">2 piles de 3 + 1 cube</text>
+<text x="950" y="198" text-anchor="start" font-family="Arial" font-size="17" font-weight="normal">________</text>
+<rect x="45" y="255" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="80" cy="290" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="297" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">3</text>
+<text x="127" y="303" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">1 + 2 + 3 + 2</text>
+<text x="415" y="343" text-anchor="start" font-family="Arial" font-size="17" font-weight="normal">________</text>
+<rect x="580" y="255" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="615" cy="290" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="297" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">4</text>
+<text x="662" y="303" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">12 cubes − une pile de 3</text>
+<text x="950" y="343" text-anchor="start" font-family="Arial" font-size="17" font-weight="normal">________</text>
+<rect x="45" y="400" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="80" cy="435" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="442" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">5</text>
+<text x="127" y="448" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">5 piles : minimum de cubes</text>
+<text x="415" y="488" text-anchor="start" font-family="Arial" font-size="17" font-weight="normal">________</text>
+<rect x="580" y="400" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="615" cy="435" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="442" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">6</text>
+<text x="662" y="448" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">5 piles de hauteur maximale 3</text>
+<text x="950" y="488" text-anchor="start" font-family="Arial" font-size="17" font-weight="normal">________</text>
+<rect x="45" y="545" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="80" cy="580" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="587" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">7</text>
+<text x="127" y="593" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">Une hauteur visible de 3 : minimum</text>
+<text x="415" y="633" text-anchor="start" font-family="Arial" font-size="17" font-weight="normal">________</text>
+<rect x="580" y="545" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="615" cy="580" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="587" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">8</text>
+<text x="662" y="593" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">0 1 1 / 3 2 1 / 0 3 0</text>
+<text x="950" y="633" text-anchor="start" font-family="Arial" font-size="17" font-weight="normal">________</text>
+<text x="45" y="720" text-anchor="start" font-family="Arial" font-size="16" font-weight="bold">Bonus : 6 piles, total 11. Cinq hauteurs : 1, 1, 3, 1, 3. Dernière hauteur : ______</text>
+<text x="45" y="758" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">Calcul : ______________________________________________________________________</text>
+</svg>

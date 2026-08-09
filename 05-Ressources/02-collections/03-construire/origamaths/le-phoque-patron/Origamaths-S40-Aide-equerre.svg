@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L0,6 L9,3 z" fill="#222"/>
+</marker>
+</defs>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="29" font-weight="bold">S40 – Tracer une perpendiculaire avec l’équerre</text>
+<text x="40" y="72" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="normal">Deux situations : le point est sur la droite ou à l’extérieur.</text>
+<rect x="45" y="115" width="500" height="500" rx="15" fill="white" stroke="#222" stroke-width="1.7"/>
+<text x="295" y="153" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">CAS 1 – POINT SUR LA DROITE</text>
+<line x1="105" y1="370" x2="480" y2="370" stroke="#222" stroke-width="3"/>
+<circle cx="295" cy="370" r="6" fill="#222" stroke="#222" stroke-width="1.5"/>
+<text x="295" y="400" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">P</text>
+<line x1="295" y1="220" x2="295" y2="370" stroke="#222" stroke-width="5"/>
+<line x1="295" y1="370" x2="420" y2="370" stroke="#222" stroke-width="5"/>
+<rect x="295" y="340" width="30" height="30" rx="0" fill="none" stroke="#222" stroke-width="1.5"/>
+<text x="295" y="470" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Un côté suit la droite.</text>
+<text x="295" y="500" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">L’autre côté passe par P.</text>
+<text x="295" y="540" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">Tracer sans faire pivoter l’équerre.</text>
+<rect x="580" y="115" width="500" height="500" rx="15" fill="white" stroke="#222" stroke-width="1.7"/>
+<text x="830" y="153" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">CAS 2 – POINT EXTÉRIEUR</text>
+<line x1="640" y1="425" x2="1015" y2="425" stroke="#222" stroke-width="3"/>
+<circle cx="830" cy="245" r="6" fill="#222" stroke="#222" stroke-width="1.5"/>
+<text x="850" y="250" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">Q</text>
+<line x1="830" y1="245" x2="830" y2="425" stroke="#222" stroke-width="5"/>
+<line x1="830" y1="425" x2="970" y2="425" stroke="#222" stroke-width="5"/>
+<rect x="830" y="395" width="30" height="30" rx="0" fill="none" stroke="#222" stroke-width="1.5"/>
+<text x="830" y="485" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Faire glisser l’équerre</text>
+<text x="830" y="515" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">jusqu’à ce que le second côté passe par Q.</text>
+<text x="830" y="555" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">Prolonger le tracé si l’intersection est éloignée.</text>
+<rect x="160" y="670" width="805" height="70" rx="12" fill="#f3f3f3" stroke="#222" stroke-width="1.6"/>
+<text x="562" y="700" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">Avant de tracer, dire à voix basse :</text>
+<text x="562" y="728" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">« droite de référence – point imposé – direction perpendiculaire »</text>
+</svg>

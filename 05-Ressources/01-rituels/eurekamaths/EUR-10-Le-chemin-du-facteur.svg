@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L0,6 L9,3 z" fill="#222"/>
+</marker>
+</defs>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="29" font-weight="bold">EUR-10 – Le chemin du facteur</text>
+<text x="40" y="70" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="normal">Parcourir chaque rue exactement une fois.</text>
+<rect x="45" y="110" width="720" height="530" rx="15" fill="white" stroke="#222" stroke-width="1.5"/>
+<path d="M151.6,170.4 Q370.0,170.4 588.4,170.4" fill="none" stroke="#222" stroke-width="3.9000000000000004" stroke-linecap="round"/>
+<rect x="356.0" y="158.4" width="28" height="24" rx="5" fill="white" stroke="#222" stroke-width="1.2"/>
+<path d="M588.4,170.4 Q588.4,295.2 588.4,420.0" fill="none" stroke="#222" stroke-width="3.9000000000000004" stroke-linecap="round"/>
+<rect x="574.4" y="283.2" width="28" height="24" rx="5" fill="white" stroke="#222" stroke-width="1.2"/>
+<path d="M588.4,420.0 Q370.0,420.0 151.6,420.0" fill="none" stroke="#222" stroke-width="3.9000000000000004" stroke-linecap="round"/>
+<rect x="356.0" y="408.0" width="28" height="24" rx="5" fill="white" stroke="#222" stroke-width="1.2"/>
+<path d="M151.6,420.0 Q151.6,295.2 151.6,170.4" fill="none" stroke="#222" stroke-width="3.9000000000000004" stroke-linecap="round"/>
+<rect x="137.6" y="283.2" width="28" height="24" rx="5" fill="white" stroke="#222" stroke-width="1.2"/>
+<path d="M151.6,170.4 Q370.0,295.2 588.4,420.0" fill="none" stroke="#222" stroke-width="3.9000000000000004" stroke-linecap="round"/>
+<rect x="356.0" y="283.2" width="28" height="24" rx="5" fill="white" stroke="#222" stroke-width="1.2"/>
+<circle cx="151.6" cy="170.4" r="29.64" fill="#f3f3f3" stroke="#222" stroke-width="1.56"/>
+<text x="151.6" y="175.86" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.600000000000001" font-weight="bold">A</text>
+<circle cx="588.4" cy="170.4" r="29.64" fill="#f3f3f3" stroke="#222" stroke-width="1.56"/>
+<text x="588.4" y="175.86" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.600000000000001" font-weight="bold">B</text>
+<circle cx="588.4" cy="420.0" r="29.64" fill="#f3f3f3" stroke="#222" stroke-width="1.56"/>
+<text x="588.4" y="425.46" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.600000000000001" font-weight="bold">C</text>
+<circle cx="151.6" cy="420.0" r="29.64" fill="#f3f3f3" stroke="#222" stroke-width="1.56"/>
+<text x="151.6" y="425.46" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.600000000000001" font-weight="bold">D</text>
+<rect x="800" y="110" width="280" height="530" rx="15" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="940" y="150" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">QUESTIONS</text>
+<circle cx="835" cy="198" r="15" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="835" y="203" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">1</text>
+<text x="865" y="190" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">Quel départ choisir ?</text>
+<circle cx="835" cy="276" r="15" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="835" y="281" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">2</text>
+<text x="865" y="268" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">Quelle arrivée est imposée ?</text>
+<circle cx="835" cy="354" r="15" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="835" y="359" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">3</text>
+<text x="865" y="346" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">Donner un ordre des rues.</text>
+<circle cx="835" cy="432" r="15" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="835" y="437" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">4</text>
+<text x="865" y="424" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">Combien de rues arrivent en</text>
+<text x="865" y="442" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">A ?</text>
+<circle cx="835" cy="510" r="15" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="835" y="515" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">5</text>
+<text x="865" y="502" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">Combien de rues arrivent en</text>
+<text x="865" y="520" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">C ?</text>
+<text x="55" y="700" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">Parcours proposé :</text>
+<line x1="210" y1="695" x2="1065" y2="695" stroke="#222" stroke-width="1"/>
+<line x1="55" y1="745" x2="1065" y2="745" stroke="#222" stroke-width="1"/>
+</svg>

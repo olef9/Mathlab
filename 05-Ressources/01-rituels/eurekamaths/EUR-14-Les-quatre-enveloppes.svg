@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="29" font-weight="bold">EUR-14 – Les quatre enveloppes</text>
+<text x="40" y="72" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="normal">Défi logique indépendant de la séance de communication.</text>
+<rect x="55" y="105" width="1010" height="205" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="1.3"/>
+<text x="80" y="140" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">QUANTITÉS À RÉPARTIR</text>
+<text x="330" y="140" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">2   ·   4   ·   6   ·   8 cartes</text>
+<text x="90" y="185" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">• D contient moins de 4 cartes.</text>
+<text x="90" y="216" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">• C contient deux fois plus de cartes que D.</text>
+<text x="90" y="247" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">• B contient plus de cartes que A.</text>
+<text x="90" y="278" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">• A ne contient pas 4 cartes.</text>
+<rect x="115" y="375" width="180" height="170" rx="14" fill="white" stroke="#222" stroke-width="1.3"/>
+<text x="205" y="420" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">ENVELOPPE A</text>
+<text x="205" y="490" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="30" font-weight="bold">______</text>
+<text x="205" y="525" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="middle">cartes</text>
+<rect x="360" y="375" width="180" height="170" rx="14" fill="white" stroke="#222" stroke-width="1.3"/>
+<text x="450" y="420" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">ENVELOPPE B</text>
+<text x="450" y="490" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="30" font-weight="bold">______</text>
+<text x="450" y="525" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="middle">cartes</text>
+<rect x="605" y="375" width="180" height="170" rx="14" fill="white" stroke="#222" stroke-width="1.3"/>
+<text x="695" y="420" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">ENVELOPPE C</text>
+<text x="695" y="490" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="30" font-weight="bold">______</text>
+<text x="695" y="525" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="middle">cartes</text>
+<rect x="850" y="375" width="180" height="170" rx="14" fill="white" stroke="#222" stroke-width="1.3"/>
+<text x="940" y="420" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">ENVELOPPE D</text>
+<text x="940" y="490" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="30" font-weight="bold">______</text>
+<text x="940" y="525" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="middle">cartes</text>
+<rect x="170" y="620" width="780" height="78" rx="10" fill="#f4f4f4" stroke="#222" stroke-width="1.2"/>
+<text x="560" y="652" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">Chaque quantité est utilisée une seule fois.</text>
+<text x="560" y="683" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="middle">Justification : _________________________________________________</text>
+<text x="55" y="770" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">2 min seul · 3 min en équipe · 2 min de correction</text>
+</svg>

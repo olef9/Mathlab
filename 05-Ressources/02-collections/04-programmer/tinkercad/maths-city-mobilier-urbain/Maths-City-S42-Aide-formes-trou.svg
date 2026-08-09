@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L0,6 L9,3 z" fill="#222"/>
+</marker>
+</defs>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="29" font-weight="bold">S42 – Créer une ouverture avec une forme trou</text>
+<text x="40" y="72" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="normal">Utile pour l’abribus, les panneaux et certaines variantes.</text>
+<rect x="45" y="120" width="245" height="410" rx="14" fill="white" stroke="#222" stroke-width="1.6"/>
+<circle cx="80" cy="155" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="80" y="162" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">1</text>
+<text x="167" y="158" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">STRUCTURE</text>
+<rect x="95" y="235" width="145" height="90" rx="0" fill="#d9d9d9" stroke="#222" stroke-width="1.5"/>
+<text x="167" y="420" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.4" font-weight="normal">Créer la forme pleine qui</text>
+<text x="167" y="438" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.4" font-weight="normal">doit conserver de la matière.</text>
+<rect x="315" y="120" width="245" height="410" rx="14" fill="white" stroke="#222" stroke-width="1.6"/>
+<circle cx="350" cy="155" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="350" y="162" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">2</text>
+<text x="437" y="158" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">GABARIT TROU</text>
+<rect x="390" y="215" width="95" height="130" rx="0" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="437" y="285" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">TROU</text>
+<text x="437" y="420" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.4" font-weight="normal">Créer une forme légèrement</text>
+<text x="437" y="438" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.4" font-weight="normal">plus grande que l’ouverture</text>
+<text x="437" y="456" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.4" font-weight="normal">utile.</text>
+<rect x="585" y="120" width="245" height="410" rx="14" fill="white" stroke="#222" stroke-width="1.6"/>
+<circle cx="620" cy="155" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="620" y="162" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">3</text>
+<text x="707" y="158" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">ALIGNEMENT</text>
+<rect x="635" y="235" width="145" height="90" rx="0" fill="#d9d9d9" stroke="#222" stroke-width="1.5"/>
+<rect x="665" y="215" width="85" height="130" rx="0" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<line x1="707" y1="185" x2="707" y2="215" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="707" y="420" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.4" font-weight="normal">Placer le trou avec des</text>
+<text x="707" y="438" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.4" font-weight="normal">dimensions et une position</text>
+<text x="707" y="456" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.4" font-weight="normal">exactes.</text>
+<rect x="855" y="120" width="245" height="410" rx="14" fill="white" stroke="#222" stroke-width="1.6"/>
+<circle cx="890" cy="155" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="890" y="162" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">4</text>
+<text x="977" y="158" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">SOUSTRACTION</text>
+<rect x="905" y="235" width="145" height="90" rx="0" fill="#d9d9d9" stroke="#222" stroke-width="1.5"/>
+<rect x="935" y="235" width="85" height="55" rx="0" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="977" y="370" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">ouverture</text>
+<text x="977" y="420" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.4" font-weight="normal">Grouper après avoir contrôlé</text>
+<text x="977" y="438" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.4" font-weight="normal">la vue de face et de côté.</text>
+<rect x="175" y="610" width="775" height="100" rx="12" fill="white" stroke="#222" stroke-width="1.7"/>
+<text x="562" y="644" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">Prévoir un jeu fonctionnel</text>
+<text x="562" y="678" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.2" font-weight="normal">Une ouverture de 35 mm permet le passage d’un gabarit de 12 mm,</text>
+<text x="562" y="701" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.2" font-weight="normal">mais il faut aussi contrôler la hauteur et les parois.</text>
+</svg>

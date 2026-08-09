@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="29" font-weight="bold">S45 – Programmer le labyrinthe dans l’ordre</text>
+<text x="40" y="72" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="normal">Ne programmez pas la mission particulière avant d’avoir validé les déplacements et les murs.</text>
+<circle cx="73" cy="121" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="73" y="127" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">1</text>
+<rect x="108" y="96" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="117" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">OUVRIR</text>
+<text x="345" y="117" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">Ouvrir le projet de l’équipe et enregistrer une copie Version-1.</text>
+<circle cx="73" cy="198" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="73" y="204" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">2</text>
+<rect x="108" y="173" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="194" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">REPÉRER</text>
+<text x="345" y="194" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">Identifier Joueur, Sortie, objets, variables et point de départ.</text>
+<circle cx="73" cy="275" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="73" y="281" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">3</text>
+<rect x="108" y="250" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="271" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">INITIALISER</text>
+<text x="345" y="271" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">Placer le joueur au départ et remettre les variables à leur valeur initiale.</text>
+<circle cx="73" cy="352" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="73" y="358" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">4</text>
+<rect x="108" y="327" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="348" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">DÉPLACER</text>
+<text x="345" y="348" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">Programmer séparément droite, gauche, haut et bas dans une boucle.</text>
+<text x="135" y="371" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.7" font-weight="bold">Tester chaque flèche avant de continuer.</text>
+<circle cx="73" cy="429" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="73" y="435" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">5</text>
+<rect x="108" y="404" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="425" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">GÉRER LES MURS</text>
+<text x="345" y="425" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">Si le joueur touche le bleu, le replacer au départ.</text>
+<text x="135" y="448" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.7" font-weight="bold">Effectuer un contact volontaire avec un mur.</text>
+<circle cx="73" cy="506" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="73" y="512" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">6</text>
+<rect x="108" y="481" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="502" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">PROGRAMMER LA MISSION</text>
+<text x="345" y="502" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">Ajouter clé, score, vies ou porte selon la carte.</text>
+<circle cx="73" cy="583" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="73" y="589" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">7</text>
+<rect x="108" y="558" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="579" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">TESTER</text>
+<text x="345" y="579" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">Effectuer T1 à T5 depuis le drapeau vert.</text>
+<text x="135" y="602" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.7" font-weight="bold">Relancer le drapeau vert avant chaque test.</text>
+<circle cx="73" cy="660" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="73" y="666" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">8</text>
+<rect x="108" y="635" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="656" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">CORRIGER</text>
+<text x="345" y="656" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">Modifier le premier script en échec et enregistrer Version-2.</text>
+<rect x="155" y="720" width="815" height="48" rx="10" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="562" y="750" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16.5" font-weight="bold">À rendre : projet V2 + fiche + grille + capture</text>
+</svg>
