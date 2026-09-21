@@ -1,48 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="990" viewBox="0 0 1400 990">
 <rect width="100%" height="100%" fill="white"/>
-<text x="45" y="45" text-anchor="start" font-family="Arial" font-size="28" font-weight="bold">KANG-06 – Le compteur à trois chiffres</text>
-<text x="45" y="78" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">Le compteur n’utilise que 0, 1 et 2.</text>
-<text x="560" y="125" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold">0  →  1  →  2  →  10  →  11  →  12  →  20  →  21  →  22  →  100</text>
-<rect x="45" y="175" width="500" height="105" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
-<circle cx="80" cy="207" r="19" fill="white" stroke="#111" stroke-width="2"/>
-<text x="80" y="214" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">1</text>
-<text x="125" y="218" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">Après 12 ?</text>
-<text x="410" y="252" text-anchor="start" font-family="Arial" font-size="16" font-weight="normal">________</text>
-<rect x="580" y="175" width="500" height="105" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
-<circle cx="615" cy="207" r="19" fill="white" stroke="#111" stroke-width="2"/>
-<text x="615" y="214" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">2</text>
-<text x="660" y="218" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">Après 22 ?</text>
-<text x="945" y="252" text-anchor="start" font-family="Arial" font-size="16" font-weight="normal">________</text>
-<rect x="45" y="300" width="500" height="105" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
-<circle cx="80" cy="332" r="19" fill="white" stroke="#111" stroke-width="2"/>
-<text x="80" y="339" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">3</text>
-<text x="125" y="343" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">Avant 100 ?</text>
-<text x="410" y="377" text-anchor="start" font-family="Arial" font-size="16" font-weight="normal">________</text>
-<rect x="580" y="300" width="500" height="105" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
-<circle cx="615" cy="332" r="19" fill="white" stroke="#111" stroke-width="2"/>
-<text x="615" y="339" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">4</text>
-<text x="660" y="343" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">Après 122 ?</text>
-<text x="945" y="377" text-anchor="start" font-family="Arial" font-size="16" font-weight="normal">________</text>
-<rect x="45" y="425" width="500" height="105" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
-<circle cx="80" cy="457" r="19" fill="white" stroke="#111" stroke-width="2"/>
-<text x="80" y="464" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">5</text>
-<text x="125" y="468" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">Écritures de 00 à 22 ?</text>
-<text x="410" y="502" text-anchor="start" font-family="Arial" font-size="16" font-weight="normal">________</text>
-<rect x="580" y="425" width="500" height="105" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
-<circle cx="615" cy="457" r="19" fill="white" stroke="#111" stroke-width="2"/>
-<text x="615" y="464" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">6</text>
-<text x="660" y="468" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">Valeur de 10 ?</text>
-<text x="945" y="502" text-anchor="start" font-family="Arial" font-size="16" font-weight="normal">________</text>
-<rect x="45" y="550" width="500" height="105" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
-<circle cx="80" cy="582" r="19" fill="white" stroke="#111" stroke-width="2"/>
-<text x="80" y="589" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">7</text>
-<text x="125" y="593" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">Valeur de 100 ?</text>
-<text x="410" y="627" text-anchor="start" font-family="Arial" font-size="16" font-weight="normal">________</text>
-<rect x="580" y="550" width="500" height="105" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
-<circle cx="615" cy="582" r="19" fill="white" stroke="#111" stroke-width="2"/>
-<text x="615" y="589" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">8</text>
-<text x="660" y="593" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">Écriture de 14 ?</text>
-<text x="945" y="627" text-anchor="start" font-family="Arial" font-size="16" font-weight="normal">________</text>
-<text x="45" y="700" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">Question finale : quelle écriture vaut 20 ?</text>
-<text x="45" y="738" text-anchor="start" font-family="Arial" font-size="20" font-weight="normal">A. 122        B. 200        C. 202        D. 212</text>
+<text x="55" y="70" font-family="Arial, sans-serif" font-size="34" font-weight="bold" text-anchor="start" fill="#111">KANG-06 - Le compteur a trois chiffres</text>
+<text x="1340" y="68" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="end" fill="#111">RITUEL - 5 MIN</text>
+<line x1="55" y1="95" x2="1345" y2="95" stroke="#222" stroke-width="2"/>
+<rect x="55" y="125" width="1290" height="94" rx="16" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="75" y="163" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="start" fill="#111">Compteur</text>
+<text x="80" y="200" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">0, 1, 2, 10, 11, 12, 20, 21, 22, 100 ...</text>
+<rect x="55" y="237" width="1290" height="162" rx="16" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="75" y="275" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="start" fill="#111">Questions</text>
+<text x="80" y="312" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">1. Apres 12 ?      2. Apres 22 ?      3. Avant 100 ?      4. Apres 122 ?</text>
+<text x="80" y="343" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">5. Combien d'ecritures a deux chiffres de 00 a 22 ?</text>
+<text x="80" y="374" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">6. Valeur de 10 ?      7. Valeur de 100 ?      8. Ecrire 14.</text>
 </svg>

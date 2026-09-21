@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="990" viewBox="0 0 1400 990">
+<rect width="100%" height="100%" fill="white"/>
+<text x="55" y="70" font-family="Arial, sans-serif" font-size="34" font-weight="bold" text-anchor="start" fill="#111">S26 - Expliquer une numeration</text>
+<text x="1340" y="68" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="end" fill="#111">FICHE ELEVE</text>
+<line x1="55" y1="95" x2="1345" y2="95" stroke="#222" stroke-width="2"/>
+<rect x="55" y="125" width="1290" height="128" rx="16" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="75" y="163" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="start" fill="#111">MISSION</text>
+<text x="80" y="200" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">Creer un support qu'un eleve absent peut comprendre sans aide.</text>
+<text x="80" y="231" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">Mission : A / B / C / D / E</text>
+<rect x="55" y="271" width="1290" height="162" rx="16" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="75" y="309" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="start" fill="#111">1. Regle</text>
+<text x="80" y="346" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">Numeration : Trioz / Mayas / comparaison</text>
+<text x="80" y="377" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">Ecrire la regle en une phrase.</text>
+<text x="80" y="408" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">Noter les chiffres, symboles et valeurs de position utiles.</text>
+<rect x="55" y="451" width="1290" height="162" rx="16" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="75" y="489" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="start" fill="#111">2. Exemple</text>
+<text x="80" y="526" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">Choisir un exemple simple mais non trivial.</text>
+<text x="80" y="557" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">Ecrire la decomposition ou le calcul.</text>
+<text x="80" y="588" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">Ajouter une erreur frequente et expliquer pourquoi elle est fausse.</text>
+<rect x="55" y="631" width="1290" height="162" rx="16" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="75" y="669" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="start" fill="#111">3. Test absent</text>
+<text x="80" y="706" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">Preparer un defi dont la reponse reste cachee.</text>
+<text x="80" y="737" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">Faire valider les mathematiques avant de produire.</text>
+<text x="80" y="768" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">Faire tester le support par un autre binome.</text>
+</svg>

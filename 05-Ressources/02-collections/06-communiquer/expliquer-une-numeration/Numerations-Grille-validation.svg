@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="990" viewBox="0 0 1400 990">
+<rect width="100%" height="100%" fill="white"/>
+<text x="55" y="70" font-family="Arial, sans-serif" font-size="34" font-weight="bold" text-anchor="start" fill="#111">S26 - Test absent</text>
+<text x="1340" y="68" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="end" fill="#111">VALIDATION CROISEE</text>
+<line x1="55" y1="95" x2="1345" y2="95" stroke="#222" stroke-width="2"/>
+<rect x="55" y="125" width="1290" height="264" rx="16" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="75" y="163" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="start" fill="#111">Verifier</text>
+<text x="80" y="200" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">Je comprends la numeration expliquee.</text>
+<text x="80" y="231" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">Je comprends la regle.</text>
+<text x="80" y="262" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">L'exemple est lisible et juste.</text>
+<text x="80" y="293" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">L'erreur est bien corrigee.</text>
+<text x="80" y="324" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">Je peux tenter le defi sans aide.</text>
+<text x="80" y="355" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">La source est presente.</text>
+<rect x="55" y="407" width="1290" height="162" rx="16" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="75" y="445" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="start" fill="#111">Retour utile</text>
+<text x="80" y="482" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">Un point clair : ........................................................</text>
+<text x="80" y="513" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">Une correction precise : ................................................</text>
+<text x="80" y="544" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">Defi reussi : oui / non</text>
+</svg>

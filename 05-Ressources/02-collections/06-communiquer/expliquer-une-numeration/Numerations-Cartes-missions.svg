@@ -1,59 +1,70 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="990" viewBox="0 0 1400 990">
 <rect width="100%" height="100%" fill="white"/>
-<text x="38" y="38" text-anchor="start" font-family="Arial" font-size="26" font-weight="bold">S26 – Cartes des missions</text>
-<text x="38" y="64" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Découper une carte par équipe. Les contenus sont identiques, le format change.</text>
-<rect x="35" y="92" width="330" height="310" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
-<text x="65" y="130" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">MISSION A</text>
-<text x="200.0" y="177" text-anchor="middle" font-family="Arial" font-size="25" font-weight="bold">TRIOZ</text>
-<text x="200.0" y="217" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">CAPSULE VIDÉO</text>
-<text x="63" y="262" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">• 1 min 30 à 2 min 30</text>
-<text x="63" y="290" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">• plan fixe</text>
-<text x="63" y="318" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">• mains et support</text>
-<text x="63" y="367" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Contenu : règle, 2 exemples,</text>
-<text x="63" y="388" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">erreur, défi et source.</text>
-<rect x="395" y="92" width="330" height="310" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
-<text x="425" y="130" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">MISSION B</text>
-<text x="560.0" y="177" text-anchor="middle" font-family="Arial" font-size="25" font-weight="bold">TRIOZ</text>
-<text x="560.0" y="217" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">AFFICHE A3</text>
-<text x="423" y="262" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">• 5 zones maximum</text>
-<text x="423" y="290" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">• lisible à distance</text>
-<text x="423" y="318" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">• défi séparé</text>
-<text x="423" y="367" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Contenu : règle, 2 exemples,</text>
-<text x="423" y="388" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">erreur, défi et source.</text>
-<rect x="755" y="92" width="330" height="310" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
-<text x="785" y="130" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">MISSION C</text>
-<text x="920.0" y="177" text-anchor="middle" font-family="Arial" font-size="25" font-weight="bold">TRIOZ</text>
-<text x="920.0" y="217" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">MINI-DIAPORAMA</text>
-<text x="783" y="262" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">• 5 diapositives</text>
-<text x="783" y="290" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">• une idée par page</text>
-<text x="783" y="318" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">• source finale</text>
-<text x="783" y="367" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Contenu : règle, 2 exemples,</text>
-<text x="783" y="388" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">erreur, défi et source.</text>
-<rect x="35" y="432" width="330" height="310" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
-<text x="65" y="470" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">MISSION D</text>
-<text x="200.0" y="517" text-anchor="middle" font-family="Arial" font-size="25" font-weight="bold">MAYAS</text>
-<text x="200.0" y="557" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">CAPSULE VIDÉO</text>
-<text x="63" y="602" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">• 1 min 30 à 2 min 30</text>
-<text x="63" y="630" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">• plan fixe</text>
-<text x="63" y="658" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">• mains et support</text>
-<text x="63" y="707" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Contenu : règle, 2 exemples,</text>
-<text x="63" y="728" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">erreur, défi et source.</text>
-<rect x="395" y="432" width="330" height="310" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
-<text x="425" y="470" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">MISSION E</text>
-<text x="560.0" y="517" text-anchor="middle" font-family="Arial" font-size="25" font-weight="bold">MAYAS</text>
-<text x="560.0" y="557" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">AFFICHE A3</text>
-<text x="423" y="602" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">• 5 zones maximum</text>
-<text x="423" y="630" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">• lisible à distance</text>
-<text x="423" y="658" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">• défi séparé</text>
-<text x="423" y="707" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Contenu : règle, 2 exemples,</text>
-<text x="423" y="728" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">erreur, défi et source.</text>
-<rect x="755" y="432" width="330" height="310" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
-<text x="785" y="470" text-anchor="start" font-family="Arial" font-size="18" font-weight="bold">MISSION F</text>
-<text x="920.0" y="517" text-anchor="middle" font-family="Arial" font-size="25" font-weight="bold">MAYAS</text>
-<text x="920.0" y="557" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">MINI-DIAPORAMA</text>
-<text x="783" y="602" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">• 5 diapositives</text>
-<text x="783" y="630" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">• une idée par page</text>
-<text x="783" y="658" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">• source finale</text>
-<text x="783" y="707" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Contenu : règle, 2 exemples,</text>
-<text x="783" y="728" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">erreur, défi et source.</text>
+<text x="55" y="65" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="start" fill="#111">S26 - Cartes missions - 5 binomes</text>
+<line x1="55" y1="90" x2="1345" y2="90" stroke="#222" stroke-width="2"/>
+<rect x="55" y="120" width="400" height="370" rx="18" fill="#fafafa" stroke="#333" stroke-width="2"/>
+<rect x="55" y="120" width="400" height="74" rx="18" fill="#e9e9e9"/>
+<rect x="55" y="165" width="400" height="29" fill="#e9e9e9"/>
+<text x="75" y="151" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#111">MISSION A</text>
+<text x="75" y="180" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="start" fill="#111">TRIOZ - AFFICHE A3</text>
+<text x="75" y="226" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- Public : eleve absent.</text>
+<text x="75" y="254" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- Expliquer 0, 1, 2 et les positions 1 - 3 - 9</text>
+<text x="75" y="277" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- 27.</text>
+<text x="75" y="305" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- Exemple impose : decoder 212.</text>
+<text x="75" y="333" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- Erreur a traiter : lire 10 comme dix.</text>
+<text x="75" y="361" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- Defi final : coder 20.</text>
+<text x="75" y="389" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- 4 zones maximum + source.</text>
+<text x="75" y="468" font-family="Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#111">TEST ABSENT : comprendre sans vous.</text>
+<rect x="500" y="120" width="400" height="370" rx="18" fill="#fafafa" stroke="#333" stroke-width="2"/>
+<rect x="500" y="120" width="400" height="74" rx="18" fill="#e9e9e9"/>
+<rect x="500" y="165" width="400" height="29" fill="#e9e9e9"/>
+<text x="520" y="151" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#111">MISSION B</text>
+<text x="520" y="180" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="start" fill="#111">TRIOZ - CAPSULE VIDEO</text>
+<text x="520" y="226" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- Duree cible : 1 min 30 maximum.</text>
+<text x="520" y="254" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- Plan fixe, pas de montage obligatoire.</text>
+<text x="520" y="282" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- Exemple impose : decoder 1202.</text>
+<text x="520" y="310" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- Erreur a traiter : utiliser le chiffre 3.</text>
+<text x="520" y="338" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- Defi final : decoder 112.</text>
+<text x="520" y="366" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- Si pas d'appareil : storyboard pret a filmer.</text>
+<text x="520" y="468" font-family="Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#111">TEST ABSENT : comprendre sans vous.</text>
+<rect x="945" y="120" width="400" height="370" rx="18" fill="#fafafa" stroke="#333" stroke-width="2"/>
+<rect x="945" y="120" width="400" height="74" rx="18" fill="#e9e9e9"/>
+<rect x="945" y="165" width="400" height="29" fill="#e9e9e9"/>
+<text x="965" y="151" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#111">MISSION C</text>
+<text x="965" y="180" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="start" fill="#111">MAYAS - AFFICHE A3</text>
+<text x="965" y="226" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- Expliquer point = 1, barre = 5, zero.</text>
+<text x="965" y="254" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- Niveaux du bas vers le haut : 1 - 20 - 400.</text>
+<text x="965" y="282" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- Exemple impose : expliquer 37.</text>
+<text x="965" y="310" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- Erreur a traiter : placer les unites en haut.</text>
+<text x="965" y="338" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- Defi final : coder 65.</text>
+<text x="965" y="366" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- 4 zones maximum + source.</text>
+<text x="965" y="468" font-family="Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#111">TEST ABSENT : comprendre sans vous.</text>
+<rect x="275" y="525" width="400" height="370" rx="18" fill="#fafafa" stroke="#333" stroke-width="2"/>
+<rect x="275" y="525" width="400" height="74" rx="18" fill="#e9e9e9"/>
+<rect x="275" y="570" width="400" height="29" fill="#e9e9e9"/>
+<text x="295" y="556" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#111">MISSION D</text>
+<text x="295" y="585" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="start" fill="#111">MAYAS - CAPSULE VIDEO</text>
+<text x="295" y="631" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- Duree cible : 1 min 30 maximum.</text>
+<text x="295" y="659" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- Expliquer pourquoi la position change la</text>
+<text x="295" y="682" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">valeur.</text>
+<text x="295" y="710" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- Exemple impose : expliquer 425.</text>
+<text x="295" y="738" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- Erreur a traiter : compter une barre comme</text>
+<text x="295" y="761" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">10.</text>
+<text x="295" y="789" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- Defi final : coder 82.</text>
+<text x="295" y="817" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- Si pas d'appareil : storyboard pret a filmer.</text>
+<text x="295" y="873" font-family="Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#111">TEST ABSENT : comprendre sans vous.</text>
+<rect x="725" y="525" width="400" height="370" rx="18" fill="#fafafa" stroke="#333" stroke-width="2"/>
+<rect x="725" y="525" width="400" height="74" rx="18" fill="#e9e9e9"/>
+<rect x="725" y="570" width="400" height="29" fill="#e9e9e9"/>
+<text x="745" y="556" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#111">MISSION E</text>
+<text x="745" y="585" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="start" fill="#111">TRIOZ + MAYAS - MINI-DIAPORAMA</text>
+<text x="745" y="631" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- 5 diapositives maximum.</text>
+<text x="745" y="659" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- 1 : titre. 2 : Trioz. 3 : Mayas. 4 :</text>
+<text x="745" y="682" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">comparaison. 5 : defi.</text>
+<text x="745" y="710" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- Donner 1 point commun et 2 differences.</text>
+<text x="745" y="738" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- Inclure un exemple simple de chaque systeme.</text>
+<text x="745" y="766" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- Defi final : expliquer comment chacun</text>
+<text x="745" y="789" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">represente 20.</text>
+<text x="745" y="817" font-family="Arial, sans-serif" font-size="16" font-weight="normal" text-anchor="start" fill="#111">- Source sur la derniere diapositive.</text>
+<text x="745" y="873" font-family="Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#111">TEST ABSENT : comprendre sans vous.</text>
 </svg>
