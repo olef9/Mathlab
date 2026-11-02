@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="990" viewBox="0 0 1400 990">
+<rect width="100%" height="100%" fill="white"/>
+<text x="55" y="70" font-family="Arial, sans-serif" font-size="34" font-weight="bold" text-anchor="start" fill="#111">S26 - Reperes de contenu</text>
+<text x="1340" y="68" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="end" fill="#111">AIDE ELEVE</text>
+<line x1="55" y1="95" x2="1345" y2="95" stroke="#222" stroke-width="2"/>
+<rect x="55" y="125" width="1290" height="196" rx="16" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="75" y="163" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="start" fill="#111">TRIOZ</text>
+<text x="80" y="200" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">Chiffres : 0 - 1 - 2</text>
+<text x="80" y="231" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">Positions : ... 27 - 9 - 3 - 1</text>
+<text x="80" y="262" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">112 = 14 ; 202 = 20 ; 212 = 23 ; 1202 = 47</text>
+<text x="80" y="293" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">Erreur : lire 10 comme dix ou utiliser le chiffre 3.</text>
+<rect x="55" y="339" width="1290" height="230" rx="16" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="75" y="377" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="start" fill="#111">MAYAS - VERSION PEDAGOGIQUE</text>
+<text x="80" y="414" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">Dans un niveau : point = 1 ; barre = 5 ; zero.</text>
+<text x="80" y="445" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">Niveaux du bas vers le haut : 1 - 20 - 400</text>
+<text x="80" y="476" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">37 = 1x20 + 17 ; 65 = 3x20 + 5 ; 82 = 4x20 + 2</text>
+<text x="80" y="507" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">425 = 1x400 + 1x20 + 5</text>
+<text x="80" y="538" font-family="Arial, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#111">Erreur : placer les unites en haut ou compter une barre comme 10.</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="297mm" height="210mm" viewBox="0 0 297 210">
+<rect width="100%" height="100%" fill="white"/>
+<text x="12" y="12" text-anchor="start" font-family="Arial" font-size="7" font-weight="bold">Équipe D – Pyramide à base carrée</text>
+<text x="12" y="21" text-anchor="start" font-family="Arial" font-size="4.2" font-weight="normal">Un carré 4 × 4 et quatre triangles isocèles congruents de base 4.</text>
+<rect x="20" y="45" width="40" height="40" rx="0" fill="#fafafa" stroke="#222" stroke-width="0.7"/>
+<text x="40.0" y="67.0" text-anchor="middle" font-family="Arial" font-size="4.2" font-weight="bold">base carrée</text>
+<polygon points="80.00,85.00 120.00,85.00 100.00,35.00" fill="#fafafa" stroke="#222" stroke-width="0.7"/>
+<text x="100" y="75" text-anchor="middle" font-family="Arial" font-size="3.8" font-weight="bold">triangle 1</text>
+<polygon points="135.00,85.00 175.00,85.00 155.00,35.00" fill="#fafafa" stroke="#222" stroke-width="0.7"/>
+<text x="155" y="75" text-anchor="middle" font-family="Arial" font-size="3.8" font-weight="bold">triangle 2</text>
+<polygon points="190.00,85.00 230.00,85.00 210.00,35.00" fill="#fafafa" stroke="#222" stroke-width="0.7"/>
+<text x="210" y="75" text-anchor="middle" font-family="Arial" font-size="3.8" font-weight="bold">triangle 3</text>
+<polygon points="245.00,85.00 285.00,85.00 265.00,35.00" fill="#fafafa" stroke="#222" stroke-width="0.7"/>
+<text x="265" y="75" text-anchor="middle" font-family="Arial" font-size="3.8" font-weight="bold">triangle 4</text>
+<text x="20" y="120" text-anchor="start" font-family="Arial" font-size="5" font-weight="bold">Défi :</text>
+<text x="24" y="136" text-anchor="start" font-family="Arial" font-size="4.4" font-weight="normal">Trouver une disposition où les quatre triangles ferment autour du sommet.</text>
+<text x="24" y="150" text-anchor="start" font-family="Arial" font-size="4.4" font-weight="normal">Commencer par tester un triangle sur chacun des quatre côtés du carré.</text>
+<text x="12" y="198" text-anchor="start" font-family="Arial" font-size="13" font-weight="bold">Découper sur les traits pleins.</text>
+<text x="12" y="220" text-anchor="start" font-family="Arial" font-size="12" font-weight="normal">Les articulations seront réalisées avec du ruban adhésif au dos.</text>
+</svg>

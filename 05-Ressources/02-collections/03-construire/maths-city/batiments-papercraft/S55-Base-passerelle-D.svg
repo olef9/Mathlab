@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+<rect width="100%" height="100%" fill="white"/>
+<text x="20" y="14" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="5.2" font-weight="bold">S55 – Base de la passerelle D</text>
+<text x="20" y="21" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.4" font-weight="normal">Imprimer à 100 %. Base : 120 × 80 mm.</text>
+<rect x="45" y="45" width="120" height="80" rx="0" fill="white" stroke="#222" stroke-width="0.7"/>
+<rect x="90" y="45" width="30" height="80" rx="0" fill="#eeeeee" stroke="#666" stroke-width="0.4"/>
+<text x="105" y="87" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="bold">ROUTE 30 mm</text>
+<rect x="60" y="65" width="20" height="40" rx="0" fill="none" stroke="#777" stroke-width="0.4" stroke-dasharray="2 2"/>
+<rect x="130" y="65" width="20" height="40" rx="0" fill="none" stroke="#777" stroke-width="0.4" stroke-dasharray="2 2"/>
+<text x="70" y="62" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="3" font-weight="bold">D2</text>
+<text x="140" y="62" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="3" font-weight="bold">D3</text>
+<rect x="60" y="65" width="90" height="40" rx="0" fill="none" stroke="#222" stroke-width="0.4" stroke-dasharray="4 2"/>
+<text x="105" y="117" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="3" font-weight="bold">projection du tablier D1</text>
+<text x="20" y="150" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.6" font-weight="bold">Contrôles avant collage :</text>
+<text x="25" y="160" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.3" font-weight="normal">• aucune pile dans la zone grise</text>
+<text x="25" y="169" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.3" font-weight="normal">• distance entre les piles : 50 mm</text>
+<text x="25" y="178" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.3" font-weight="normal">• tablier centré sur les deux piles</text>
+<text x="25" y="187" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.3" font-weight="normal">• hauteur libre après montage : 50 mm</text>
+<text x="20" y="210" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.6" font-weight="bold">Test final :</text>
+<text x="25" y="220" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.3" font-weight="normal">masse d’environ 50 g pendant 10 secondes.</text>
+<text x="20" y="282" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.3" font-weight="bold">Le dessous de la passerelle doit rester entièrement libre au-dessus de la route.</text>
+</svg>

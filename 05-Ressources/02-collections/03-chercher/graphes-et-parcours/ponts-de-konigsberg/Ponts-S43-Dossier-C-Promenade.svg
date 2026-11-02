@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L0,6 L9,3 z" fill="#222"/>
+</marker>
+</defs>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="28" font-weight="bold">S43 – Équipe C – La promenade circulaire</text>
+<text x="40" y="72" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">Partir d’une zone, utiliser chaque chemin une fois et revenir au départ.</text>
+<rect x="45" y="105" width="690" height="520" rx="14" fill="white" stroke="#222" stroke-width="1.6"/>
+<path d="M380.0,110.0 Q488.75,177.5 597.5,245.0" fill="none" stroke="#222" stroke-width="3.75" stroke-linecap="round"/>
+<rect x="474.75" y="165.5" width="28" height="24" rx="5" fill="white" stroke="#222" stroke-width="1.2"/>
+<path d="M597.5,245.0 Q556.25,353.75 515.0,462.5" fill="none" stroke="#222" stroke-width="3.75" stroke-linecap="round"/>
+<rect x="542.25" y="341.75" width="28" height="24" rx="5" fill="white" stroke="#222" stroke-width="1.2"/>
+<path d="M515.0,462.5 Q380.0,462.5 245.0,462.5" fill="none" stroke="#222" stroke-width="3.75" stroke-linecap="round"/>
+<rect x="366.0" y="450.5" width="28" height="24" rx="5" fill="white" stroke="#222" stroke-width="1.2"/>
+<path d="M245.0,462.5 Q203.75,353.75 162.5,245.0" fill="none" stroke="#222" stroke-width="3.75" stroke-linecap="round"/>
+<rect x="189.75" y="341.75" width="28" height="24" rx="5" fill="white" stroke="#222" stroke-width="1.2"/>
+<path d="M162.5,245.0 Q271.25,177.5 380.0,110.0" fill="none" stroke="#222" stroke-width="3.75" stroke-linecap="round"/>
+<rect x="257.25" y="165.5" width="28" height="24" rx="5" fill="white" stroke="#222" stroke-width="1.2"/>
+<circle cx="380.0" cy="110.0" r="28.5" fill="#f3f3f3" stroke="#222" stroke-width="1.5"/>
+<text x="380.0" y="115.25" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.0" font-weight="bold">A</text>
+<circle cx="597.5" cy="245.0" r="28.5" fill="#f3f3f3" stroke="#222" stroke-width="1.5"/>
+<text x="597.5" y="250.25" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.0" font-weight="bold">B</text>
+<circle cx="515.0" cy="462.5" r="28.5" fill="#f3f3f3" stroke="#222" stroke-width="1.5"/>
+<text x="515.0" y="467.75" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.0" font-weight="bold">C</text>
+<circle cx="245.0" cy="462.5" r="28.5" fill="#f3f3f3" stroke="#222" stroke-width="1.5"/>
+<text x="245.0" y="467.75" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.0" font-weight="bold">D</text>
+<circle cx="162.5" cy="245.0" r="28.5" fill="#f3f3f3" stroke="#222" stroke-width="1.5"/>
+<text x="162.5" y="250.25" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.0" font-weight="bold">E</text>
+<rect x="765" y="105" width="315" height="520" rx="14" fill="white" stroke="#222" stroke-width="1.6"/>
+<text x="922" y="142" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">COMPTER AVANT DE CONCLURE</text>
+<rect x="800" y="185" width="245" height="48" rx="8" fill="white" stroke="#222" stroke-width="1.0"/>
+<text x="825" y="215" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Zone A</text>
+<text x="930" y="215" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">degré : ____</text>
+<text x="1015" y="215" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">P / I</text>
+<rect x="800" y="247" width="245" height="48" rx="8" fill="white" stroke="#222" stroke-width="1.0"/>
+<text x="825" y="277" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Zone B</text>
+<text x="930" y="277" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">degré : ____</text>
+<text x="1015" y="277" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">P / I</text>
+<rect x="800" y="309" width="245" height="48" rx="8" fill="white" stroke="#222" stroke-width="1.0"/>
+<text x="825" y="339" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Zone C</text>
+<text x="930" y="339" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">degré : ____</text>
+<text x="1015" y="339" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">P / I</text>
+<rect x="800" y="371" width="245" height="48" rx="8" fill="white" stroke="#222" stroke-width="1.0"/>
+<text x="825" y="401" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Zone D</text>
+<text x="930" y="401" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">degré : ____</text>
+<text x="1015" y="401" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">P / I</text>
+<rect x="800" y="433" width="245" height="48" rx="8" fill="white" stroke="#222" stroke-width="1.0"/>
+<text x="825" y="463" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Zone E</text>
+<text x="930" y="463" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">degré : ____</text>
+<text x="1015" y="463" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">P / I</text>
+<text x="800" y="485" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Zones impaires : ______</text>
+<text x="800" y="525" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Conclusion :</text>
+<text x="820" y="555" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">☐ circuit possible</text>
+<text x="820" y="583" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">☐ parcours ouvert</text>
+<text x="820" y="611" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">☐ impossible</text>
+<text x="820" y="639" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">☐ réseau réparé</text>
+<text x="55" y="675" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">Ordre du parcours ou lieu du blocage :</text>
+<line x1="55" y1="710" x2="1060" y2="710" stroke="#222" stroke-width="1"/>
+<line x1="55" y1="750" x2="1060" y2="750" stroke="#222" stroke-width="1"/>
+</svg>

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1588" height="1123" viewBox="0 0 1588 1123">
+<rect width="100%" height="100%" fill="white"/>
+<text x="794.0" y="55" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="28" font-weight="bold">QUESTION DE L’AFFICHE</text>
+<rect x="55" y="75" width="1478" height="90" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="1.5"/>
+<text x="794.0" y="130" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="bold">______________________________________________________________</text>
+<rect x="55" y="200" width="475" height="225" rx="12" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="292" y="235" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">1. SITUATION DE DÉPART</text>
+<text x="85" y="280" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Que sait-on ?</text>
+<line x1="85" y1="315" x2="500" y2="315" stroke="#222" stroke-width="1"/>
+<line x1="85" y1="350" x2="500" y2="350" stroke="#222" stroke-width="1"/>
+<line x1="85" y1="385" x2="500" y2="385" stroke="#222" stroke-width="1"/>
+<rect x="555" y="200" width="475" height="225" rx="12" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="792" y="235" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">2. BUT À ATTEINDRE</text>
+<text x="585" y="280" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Le lecteur devra être capable de…</text>
+<line x1="585" y1="315" x2="1000" y2="315" stroke="#222" stroke-width="1"/>
+<line x1="585" y1="350" x2="1000" y2="350" stroke="#222" stroke-width="1"/>
+<line x1="585" y1="385" x2="1000" y2="385" stroke="#222" stroke-width="1"/>
+<rect x="1055" y="200" width="478" height="225" rx="12" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="1294" y="235" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">3. MOTS UTILES</text>
+<line x1="1090" y1="285" x2="1498" y2="285" stroke="#222" stroke-width="1"/>
+<line x1="1090" y1="330" x2="1498" y2="330" stroke="#222" stroke-width="1"/>
+<line x1="1090" y1="375" x2="1498" y2="375" stroke="#222" stroke-width="1"/>
+<rect x="55" y="455" width="960" height="515" rx="12" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="535" y="490" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">4. DÉMARCHE NUMÉROTÉE</text>
+<rect x="90" y="510" width="85" height="65" rx="10" fill="#f4f4f4" stroke="#222" stroke-width="1.2"/>
+<text x="132" y="551" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="bold">1</text>
+<rect x="195" y="510" width="775" height="65" rx="10" fill="white" stroke="#222" stroke-width="1.0"/>
+<text x="220" y="542" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">verbe d’action :</text>
+<line x1="345" y1="537" x2="940" y2="537" stroke="#222" stroke-width="1"/>
+<line x1="220" y1="562" x2="940" y2="562" stroke="#222" stroke-width="1"/>
+<rect x="90" y="600" width="85" height="65" rx="10" fill="#f4f4f4" stroke="#222" stroke-width="1.2"/>
+<text x="132" y="641" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="bold">2</text>
+<rect x="195" y="600" width="775" height="65" rx="10" fill="white" stroke="#222" stroke-width="1.0"/>
+<text x="220" y="632" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">verbe d’action :</text>
+<line x1="345" y1="627" x2="940" y2="627" stroke="#222" stroke-width="1"/>
+<line x1="220" y1="652" x2="940" y2="652" stroke="#222" stroke-width="1"/>
+<rect x="90" y="690" width="85" height="65" rx="10" fill="#f4f4f4" stroke="#222" stroke-width="1.2"/>
+<text x="132" y="731" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="bold">3</text>
+<rect x="195" y="690" width="775" height="65" rx="10" fill="white" stroke="#222" stroke-width="1.0"/>
+<text x="220" y="722" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">verbe d’action :</text>
+<line x1="345" y1="717" x2="940" y2="717" stroke="#222" stroke-width="1"/>
+<line x1="220" y1="742" x2="940" y2="742" stroke="#222" stroke-width="1"/>
+<rect x="90" y="780" width="85" height="65" rx="10" fill="#f4f4f4" stroke="#222" stroke-width="1.2"/>
+<text x="132" y="821" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="bold">4</text>
+<rect x="195" y="780" width="775" height="65" rx="10" fill="white" stroke="#222" stroke-width="1.0"/>
+<text x="220" y="812" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">verbe d’action :</text>
+<line x1="345" y1="807" x2="940" y2="807" stroke="#222" stroke-width="1"/>
+<line x1="220" y1="832" x2="940" y2="832" stroke="#222" stroke-width="1"/>
+<rect x="90" y="870" width="85" height="65" rx="10" fill="#f4f4f4" stroke="#222" stroke-width="1.2"/>
+<text x="132" y="911" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="bold">5</text>
+<rect x="195" y="870" width="775" height="65" rx="10" fill="white" stroke="#222" stroke-width="1.0"/>
+<text x="220" y="902" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">verbe d’action :</text>
+<line x1="345" y1="897" x2="940" y2="897" stroke="#222" stroke-width="1"/>
+<line x1="220" y1="922" x2="940" y2="922" stroke="#222" stroke-width="1"/>
+<rect x="1040" y="455" width="493" height="250" rx="12" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="1286" y="490" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17.5" font-weight="bold">5. PREUVE, EXEMPLE OU TEST</text>
+<rect x="1075" y="525" width="423" height="140" rx="0" fill="white" stroke="#222" stroke-width="1.1" stroke-dasharray="7 5"/>
+<text x="1286" y="600" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">schéma, tableau ou exemple</text>
+<rect x="1040" y="730" width="493" height="145" rx="12" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="1286" y="765" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17.5" font-weight="bold">6. ERREUR FRÉQUENTE</text>
+<line x1="1075" y1="810" x2="1498" y2="810" stroke="#222" stroke-width="1"/>
+<line x1="1075" y1="845" x2="1498" y2="845" stroke="#222" stroke-width="1"/>
+<rect x="1040" y="900" width="493" height="145" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="1286" y="935" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17.5" font-weight="bold">7. CONCLUSION</text>
+<line x1="1075" y1="980" x2="1498" y2="980" stroke="#222" stroke-width="1"/>
+<line x1="1075" y1="1015" x2="1498" y2="1015" stroke="#222" stroke-width="1"/>
+<text x="60" y="1085" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Équipe : ____________________   Rôles : __________________________________________</text>
+<text x="1520" y="1085" text-anchor="end" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">A3 paysage</text>
+</svg>

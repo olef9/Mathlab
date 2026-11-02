@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="42" y="40" font-family="Arial" font-size="26" font-weight="bold">Construction inversée – Défis avancés</text>
+<text x="42" y="67" font-family="Arial" font-size="14">Deux figures plus complexes à réserver aux équipes ayant terminé la version 2.</text>
+<rect x="45" y="100" width="500" height="620" rx="10" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="63" y="130" font-family="Arial" font-size="18" font-weight="bold">E – L’étoile des milieux</text>
+<rect x="578" y="100" width="500" height="620" rx="10" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="596" y="130" font-family="Arial" font-size="18" font-weight="bold">F – Le double blason</text>
+<rect x="150" y="220" width="300" height="300" fill="none" stroke="#111" stroke-width="2"/>
+<line x1="150" y1="220" x2="450" y2="520" stroke="#777" stroke-width="1.3"/>
+<line x1="450" y1="220" x2="150" y2="520" stroke="#777" stroke-width="1.3"/>
+<line x1="150" y1="220" x2="300.0" y2="520" stroke="#111" stroke-width="2"/>
+<line x1="450" y1="220" x2="150" y2="370.0" stroke="#111" stroke-width="2"/>
+<line x1="450" y1="520" x2="300.0" y2="220" stroke="#111" stroke-width="2"/>
+<line x1="150" y1="520" x2="450" y2="370.0" stroke="#111" stroke-width="2"/>
+<circle cx="300.0" cy="370.0" r="150.0" fill="none" stroke="#111" stroke-width="1.8"/>
+<circle cx="150" cy="220" r="3" fill="#111"/>
+<text x="158" y="212" font-family="Arial" font-size="14" font-weight="bold">A</text>
+<circle cx="450" cy="220" r="3" fill="#111"/>
+<text x="458" y="212" font-family="Arial" font-size="14" font-weight="bold">B</text>
+<circle cx="450" cy="520" r="3" fill="#111"/>
+<text x="458" y="512" font-family="Arial" font-size="14" font-weight="bold">C</text>
+<circle cx="150" cy="520" r="3" fill="#111"/>
+<text x="158" y="512" font-family="Arial" font-size="14" font-weight="bold">D</text>
+<circle cx="300.0" cy="220" r="3" fill="#111"/>
+<text x="308.0" y="212" font-family="Arial" font-size="14" font-weight="bold">E</text>
+<circle cx="450" cy="370.0" r="3" fill="#111"/>
+<text x="458" y="362.0" font-family="Arial" font-size="14" font-weight="bold">F</text>
+<circle cx="300.0" cy="520" r="3" fill="#111"/>
+<text x="308.0" y="512" font-family="Arial" font-size="14" font-weight="bold">G</text>
+<circle cx="150" cy="370.0" r="3" fill="#111"/>
+<text x="158" y="362.0" font-family="Arial" font-size="14" font-weight="bold">H</text>
+<circle cx="300.0" cy="370.0" r="3" fill="#111"/>
+<text x="308.0" y="362.0" font-family="Arial" font-size="14" font-weight="bold">O</text>
+<rect x="675" y="235" width="310" height="250" fill="none" stroke="#111" stroke-width="2"/>
+<line x1="675" y1="235" x2="985" y2="485" stroke="#777" stroke-width="1.3"/>
+<line x1="985" y1="235" x2="675" y2="485" stroke="#777" stroke-width="1.3"/>
+<polygon points="830.0,235 985,360.0 830.0,485 675,360.0" fill="none" stroke="#111" stroke-width="2"/>
+<circle cx="830.0" cy="360.0" r="125.0" fill="none" stroke="#111" stroke-width="1.8"/>
+<line x1="675" y1="235" x2="830.0" y2="485" stroke="#111" stroke-width="1.8"/>
+<line x1="985" y1="235" x2="675" y2="360.0" stroke="#111" stroke-width="1.8"/>
+<line x1="985" y1="485" x2="830.0" y2="235" stroke="#111" stroke-width="1.8"/>
+<line x1="675" y1="485" x2="985" y2="360.0" stroke="#111" stroke-width="1.8"/>
+<circle cx="675" cy="235" r="3" fill="#111"/>
+<text x="683" y="227" font-family="Arial" font-size="14" font-weight="bold">A</text>
+<circle cx="985" cy="235" r="3" fill="#111"/>
+<text x="993" y="227" font-family="Arial" font-size="14" font-weight="bold">B</text>
+<circle cx="985" cy="485" r="3" fill="#111"/>
+<text x="993" y="477" font-family="Arial" font-size="14" font-weight="bold">C</text>
+<circle cx="675" cy="485" r="3" fill="#111"/>
+<text x="683" y="477" font-family="Arial" font-size="14" font-weight="bold">D</text>
+<circle cx="830.0" cy="235" r="3" fill="#111"/>
+<text x="838.0" y="227" font-family="Arial" font-size="14" font-weight="bold">E</text>
+<circle cx="985" cy="360.0" r="3" fill="#111"/>
+<text x="993" y="352.0" font-family="Arial" font-size="14" font-weight="bold">F</text>
+<circle cx="830.0" cy="485" r="3" fill="#111"/>
+<text x="838.0" y="477" font-family="Arial" font-size="14" font-weight="bold">G</text>
+<circle cx="675" cy="360.0" r="3" fill="#111"/>
+<text x="683" y="352.0" font-family="Arial" font-size="14" font-weight="bold">H</text>
+<circle cx="830.0" cy="360.0" r="3" fill="#111"/>
+<text x="838.0" y="352.0" font-family="Arial" font-size="14" font-weight="bold">O</text>
+<text x="70" y="675" font-family="Arial" font-size="15">Contrainte : dix étapes au maximum.</text>
+<text x="600" y="675" font-family="Arial" font-size="15">Contrainte : nommer tous les points avant leur utilisation.</text>
+</svg>

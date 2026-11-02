@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="29" font-weight="bold">S45 – Grille de test du jeu</text>
+<text x="40" y="70" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Équipe testée : ______   Mission : ______   Équipe testeuse : ______</text>
+<rect x="20" y="105" width="115" height="52" rx="0" fill="#ededed" stroke="#222" stroke-width="1.1"/>
+<text x="77.5" y="138" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">Test</text>
+<rect x="135" y="105" width="260" height="52" rx="0" fill="#ededed" stroke="#222" stroke-width="1.1"/>
+<text x="265.0" y="138" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">Action exacte</text>
+<rect x="395" y="105" width="275" height="52" rx="0" fill="#ededed" stroke="#222" stroke-width="1.1"/>
+<text x="532.5" y="138" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">Résultat attendu</text>
+<rect x="670" y="105" width="350" height="52" rx="0" fill="#ededed" stroke="#222" stroke-width="1.1"/>
+<text x="845.0" y="138" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">Résultat observé</text>
+<rect x="1020" y="105" width="80" height="52" rx="0" fill="#ededed" stroke="#222" stroke-width="1.1"/>
+<text x="1060.0" y="138" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">OK ?</text>
+<rect x="20" y="157" width="115" height="92" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="77.5" y="187" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">T1</text>
+<rect x="135" y="157" width="260" height="92" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="145" y="187" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="normal">Cliquer sur le drapeau</text>
+<text x="145" y="204" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="normal">vert</text>
+<rect x="395" y="157" width="275" height="92" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="405" y="187" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="normal">état initial correct</text>
+<rect x="670" y="157" width="350" height="92" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<rect x="1020" y="157" width="80" height="92" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="1060.0" y="187" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">☐</text>
+<rect x="20" y="249" width="115" height="92" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="77.5" y="279" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">T2</text>
+<rect x="135" y="249" width="260" height="92" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="145" y="279" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="normal">Tester les quatre flèches</text>
+<rect x="395" y="249" width="275" height="92" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="405" y="279" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="normal">quatre directions</text>
+<text x="405" y="296" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="normal">correctes</text>
+<rect x="670" y="249" width="350" height="92" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<rect x="1020" y="249" width="80" height="92" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="1060.0" y="279" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">☐</text>
+<rect x="20" y="341" width="115" height="92" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="77.5" y="371" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">T3</text>
+<rect x="135" y="341" width="260" height="92" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="145" y="371" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="normal">Toucher volontairement un</text>
+<text x="145" y="388" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="normal">mur bleu</text>
+<rect x="395" y="341" width="275" height="92" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="405" y="371" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="normal">retour au départ</text>
+<rect x="670" y="341" width="350" height="92" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<rect x="1020" y="341" width="80" height="92" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="1060.0" y="371" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">☐</text>
+<rect x="20" y="433" width="115" height="92" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="77.5" y="463" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">T4</text>
+<rect x="135" y="433" width="260" height="92" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="145" y="463" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="normal">Atteindre l’objectif sans</text>
+<text x="145" y="480" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="normal">condition</text>
+<rect x="395" y="433" width="275" height="92" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="405" y="463" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="normal">refus ou poursuite</text>
+<rect x="670" y="433" width="350" height="92" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<rect x="1020" y="433" width="80" height="92" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="1060.0" y="463" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">☐</text>
+<rect x="20" y="525" width="115" height="92" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="77.5" y="555" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">T5</text>
+<rect x="135" y="525" width="260" height="92" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="145" y="555" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="normal">Remplir la condition puis</text>
+<text x="145" y="572" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="normal">atteindre l’objectif</text>
+<rect x="395" y="525" width="275" height="92" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="405" y="555" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="normal">victoire</text>
+<rect x="670" y="525" width="350" height="92" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<rect x="1020" y="525" width="80" height="92" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="1060.0" y="555" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">☐</text>
+<text x="35" y="645" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">Premier test en échec : ______</text>
+<text x="350" y="645" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">Lutin concerné : ____________________</text>
+<text x="35" y="690" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.2" font-weight="bold">Script ou bloc concerné : ______________________________________________________________________</text>
+<text x="35" y="735" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.2" font-weight="bold">Correction réalisée : __________________________________________________________________________</text>
+<text x="35" y="775" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.2" font-weight="bold">Nouveau résultat :  ☐ réussi   ☐ encore en échec</text>
+</svg>

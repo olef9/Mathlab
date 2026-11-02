@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+<rect width="100%" height="100%" fill="white"/>
+<text x="12" y="11" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="5.2" font-weight="bold">S60 – Étiquettes des quartiers</text>
+<text x="12" y="18" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="normal">Découper après validation. Ces étiquettes peuvent être réutilisées en S64.</text>
+<rect x="15" y="28" width="180" height="40" rx="2" fill="white" stroke="#222" stroke-width="0.45"/>
+<text x="22" y="37" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="4.2" font-weight="bold">ÉQUIPE A – QUARTIER NORD</text>
+<text x="22" y="46" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="normal">Production principale : Maison</text>
+<text x="22" y="55" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="normal">Mobilier : ______________________</text>
+<text x="22" y="63" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="normal">Une contrainte vérifiée : ______________________________</text>
+<rect x="15" y="77" width="180" height="40" rx="2" fill="white" stroke="#222" stroke-width="0.45"/>
+<text x="22" y="86" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="4.2" font-weight="bold">ÉQUIPE B – QUARTIER EST</text>
+<text x="22" y="95" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="normal">Production principale : Bâtiment trois vues</text>
+<text x="22" y="104" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="normal">Mobilier : ______________________</text>
+<text x="22" y="112" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="normal">Une contrainte vérifiée : ______________________________</text>
+<rect x="15" y="126" width="180" height="40" rx="2" fill="white" stroke="#222" stroke-width="0.45"/>
+<text x="22" y="135" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="4.2" font-weight="bold">ÉQUIPE C – QUARTIER SUD</text>
+<text x="22" y="144" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="normal">Production principale : Tour</text>
+<text x="22" y="153" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="normal">Mobilier : ______________________</text>
+<text x="22" y="161" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="normal">Une contrainte vérifiée : ______________________________</text>
+<rect x="15" y="175" width="180" height="40" rx="2" fill="white" stroke="#222" stroke-width="0.45"/>
+<text x="22" y="184" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="4.2" font-weight="bold">ÉQUIPE D – QUARTIER PASSERELLE</text>
+<text x="22" y="193" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="normal">Production principale : Passerelle</text>
+<text x="22" y="202" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="normal">Mobilier : ______________________</text>
+<text x="22" y="210" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="normal">Une contrainte vérifiée : ______________________________</text>
+<rect x="15" y="224" width="180" height="40" rx="2" fill="white" stroke="#222" stroke-width="0.45"/>
+<text x="22" y="233" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="4.2" font-weight="bold">ÉQUIPE E – QUARTIER OUEST</text>
+<text x="22" y="242" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="normal">Production principale : Bâtiment public</text>
+<text x="22" y="251" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="normal">Mobilier : ______________________</text>
+<text x="22" y="259" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="normal">Une contrainte vérifiée : ______________________________</text>
+<text x="15" y="282" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2" font-weight="bold">Ne pas écrire une longue description : l’étiquette sert seulement à identifier le secteur.</text>
+</svg>

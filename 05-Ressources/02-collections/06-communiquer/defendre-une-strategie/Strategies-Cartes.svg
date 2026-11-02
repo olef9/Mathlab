@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="40" text-anchor="start" font-family="Arial" font-size="28" font-weight="bold">S34 – Cartes des stratégies</text>
+<text x="40" y="68" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">Découper une carte par équipe. Diagnostiquer avant de défendre.</text>
+<rect x="35" y="100" width="330" height="285" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<circle cx="73" cy="138" r="23" fill="white" stroke="#222" stroke-width="2"/>
+<text x="73" y="145" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">A</text>
+<text x="200" y="178" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">LE TABLEAU COMPLET</text>
+<text x="200" y="220" text-anchor="middle" font-family="Arial" font-size="12.5" font-weight="normal">Nous écrivons tous les couples</text>
+<text x="200" y="250" text-anchor="middle" font-family="Arial" font-size="12.5" font-weight="normal">dont la somme vaut 12.</text>
+<text x="200" y="280" text-anchor="middle" font-family="Arial" font-size="12.5" font-weight="normal">Nous calculons les six aires.</text>
+<text x="200" y="310" text-anchor="middle" font-family="Arial" font-size="12.5" font-weight="normal">La plus grande est 36.</text>
+<text x="60" y="350" text-anchor="start" font-family="Arial" font-size="11.5" font-weight="bold">Verdict : SOLIDE / À RENFORCER / À ABANDONNER</text>
+<rect x="390" y="100" width="330" height="285" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<circle cx="428" cy="138" r="23" fill="white" stroke="#222" stroke-width="2"/>
+<text x="428" y="145" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">B</text>
+<text x="555" y="178" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">LE RÉÉQUILIBRAGE</text>
+<text x="555" y="220" text-anchor="middle" font-family="Arial" font-size="12.5" font-weight="normal">4 × 8 = 32</text>
+<text x="555" y="250" text-anchor="middle" font-family="Arial" font-size="12.5" font-weight="normal">5 × 7 = 35</text>
+<text x="555" y="280" text-anchor="middle" font-family="Arial" font-size="12.5" font-weight="normal">6 × 6 = 36</text>
+<text x="555" y="310" text-anchor="middle" font-family="Arial" font-size="12.5" font-weight="normal">Plus les côtés se rapprochent, mieux c’est.</text>
+<text x="415" y="350" text-anchor="start" font-family="Arial" font-size="11.5" font-weight="bold">Verdict : SOLIDE / À RENFORCER / À ABANDONNER</text>
+<rect x="745" y="100" width="330" height="285" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<circle cx="783" cy="138" r="23" fill="white" stroke="#222" stroke-width="2"/>
+<text x="783" y="145" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">C</text>
+<text x="910" y="178" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">LES TROIS DESSINS</text>
+<text x="910" y="220" text-anchor="middle" font-family="Arial" font-size="12.5" font-weight="normal">Nous dessinons 4 × 8, 5 × 7 et 6 × 6.</text>
+<text x="910" y="250" text-anchor="middle" font-family="Arial" font-size="12.5" font-weight="normal">Le carré contient 36 cases.</text>
+<text x="910" y="280" text-anchor="middle" font-family="Arial" font-size="12.5" font-weight="normal">C’est le meilleur des trois.</text>
+<text x="910" y="310" text-anchor="middle" font-family="Arial" font-size="12.5" font-weight="normal">Donc c’est le meilleur de tous.</text>
+<text x="770" y="350" text-anchor="start" font-family="Arial" font-size="11.5" font-weight="bold">Verdict : SOLIDE / À RENFORCER / À ABANDONNER</text>
+<rect x="210" y="420" width="330" height="285" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<circle cx="248" cy="458" r="23" fill="white" stroke="#222" stroke-width="2"/>
+<text x="248" y="465" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">D</text>
+<text x="375" y="498" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">L’IMPRESSION VISUELLE</text>
+<text x="375" y="540" text-anchor="middle" font-family="Arial" font-size="12.5" font-weight="normal">Le carré paraît plus grand.</text>
+<text x="375" y="570" text-anchor="middle" font-family="Arial" font-size="12.5" font-weight="normal">Il est plus compact.</text>
+<text x="375" y="600" text-anchor="middle" font-family="Arial" font-size="12.5" font-weight="normal">Les carrés sont toujours meilleurs.</text>
+<text x="375" y="630" text-anchor="middle" font-family="Arial" font-size="12.5" font-weight="normal">Donc 6 × 6 gagne.</text>
+<text x="235" y="670" text-anchor="start" font-family="Arial" font-size="11.5" font-weight="bold">Verdict : SOLIDE / À RENFORCER / À ABANDONNER</text>
+<rect x="570" y="420" width="330" height="285" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<circle cx="608" cy="458" r="23" fill="white" stroke="#222" stroke-width="2"/>
+<text x="608" y="465" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">E</text>
+<text x="735" y="498" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">L’ÉLIMINATION</text>
+<text x="735" y="540" text-anchor="middle" font-family="Arial" font-size="12.5" font-weight="normal">Les largeurs 1 à 4 donnent au plus 32.</text>
+<text x="735" y="570" text-anchor="middle" font-family="Arial" font-size="12.5" font-weight="normal">Il reste 5 × 7 et 6 × 6.</text>
+<text x="735" y="600" text-anchor="middle" font-family="Arial" font-size="12.5" font-weight="normal">35 &lt; 36.</text>
+<text x="735" y="630" text-anchor="middle" font-family="Arial" font-size="12.5" font-weight="normal">Donc 6 × 6 est optimal.</text>
+<text x="595" y="670" text-anchor="start" font-family="Arial" font-size="11.5" font-weight="bold">Verdict : SOLIDE / À RENFORCER / À ABANDONNER</text>
+</svg>

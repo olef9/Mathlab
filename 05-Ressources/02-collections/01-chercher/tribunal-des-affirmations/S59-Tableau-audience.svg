@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="29" font-weight="bold">S59 – Tableau de l’audience</text>
+<text x="40" y="70" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Le professeur choisit une affirmation par équipe au dernier moment.</text>
+<rect x="20" y="110" width="100" height="52" rx="0" fill="#ededed" stroke="#222" stroke-width="1"/>
+<text x="70.0" y="143" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">Équipe</text>
+<rect x="120" y="110" width="185" height="52" rx="0" fill="#ededed" stroke="#222" stroke-width="1"/>
+<text x="212.5" y="143" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">Affirmation</text>
+<rect x="305" y="110" width="220" height="52" rx="0" fill="#ededed" stroke="#222" stroke-width="1"/>
+<text x="415.0" y="143" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">Verdict</text>
+<rect x="525" y="110" width="300" height="52" rx="0" fill="#ededed" stroke="#222" stroke-width="1"/>
+<text x="675.0" y="143" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">Preuve décisive</text>
+<rect x="825" y="110" width="295" height="52" rx="0" fill="#ededed" stroke="#222" stroke-width="1"/>
+<text x="972.5" y="143" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">Objection / réponse</text>
+<rect x="20" y="162" width="100" height="105" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="70.0" y="220" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">A</text>
+<rect x="120" y="162" width="185" height="105" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="305" y="162" width="220" height="105" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="525" y="162" width="300" height="105" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="825" y="162" width="295" height="105" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="20" y="267" width="100" height="105" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="70.0" y="325" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">B</text>
+<rect x="120" y="267" width="185" height="105" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="305" y="267" width="220" height="105" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="525" y="267" width="300" height="105" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="825" y="267" width="295" height="105" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="20" y="372" width="100" height="105" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="70.0" y="430" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">C</text>
+<rect x="120" y="372" width="185" height="105" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="305" y="372" width="220" height="105" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="525" y="372" width="300" height="105" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="825" y="372" width="295" height="105" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="20" y="477" width="100" height="105" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="70.0" y="535" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">D</text>
+<rect x="120" y="477" width="185" height="105" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="305" y="477" width="220" height="105" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="525" y="477" width="300" height="105" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="825" y="477" width="295" height="105" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="20" y="582" width="100" height="105" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="70.0" y="640" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="bold">E</text>
+<rect x="120" y="582" width="185" height="105" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="305" y="582" width="220" height="105" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="525" y="582" width="300" height="105" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="825" y="582" width="295" height="105" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="35" y="710" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Rappel : le tribunal juge le raisonnement, pas la mise en scène.</text>
+<text x="35" y="750" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Phrase-clé de la séance : plusieurs exemples favorables ne prouvent pas « toujours ».</text>
+</svg>

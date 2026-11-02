@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="38" font-family="Arial" font-size="25" font-weight="bold">Capsules minute – Cartes missions</text>
+<text x="40" y="64" font-family="Arial" font-size="13">Découper les cartes. Chaque équipe prépare une capsule de 1 min 30 à 2 min 30.</text>
+<rect x="35" y="88" width="250" height="315" rx="10" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="50" y="120" font-family="Arial" font-size="17" font-weight="bold">A – Hextoile</text>
+<text x="51" y="160" font-family="Arial" font-size="13">Explique : observer, prolonger,</text>
+<text x="51" y="186" font-family="Arial" font-size="13">faire apparaître des intersections.</text>
+<text x="51" y="212" font-family="Arial" font-size="13">Montre une erreur segment/demi-droite.</text>
+<text x="51" y="238" font-family="Arial" font-size="13">Ne déroule pas toute la construction.</text>
+<text x="51" y="303" font-family="Arial" font-size="13" font-weight="bold">Structure</text>
+<text x="55" y="330" font-family="Arial" font-size="11">□ But</text>
+<text x="55" y="344" font-family="Arial" font-size="11">□ Démarche</text>
+<text x="55" y="358" font-family="Arial" font-size="11">□ Erreur</text>
+<text x="55" y="372" font-family="Arial" font-size="11">□ Conseil</text>
+<text x="55" y="386" font-family="Arial" font-size="11">□ Conclusion</text>
+<rect x="307" y="88" width="250" height="315" rx="10" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="322" y="120" font-family="Arial" font-size="17" font-weight="bold">B – Pentominos</text>
+<text x="323" y="160" font-family="Arial" font-size="13">Explique la règle des cinq carrés.</text>
+<text x="323" y="186" font-family="Arial" font-size="13">Montre comment éviter un doublon</text>
+<text x="323" y="212" font-family="Arial" font-size="13">obtenu par rotation ou retournement.</text>
+<text x="323" y="238" font-family="Arial" font-size="13">Ne montre pas les douze formes.</text>
+<text x="323" y="303" font-family="Arial" font-size="13" font-weight="bold">Structure</text>
+<text x="327" y="330" font-family="Arial" font-size="11">□ But</text>
+<text x="327" y="344" font-family="Arial" font-size="11">□ Démarche</text>
+<text x="327" y="358" font-family="Arial" font-size="11">□ Erreur</text>
+<text x="327" y="372" font-family="Arial" font-size="11">□ Conseil</text>
+<text x="327" y="386" font-family="Arial" font-size="11">□ Conclusion</text>
+<rect x="579" y="88" width="250" height="315" rx="10" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="594" y="120" font-family="Arial" font-size="17" font-weight="bold">C – Numération des Trioz</text>
+<text x="595" y="160" font-family="Arial" font-size="13">Présente une numération inconnue.</text>
+<text x="595" y="186" font-family="Arial" font-size="13">Montre une régularité utile.</text>
+<text x="595" y="212" font-family="Arial" font-size="13">Explique comment vérifier.</text>
+<text x="595" y="238" font-family="Arial" font-size="13">Ne donne pas toutes les conversions.</text>
+<text x="595" y="303" font-family="Arial" font-size="13" font-weight="bold">Structure</text>
+<text x="599" y="330" font-family="Arial" font-size="11">□ But</text>
+<text x="599" y="344" font-family="Arial" font-size="11">□ Démarche</text>
+<text x="599" y="358" font-family="Arial" font-size="11">□ Erreur</text>
+<text x="599" y="372" font-family="Arial" font-size="11">□ Conseil</text>
+<text x="599" y="386" font-family="Arial" font-size="11">□ Conclusion</text>
+<rect x="851" y="88" width="250" height="315" rx="10" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="866" y="120" font-family="Arial" font-size="17" font-weight="bold">D – Programme saboté</text>
+<text x="867" y="160" font-family="Arial" font-size="13">Montre un programme très court.</text>
+<text x="867" y="186" font-family="Arial" font-size="13">Exécute jusqu’au premier écart.</text>
+<text x="867" y="212" font-family="Arial" font-size="13">Corrige une seule instruction.</text>
+<text x="867" y="238" font-family="Arial" font-size="13">Reteste depuis le départ.</text>
+<text x="867" y="303" font-family="Arial" font-size="13" font-weight="bold">Structure</text>
+<text x="871" y="330" font-family="Arial" font-size="11">□ But</text>
+<text x="871" y="344" font-family="Arial" font-size="11">□ Démarche</text>
+<text x="871" y="358" font-family="Arial" font-size="11">□ Erreur</text>
+<text x="871" y="372" font-family="Arial" font-size="11">□ Conseil</text>
+<text x="871" y="386" font-family="Arial" font-size="11">□ Conclusion</text>
+<rect x="35" y="425" width="250" height="315" rx="10" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="50" y="457" font-family="Arial" font-size="17" font-weight="bold">E – Coffre des quatre verrous</text>
+<text x="51" y="497" font-family="Arial" font-size="13">Explique le travail des experts.</text>
+<text x="51" y="523" font-family="Arial" font-size="13">Montre la mise en commun.</text>
+<text x="51" y="549" font-family="Arial" font-size="13">Présente une contrainte d’ordre.</text>
+<text x="51" y="575" font-family="Arial" font-size="13">Ne révèle pas le code.</text>
+<text x="51" y="640" font-family="Arial" font-size="13" font-weight="bold">Structure</text>
+<text x="55" y="667" font-family="Arial" font-size="11">□ But</text>
+<text x="55" y="681" font-family="Arial" font-size="11">□ Démarche</text>
+<text x="55" y="695" font-family="Arial" font-size="11">□ Erreur</text>
+<text x="55" y="709" font-family="Arial" font-size="11">□ Conseil</text>
+<text x="55" y="723" font-family="Arial" font-size="11">□ Conclusion</text>
+<rect x="307" y="425" width="250" height="315" rx="10" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="322" y="457" font-family="Arial" font-size="17" font-weight="bold">F – Échecs</text>
+<text x="323" y="497" font-family="Arial" font-size="13">Utilise une position simple.</text>
+<text x="323" y="523" font-family="Arial" font-size="13">Explique : capture, reprise, bilan.</text>
+<text x="323" y="549" font-family="Arial" font-size="13">Compare la valeur des pièces.</text>
+<text x="323" y="575" font-family="Arial" font-size="13">Formule une décision.</text>
+<text x="323" y="640" font-family="Arial" font-size="13" font-weight="bold">Structure</text>
+<text x="327" y="667" font-family="Arial" font-size="11">□ But</text>
+<text x="327" y="681" font-family="Arial" font-size="11">□ Démarche</text>
+<text x="327" y="695" font-family="Arial" font-size="11">□ Erreur</text>
+<text x="327" y="709" font-family="Arial" font-size="11">□ Conseil</text>
+<text x="327" y="723" font-family="Arial" font-size="11">□ Conclusion</text>
+<rect x="579" y="425" width="250" height="315" rx="10" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="594" y="457" font-family="Arial" font-size="17" font-weight="bold">G – Tuile transformée</text>
+<text x="595" y="497" font-family="Arial" font-size="13">Montre la pièce découpée.</text>
+<text x="595" y="523" font-family="Arial" font-size="13">Fais-la seulement glisser.</text>
+<text x="595" y="549" font-family="Arial" font-size="13">Explique l’emboîtement.</text>
+<text x="595" y="575" font-family="Arial" font-size="13">Insiste : ne pas retourner.</text>
+<text x="595" y="640" font-family="Arial" font-size="13" font-weight="bold">Structure</text>
+<text x="599" y="667" font-family="Arial" font-size="11">□ But</text>
+<text x="599" y="681" font-family="Arial" font-size="11">□ Démarche</text>
+<text x="599" y="695" font-family="Arial" font-size="11">□ Erreur</text>
+<text x="599" y="709" font-family="Arial" font-size="11">□ Conseil</text>
+<text x="599" y="723" font-family="Arial" font-size="11">□ Conclusion</text>
+<rect x="851" y="425" width="250" height="315" rx="10" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="866" y="457" font-family="Arial" font-size="17" font-weight="bold">H – Construction inversée</text>
+<text x="867" y="497" font-family="Arial" font-size="13">Montre une consigne ambiguë.</text>
+<text x="867" y="523" font-family="Arial" font-size="13">Présente le résultat du testeur.</text>
+<text x="867" y="549" font-family="Arial" font-size="13">Réécris la consigne.</text>
+<text x="867" y="575" font-family="Arial" font-size="13">Compare les versions 1 et 2.</text>
+<text x="867" y="640" font-family="Arial" font-size="13" font-weight="bold">Structure</text>
+<text x="871" y="667" font-family="Arial" font-size="11">□ But</text>
+<text x="871" y="681" font-family="Arial" font-size="11">□ Démarche</text>
+<text x="871" y="695" font-family="Arial" font-size="11">□ Erreur</text>
+<text x="871" y="709" font-family="Arial" font-size="11">□ Conseil</text>
+<text x="871" y="723" font-family="Arial" font-size="11">□ Conclusion</text>
+</svg>

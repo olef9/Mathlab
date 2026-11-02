@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="40" text-anchor="start" font-family="Arial" font-size="28" font-weight="bold">S34 – Dossier commun : l’enclos de périmètre 24</text>
+<text x="40" y="70" text-anchor="start" font-family="Arial" font-size="16" font-weight="normal">Question : quel rectangle contient le plus de cases ?</text>
+<rect x="110" y="125" width="300" height="62" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.6"/>
+<text x="260.0" y="164" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">Dimensions</text>
+<rect x="410" y="125" width="250" height="62" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.6"/>
+<text x="535.0" y="164" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">Clôture</text>
+<rect x="660" y="125" width="350" height="62" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.6"/>
+<text x="835.0" y="164" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">Cases contenues</text>
+<rect x="110" y="187" width="300" height="70" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="260.0" y="230" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">1 × 11</text>
+<rect x="410" y="187" width="250" height="70" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="535.0" y="230" text-anchor="middle" font-family="Arial" font-size="17" font-weight="normal">24</text>
+<rect x="660" y="187" width="350" height="70" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="835.0" y="230" text-anchor="middle" font-family="Arial" font-size="17" font-weight="normal">11</text>
+<rect x="110" y="257" width="300" height="70" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="260.0" y="300" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">2 × 10</text>
+<rect x="410" y="257" width="250" height="70" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="535.0" y="300" text-anchor="middle" font-family="Arial" font-size="17" font-weight="normal">24</text>
+<rect x="660" y="257" width="350" height="70" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="835.0" y="300" text-anchor="middle" font-family="Arial" font-size="17" font-weight="normal">20</text>
+<rect x="110" y="327" width="300" height="70" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="260.0" y="370" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">3 × 9</text>
+<rect x="410" y="327" width="250" height="70" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="535.0" y="370" text-anchor="middle" font-family="Arial" font-size="17" font-weight="normal">24</text>
+<rect x="660" y="327" width="350" height="70" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="835.0" y="370" text-anchor="middle" font-family="Arial" font-size="17" font-weight="normal">27</text>
+<rect x="110" y="397" width="300" height="70" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="260.0" y="440" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">4 × 8</text>
+<rect x="410" y="397" width="250" height="70" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="535.0" y="440" text-anchor="middle" font-family="Arial" font-size="17" font-weight="normal">24</text>
+<rect x="660" y="397" width="350" height="70" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="835.0" y="440" text-anchor="middle" font-family="Arial" font-size="17" font-weight="normal">32</text>
+<rect x="110" y="467" width="300" height="70" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="260.0" y="510" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">5 × 7</text>
+<rect x="410" y="467" width="250" height="70" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="535.0" y="510" text-anchor="middle" font-family="Arial" font-size="17" font-weight="normal">24</text>
+<rect x="660" y="467" width="350" height="70" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="835.0" y="510" text-anchor="middle" font-family="Arial" font-size="17" font-weight="normal">35</text>
+<rect x="110" y="537" width="300" height="70" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="260.0" y="580" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">6 × 6</text>
+<rect x="410" y="537" width="250" height="70" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="535.0" y="580" text-anchor="middle" font-family="Arial" font-size="17" font-weight="normal">24</text>
+<rect x="660" y="537" width="350" height="70" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="835.0" y="580" text-anchor="middle" font-family="Arial" font-size="17" font-weight="normal">36</text>
+<rect x="190" y="665" width="740" height="70" rx="12" fill="white" stroke="#222" stroke-width="2"/>
+<text x="560" y="698" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold">Réponse connue : 6 × 6 contient 36 cases.</text>
+<text x="560" y="724" text-anchor="start" font-family="Arial" font-size="15" font-weight="middle">Aujourd’hui, le problème est de justifier cette réponse.</text>
+</svg>

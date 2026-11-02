@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="29" font-weight="bold">S48 – Test du lecteur silencieux</text>
+<text x="40" y="70" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Affiche observée : ______   Équipe lectrice : ______</text>
+<circle cx="68" cy="127" r="17" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="68" y="133" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">1</text>
+<text x="100" y="125" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Quelle question l’affiche cherche-t-elle à résoudre ?</text>
+<line x1="100" y1="155" x2="1065" y2="155" stroke="#222" stroke-width="1"/>
+<line x1="100" y1="183" x2="1065" y2="183" stroke="#222" stroke-width="1"/>
+<circle cx="68" cy="222" r="17" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="68" y="228" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">2</text>
+<text x="100" y="220" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Quelle est la première action à effectuer ?</text>
+<line x1="100" y1="250" x2="1065" y2="250" stroke="#222" stroke-width="1"/>
+<line x1="100" y1="278" x2="1065" y2="278" stroke="#222" stroke-width="1"/>
+<circle cx="68" cy="317" r="17" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="68" y="323" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">3</text>
+<text x="100" y="315" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Peux-tu suivre les étapes sans demander d’aide ?</text>
+<line x1="100" y1="345" x2="1065" y2="345" stroke="#222" stroke-width="1"/>
+<line x1="100" y1="373" x2="1065" y2="373" stroke="#222" stroke-width="1"/>
+<circle cx="68" cy="412" r="17" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="68" y="418" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">4</text>
+<text x="100" y="410" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Quel élément permet de vérifier la conclusion ?</text>
+<line x1="100" y1="440" x2="1065" y2="440" stroke="#222" stroke-width="1"/>
+<line x1="100" y1="468" x2="1065" y2="468" stroke="#222" stroke-width="1"/>
+<circle cx="68" cy="507" r="17" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="68" y="513" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">5</text>
+<text x="100" y="505" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Quelle erreur fréquente faut-il éviter ?</text>
+<line x1="100" y1="535" x2="1065" y2="535" stroke="#222" stroke-width="1"/>
+<line x1="100" y1="563" x2="1065" y2="563" stroke="#222" stroke-width="1"/>
+<circle cx="68" cy="602" r="17" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="68" y="608" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">6</text>
+<text x="100" y="600" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Quelle information reste difficile à comprendre ?</text>
+<line x1="100" y1="630" x2="1065" y2="630" stroke="#222" stroke-width="1"/>
+<line x1="100" y1="658" x2="1065" y2="658" stroke="#222" stroke-width="1"/>
+<rect x="90" y="685" width="945" height="60" rx="10" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="562" y="710" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">Verdict :  ☐ utilisable sans aide   ☐ utilisable avec hésitation   ☐ incomplet</text>
+<text x="562" y="735" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="middle">Correction prioritaire : ________________________________________________</text>
+<text x="40" y="778" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Pendant le test, les auteurs ne parlent pas et ne montrent aucune zone de l’affiche.</text>
+</svg>

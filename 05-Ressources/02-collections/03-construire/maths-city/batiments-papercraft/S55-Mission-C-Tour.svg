@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="35" y="38" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="25.5" font-weight="bold">S55 – Équipe C – Tour définitive</text>
+<rect x="35" y="75" width="1053" height="85" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="1.3"/>
+<text x="55" y="105" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.2" font-weight="bold">À CONSERVER DE S47</text>
+<text x="235" y="105" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.4" font-weight="bold">S47 : six colonnes 5, 4, 3, 3, 3 et 2 unités, total 20.</text>
+<rect x="35" y="185" width="410" height="235" rx="12" fill="white" stroke="#222" stroke-width="1.3"/>
+<text x="240" y="217" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">SOLIDES À FABRIQUER</text>
+<text x="62" y="258" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="bold">• C1 : 20 × 20 × 100 mm</text>
+<text x="62" y="292" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="bold">• C2 : 20 × 20 × 80 mm</text>
+<text x="62" y="326" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="bold">• C3 : 60 × 20 × 60 mm</text>
+<text x="62" y="360" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="bold">• C4 : 20 × 20 × 40 mm</text>
+<rect x="475" y="185" width="613" height="365" rx="12" fill="white" stroke="#222" stroke-width="1.3"/>
+<text x="781" y="217" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">TRAVAIL À FAIRE DANS L’ORDRE</text>
+<circle cx="505" cy="253" r="12" fill="#f4f4f4" stroke="#222" stroke-width="1"/>
+<text x="505" y="258" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10" font-weight="bold">1</text>
+<text x="532" y="245" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">Utilise une grille 3 × 3 de cases de 20 mm.</text>
+<circle cx="505" cy="300" r="12" fill="#f4f4f4" stroke="#222" stroke-width="1"/>
+<text x="505" y="305" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10" font-weight="bold">2</text>
+<text x="532" y="292" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">Place C1 et C2 sur les deux premières cases de la ligne</text>
+<text x="532" y="308" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">nord.</text>
+<circle cx="505" cy="347" r="12" fill="#f4f4f4" stroke="#222" stroke-width="1"/>
+<text x="505" y="352" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10" font-weight="bold">3</text>
+<text x="532" y="339" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">Place C3 sur toute la deuxième ligne : il couvre trois</text>
+<text x="532" y="355" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">cases.</text>
+<circle cx="505" cy="394" r="12" fill="#f4f4f4" stroke="#222" stroke-width="1"/>
+<text x="505" y="399" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10" font-weight="bold">4</text>
+<text x="532" y="386" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">Place C4 sur la première case de la troisième ligne.</text>
+<circle cx="505" cy="441" r="12" fill="#f4f4f4" stroke="#222" stroke-width="1"/>
+<text x="505" y="446" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10" font-weight="bold">5</text>
+<text x="532" y="433" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">Colle les faces voisines entre elles sans déplacer les</text>
+<text x="532" y="449" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">empreintes.</text>
+<circle cx="505" cy="488" r="12" fill="#f4f4f4" stroke="#222" stroke-width="1"/>
+<text x="505" y="493" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10" font-weight="bold">6</text>
+<text x="532" y="480" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">Vérifie 20 unités et une seule partie haute de 100 mm.</text>
+<rect x="35" y="450" width="410" height="205" rx="12" fill="#f7f7f7" stroke="#222" stroke-width="1.3"/>
+<text x="240" y="482" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">TESTS OBLIGATOIRES</text>
+<text x="65" y="522" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">☐ 6 cases occupées</text>
+<text x="65" y="553" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">☐ 20 unités au total</text>
+<text x="65" y="584" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">☐ hauteur maximale = 100 mm</text>
+<text x="65" y="615" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">☐ tour stable pendant 10 s</text>
+<rect x="35" y="685" width="1053" height="58" rx="10" fill="#f4f4f4" stroke="#222" stroke-width="1.2"/>
+<text x="55" y="711" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">AVANT COLLAGE :</text>
+<text x="210" y="711" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">☐ montage à blanc   ☐ mesures   ☐ orientation   ☐ passage libre</text>
+<text x="55" y="735" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="bold">Correction finale : ________________________________________________________________________</text>
+<text x="40" y="782" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="bold">La façade et les couleurs viennent après la validation structurelle.</text>
+</svg>

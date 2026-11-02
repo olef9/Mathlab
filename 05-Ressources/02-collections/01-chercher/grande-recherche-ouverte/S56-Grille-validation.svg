@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="28.5" font-weight="bold">S56 – Grille de validation de la recherche</text>
+<text x="40" y="70" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Équipe : ______   Escalier de ______ marches</text>
+<rect x="20" y="110" width="560" height="52" rx="0" fill="#ededed" stroke="#222" stroke-width="1.0"/>
+<text x="300.0" y="143" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">Contrôle</text>
+<rect x="580" y="110" width="80" height="52" rx="0" fill="#ededed" stroke="#222" stroke-width="1.0"/>
+<text x="620.0" y="143" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">Oui</text>
+<rect x="660" y="110" width="100" height="52" rx="0" fill="#ededed" stroke="#222" stroke-width="1.0"/>
+<text x="710.0" y="143" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">À revoir</text>
+<rect x="760" y="110" width="360" height="52" rx="0" fill="#ededed" stroke="#222" stroke-width="1.0"/>
+<text x="940.0" y="143" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">Observation</text>
+<rect x="20" y="162" width="560" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="34" y="202" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="bold">Le résultat final est clairement écrit.</text>
+<rect x="580" y="162" width="80" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="620.0" y="202" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="normal">☐</text>
+<rect x="660" y="162" width="100" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="710.0" y="202" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="normal">☐</text>
+<rect x="760" y="162" width="360" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="20" y="230" width="560" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="34" y="270" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="bold">Les essais sont visibles dans le dossier.</text>
+<rect x="580" y="230" width="80" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="620.0" y="270" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="normal">☐</text>
+<rect x="660" y="230" width="100" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="710.0" y="270" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="normal">☐</text>
+<rect x="760" y="230" width="360" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="20" y="298" width="560" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="34" y="338" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="bold">Les chemins sont organisés et non simplement jetés en vrac.</text>
+<rect x="580" y="298" width="80" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="620.0" y="338" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="normal">☐</text>
+<rect x="660" y="298" width="100" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="710.0" y="338" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="normal">☐</text>
+<rect x="760" y="298" width="360" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="20" y="366" width="560" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="34" y="406" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="bold">Chaque chemin arrive exactement au sommet.</text>
+<rect x="580" y="366" width="80" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="620.0" y="406" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="normal">☐</text>
+<rect x="660" y="366" width="100" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="710.0" y="406" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="normal">☐</text>
+<rect x="760" y="366" width="360" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="20" y="434" width="560" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="34" y="474" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="bold">Les doublons ont été recherchés.</text>
+<rect x="580" y="434" width="80" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="620.0" y="474" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="normal">☐</text>
+<rect x="660" y="434" width="100" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="710.0" y="474" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="normal">☐</text>
+<rect x="760" y="434" width="360" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="20" y="502" width="560" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="34" y="542" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="bold">L’équipe explique pourquoi elle pense n’avoir rien oublié.</text>
+<rect x="580" y="502" width="80" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="620.0" y="542" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="normal">☐</text>
+<rect x="660" y="502" width="100" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="710.0" y="542" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="normal">☐</text>
+<rect x="760" y="502" width="360" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<rect x="20" y="570" width="560" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="34" y="610" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="bold">Un autre élève peut comprendre la méthode à partir des traces.</text>
+<rect x="580" y="570" width="80" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="620.0" y="610" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="normal">☐</text>
+<rect x="660" y="570" width="100" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="710.0" y="610" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.8" font-weight="normal">☐</text>
+<rect x="760" y="570" width="360" height="68" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="35" y="675" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Notre point le plus solide : __________________________________________________________________</text>
+<text x="35" y="720" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Ce qu’il faut encore justifier : _______________________________________________________________</text>
+<text x="35" y="765" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Verdict :  ☐ recherche convaincante   ☐ recherche à reprendre</text>
+</svg>

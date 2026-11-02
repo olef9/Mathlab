@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="297mm" height="210mm" viewBox="0 0 297 210">
+<rect width="100%" height="100%" fill="white"/>
+<text x="7" y="8" font-family="Arial, DejaVu Sans, sans-serif" font-size="5.2" font-weight="bold">S55 – Patrons E – Bâtiment public définitif</text>
+<text x="7" y="14" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.2">Imprimer à 100 % · trait continu = couper · pointillé = plier</text>
+<rect x="5" y="22" width="165" height="65" fill="white" stroke="#222" stroke-width="0.5"/>
+<line x1="5" y1="27" x2="165" y2="27" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="25" y1="22" x2="25" y2="27" stroke="#222" stroke-width="0.4"/>
+<line x1="25" y1="27" x2="25" y2="87" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<text x="15.0" y="57.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.3" font-weight="bold">FACE 1</text>
+<line x1="85" y1="22" x2="85" y2="27" stroke="#222" stroke-width="0.4"/>
+<line x1="85" y1="27" x2="85" y2="87" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<text x="55.0" y="57.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.3" font-weight="bold">CÔTÉ</text>
+<line x1="105" y1="22" x2="105" y2="27" stroke="#222" stroke-width="0.4"/>
+<line x1="105" y1="27" x2="105" y2="87" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<text x="95.0" y="57.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.3" font-weight="bold">ARRIÈRE</text>
+<line x1="165" y1="22" x2="165" y2="27" stroke="#222" stroke-width="0.4"/>
+<line x1="165" y1="27" x2="165" y2="87" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<text x="135.0" y="57.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.3" font-weight="bold">CÔTÉ</text>
+<text x="167.5" y="57.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="1.9" font-weight="bold">COLLE</text>
+<text x="15.0" y="25.4" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="1.6" font-weight="normal">LANG.</text>
+<text x="55.0" y="25.4" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="1.6" font-weight="normal">LANG.</text>
+<text x="95.0" y="25.4" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="1.6" font-weight="normal">LANG.</text>
+<text x="135.0" y="25.4" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="1.6" font-weight="normal">LANG.</text>
+<text x="5" y="20" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="bold">E1 – AILE GAUCHE – 20 × 60 × 60 mm</text>
+<line x1="165" y1="22" x2="170" y2="27" stroke="#999" stroke-width="0.25"/>
+<line x1="170" y1="22" x2="165" y2="27" stroke="#999" stroke-width="0.25"/>
+<rect x="170" y="22" width="125" height="65" fill="white" stroke="#222" stroke-width="0.5"/>
+<line x1="170" y1="27" x2="290" y2="27" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="210" y1="22" x2="210" y2="27" stroke="#222" stroke-width="0.4"/>
+<line x1="210" y1="27" x2="210" y2="87" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<text x="190.0" y="57.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.3" font-weight="bold">FACE 1</text>
+<line x1="230" y1="22" x2="230" y2="27" stroke="#222" stroke-width="0.4"/>
+<line x1="230" y1="27" x2="230" y2="87" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<text x="220.0" y="57.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.3" font-weight="bold">CÔTÉ</text>
+<line x1="270" y1="22" x2="270" y2="27" stroke="#222" stroke-width="0.4"/>
+<line x1="270" y1="27" x2="270" y2="87" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<text x="250.0" y="57.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.3" font-weight="bold">ARRIÈRE</text>
+<line x1="290" y1="22" x2="290" y2="27" stroke="#222" stroke-width="0.4"/>
+<line x1="290" y1="27" x2="290" y2="87" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<text x="280.0" y="57.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.3" font-weight="bold">CÔTÉ</text>
+<text x="292.5" y="57.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="1.9" font-weight="bold">COLLE</text>
+<text x="190.0" y="25.4" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="1.6" font-weight="normal">LANG.</text>
+<text x="220.0" y="25.4" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="1.6" font-weight="normal">LANG.</text>
+<text x="250.0" y="25.4" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="1.6" font-weight="normal">LANG.</text>
+<text x="280.0" y="25.4" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="1.6" font-weight="normal">LANG.</text>
+<text x="170" y="20" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="bold">E3 – AILE ARRIÈRE – 40 × 20 × 60 mm</text>
+<line x1="290" y1="22" x2="295" y2="27" stroke="#999" stroke-width="0.25"/>
+<line x1="295" y1="22" x2="290" y2="27" stroke="#999" stroke-width="0.25"/>
+<rect x="5" y="95" width="165" height="65" fill="white" stroke="#222" stroke-width="0.5"/>
+<line x1="5" y1="100" x2="165" y2="100" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="25" y1="95" x2="25" y2="100" stroke="#222" stroke-width="0.4"/>
+<line x1="25" y1="100" x2="25" y2="160" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<text x="15.0" y="130.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.3" font-weight="bold">FACE 1</text>
+<line x1="85" y1="95" x2="85" y2="100" stroke="#222" stroke-width="0.4"/>
+<line x1="85" y1="100" x2="85" y2="160" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<text x="55.0" y="130.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.3" font-weight="bold">CÔTÉ</text>
+<line x1="105" y1="95" x2="105" y2="100" stroke="#222" stroke-width="0.4"/>
+<line x1="105" y1="100" x2="105" y2="160" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<text x="95.0" y="130.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.3" font-weight="bold">ARRIÈRE</text>
+<line x1="165" y1="95" x2="165" y2="100" stroke="#222" stroke-width="0.4"/>
+<line x1="165" y1="100" x2="165" y2="160" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<text x="135.0" y="130.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.3" font-weight="bold">CÔTÉ</text>
+<text x="167.5" y="130.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="1.9" font-weight="bold">COLLE</text>
+<text x="15.0" y="98.4" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="1.6" font-weight="normal">LANG.</text>
+<text x="55.0" y="98.4" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="1.6" font-weight="normal">LANG.</text>
+<text x="95.0" y="98.4" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="1.6" font-weight="normal">LANG.</text>
+<text x="135.0" y="98.4" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="1.6" font-weight="normal">LANG.</text>
+<text x="5" y="93" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="bold">E2 – AILE DROITE – 20 × 60 × 60 mm</text>
+<line x1="165" y1="95" x2="170" y2="100" stroke="#999" stroke-width="0.25"/>
+<line x1="170" y1="95" x2="165" y2="100" stroke="#999" stroke-width="0.25"/>
+<rect x="180" y="95" width="105" height="15" fill="white" stroke="#222" stroke-width="0.5"/>
+<line x1="180" y1="100" x2="280" y2="100" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<line x1="220" y1="95" x2="220" y2="100" stroke="#222" stroke-width="0.4"/>
+<line x1="220" y1="100" x2="220" y2="110" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<text x="200.0" y="105.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.3" font-weight="bold">FACE 1</text>
+<line x1="230" y1="95" x2="230" y2="100" stroke="#222" stroke-width="0.4"/>
+<line x1="230" y1="100" x2="230" y2="110" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<text x="225.0" y="105.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.3" font-weight="bold">CÔTÉ</text>
+<line x1="270" y1="95" x2="270" y2="100" stroke="#222" stroke-width="0.4"/>
+<line x1="270" y1="100" x2="270" y2="110" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<text x="250.0" y="105.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.3" font-weight="bold">ARRIÈRE</text>
+<line x1="280" y1="95" x2="280" y2="100" stroke="#222" stroke-width="0.4"/>
+<line x1="280" y1="100" x2="280" y2="110" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<text x="275.0" y="105.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.3" font-weight="bold">CÔTÉ</text>
+<text x="282.5" y="105.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="1.9" font-weight="bold">COLLE</text>
+<text x="200.0" y="98.4" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="1.6" font-weight="normal">LANG.</text>
+<text x="225.0" y="98.4" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="1.6" font-weight="normal">LANG.</text>
+<text x="250.0" y="98.4" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="1.6" font-weight="normal">LANG.</text>
+<text x="275.0" y="98.4" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="1.6" font-weight="normal">LANG.</text>
+<text x="180" y="93" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="bold">E4 – LINTEAU – 40 × 10 × 10 mm</text>
+<line x1="280" y1="95" x2="285" y2="100" stroke="#999" stroke-width="0.25"/>
+<line x1="285" y1="95" x2="280" y2="100" stroke="#999" stroke-width="0.25"/>
+<rect x="180" y="118" width="20" height="60" fill="#f7f7f7" stroke="#222" stroke-width="0.45"/>
+<text x="190.0" y="149.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.4" font-weight="bold">TOIT E1</text>
+<text x="190.0" y="152.0" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="1.9" font-weight="middle">20 × 60</text>
+<rect x="205" y="118" width="20" height="60" fill="#f7f7f7" stroke="#222" stroke-width="0.45"/>
+<text x="215.0" y="149.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.4" font-weight="bold">TOIT E2</text>
+<text x="215.0" y="152.0" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="1.9" font-weight="middle">20 × 60</text>
+<rect x="230" y="118" width="40" height="20" fill="#f7f7f7" stroke="#222" stroke-width="0.45"/>
+<text x="250.0" y="129.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.4" font-weight="bold">TOIT E3</text>
+<text x="250.0" y="132.0" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="1.9" font-weight="middle">40 × 20</text>
+<rect x="230" y="145" width="40" height="10" fill="#f7f7f7" stroke="#222" stroke-width="0.45"/>
+<text x="250.0" y="151.0" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.4" font-weight="bold">TOIT E4</text>
+<text x="250.0" y="154.0" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="1.9" font-weight="middle">40 × 10</text>
+<text x="180" y="190" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.8" font-weight="bold">E1 et E2 : 20 × 60 × 60</text>
+<text x="180" y="197" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.8" font-weight="bold">E3 : 40 × 20 × 60 · E4 : 40 × 10 × 10</text>
+</svg>

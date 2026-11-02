@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="29" font-weight="bold">S57 – Convention de nommage</text>
+<text x="40" y="72" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="normal">Un fichier bien nommé doit être compréhensible sans l’ouvrir.</text>
+<rect x="75" y="120" width="970" height="100" rx="12" fill="#f7f7f7" stroke="#222" stroke-width="1.2"/>
+<text x="105" y="155" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">PROJET TINKERCAD</text>
+<text x="105" y="192" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">S57-Maths-City-Equipe-A-Banc-FINAL</text>
+<rect x="75" y="255" width="970" height="100" rx="12" fill="#f7f7f7" stroke="#222" stroke-width="1.2"/>
+<text x="105" y="290" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">CAPTURE 1</text>
+<text x="105" y="327" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">S57-Equipe-A-Banc-01-perspective</text>
+<rect x="75" y="390" width="970" height="100" rx="12" fill="#f7f7f7" stroke="#222" stroke-width="1.2"/>
+<text x="105" y="425" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">CAPTURE 2</text>
+<text x="105" y="462" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">S57-Equipe-A-Banc-02-test</text>
+<rect x="75" y="525" width="970" height="100" rx="12" fill="#f7f7f7" stroke="#222" stroke-width="1.2"/>
+<text x="105" y="560" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">EXPORT STL</text>
+<text x="105" y="597" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">S57-Equipe-A-Banc-FINAL.stl</text>
+<rect x="175" y="690" width="775" height="55" rx="10" fill="#f4f4f4" stroke="#222" stroke-width="1.2"/>
+<text x="562" y="724" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">Ne pas utiliser : final2, nouveau, copie, objet, truc.</text>
+</svg>

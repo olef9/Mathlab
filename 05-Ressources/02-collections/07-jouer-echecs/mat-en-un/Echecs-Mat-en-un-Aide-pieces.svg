@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" font-family="Arial" font-size="29" font-weight="bold">Aide rapide – Déplacements et rôle des pièces</text>
+<rect x="55" y="105" width="320" height="285" rx="14" fill="white" stroke="#333" stroke-width="1.7"/>
+<text x="215" y="190" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="62">♔ / ♚</text>
+<text x="215" y="235" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold">ROI</text>
+<text x="215" y="280" text-anchor="middle" font-family="Arial" font-size="14">une case dans toutes les directions</text>
+<text x="215" y="327" text-anchor="middle" font-family="Arial" font-size="13">ne peut jamais aller sur une case attaqu</text>
+<text x="215" y="350" text-anchor="middle" font-family="Arial" font-size="13">ée</text>
+<rect x="410" y="105" width="320" height="285" rx="14" fill="white" stroke="#333" stroke-width="1.7"/>
+<text x="570" y="190" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="62">♕ / ♛</text>
+<text x="570" y="235" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold">DAME</text>
+<text x="570" y="280" text-anchor="middle" font-family="Arial" font-size="14">lignes, colonnes et diagonales</text>
+<text x="570" y="327" text-anchor="middle" font-family="Arial" font-size="13">combine tour et fou</text>
+<rect x="765" y="105" width="320" height="285" rx="14" fill="white" stroke="#333" stroke-width="1.7"/>
+<text x="925" y="190" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="62">♖ / ♜</text>
+<text x="925" y="235" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold">TOUR</text>
+<text x="925" y="280" text-anchor="middle" font-family="Arial" font-size="14">lignes et colonnes</text>
+<text x="925" y="327" text-anchor="middle" font-family="Arial" font-size="13">ne saute pas les pièces</text>
+<rect x="55" y="430" width="320" height="285" rx="14" fill="white" stroke="#333" stroke-width="1.7"/>
+<text x="215" y="515" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="62">♗ / ♝</text>
+<text x="215" y="560" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold">FOU</text>
+<text x="215" y="605" text-anchor="middle" font-family="Arial" font-size="14">diagonales</text>
+<text x="215" y="652" text-anchor="middle" font-family="Arial" font-size="13">reste sur la même couleur</text>
+<rect x="410" y="430" width="320" height="285" rx="14" fill="white" stroke="#333" stroke-width="1.7"/>
+<text x="570" y="515" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="62">♘ / ♞</text>
+<text x="570" y="560" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold">CAVALIER</text>
+<text x="570" y="605" text-anchor="middle" font-family="Arial" font-size="14">déplacement en L</text>
+<text x="570" y="652" text-anchor="middle" font-family="Arial" font-size="13">saute les pièces ; échec impossible à bl</text>
+<text x="570" y="675" text-anchor="middle" font-family="Arial" font-size="13">oquer</text>
+<rect x="765" y="430" width="320" height="285" rx="14" fill="white" stroke="#333" stroke-width="1.7"/>
+<text x="925" y="515" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="62">♙ / ♟</text>
+<text x="925" y="560" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold">PION</text>
+<text x="925" y="605" text-anchor="middle" font-family="Arial" font-size="14">avance tout droit, capture en diagonale</text>
+<text x="925" y="652" text-anchor="middle" font-family="Arial" font-size="13">attaque différemment de son déplacement</text>
+</svg>

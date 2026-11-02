@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="35" y="38" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="26" font-weight="bold">Dossier D – Bloquer une menace au Robomorpion</text>
+<text x="35" y="68" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="normal">Le joueur X doit jouer. O gagnera au prochain coup s’il n’est pas bloqué.</text>
+<line x1="95" y1="150" x2="95" y2="585" stroke="#222" stroke-width="2"/>
+<line x1="95" y1="150" x2="530" y2="150" stroke="#222" stroke-width="2"/>
+<line x1="240" y1="150" x2="240" y2="585" stroke="#222" stroke-width="2"/>
+<line x1="95" y1="295" x2="530" y2="295" stroke="#222" stroke-width="2"/>
+<line x1="385" y1="150" x2="385" y2="585" stroke="#222" stroke-width="2"/>
+<line x1="95" y1="440" x2="530" y2="440" stroke="#222" stroke-width="2"/>
+<line x1="530" y1="150" x2="530" y2="585" stroke="#222" stroke-width="2"/>
+<line x1="95" y1="585" x2="530" y2="585" stroke="#222" stroke-width="2"/>
+<text x="167.5" y="238.5" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="50" font-weight="bold">O</text>
+<text x="312.5" y="238.5" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="50" font-weight="bold">O</text>
+<text x="167.5" y="383.5" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="50" font-weight="bold">X</text>
+<text x="167.5" y="528.5" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="50" font-weight="bold">X</text>
+<text x="457.5" y="230.5" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="bold">A</text>
+<text x="312.5" y="375.5" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="bold">B</text>
+<text x="457.5" y="375.5" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="bold">C</text>
+<text x="312.5" y="520.5" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="bold">D</text>
+<text x="457.5" y="520.5" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="bold">E</text>
+<rect x="600" y="120" width="475" height="435" rx="12" fill="white" stroke="#222" stroke-width="1.3"/>
+<text x="837" y="155" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">COUPS CANDIDATS</text>
+<rect x="635" y="183" width="60" height="55" rx="9" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="665" y="218" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="bold">A</text>
+<text x="725" y="195" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="normal">bloque la ligne du haut</text>
+<rect x="635" y="278" width="60" height="55" rx="9" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="665" y="313" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="bold">B</text>
+<text x="725" y="290" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="normal">prépare une diagonale mais ne</text>
+<text x="725" y="308" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="normal">bloque pas</text>
+<rect x="635" y="373" width="60" height="55" rx="9" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="665" y="408" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="bold">E</text>
+<text x="725" y="385" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="normal">prépare une ligne mais ne bloque</text>
+<text x="725" y="403" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="normal">pas</text>
+<text x="635" y="500" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Règle générale à extraire :</text>
+<text x="635" y="530" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Avant de préparer son attaque, vérifier si</text>
+<text x="635" y="548" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">l’adversaire peut gagner au coup suivant.</text>
+<rect x="85" y="640" width="950" height="75" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="560" y="672" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Victoire immédiate ? → menace adverse ? → blocage ? → seulement ensuite stratégie personnelle</text>
+<text x="35" y="760" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Piège : choisir un coup intéressant sans vérifier la menace immédiate.</text>
+</svg>

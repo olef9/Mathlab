@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="45" y="45" font-family="Arial" font-size="28" font-weight="bold">Aide – Les pièces d’échecs</text>
+<text x="45" y="75" font-family="Arial" font-size="15">Une pièce ne traverse pas une autre pièce, sauf le cavalier. Le pion capture autrement qu’il n’avance.</text>
+<rect x="70" y="135" width="470" height="150" rx="12" fill="white" stroke="#777" stroke-width="1.5"/>
+<text x="140" y="230" text-anchor="middle" font-family="DejaVu Sans" font-size="72">♙</text>
+<text x="205" y="178" font-family="Arial" font-size="22" font-weight="bold">Pion</text>
+<text x="460" y="178" font-family="Arial" font-size="18">Valeur : 1</text>
+<text x="205" y="217" font-family="Arial" font-size="15">avance tout droit ;</text>
+<text x="205" y="242" font-family="Arial" font-size="15">capture en diagonale</text>
+<rect x="595" y="135" width="470" height="150" rx="12" fill="white" stroke="#777" stroke-width="1.5"/>
+<text x="665" y="230" text-anchor="middle" font-family="DejaVu Sans" font-size="72">♘</text>
+<text x="730" y="178" font-family="Arial" font-size="22" font-weight="bold">Cavalier</text>
+<text x="985" y="178" font-family="Arial" font-size="18">Valeur : 3</text>
+<text x="730" y="217" font-family="Arial" font-size="15">se déplace en L ;</text>
+<text x="730" y="242" font-family="Arial" font-size="15">peut sauter par-dessus les pièces</text>
+<rect x="70" y="325" width="470" height="150" rx="12" fill="white" stroke="#777" stroke-width="1.5"/>
+<text x="140" y="420" text-anchor="middle" font-family="DejaVu Sans" font-size="72">♗</text>
+<text x="205" y="368" font-family="Arial" font-size="22" font-weight="bold">Fou</text>
+<text x="460" y="368" font-family="Arial" font-size="18">Valeur : 3</text>
+<text x="205" y="407" font-family="Arial" font-size="15">se déplace</text>
+<text x="205" y="432" font-family="Arial" font-size="15">sur les diagonales</text>
+<rect x="595" y="325" width="470" height="150" rx="12" fill="white" stroke="#777" stroke-width="1.5"/>
+<text x="665" y="420" text-anchor="middle" font-family="DejaVu Sans" font-size="72">♖</text>
+<text x="730" y="368" font-family="Arial" font-size="22" font-weight="bold">Tour</text>
+<text x="985" y="368" font-family="Arial" font-size="18">Valeur : 5</text>
+<text x="730" y="407" font-family="Arial" font-size="15">se déplace en ligne</text>
+<text x="730" y="432" font-family="Arial" font-size="15">ou en colonne</text>
+<rect x="70" y="515" width="470" height="150" rx="12" fill="white" stroke="#777" stroke-width="1.5"/>
+<text x="140" y="610" text-anchor="middle" font-family="DejaVu Sans" font-size="72">♕</text>
+<text x="205" y="558" font-family="Arial" font-size="22" font-weight="bold">Dame</text>
+<text x="460" y="558" font-family="Arial" font-size="18">Valeur : 9</text>
+<text x="205" y="597" font-family="Arial" font-size="15">combine les déplacements</text>
+<text x="205" y="622" font-family="Arial" font-size="15">de la tour et du fou</text>
+<rect x="595" y="515" width="470" height="150" rx="12" fill="white" stroke="#777" stroke-width="1.5"/>
+<text x="665" y="610" text-anchor="middle" font-family="DejaVu Sans" font-size="72">♔</text>
+<text x="730" y="558" font-family="Arial" font-size="22" font-weight="bold">Roi</text>
+<text x="985" y="558" font-family="Arial" font-size="18">Valeur : —</text>
+<text x="730" y="597" font-family="Arial" font-size="15">se déplace d’une case ;</text>
+<text x="730" y="622" font-family="Arial" font-size="15">ne peut pas rester attaqué</text>
+<text x="70" y="735" font-family="Arial" font-size="18" font-weight="bold">Réflexe Math’Lab : capture → reprise → bilan.</text>
+</svg>

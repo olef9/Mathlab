@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+<rect width="100%" height="100%" fill="white"/>
+<text x="10" y="8" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="5.0" font-weight="bold">S47 E – Patron du bâtiment public avec cour</text>
+<text x="10" y="14" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="normal">Imprimer à 100 %. Les languettes de 10 mm se collent sur la parcelle.</text>
+<rect x="10" y="22" width="80" height="60" rx="0" fill="white" stroke="#222" stroke-width="0.45"/>
+<line x1="10" y1="72" x2="90" y2="72" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<text x="50.0" y="28" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.1" font-weight="bold">MUR ARRIÈRE 80 mm</text>
+<text x="50.0" y="79" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.6" font-weight="bold">LANGUETTE</text>
+<rect x="110" y="22" width="80" height="60" rx="0" fill="white" stroke="#222" stroke-width="0.45"/>
+<line x1="110" y1="72" x2="190" y2="72" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<text x="150.0" y="28" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.1" font-weight="bold">FAÇADE 80 mm</text>
+<text x="150.0" y="79" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.6" font-weight="bold">LANGUETTE</text>
+<rect x="140.0" y="27" width="20" height="45" rx="0" fill="#eeeeee" stroke="#222" stroke-width="0.45"/>
+<text x="150.0" y="50" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.5" font-weight="bold">À RETIRER</text>
+<rect x="10" y="100" width="60" height="60" rx="0" fill="white" stroke="#222" stroke-width="0.45"/>
+<line x1="10" y1="150" x2="70" y2="150" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<text x="40.0" y="106" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.1" font-weight="bold">MUR GAUCHE 60 mm</text>
+<text x="40.0" y="157" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.6" font-weight="bold">LANGUETTE</text>
+<rect x="90" y="100" width="60" height="60" rx="0" fill="white" stroke="#222" stroke-width="0.45"/>
+<line x1="90" y1="150" x2="150" y2="150" stroke="#666" stroke-width="0.3" stroke-dasharray="2 1.5"/>
+<text x="120.0" y="106" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.1" font-weight="bold">MUR DROIT 60 mm</text>
+<text x="120.0" y="157" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="2.6" font-weight="bold">LANGUETTE</text>
+<rect x="10" y="180" width="180" height="82" rx="2" fill="#f4f4f4" stroke="#222" stroke-width="0.4"/>
+<text x="100" y="188" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.5" font-weight="bold">IMPLANTATION SUR LA PARCELLE</text>
+<rect x="60" y="198" width="80" height="60" rx="0" fill="white" stroke="#222" stroke-width="0.5"/>
+<text x="100" y="227" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.6" font-weight="bold">COUR LIBRE</text>
+<text x="100" y="234" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="middle">au moins 40 × 40 mm</text>
+<line x1="90" y1="258" x2="110" y2="258" stroke="white" stroke-width="2"/>
+<text x="100" y="269" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="bold">passage 20 × 45 mm</text>
+<text x="10" y="282" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="3.0" font-weight="bold">Coller les murs sur au moins trois côtés. La façade reste identifiable.</text>
+</svg>

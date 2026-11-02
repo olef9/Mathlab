@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="35" y="40" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="26" font-weight="bold">S61 – Station E – Le programme décalé</text>
+<rect x="35" y="80" width="1053" height="95" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="1.3"/>
+<text x="55" y="112" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">DÉFI</text>
+<text x="160" y="112" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Exécutez exactement le programme. Il n’atteint pas la cible. Modifiez UNE SEULE</text>
+<text x="160" y="131" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">instruction pour qu’il arrive sur la cible.</text>
+<rect x="80" y="235" width="70" height="70" rx="0" fill="white" stroke="#999" stroke-width="0.8"/>
+<text x="88" y="251" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="8.5" font-weight="normal">1,1</text>
+<rect x="150" y="235" width="70" height="70" rx="0" fill="white" stroke="#999" stroke-width="0.8"/>
+<text x="158" y="251" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="8.5" font-weight="normal">2,1</text>
+<rect x="220" y="235" width="70" height="70" rx="0" fill="white" stroke="#999" stroke-width="0.8"/>
+<text x="228" y="251" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="8.5" font-weight="normal">3,1</text>
+<rect x="290" y="235" width="70" height="70" rx="0" fill="white" stroke="#999" stroke-width="0.8"/>
+<text x="298" y="251" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="8.5" font-weight="normal">4,1</text>
+<rect x="360" y="235" width="70" height="70" rx="0" fill="white" stroke="#999" stroke-width="0.8"/>
+<text x="368" y="251" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="8.5" font-weight="normal">5,1</text>
+<rect x="80" y="305" width="70" height="70" rx="0" fill="white" stroke="#999" stroke-width="0.8"/>
+<text x="88" y="321" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="8.5" font-weight="normal">1,2</text>
+<rect x="150" y="305" width="70" height="70" rx="0" fill="white" stroke="#999" stroke-width="0.8"/>
+<text x="158" y="321" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="8.5" font-weight="normal">2,2</text>
+<rect x="220" y="305" width="70" height="70" rx="0" fill="white" stroke="#999" stroke-width="0.8"/>
+<text x="228" y="321" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="8.5" font-weight="normal">3,2</text>
+<rect x="290" y="305" width="70" height="70" rx="0" fill="white" stroke="#999" stroke-width="0.8"/>
+<text x="298" y="321" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="8.5" font-weight="normal">4,2</text>
+<rect x="360" y="305" width="70" height="70" rx="0" fill="white" stroke="#999" stroke-width="0.8"/>
+<text x="368" y="321" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="8.5" font-weight="normal">5,2</text>
+<rect x="80" y="375" width="70" height="70" rx="0" fill="white" stroke="#999" stroke-width="0.8"/>
+<text x="88" y="391" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="8.5" font-weight="normal">1,3</text>
+<rect x="150" y="375" width="70" height="70" rx="0" fill="white" stroke="#999" stroke-width="0.8"/>
+<text x="158" y="391" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="8.5" font-weight="normal">2,3</text>
+<rect x="220" y="375" width="70" height="70" rx="0" fill="white" stroke="#999" stroke-width="0.8"/>
+<text x="228" y="391" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="8.5" font-weight="normal">3,3</text>
+<rect x="290" y="375" width="70" height="70" rx="0" fill="white" stroke="#999" stroke-width="0.8"/>
+<text x="298" y="391" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="8.5" font-weight="normal">4,3</text>
+<rect x="360" y="375" width="70" height="70" rx="0" fill="white" stroke="#999" stroke-width="0.8"/>
+<text x="368" y="391" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="8.5" font-weight="normal">5,3</text>
+<rect x="80" y="445" width="70" height="70" rx="0" fill="white" stroke="#999" stroke-width="0.8"/>
+<text x="88" y="461" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="8.5" font-weight="normal">1,4</text>
+<rect x="150" y="445" width="70" height="70" rx="0" fill="white" stroke="#999" stroke-width="0.8"/>
+<text x="158" y="461" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="8.5" font-weight="normal">2,4</text>
+<rect x="220" y="445" width="70" height="70" rx="0" fill="white" stroke="#999" stroke-width="0.8"/>
+<text x="228" y="461" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="8.5" font-weight="normal">3,4</text>
+<rect x="290" y="445" width="70" height="70" rx="0" fill="white" stroke="#999" stroke-width="0.8"/>
+<text x="298" y="461" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="8.5" font-weight="normal">4,4</text>
+<rect x="360" y="445" width="70" height="70" rx="0" fill="white" stroke="#999" stroke-width="0.8"/>
+<text x="368" y="461" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="8.5" font-weight="normal">5,4</text>
+<rect x="80" y="515" width="70" height="70" rx="0" fill="white" stroke="#999" stroke-width="0.8"/>
+<text x="88" y="531" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="8.5" font-weight="normal">1,5</text>
+<rect x="150" y="515" width="70" height="70" rx="0" fill="white" stroke="#999" stroke-width="0.8"/>
+<text x="158" y="531" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="8.5" font-weight="normal">2,5</text>
+<rect x="220" y="515" width="70" height="70" rx="0" fill="white" stroke="#999" stroke-width="0.8"/>
+<text x="228" y="531" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="8.5" font-weight="normal">3,5</text>
+<rect x="290" y="515" width="70" height="70" rx="0" fill="white" stroke="#999" stroke-width="0.8"/>
+<text x="298" y="531" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="8.5" font-weight="normal">4,5</text>
+<rect x="360" y="515" width="70" height="70" rx="0" fill="white" stroke="#999" stroke-width="0.8"/>
+<text x="368" y="531" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="8.5" font-weight="normal">5,5</text>
+<rect x="80" y="515" width="70" height="70" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.2"/>
+<text x="115.0" y="549" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.5" font-weight="bold">DÉPART</text>
+<text x="115.0" y="566" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" font-weight="bold">↑ NORD</text>
+<rect x="360" y="235" width="70" height="70" rx="0" fill="#f4f4f4" stroke="#222" stroke-width="1.2"/>
+<text x="395.0" y="277" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12" font-weight="bold">CIBLE</text>
+<rect x="500" y="235" width="565" height="350" rx="12" fill="#f7f7f7" stroke="#222" stroke-width="1.2"/>
+<text x="782" y="270" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">PROGRAMME DONNÉ</text>
+<text x="555" y="320" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.4" font-weight="bold">1. avance de 2 cases</text>
+<text x="555" y="366" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.4" font-weight="bold">2. tourne à droite</text>
+<text x="555" y="412" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.4" font-weight="bold">3. avance de 3 cases</text>
+<text x="555" y="458" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.4" font-weight="bold">4. tourne à gauche</text>
+<text x="555" y="504" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.4" font-weight="bold">5. avance de 2 cases</text>
+<text x="535" y="545" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">À écrire dans le carnet :</text>
+<text x="555" y="573" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.6" font-weight="bold">trajet obtenu + instruction corrigée</text>
+<rect x="120" y="715" width="885" height="48" rx="10" fill="#f4f4f4" stroke="#222" stroke-width="1.2"/>
+<text x="562" y="745" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.8" font-weight="bold">Avant de partir : réponse + trace + démarche + « utile quand… » dans le carnet.</text>
+</svg>

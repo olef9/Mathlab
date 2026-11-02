@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="36" y="36" font-family="Arial" font-size="25" font-weight="bold">Vrai, faux ou parfois vrai ? – Cartes des conjectures</text>
+<text x="36" y="60" font-family="Arial" font-size="13">Découper les cartes. Tous les nombres cités sont des nombres entiers.</text>
+<rect x="38" y="80" width="250" height="205" rx="9" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<circle cx="66" cy="107" r="17" fill="white" stroke="#111" stroke-width="2"/>
+<text x="66" y="113" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">1</text>
+<text x="90" y="112" font-family="Arial" font-size="13" font-weight="bold">NOMBRES</text>
+<text x="163.0" y="162" text-anchor="middle" font-family="Arial" font-size="16">La somme de deux</text>
+<text x="163.0" y="190" text-anchor="middle" font-family="Arial" font-size="16">nombres pairs est paire.</text>
+<text x="54" y="245" font-family="Arial" font-size="12">Classement : __________________</text>
+<text x="54" y="268" font-family="Arial" font-size="12">Argument prêt :  ☐</text>
+<rect x="306" y="80" width="250" height="205" rx="9" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<circle cx="334" cy="107" r="17" fill="white" stroke="#111" stroke-width="2"/>
+<text x="334" y="113" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">2</text>
+<text x="358" y="112" font-family="Arial" font-size="13" font-weight="bold">NOMBRES</text>
+<text x="431.0" y="162" text-anchor="middle" font-family="Arial" font-size="16">La somme de deux</text>
+<text x="431.0" y="190" text-anchor="middle" font-family="Arial" font-size="16">nombres entiers est paire.</text>
+<text x="322" y="245" font-family="Arial" font-size="12">Classement : __________________</text>
+<text x="322" y="268" font-family="Arial" font-size="12">Argument prêt :  ☐</text>
+<rect x="574" y="80" width="250" height="205" rx="9" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<circle cx="602" cy="107" r="17" fill="white" stroke="#111" stroke-width="2"/>
+<text x="602" y="113" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">3</text>
+<text x="626" y="112" font-family="Arial" font-size="13" font-weight="bold">NOMBRES</text>
+<text x="699.0" y="162" text-anchor="middle" font-family="Arial" font-size="16">Le produit de deux</text>
+<text x="699.0" y="190" text-anchor="middle" font-family="Arial" font-size="16">nombres impairs est pair.</text>
+<text x="590" y="245" font-family="Arial" font-size="12">Classement : __________________</text>
+<text x="590" y="268" font-family="Arial" font-size="12">Argument prêt :  ☐</text>
+<rect x="842" y="80" width="250" height="205" rx="9" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<circle cx="870" cy="107" r="17" fill="white" stroke="#111" stroke-width="2"/>
+<text x="870" y="113" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">4</text>
+<text x="894" y="112" font-family="Arial" font-size="13" font-weight="bold">NOMBRES</text>
+<text x="967.0" y="162" text-anchor="middle" font-family="Arial" font-size="16">Un nombre divisible par 4</text>
+<text x="967.0" y="190" text-anchor="middle" font-family="Arial" font-size="16">est pair.</text>
+<text x="858" y="245" font-family="Arial" font-size="12">Classement : __________________</text>
+<text x="858" y="268" font-family="Arial" font-size="12">Argument prêt :  ☐</text>
+<rect x="38" y="303" width="250" height="205" rx="9" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<circle cx="66" cy="330" r="17" fill="white" stroke="#111" stroke-width="2"/>
+<text x="66" y="336" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">5</text>
+<text x="90" y="335" font-family="Arial" font-size="13" font-weight="bold">NOMBRES</text>
+<text x="163.0" y="385" text-anchor="middle" font-family="Arial" font-size="16">Un nombre pair</text>
+<text x="163.0" y="413" text-anchor="middle" font-family="Arial" font-size="16">est divisible par 4.</text>
+<text x="54" y="468" font-family="Arial" font-size="12">Classement : __________________</text>
+<text x="54" y="491" font-family="Arial" font-size="12">Argument prêt :  ☐</text>
+<rect x="306" y="303" width="250" height="205" rx="9" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<circle cx="334" cy="330" r="17" fill="white" stroke="#111" stroke-width="2"/>
+<text x="334" y="336" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">6</text>
+<text x="358" y="335" font-family="Arial" font-size="13" font-weight="bold">NOMBRES</text>
+<text x="431.0" y="385" text-anchor="middle" font-family="Arial" font-size="16">Un nombre qui se termine</text>
+<text x="431.0" y="413" text-anchor="middle" font-family="Arial" font-size="16">par 0 est divisible par 4.</text>
+<text x="322" y="468" font-family="Arial" font-size="12">Classement : __________________</text>
+<text x="322" y="491" font-family="Arial" font-size="12">Argument prêt :  ☐</text>
+<rect x="574" y="303" width="250" height="205" rx="9" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<circle cx="602" cy="330" r="17" fill="white" stroke="#111" stroke-width="2"/>
+<text x="602" y="336" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">7</text>
+<text x="626" y="335" font-family="Arial" font-size="13" font-weight="bold">GÉOMÉTRIE</text>
+<text x="699.0" y="385" text-anchor="middle" font-family="Arial" font-size="16">Un carré</text>
+<text x="699.0" y="413" text-anchor="middle" font-family="Arial" font-size="16">est un rectangle.</text>
+<text x="590" y="468" font-family="Arial" font-size="12">Classement : __________________</text>
+<text x="590" y="491" font-family="Arial" font-size="12">Argument prêt :  ☐</text>
+<rect x="842" y="303" width="250" height="205" rx="9" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<circle cx="870" cy="330" r="17" fill="white" stroke="#111" stroke-width="2"/>
+<text x="870" y="336" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">8</text>
+<text x="894" y="335" font-family="Arial" font-size="13" font-weight="bold">GÉOMÉTRIE</text>
+<text x="967.0" y="385" text-anchor="middle" font-family="Arial" font-size="16">Un quadrilatère à quatre</text>
+<text x="967.0" y="413" text-anchor="middle" font-family="Arial" font-size="16">côtés égaux est un carré.</text>
+<text x="858" y="468" font-family="Arial" font-size="12">Classement : __________________</text>
+<text x="858" y="491" font-family="Arial" font-size="12">Argument prêt :  ☐</text>
+<rect x="38" y="526" width="250" height="205" rx="9" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<circle cx="66" cy="553" r="17" fill="white" stroke="#111" stroke-width="2"/>
+<text x="66" y="559" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">9</text>
+<text x="90" y="558" font-family="Arial" font-size="13" font-weight="bold">GÉOMÉTRIE</text>
+<text x="163.0" y="608" text-anchor="middle" font-family="Arial" font-size="16">Un triangle peut avoir</text>
+<text x="163.0" y="636" text-anchor="middle" font-family="Arial" font-size="16">deux angles droits.</text>
+<text x="54" y="691" font-family="Arial" font-size="12">Classement : __________________</text>
+<text x="54" y="714" font-family="Arial" font-size="12">Argument prêt :  ☐</text>
+<rect x="306" y="526" width="250" height="205" rx="9" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<circle cx="334" cy="553" r="17" fill="white" stroke="#111" stroke-width="2"/>
+<text x="334" y="559" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">10</text>
+<text x="358" y="558" font-family="Arial" font-size="13" font-weight="bold">GÉOMÉTRIE</text>
+<text x="431.0" y="608" text-anchor="middle" font-family="Arial" font-size="16">Un quadrilatère à quatre angles</text>
+<text x="431.0" y="636" text-anchor="middle" font-family="Arial" font-size="16">droits a quatre côtés égaux.</text>
+<text x="322" y="691" font-family="Arial" font-size="12">Classement : __________________</text>
+<text x="322" y="714" font-family="Arial" font-size="12">Argument prêt :  ☐</text>
+<rect x="574" y="526" width="250" height="205" rx="9" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<circle cx="602" cy="553" r="17" fill="white" stroke="#111" stroke-width="2"/>
+<text x="602" y="559" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">11</text>
+<text x="626" y="558" font-family="Arial" font-size="13" font-weight="bold">GÉOMÉTRIE</text>
+<text x="699.0" y="608" text-anchor="middle" font-family="Arial" font-size="16">Dans un triangle isocèle,</text>
+<text x="699.0" y="636" text-anchor="middle" font-family="Arial" font-size="16">deux angles ont la même mesure.</text>
+<text x="590" y="691" font-family="Arial" font-size="12">Classement : __________________</text>
+<text x="590" y="714" font-family="Arial" font-size="12">Argument prêt :  ☐</text>
+<rect x="842" y="526" width="250" height="205" rx="9" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<circle cx="870" cy="553" r="17" fill="white" stroke="#111" stroke-width="2"/>
+<text x="870" y="559" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">12</text>
+<text x="894" y="558" font-family="Arial" font-size="13" font-weight="bold">GÉOMÉTRIE</text>
+<text x="967.0" y="608" text-anchor="middle" font-family="Arial" font-size="16">Deux segments de même longueur</text>
+<text x="967.0" y="636" text-anchor="middle" font-family="Arial" font-size="16">sont parallèles.</text>
+<text x="858" y="691" font-family="Arial" font-size="12">Classement : __________________</text>
+<text x="858" y="714" font-family="Arial" font-size="12">Argument prêt :  ☐</text>
+</svg>

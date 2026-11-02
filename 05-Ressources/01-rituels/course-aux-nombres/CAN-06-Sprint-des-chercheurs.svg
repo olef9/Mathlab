@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="45" y="45" text-anchor="start" font-family="Arial" font-size="28" font-weight="bold">CAN-06 – Le sprint des chercheurs</text>
+<text x="45" y="78" text-anchor="start" font-family="Arial" font-size="15" font-weight="normal">Une question toutes les 20 à 25 secondes.</text>
+<rect x="45" y="110" width="500" height="110" rx="8" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="80" cy="144" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="151" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">1</text>
+<text x="130" y="158" text-anchor="start" font-family="Arial" font-size="21" font-weight="bold">6 × 60</text>
+<text x="410" y="192" text-anchor="start" font-family="Arial" font-size="16" font-weight="normal">________</text>
+<rect x="580" y="110" width="500" height="110" rx="8" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="615" cy="144" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="151" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">2</text>
+<text x="665" y="158" text-anchor="start" font-family="Arial" font-size="21" font-weight="bold">360 − 324</text>
+<text x="945" y="192" text-anchor="start" font-family="Arial" font-size="16" font-weight="normal">________</text>
+<rect x="45" y="245" width="500" height="110" rx="8" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="80" cy="279" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="286" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">3</text>
+<text x="130" y="293" text-anchor="start" font-family="Arial" font-size="21" font-weight="bold">3 × 120</text>
+<text x="410" y="327" text-anchor="start" font-family="Arial" font-size="16" font-weight="normal">________</text>
+<rect x="580" y="245" width="500" height="110" rx="8" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="615" cy="279" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="286" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">4</text>
+<text x="665" y="293" text-anchor="start" font-family="Arial" font-size="21" font-weight="bold">2 × 9 + 2</text>
+<text x="945" y="327" text-anchor="start" font-family="Arial" font-size="16" font-weight="normal">________</text>
+<rect x="45" y="380" width="500" height="110" rx="8" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="80" cy="414" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="421" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">5</text>
+<text x="130" y="428" text-anchor="start" font-family="Arial" font-size="21" font-weight="bold">27 + 18 + 2</text>
+<text x="410" y="462" text-anchor="start" font-family="Arial" font-size="16" font-weight="normal">________</text>
+<rect x="580" y="380" width="500" height="110" rx="8" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="615" cy="414" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="421" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">6</text>
+<text x="665" y="428" text-anchor="start" font-family="Arial" font-size="21" font-weight="bold">11 − 6</text>
+<text x="945" y="462" text-anchor="start" font-family="Arial" font-size="16" font-weight="normal">________</text>
+<rect x="45" y="515" width="500" height="110" rx="8" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="80" cy="549" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="556" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">7</text>
+<text x="130" y="563" text-anchor="start" font-family="Arial" font-size="21" font-weight="bold">3/4 de 20</text>
+<text x="410" y="597" text-anchor="start" font-family="Arial" font-size="16" font-weight="normal">________</text>
+<rect x="580" y="515" width="500" height="110" rx="8" fill="white" stroke="#222" stroke-width="1.4"/>
+<circle cx="615" cy="549" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="556" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">8</text>
+<text x="665" y="563" text-anchor="start" font-family="Arial" font-size="21" font-weight="bold">double de 45, puis −10</text>
+<text x="945" y="597" text-anchor="start" font-family="Arial" font-size="16" font-weight="normal">________</text>
+<text x="45" y="690" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">Bonus : 4 équipes × (3 min + 2 min + 1 min) = __________________</text>
+<text x="45" y="745" text-anchor="start" font-family="Arial" font-size="17" font-weight="normal">Le forum dure donc __________________ minutes.</text>
+</svg>

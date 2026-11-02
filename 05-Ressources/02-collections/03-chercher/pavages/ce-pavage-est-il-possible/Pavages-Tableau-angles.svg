@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760">
+<rect width="100%" height="100%" fill="white"/>
+<text x="55" y="65" font-family="Arial, sans-serif" font-size="34" font-weight="bold" text-anchor="start" fill="#111">S27 - Tableau des angles</text>
+<text x="1340" y="65" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="end" fill="#111">à distribuer après les conjectures</text>
+<polygon points="155.0,230.0 215.6,335.0 94.4,335.0" fill="#f6f6f6" stroke="#222" stroke-width="2"/>
+<text x="155" y="430" font-family="Arial, sans-serif" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">triangle équilatéral</text>
+<text x="155" y="475" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" fill="#111">60°</text>
+<polygon points="425.0,230.0 495.0,300.0 425.0,370.0 355.0,300.0" fill="#f6f6f6" stroke="#222" stroke-width="2"/>
+<text x="425" y="430" font-family="Arial, sans-serif" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">carré</text>
+<text x="425" y="475" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" fill="#111">90°</text>
+<polygon points="695.0,230.0 761.6,278.4 736.1,356.6 653.9,356.6 628.4,278.4" fill="#f6f6f6" stroke="#222" stroke-width="2"/>
+<text x="695" y="430" font-family="Arial, sans-serif" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">pentagone régulier</text>
+<text x="695" y="475" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" fill="#111">108°</text>
+<polygon points="965.0,230.0 1025.6,265.0 1025.6,335.0 965.0,370.0 904.4,335.0 904.4,265.0" fill="#f6f6f6" stroke="#222" stroke-width="2"/>
+<text x="965" y="430" font-family="Arial, sans-serif" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">hexagone régulier</text>
+<text x="965" y="475" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" fill="#111">120°</text>
+<polygon points="1235.0,238.0 1278.8,256.2 1297.0,300.0 1278.8,343.8 1235.0,362.0 1191.2,343.8 1173.0,300.0 1191.2,256.2" fill="#f6f6f6" stroke="#222" stroke-width="2"/>
+<text x="1235" y="430" font-family="Arial, sans-serif" font-size="19" font-weight="bold" text-anchor="middle" fill="#111">octogone régulier</text>
+<text x="1235" y="475" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" fill="#111">135°</text>
+<text x="700" y="650" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#111">Un tour complet autour d'un point = 360°</text>
+</svg>

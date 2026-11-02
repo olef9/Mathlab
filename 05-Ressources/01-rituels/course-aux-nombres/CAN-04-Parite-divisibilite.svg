@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="45" y="45" font-family="Arial" font-size="28" font-weight="bold">CAN-04 – Parité et divisibilité</text>
+<text x="45" y="75" font-family="Arial" font-size="15">Répondre sans poser les opérations. Durée conseillée : 5 minutes.</text>
+<rect x="45" y="110" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.5"/>
+<circle cx="80" cy="145" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="152" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">1</text>
+<text x="135" y="157" font-family="Arial" font-size="24" font-weight="bold">37 + 25</text>
+<text x="135" y="190" font-family="Arial" font-size="14">pair ou impair ?</text>
+<text x="395" y="192" font-family="Arial" font-size="14">Réponse : __________</text>
+<rect x="580" y="110" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.5"/>
+<circle cx="615" cy="145" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="152" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">2</text>
+<text x="670" y="157" font-family="Arial" font-size="24" font-weight="bold">18 + 41</text>
+<text x="670" y="190" font-family="Arial" font-size="14">pair ou impair ?</text>
+<text x="930" y="192" font-family="Arial" font-size="14">Réponse : __________</text>
+<rect x="45" y="255" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.5"/>
+<circle cx="80" cy="290" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="297" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">3</text>
+<text x="135" y="302" font-family="Arial" font-size="24" font-weight="bold">17 × 9</text>
+<text x="135" y="335" font-family="Arial" font-size="14">pair ou impair ?</text>
+<text x="395" y="337" font-family="Arial" font-size="14">Réponse : __________</text>
+<rect x="580" y="255" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.5"/>
+<circle cx="615" cy="290" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="297" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">4</text>
+<text x="670" y="302" font-family="Arial" font-size="24" font-weight="bold">36</text>
+<text x="670" y="335" font-family="Arial" font-size="14">divisible par 4 ?</text>
+<text x="930" y="337" font-family="Arial" font-size="14">Réponse : __________</text>
+<rect x="45" y="400" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.5"/>
+<circle cx="80" cy="435" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="442" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">5</text>
+<text x="135" y="447" font-family="Arial" font-size="24" font-weight="bold">58</text>
+<text x="135" y="480" font-family="Arial" font-size="14">divisible par 4 ?</text>
+<text x="395" y="482" font-family="Arial" font-size="14">Réponse : __________</text>
+<rect x="580" y="400" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.5"/>
+<circle cx="615" cy="435" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="442" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">6</text>
+<text x="670" y="447" font-family="Arial" font-size="24" font-weight="bold">125</text>
+<text x="670" y="480" font-family="Arial" font-size="14">divisible par 5 ?</text>
+<text x="930" y="482" font-family="Arial" font-size="14">Réponse : __________</text>
+<rect x="45" y="545" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.5"/>
+<circle cx="80" cy="580" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="587" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">7</text>
+<text x="135" y="592" font-family="Arial" font-size="24" font-weight="bold">47 + ?</text>
+<text x="135" y="625" font-family="Arial" font-size="14">prochain multiple de 3</text>
+<text x="395" y="627" font-family="Arial" font-size="14">Réponse : __________</text>
+<rect x="580" y="545" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.5"/>
+<circle cx="615" cy="580" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="587" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">8</text>
+<text x="670" y="592" font-family="Arial" font-size="24" font-weight="bold">8 + 9 + 10</text>
+<text x="670" y="625" font-family="Arial" font-size="14">résultat</text>
+<text x="930" y="627" font-family="Arial" font-size="14">Réponse : __________</text>
+<text x="45" y="720" font-family="Arial" font-size="17" font-weight="bold">Bonus : 2027 + 2029 est-il pair ou impair ? __________________</text>
+<text x="45" y="758" font-family="Arial" font-size="14">Justification en une phrase : __________________________________________________________</text>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="29" font-weight="bold">S56 – Grande recherche ouverte</text>
+<text x="40" y="72" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="normal">La méthode est libre. Les traces et la justification sont obligatoires.</text>
+<circle cx="72" cy="131" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="137" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">1</text>
+<rect x="108" y="105" width="960" height="58" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="128" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">COMPRENDRE</text>
+<text x="330" y="128" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.9" font-weight="normal">Un déplacement vaut 1 ou 2 marches. Il faut arriver exactement en haut.</text>
+<circle cx="72" cy="214" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="220" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">2</text>
+<rect x="108" y="188" width="960" height="58" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="211" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">CHOISIR</text>
+<text x="330" y="211" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.9" font-weight="normal">Décidez vous-mêmes comment chercher : liste, dessin, tableau, arbre…</text>
+<circle cx="72" cy="297" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="303" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">3</text>
+<rect x="108" y="271" width="960" height="58" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="294" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">GARDER</text>
+<text x="330" y="294" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.9" font-weight="normal">Conservez les essais et les changements de stratégie.</text>
+<text x="135" y="319" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.3" font-weight="bold">Un essai faux peut être utile s’il montre ce qu’il faut changer.</text>
+<circle cx="72" cy="380" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="386" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">4</text>
+<rect x="108" y="354" width="960" height="58" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="377" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">ORGANISER</text>
+<text x="330" y="377" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.9" font-weight="normal">Rangez vos chemins pour repérer les oublis et les doublons.</text>
+<text x="135" y="402" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.3" font-weight="bold">Le vrai danger : oublier un chemin ou compter le même deux fois.</text>
+<circle cx="72" cy="463" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="469" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">5</text>
+<rect x="108" y="437" width="960" height="58" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="460" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">ANNONCER</text>
+<text x="330" y="460" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.9" font-weight="normal">Écrivez un résultat provisoire, même si vous n’êtes pas encore sûrs.</text>
+<circle cx="72" cy="546" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="552" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">6</text>
+<rect x="108" y="520" width="960" height="58" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="543" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">VÉRIFIER</text>
+<text x="330" y="543" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.9" font-weight="normal">Cherchez une raison pour laquelle votre résultat est complet.</text>
+<text x="135" y="568" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.3" font-weight="bold">Une réponse juste sans justification n’est pas encore une recherche terminée.</text>
+<circle cx="72" cy="629" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="635" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">7</text>
+<rect x="108" y="603" width="960" height="58" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="626" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">PRÉSENTER</text>
+<text x="330" y="626" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.9" font-weight="normal">Expliquez résultat, méthode et preuve en une minute.</text>
+<rect x="155" y="710" width="815" height="52" rx="10" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="562" y="742" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">RÉSULTAT + ORGANISATION + PREUVE</text>
+</svg>

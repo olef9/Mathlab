@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L0,6 L9,3 z" fill="#222"/>
+</marker>
+</defs>
+<text x="40" y="40" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="29" font-weight="bold">S39 – Test du spectateur</text>
+<text x="40" y="68" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Le tutoriel est réussi lorsque le spectateur peut répondre sans aide.</text>
+<circle cx="85" cy="136" r="22" fill="white" stroke="#222" stroke-width="1.6"/>
+<text x="85" y="143" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">1</text>
+<rect x="125" y="110" width="930" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="150" y="144" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">Quel était le problème de départ ?</text>
+<text x="935" y="144" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">☐ compris  ☐ à préciser</text>
+<circle cx="85" cy="218" r="22" fill="white" stroke="#222" stroke-width="1.6"/>
+<text x="85" y="225" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">2</text>
+<rect x="125" y="192" width="930" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="150" y="226" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">Quel résultat devait apparaître ?</text>
+<text x="935" y="226" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">☐ compris  ☐ à préciser</text>
+<circle cx="85" cy="300" r="22" fill="white" stroke="#222" stroke-width="1.6"/>
+<text x="85" y="307" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">3</text>
+<rect x="125" y="274" width="930" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="150" y="308" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">Quel bloc ou paramètre était important ?</text>
+<text x="935" y="308" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">☐ compris  ☐ à préciser</text>
+<circle cx="85" cy="382" r="22" fill="white" stroke="#222" stroke-width="1.6"/>
+<text x="85" y="389" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">4</text>
+<rect x="125" y="356" width="930" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="150" y="390" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">Quelle était la cause du bug ou de la difficulté ?</text>
+<text x="935" y="390" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">☐ compris  ☐ à préciser</text>
+<circle cx="85" cy="464" r="22" fill="white" stroke="#222" stroke-width="1.6"/>
+<text x="85" y="471" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">5</text>
+<rect x="125" y="438" width="930" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="150" y="472" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">Quelle modification a été effectuée ?</text>
+<text x="935" y="472" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">☐ compris  ☐ à préciser</text>
+<circle cx="85" cy="546" r="22" fill="white" stroke="#222" stroke-width="1.6"/>
+<text x="85" y="553" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">6</text>
+<rect x="125" y="520" width="930" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="150" y="554" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">Comment le test final confirme-t-il la correction ?</text>
+<text x="935" y="554" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">☐ compris  ☐ à préciser</text>
+<text x="55" y="635" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">Une phrase particulièrement claire :</text>
+<line x1="55" y1="670" x2="1060" y2="670" stroke="#222" stroke-width="1"/>
+<text x="55" y="710" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">Une amélioration précise et réalisable :</text>
+<line x1="55" y1="745" x2="1060" y2="745" stroke="#222" stroke-width="1"/>
+</svg>

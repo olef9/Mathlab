@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="40" text-anchor="start" font-family="Arial" font-size="27" font-weight="bold">S26 – Storyboard de la capsule vidéo</text>
+<text x="40" y="66" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Durée cible : 1 min 30 à 2 min 30 · plan fixe · mains et support uniquement</text>
+<rect x="45" y="95" width="1030" height="112" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<circle cx="85" cy="135" r="25" fill="white" stroke="#222" stroke-width="2"/>
+<text x="85" y="143" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold">1</text>
+<text x="130" y="127" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">TITRE ET MISSION</text>
+<text x="970" y="127" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">10 à 15 s</text>
+<text x="130" y="157" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">Nommer le système et annoncer ce que le spectateur va apprendre.</text>
+<text x="130" y="186" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Support visible : ______________________________________________</text>
+<rect x="45" y="227" width="1030" height="112" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<circle cx="85" cy="267" r="25" fill="white" stroke="#222" stroke-width="2"/>
+<text x="85" y="275" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold">2</text>
+<text x="130" y="259" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">SYMBOLES ET RÈGLE</text>
+<text x="970" y="259" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">20 à 30 s</text>
+<text x="130" y="289" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">Présenter les symboles, puis la valeur des positions ou niveaux.</text>
+<text x="130" y="318" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Support visible : ______________________________________________</text>
+<rect x="45" y="359" width="1030" height="112" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<circle cx="85" cy="399" r="25" fill="white" stroke="#222" stroke-width="2"/>
+<text x="85" y="407" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold">3</text>
+<text x="130" y="391" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">DÉCODAGE</text>
+<text x="970" y="391" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">30 à 40 s</text>
+<text x="130" y="421" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">Décomposer une écriture et calculer sa valeur.</text>
+<text x="130" y="450" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Support visible : ______________________________________________</text>
+<rect x="45" y="491" width="1030" height="112" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<circle cx="85" cy="531" r="25" fill="white" stroke="#222" stroke-width="2"/>
+<text x="85" y="539" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold">4</text>
+<text x="130" y="523" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">CODAGE ET ERREUR</text>
+<text x="970" y="523" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">30 à 40 s</text>
+<text x="130" y="553" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">Coder un nombre puis signaler une erreur fréquente.</text>
+<text x="130" y="582" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Support visible : ______________________________________________</text>
+<rect x="45" y="623" width="1030" height="112" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<circle cx="85" cy="663" r="25" fill="white" stroke="#222" stroke-width="2"/>
+<text x="85" y="671" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold">5</text>
+<text x="130" y="655" text-anchor="start" font-family="Arial" font-size="17" font-weight="bold">DÉFI ET CONCLUSION</text>
+<text x="970" y="655" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">15 à 25 s</text>
+<text x="130" y="685" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">Poser un défi, laisser une pause et conclure.</text>
+<text x="130" y="714" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Support visible : ______________________________________________</text>
+<text x="45" y="770" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">Nom du fichier : __________________________________________________________</text>
+</svg>

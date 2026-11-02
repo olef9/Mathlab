@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="40" text-anchor="start" font-family="Arial" font-size="28" font-weight="bold">Guide 2 – Passer du triangle au carré</text>
+<rect x="45" y="90" width="330" height="620" rx="12" fill="white" stroke="#222" stroke-width="1.7"/>
+<rect x="390" y="90" width="330" height="620" rx="12" fill="white" stroke="#222" stroke-width="1.7"/>
+<rect x="735" y="90" width="330" height="620" rx="12" fill="white" stroke="#222" stroke-width="1.7"/>
+<text x="210" y="130" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">4. Relever les bandes</text>
+<polygon points="90,400 210,210 330,400" fill="white" stroke="#222" stroke-width="2"/>
+<rect x="90" y="400" width="240" height="55" rx="0" fill="white" stroke="#222" stroke-width="2"/>
+<text x="210" y="500" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">Une bande devant, une derrière.</text>
+<text x="555" y="130" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">5. Ouvrir la poche</text>
+<polygon points="450,390 555,210 660,390" fill="white" stroke="#222" stroke-width="2"/>
+<line x1="555" y1="210" x2="555" y2="390" stroke="#222" stroke-width="1.5" stroke-dasharray="8 6"/>
+<text x="555" y="500" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">Écarter la base du triangle.</text>
+<text x="900" y="130" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">6. Aplatir en carré</text>
+<polygon points="900,210 1010,330 900,450 790,330" fill="white" stroke="#222" stroke-width="2"/>
+<text x="900" y="500" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">Rapprocher les pointes opposées.</text>
+<text x="560" y="755" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">Transformation clé : ouvrir puis aplatir dans l’autre direction.</text>
+</svg>

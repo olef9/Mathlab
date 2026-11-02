@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="1150" viewBox="0 0 1123 1150">
+<rect width="1123" height="1150" fill="white"/>
+<style>
+.role{font-family:Arial,sans-serif;font-size:20px;font-weight:bold;fill:#111}
+.txt{font-family:Arial,sans-serif;font-size:17px;fill:#111}
+.small{font-family:Arial,sans-serif;font-size:15px;font-style:italic;fill:#333}
+</style>
+
+<rect x="28" y="35" width="515" height="195" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="42" y="63" class="role">MISSION A</text>
+<text x="42" y="91" class="txt">1. Commence seul : carte CARRÉ.</text>
+<text x="42" y="115" class="txt">2. Explique ton résultat à ton partenaire.</text>
+<text x="42" y="139" class="txt">3. Écoute et vérifie son raisonnement.</text>
+<text x="42" y="163" class="txt">4. Puis prends la carte ÉTOILE.</text>
+<text x="42" y="187" class="txt">5. Pour finir, tu as besoin du résultat CERCLE.</text>
+<text x="42" y="215" class="small">Interdit : annoncer seulement un chiffre.</text>
+
+<rect x="580" y="35" width="515" height="195" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="594" y="63" class="role">MISSION B</text>
+<text x="594" y="91" class="txt">1. Commence seul : carte CERCLE.</text>
+<text x="594" y="115" class="txt">2. Explique ton résultat à ton partenaire.</text>
+<text x="594" y="139" class="txt">3. Écoute et vérifie son raisonnement.</text>
+<text x="594" y="163" class="txt">4. Puis prends la carte TRIANGLE.</text>
+<text x="594" y="187" class="txt">5. Pour finir, tu as besoin du résultat CARRÉ.</text>
+<text x="594" y="215" class="small">Interdit : annoncer seulement un chiffre.</text>
+
+<rect x="28" y="255" width="515" height="195" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="42" y="283" class="role">MISSION A</text>
+<text x="42" y="311" class="txt">1. Commence seul : carte CARRÉ.</text>
+<text x="42" y="335" class="txt">2. Explique ton résultat à ton partenaire.</text>
+<text x="42" y="359" class="txt">3. Écoute et vérifie son raisonnement.</text>
+<text x="42" y="383" class="txt">4. Puis prends la carte ÉTOILE.</text>
+<text x="42" y="407" class="txt">5. Pour finir, tu as besoin du résultat CERCLE.</text>
+<text x="42" y="435" class="small">Interdit : annoncer seulement un chiffre.</text>
+
+<rect x="580" y="255" width="515" height="195" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="594" y="283" class="role">MISSION B</text>
+<text x="594" y="311" class="txt">1. Commence seul : carte CERCLE.</text>
+<text x="594" y="335" class="txt">2. Explique ton résultat à ton partenaire.</text>
+<text x="594" y="359" class="txt">3. Écoute et vérifie son raisonnement.</text>
+<text x="594" y="383" class="txt">4. Puis prends la carte TRIANGLE.</text>
+<text x="594" y="407" class="txt">5. Pour finir, tu as besoin du résultat CARRÉ.</text>
+<text x="594" y="435" class="small">Interdit : annoncer seulement un chiffre.</text>
+
+<rect x="28" y="475" width="515" height="195" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="42" y="503" class="role">MISSION A</text>
+<text x="42" y="531" class="txt">1. Commence seul : carte CARRÉ.</text>
+<text x="42" y="555" class="txt">2. Explique ton résultat à ton partenaire.</text>
+<text x="42" y="579" class="txt">3. Écoute et vérifie son raisonnement.</text>
+<text x="42" y="603" class="txt">4. Puis prends la carte ÉTOILE.</text>
+<text x="42" y="627" class="txt">5. Pour finir, tu as besoin du résultat CERCLE.</text>
+<text x="42" y="655" class="small">Interdit : annoncer seulement un chiffre.</text>
+
+<rect x="580" y="475" width="515" height="195" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="594" y="503" class="role">MISSION B</text>
+<text x="594" y="531" class="txt">1. Commence seul : carte CERCLE.</text>
+<text x="594" y="555" class="txt">2. Explique ton résultat à ton partenaire.</text>
+<text x="594" y="579" class="txt">3. Écoute et vérifie son raisonnement.</text>
+<text x="594" y="603" class="txt">4. Puis prends la carte TRIANGLE.</text>
+<text x="594" y="627" class="txt">5. Pour finir, tu as besoin du résultat CARRÉ.</text>
+<text x="594" y="655" class="small">Interdit : annoncer seulement un chiffre.</text>
+
+<rect x="28" y="695" width="515" height="195" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="42" y="723" class="role">MISSION A</text>
+<text x="42" y="751" class="txt">1. Commence seul : carte CARRÉ.</text>
+<text x="42" y="775" class="txt">2. Explique ton résultat à ton partenaire.</text>
+<text x="42" y="799" class="txt">3. Écoute et vérifie son raisonnement.</text>
+<text x="42" y="823" class="txt">4. Puis prends la carte ÉTOILE.</text>
+<text x="42" y="847" class="txt">5. Pour finir, tu as besoin du résultat CERCLE.</text>
+<text x="42" y="875" class="small">Interdit : annoncer seulement un chiffre.</text>
+
+<rect x="580" y="695" width="515" height="195" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="594" y="723" class="role">MISSION B</text>
+<text x="594" y="751" class="txt">1. Commence seul : carte CERCLE.</text>
+<text x="594" y="775" class="txt">2. Explique ton résultat à ton partenaire.</text>
+<text x="594" y="799" class="txt">3. Écoute et vérifie son raisonnement.</text>
+<text x="594" y="823" class="txt">4. Puis prends la carte TRIANGLE.</text>
+<text x="594" y="847" class="txt">5. Pour finir, tu as besoin du résultat CARRÉ.</text>
+<text x="594" y="875" class="small">Interdit : annoncer seulement un chiffre.</text>
+
+<rect x="28" y="915" width="515" height="195" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="42" y="943" class="role">MISSION A</text>
+<text x="42" y="971" class="txt">1. Commence seul : carte CARRÉ.</text>
+<text x="42" y="995" class="txt">2. Explique ton résultat à ton partenaire.</text>
+<text x="42" y="1019" class="txt">3. Écoute et vérifie son raisonnement.</text>
+<text x="42" y="1043" class="txt">4. Puis prends la carte ÉTOILE.</text>
+<text x="42" y="1067" class="txt">5. Pour finir, tu as besoin du résultat CERCLE.</text>
+<text x="42" y="1095" class="small">Interdit : annoncer seulement un chiffre.</text>
+
+<rect x="580" y="915" width="515" height="195" rx="10" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="594" y="943" class="role">MISSION B</text>
+<text x="594" y="971" class="txt">1. Commence seul : carte CERCLE.</text>
+<text x="594" y="995" class="txt">2. Explique ton résultat à ton partenaire.</text>
+<text x="594" y="1019" class="txt">3. Écoute et vérifie son raisonnement.</text>
+<text x="594" y="1043" class="txt">4. Puis prends la carte TRIANGLE.</text>
+<text x="594" y="1067" class="txt">5. Pour finir, tu as besoin du résultat CARRÉ.</text>
+<text x="594" y="1095" class="small">Interdit : annoncer seulement un chiffre.</text>
+
+</svg>

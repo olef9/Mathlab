@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<rect width="100%" height="100%" fill="white"/>
+<text x="55" y="65" font-family="Arial, sans-serif" font-size="34" font-weight="bold" text-anchor="start" fill="#111">S27 - Mission 1 : une seule forme</text>
+<rect x="35" y="120" width="230" height="650" rx="18" fill="#fafafa" stroke="#333" stroke-width="2"/>
+<text x="60" y="160" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="start" fill="#111">BINÔME A</text>
+<text x="150" y="200" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#111">TRIANGLES</text>
+<polygon points="150.0,290.0 210.6,395.0 89.4,395.0" fill="#f6f6f6" stroke="#222" stroke-width="2"/>
+<text x="150" y="510" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#111">Peut-on paver</text>
+<text x="150" y="540" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#111">uniquement avec</text>
+<text x="150" y="570" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#111">cette forme ?</text>
+<text x="150" y="650" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#111">Sans angles au départ.</text>
+<rect x="305" y="120" width="230" height="650" rx="18" fill="#fafafa" stroke="#333" stroke-width="2"/>
+<text x="330" y="160" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="start" fill="#111">BINÔME B</text>
+<text x="420" y="200" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#111">CARRÉS</text>
+<polygon points="420.0,290.0 490.0,360.0 420.0,430.0 350.0,360.0" fill="#f6f6f6" stroke="#222" stroke-width="2"/>
+<text x="420" y="510" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#111">Peut-on paver</text>
+<text x="420" y="540" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#111">uniquement avec</text>
+<text x="420" y="570" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#111">cette forme ?</text>
+<text x="420" y="650" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#111">Sans angles au départ.</text>
+<rect x="575" y="120" width="230" height="650" rx="18" fill="#fafafa" stroke="#333" stroke-width="2"/>
+<text x="600" y="160" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="start" fill="#111">BINÔME C</text>
+<text x="690" y="200" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#111">PENTAGONES</text>
+<polygon points="690.0,290.0 756.6,338.4 731.1,416.6 648.9,416.6 623.4,338.4" fill="#f6f6f6" stroke="#222" stroke-width="2"/>
+<text x="690" y="510" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#111">Peut-on paver</text>
+<text x="690" y="540" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#111">uniquement avec</text>
+<text x="690" y="570" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#111">cette forme ?</text>
+<text x="690" y="650" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#111">Sans angles au départ.</text>
+<rect x="845" y="120" width="230" height="650" rx="18" fill="#fafafa" stroke="#333" stroke-width="2"/>
+<text x="870" y="160" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="start" fill="#111">BINÔME D</text>
+<text x="960" y="200" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#111">HEXAGONES</text>
+<polygon points="960.0,290.0 1020.6,325.0 1020.6,395.0 960.0,430.0 899.4,395.0 899.4,325.0" fill="#f6f6f6" stroke="#222" stroke-width="2"/>
+<text x="960" y="510" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#111">Peut-on paver</text>
+<text x="960" y="540" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#111">uniquement avec</text>
+<text x="960" y="570" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#111">cette forme ?</text>
+<text x="960" y="650" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#111">Sans angles au départ.</text>
+<rect x="1115" y="120" width="230" height="650" rx="18" fill="#fafafa" stroke="#333" stroke-width="2"/>
+<text x="1140" y="160" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="start" fill="#111">BINÔME E</text>
+<text x="1230" y="200" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#111">OCTOGONES</text>
+<polygon points="1230.0,295.0 1276.0,314.0 1295.0,360.0 1276.0,406.0 1230.0,425.0 1184.0,406.0 1165.0,360.0 1184.0,314.0" fill="#f6f6f6" stroke="#222" stroke-width="2"/>
+<text x="1230" y="510" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#111">Peut-on paver</text>
+<text x="1230" y="540" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#111">uniquement avec</text>
+<text x="1230" y="570" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#111">cette forme ?</text>
+<text x="1230" y="650" font-family="Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#111">Sans angles au départ.</text>
+</svg>

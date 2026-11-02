@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="29" font-weight="bold">EUR-11 – Les trois cartes-nombres</text>
+<text x="40" y="72" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="normal">Rituel indépendant de la séance de construction.</text>
+<rect x="45" y="110" width="1030" height="145" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="75" y="145" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">Trois nombres entiers différents ont une somme de 45.</text>
+<text x="75" y="185" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">Le plus grand vaut le double du plus petit.</text>
+<text x="75" y="225" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">Le troisième vaut 3 de plus que le plus petit.</text>
+<rect x="125" y="315" width="250" height="125" rx="12" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="250" y="350" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">plus petit</text>
+<text x="250" y="405" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="24" font-weight="bold">__________</text>
+<rect x="455" y="315" width="250" height="125" rx="12" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="580" y="350" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">troisième</text>
+<text x="580" y="405" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="24" font-weight="bold">__________</text>
+<rect x="785" y="315" width="250" height="125" rx="12" fill="white" stroke="#222" stroke-width="1.5"/>
+<text x="910" y="350" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">plus grand</text>
+<text x="910" y="405" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="24" font-weight="bold">__________</text>
+<rect x="115" y="500" width="895" height="90" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="562" y="535" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">Le problème est-il possible ?</text>
+<text x="562" y="570" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">Sinon, modifier un seul nombre puis résoudre.</text>
+<text x="55" y="655" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Modification proposée : ______________________________________________________________________</text>
+<text x="55" y="705" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Solution obtenue : ___________________________________________________________________________</text>
+<text x="55" y="760" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Justification : _______________________________________________________________________________</text>
+</svg>

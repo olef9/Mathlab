@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="40" text-anchor="start" font-family="Arial" font-size="28" font-weight="bold">S34 – Cartes d’objections</text>
+<text x="40" y="68" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">Découper. Le jury choisit une question après chaque présentation.</text>
+<rect x="40" y="105" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="7 5"/>
+<circle cx="68" cy="133" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="68" y="139" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">1</text>
+<text x="205" y="153" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">Avez-vous étudié tous les cas ?</text>
+<rect x="400" y="105" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="7 5"/>
+<circle cx="428" cy="133" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="428" y="139" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">2</text>
+<text x="565" y="153" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">Quel rectangle pourrait avoir été</text>
+<text x="565" y="177" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">oublié ?</text>
+<rect x="760" y="105" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="7 5"/>
+<circle cx="788" cy="133" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="788" y="139" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">3</text>
+<text x="925" y="153" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">Votre dessin est-il une preuve ou un</text>
+<text x="925" y="177" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">exemple ?</text>
+<rect x="40" y="260" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="7 5"/>
+<circle cx="68" cy="288" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="68" y="294" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">4</text>
+<text x="205" y="308" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">Quelle donnée soutient votre</text>
+<text x="205" y="332" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">affirmation ?</text>
+<rect x="400" y="260" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="7 5"/>
+<circle cx="428" cy="288" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="428" y="294" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">5</text>
+<text x="565" y="308" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">Pourquoi votre preuve permet-elle de</text>
+<text x="565" y="332" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">conclure ?</text>
+<rect x="760" y="260" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="7 5"/>
+<circle cx="788" cy="288" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="788" y="294" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">6</text>
+<text x="925" y="308" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">Votre stratégie donne-t-elle seulement</text>
+<text x="925" y="332" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">la bonne réponse ?</text>
+<rect x="40" y="415" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="7 5"/>
+<circle cx="68" cy="443" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="68" y="449" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">7</text>
+<text x="205" y="463" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">Quelle étape pourrait être supprimée</text>
+<text x="205" y="487" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">sans affaiblir la preuve ?</text>
+<rect x="400" y="415" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="7 5"/>
+<circle cx="428" cy="443" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="428" y="449" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">8</text>
+<text x="565" y="463" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">Comment répondriez-vous à la</text>
+<text x="565" y="487" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">proposition 5 × 7 ?</text>
+<rect x="760" y="415" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="7 5"/>
+<circle cx="788" cy="443" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="788" y="449" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">9</text>
+<text x="925" y="463" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">Votre méthode fonctionnerait-elle avec</text>
+<text x="925" y="487" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">20 segments ?</text>
+<rect x="40" y="570" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="7 5"/>
+<circle cx="68" cy="598" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="68" y="604" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">10</text>
+<text x="205" y="618" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">Pouvez-vous donner un contre-exemple à</text>
+<text x="205" y="642" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">votre méthode ?</text>
+<rect x="400" y="570" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="7 5"/>
+<circle cx="428" cy="598" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="428" y="604" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">11</text>
+<text x="565" y="618" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">Quelle est la première faiblesse de</text>
+<text x="565" y="642" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">votre argument ?</text>
+<rect x="760" y="570" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="7 5"/>
+<circle cx="788" cy="598" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="788" y="604" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">12</text>
+<text x="925" y="618" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">Une autre équipe peut-elle vérifier</text>
+<text x="925" y="642" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">votre raisonnement ?</text>
+</svg>

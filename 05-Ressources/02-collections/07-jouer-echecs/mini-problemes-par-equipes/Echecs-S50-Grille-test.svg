@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="28.5" font-weight="bold" fill="#111">S50 – Grille de test d’un mini-problème</text>
+<text x="40" y="70" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="normal" fill="#111">Équipe créatrice : ______   Équipe testeuse : ______</text>
+<rect x="20" y="105" width="585" height="48" rx="0" fill="#ededed" stroke="#222" stroke-width="1.0"/>
+<text x="312.5" y="136" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="#111">Contrôle</text>
+<rect x="605" y="105" width="75" height="48" rx="0" fill="#ededed" stroke="#222" stroke-width="1.0"/>
+<text x="642.5" y="136" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="#111">Oui</text>
+<rect x="680" y="105" width="75" height="48" rx="0" fill="#ededed" stroke="#222" stroke-width="1.0"/>
+<text x="717.5" y="136" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="#111">Non</text>
+<rect x="755" y="105" width="365" height="48" rx="0" fill="#ededed" stroke="#222" stroke-width="1.0"/>
+<text x="937.5" y="136" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="#111">Observation</text>
+<rect x="20" y="153" width="585" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="34" y="183" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">L’échiquier est correctement orienté.</text>
+<rect x="605" y="153" width="75" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="642.5" y="183" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">☐</text>
+<rect x="680" y="153" width="75" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="717.5" y="183" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">☐</text>
+<rect x="755" y="153" width="365" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="937.5" y="183" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="normal" fill="#111"></text>
+<rect x="20" y="202" width="585" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="34" y="232" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">La position correspond exactement au diagramme.</text>
+<rect x="605" y="202" width="75" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="642.5" y="232" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">☐</text>
+<rect x="680" y="202" width="75" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="717.5" y="232" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">☐</text>
+<rect x="755" y="202" width="365" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="937.5" y="232" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="normal" fill="#111"></text>
+<rect x="20" y="251" width="585" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="34" y="281" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">Les deux rois sont présents et non adjacents.</text>
+<rect x="605" y="251" width="75" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="642.5" y="281" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">☐</text>
+<rect x="680" y="251" width="75" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="717.5" y="281" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">☐</text>
+<rect x="755" y="251" width="365" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="937.5" y="281" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="normal" fill="#111"></text>
+<rect x="20" y="300" width="585" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="34" y="330" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">Le camp qui joue est clairement indiqué.</text>
+<rect x="605" y="300" width="75" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="642.5" y="330" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">☐</text>
+<rect x="680" y="300" width="75" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="717.5" y="330" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">☐</text>
+<rect x="755" y="300" width="365" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="937.5" y="330" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="normal" fill="#111"></text>
+<rect x="20" y="349" width="585" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="34" y="379" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">La question est comprise sans explication orale.</text>
+<rect x="605" y="349" width="75" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="642.5" y="379" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">☐</text>
+<rect x="680" y="349" width="75" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="717.5" y="379" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">☐</text>
+<rect x="755" y="349" width="365" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="937.5" y="379" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="normal" fill="#111"></text>
+<rect x="20" y="398" width="585" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="34" y="428" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">Le coup trouvé respecte le déplacement de la pièce.</text>
+<rect x="605" y="398" width="75" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="642.5" y="428" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">☐</text>
+<rect x="680" y="398" width="75" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="717.5" y="428" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">☐</text>
+<rect x="755" y="398" width="365" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="937.5" y="428" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="normal" fill="#111"></text>
+<rect x="20" y="447" width="585" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="34" y="477" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">Le coup ne laisse pas son propre roi en échec.</text>
+<rect x="605" y="447" width="75" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="642.5" y="477" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">☐</text>
+<rect x="680" y="447" width="75" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="717.5" y="477" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">☐</text>
+<rect x="755" y="447" width="365" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="937.5" y="477" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="normal" fill="#111"></text>
+<rect x="20" y="496" width="585" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="34" y="526" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">L’effet annoncé du coup est correct.</text>
+<rect x="605" y="496" width="75" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="642.5" y="526" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">☐</text>
+<rect x="680" y="496" width="75" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="717.5" y="526" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">☐</text>
+<rect x="755" y="496" width="365" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="937.5" y="526" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="normal" fill="#111"></text>
+<rect x="20" y="545" width="585" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="34" y="575" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">La solution secrète correspond au défi.</text>
+<rect x="605" y="545" width="75" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="642.5" y="575" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">☐</text>
+<rect x="680" y="545" width="75" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="717.5" y="575" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">☐</text>
+<rect x="755" y="545" width="365" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="937.5" y="575" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="normal" fill="#111"></text>
+<rect x="20" y="594" width="585" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="34" y="624" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">Aucune deuxième solution évidente n’a été repérée.</text>
+<rect x="605" y="594" width="75" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="642.5" y="624" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">☐</text>
+<rect x="680" y="594" width="75" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="717.5" y="624" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="bold" fill="#111">☐</text>
+<rect x="755" y="594" width="365" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.8"/>
+<text x="937.5" y="624" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.0" font-weight="normal" fill="#111"></text>
+<text x="35" y="675" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="bold" fill="#111">Coup trouvé : ______________________</text>
+<text x="430" y="675" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="bold" fill="#111">Solution secrète : ______________________</text>
+<text x="35" y="720" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="bold" fill="#111">Correction demandée : ______________________________________________________________________</text>
+<text x="35" y="765" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="bold" fill="#111">Verdict :  ☐ défi validé   ☐ défi à corriger</text>
+</svg>

@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L0,6 L9,3 z" fill="#222"/>
+</marker>
+</defs>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="29" font-weight="bold">S44 – Grille de contrôle géométrique</text>
+<text x="40" y="70" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Équipe observée : ______   Mission : ______   Équipe testeuse : ______</text>
+<rect x="20" y="108" width="500" height="50" rx="0" fill="#ededed" stroke="#222" stroke-width="1.2"/>
+<text x="270.0" y="140" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">Contrôle</text>
+<rect x="520" y="108" width="115" height="50" rx="0" fill="#ededed" stroke="#222" stroke-width="1.2"/>
+<text x="577.5" y="140" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">Conforme</text>
+<rect x="635" y="108" width="115" height="50" rx="0" fill="#ededed" stroke="#222" stroke-width="1.2"/>
+<text x="692.5" y="140" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">À corriger</text>
+<rect x="750" y="108" width="350" height="50" rx="0" fill="#ededed" stroke="#222" stroke-width="1.2"/>
+<text x="925.0" y="140" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">Mesure ou observation</text>
+<rect x="20" y="158" width="500" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="34" y="188" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">L’axe ou le centre est correctement placé.</text>
+<rect x="520" y="158" width="115" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="577.5" y="188" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">☐</text>
+<rect x="635" y="158" width="115" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="692.5" y="188" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">☐</text>
+<rect x="750" y="158" width="350" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="925.0" y="188" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal"></text>
+<rect x="20" y="207" width="500" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="34" y="237" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">Le motif-source est identifiable.</text>
+<rect x="520" y="207" width="115" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="577.5" y="237" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">☐</text>
+<rect x="635" y="207" width="115" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="692.5" y="237" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">☐</text>
+<rect x="750" y="207" width="350" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="925.0" y="237" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal"></text>
+<rect x="20" y="256" width="500" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="34" y="286" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">La méthode de reproduction est annoncée.</text>
+<rect x="520" y="256" width="115" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="577.5" y="286" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">☐</text>
+<rect x="635" y="256" width="115" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="692.5" y="286" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">☐</text>
+<rect x="750" y="256" width="350" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="925.0" y="286" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal"></text>
+<rect x="20" y="305" width="500" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="34" y="335" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">Le repère 1 se superpose.</text>
+<rect x="520" y="305" width="115" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="577.5" y="335" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">☐</text>
+<rect x="635" y="305" width="115" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="692.5" y="335" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">☐</text>
+<rect x="750" y="305" width="350" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="925.0" y="335" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal"></text>
+<rect x="20" y="354" width="500" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="34" y="384" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">Le repère 2 se superpose.</text>
+<rect x="520" y="354" width="115" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="577.5" y="384" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">☐</text>
+<rect x="635" y="354" width="115" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="692.5" y="384" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">☐</text>
+<rect x="750" y="354" width="350" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="925.0" y="384" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal"></text>
+<rect x="20" y="403" width="500" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="34" y="433" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">Le repère 3 se superpose.</text>
+<rect x="520" y="403" width="115" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="577.5" y="433" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">☐</text>
+<rect x="635" y="403" width="115" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="692.5" y="433" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">☐</text>
+<rect x="750" y="403" width="350" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="925.0" y="433" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal"></text>
+<rect x="20" y="452" width="500" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="34" y="482" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">Le repère 4 se superpose.</text>
+<rect x="520" y="452" width="115" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="577.5" y="482" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">☐</text>
+<rect x="635" y="452" width="115" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="692.5" y="482" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">☐</text>
+<rect x="750" y="452" width="350" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="925.0" y="482" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal"></text>
+<rect x="20" y="501" width="500" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="34" y="531" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">Le repère 5 se superpose.</text>
+<rect x="520" y="501" width="115" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="577.5" y="531" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">☐</text>
+<rect x="635" y="501" width="115" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="692.5" y="531" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">☐</text>
+<rect x="750" y="501" width="350" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="925.0" y="531" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal"></text>
+<rect x="20" y="550" width="500" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="34" y="580" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">Les raccords sont continus.</text>
+<rect x="520" y="550" width="115" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="577.5" y="580" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">☐</text>
+<rect x="635" y="550" width="115" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="692.5" y="580" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">☐</text>
+<rect x="750" y="550" width="350" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="925.0" y="580" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal"></text>
+<rect x="20" y="599" width="500" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="34" y="629" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">La transformation reste lisible.</text>
+<rect x="520" y="599" width="115" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="577.5" y="629" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">☐</text>
+<rect x="635" y="599" width="115" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="692.5" y="629" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">☐</text>
+<rect x="750" y="599" width="350" height="49" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="925.0" y="629" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal"></text>
+<text x="35" y="690" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.2" font-weight="bold">Défaut prioritaire : ____________________________________________________________________________</text>
+<text x="35" y="730" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.2" font-weight="bold">Correction proposée : __________________________________________________________________________</text>
+<text x="35" y="770" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.2" font-weight="bold">Verdict :  ☐ validé   ☐ correction rapide   ☐ construction à reprendre</text>
+</svg>

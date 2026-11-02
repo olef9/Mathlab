@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="40" text-anchor="start" font-family="Arial" font-size="28" font-weight="bold">S34 – Correction : qualité des cinq stratégies</text>
+<text x="40" y="68" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">Le classement porte sur la justification, pas seulement sur la réponse.</text>
+<rect x="55" y="115" width="150" height="62" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.6"/>
+<text x="130.0" y="154" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">Stratégie</text>
+<rect x="205" y="115" width="270" height="62" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.6"/>
+<text x="340.0" y="154" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">Verdict</text>
+<rect x="475" y="115" width="590" height="62" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.6"/>
+<text x="770.0" y="154" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">Pourquoi ?</text>
+<rect x="55" y="177" width="150" height="91" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="130.0" y="232" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold">A</text>
+<rect x="205" y="177" width="270" height="91" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="340.0" y="232" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">SOLIDE</text>
+<rect x="475" y="177" width="590" height="91" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="495" y="215" text-anchor="start" font-family="Arial" font-size="13.5" font-weight="normal">Tous les couples sont recensés et comparés.</text>
+<rect x="55" y="268" width="150" height="91" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="130.0" y="323" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold">B</text>
+<rect x="205" y="268" width="270" height="91" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="340.0" y="323" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">À RENFORCER</text>
+<rect x="475" y="268" width="590" height="91" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="495" y="306" text-anchor="start" font-family="Arial" font-size="13.5" font-weight="normal">Les exemples montrent la tendance, mais il faut couvrir les cas plus</text>
+<text x="495" y="328" text-anchor="start" font-family="Arial" font-size="13.5" font-weight="normal">allongés.</text>
+<rect x="55" y="359" width="150" height="91" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="130.0" y="414" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold">C</text>
+<rect x="205" y="359" width="270" height="91" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="340.0" y="414" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">À RENFORCER</text>
+<rect x="475" y="359" width="590" height="91" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="495" y="397" text-anchor="start" font-family="Arial" font-size="13.5" font-weight="normal">Les trois meilleurs candidats sont comparés sans justification de</text>
+<text x="495" y="419" text-anchor="start" font-family="Arial" font-size="13.5" font-weight="normal">leur sélection.</text>
+<rect x="55" y="450" width="150" height="91" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="130.0" y="505" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold">D</text>
+<rect x="205" y="450" width="270" height="91" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="340.0" y="505" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">À ABANDONNER</text>
+<rect x="475" y="450" width="590" height="91" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="495" y="488" text-anchor="start" font-family="Arial" font-size="13.5" font-weight="normal">Une impression visuelle ne constitue pas une preuve.</text>
+<rect x="55" y="541" width="150" height="91" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="130.0" y="596" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold">E</text>
+<rect x="205" y="541" width="270" height="91" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="340.0" y="596" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">SOLIDE ET EFFICACE</text>
+<rect x="475" y="541" width="590" height="91" rx="0" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="495" y="579" text-anchor="start" font-family="Arial" font-size="13.5" font-weight="normal">Les cas faibles sont écartés, puis les deux derniers sont comparés.</text>
+<rect x="165" y="680" width="790" height="70" rx="12" fill="white" stroke="#222" stroke-width="2"/>
+<text x="560" y="712" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">Meilleure stratégie courte : E</text>
+<text x="560" y="738" text-anchor="start" font-family="Arial" font-size="16" font-weight="middle">Meilleure stratégie immédiatement vérifiable : A</text>
+</svg>

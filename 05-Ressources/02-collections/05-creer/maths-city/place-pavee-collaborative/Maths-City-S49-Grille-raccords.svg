@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="29" font-weight="bold">S49 – Contrôle des quatre raccords</text>
+<text x="40" y="70" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Écrire une mesure. Ne pas se contenter de « c’est bon ».</text>
+<rect x="20" y="115" width="130" height="55" rx="0" fill="#e8e8e8" stroke="#333" stroke-width="1"/>
+<text x="85.0" y="149" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">Raccord</text>
+<rect x="150" y="115" width="260" height="55" rx="0" fill="#e8e8e8" stroke="#333" stroke-width="1"/>
+<text x="280.0" y="149" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">Cases grises face à face</text>
+<rect x="410" y="115" width="190" height="55" rx="0" fill="#e8e8e8" stroke="#333" stroke-width="1"/>
+<text x="505.0" y="149" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">Décalage maximal</text>
+<rect x="600" y="115" width="160" height="55" rx="0" fill="#e8e8e8" stroke="#333" stroke-width="1"/>
+<text x="680.0" y="149" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">Verdict</text>
+<rect x="760" y="115" width="340" height="55" rx="0" fill="#e8e8e8" stroke="#333" stroke-width="1"/>
+<text x="930.0" y="149" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">Correction</text>
+<rect x="20" y="170" width="130" height="115" rx="0" fill="white" stroke="#555" stroke-width="0.9"/>
+<text x="85.0" y="232" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="bold">A-B</text>
+<rect x="150" y="170" width="260" height="115" rx="0" fill="white" stroke="#555" stroke-width="0.9"/>
+<text x="280.0" y="232" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">☐ oui   ☐ non</text>
+<rect x="410" y="170" width="190" height="115" rx="0" fill="white" stroke="#555" stroke-width="0.9"/>
+<text x="505.0" y="232" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">______ mm</text>
+<rect x="600" y="170" width="160" height="115" rx="0" fill="white" stroke="#555" stroke-width="0.9"/>
+<text x="680.0" y="232" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">☐ validé  ☐ à corriger</text>
+<rect x="760" y="170" width="340" height="115" rx="0" fill="white" stroke="#555" stroke-width="0.9"/>
+<rect x="20" y="285" width="130" height="115" rx="0" fill="white" stroke="#555" stroke-width="0.9"/>
+<text x="85.0" y="347" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="bold">A-C</text>
+<rect x="150" y="285" width="260" height="115" rx="0" fill="white" stroke="#555" stroke-width="0.9"/>
+<text x="280.0" y="347" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">☐ oui   ☐ non</text>
+<rect x="410" y="285" width="190" height="115" rx="0" fill="white" stroke="#555" stroke-width="0.9"/>
+<text x="505.0" y="347" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">______ mm</text>
+<rect x="600" y="285" width="160" height="115" rx="0" fill="white" stroke="#555" stroke-width="0.9"/>
+<text x="680.0" y="347" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">☐ validé  ☐ à corriger</text>
+<rect x="760" y="285" width="340" height="115" rx="0" fill="white" stroke="#555" stroke-width="0.9"/>
+<rect x="20" y="400" width="130" height="115" rx="0" fill="white" stroke="#555" stroke-width="0.9"/>
+<text x="85.0" y="462" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="bold">A-D</text>
+<rect x="150" y="400" width="260" height="115" rx="0" fill="white" stroke="#555" stroke-width="0.9"/>
+<text x="280.0" y="462" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">☐ oui   ☐ non</text>
+<rect x="410" y="400" width="190" height="115" rx="0" fill="white" stroke="#555" stroke-width="0.9"/>
+<text x="505.0" y="462" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">______ mm</text>
+<rect x="600" y="400" width="160" height="115" rx="0" fill="white" stroke="#555" stroke-width="0.9"/>
+<text x="680.0" y="462" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">☐ validé  ☐ à corriger</text>
+<rect x="760" y="400" width="340" height="115" rx="0" fill="white" stroke="#555" stroke-width="0.9"/>
+<rect x="20" y="515" width="130" height="115" rx="0" fill="white" stroke="#555" stroke-width="0.9"/>
+<text x="85.0" y="577" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="bold">A-E</text>
+<rect x="150" y="515" width="260" height="115" rx="0" fill="white" stroke="#555" stroke-width="0.9"/>
+<text x="280.0" y="577" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">☐ oui   ☐ non</text>
+<rect x="410" y="515" width="190" height="115" rx="0" fill="white" stroke="#555" stroke-width="0.9"/>
+<text x="505.0" y="577" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">______ mm</text>
+<rect x="600" y="515" width="160" height="115" rx="0" fill="white" stroke="#555" stroke-width="0.9"/>
+<text x="680.0" y="577" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="normal">☐ validé  ☐ à corriger</text>
+<rect x="760" y="515" width="340" height="115" rx="0" fill="white" stroke="#555" stroke-width="0.9"/>
+<text x="35" y="665" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">Après correction, le raccord choisi est :  ☐ validé   ☐ encore à reprendre</text>
+<text x="35" y="715" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Photographie de la place prise du dessus : ☐</text>
+<text x="35" y="765" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Rappel : un décalage supérieur à 2 mm doit être corrigé.</text>
+</svg>

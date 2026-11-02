@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="40" text-anchor="start" font-family="Arial" font-size="28" font-weight="bold">S34 – Grille du jury</text>
+<text x="40" y="68" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">Équipe entendue : ____________________   Stratégie : ______</text>
+<rect x="55" y="110" width="420" height="58" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.5"/>
+<text x="265.0" y="147" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold">Critère</text>
+<rect x="475" y="110" width="70" height="58" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.5"/>
+<text x="510.0" y="147" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold">0</text>
+<rect x="545" y="110" width="70" height="58" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.5"/>
+<text x="580.0" y="147" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold">1</text>
+<rect x="615" y="110" width="70" height="58" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.5"/>
+<text x="650.0" y="147" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold">2</text>
+<rect x="685" y="110" width="350" height="58" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.5"/>
+<text x="860.0" y="147" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold">Observation</text>
+<rect x="55" y="168" width="420" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="73" y="206" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold">Affirmation précise</text>
+<rect x="475" y="168" width="70" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="510.0" y="206" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">☐</text>
+<rect x="545" y="168" width="70" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="580.0" y="206" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">☐</text>
+<rect x="615" y="168" width="70" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="650.0" y="206" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">☐</text>
+<rect x="685" y="168" width="350" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="860.0" y="206" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal"></text>
+<rect x="55" y="229" width="420" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="73" y="267" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold">Preuve visible et vérifiable</text>
+<rect x="475" y="229" width="70" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="510.0" y="267" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">☐</text>
+<rect x="545" y="229" width="70" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="580.0" y="267" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">☐</text>
+<rect x="615" y="229" width="70" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="650.0" y="267" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">☐</text>
+<rect x="685" y="229" width="350" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="860.0" y="267" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal"></text>
+<rect x="55" y="290" width="420" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="73" y="328" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold">Tous les cas nécessaires pris en compte</text>
+<rect x="475" y="290" width="70" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="510.0" y="328" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">☐</text>
+<rect x="545" y="290" width="70" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="580.0" y="328" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">☐</text>
+<rect x="615" y="290" width="70" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="650.0" y="328" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">☐</text>
+<rect x="685" y="290" width="350" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="860.0" y="328" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal"></text>
+<rect x="55" y="351" width="420" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="73" y="389" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold">Lien preuve / conclusion expliqué</text>
+<rect x="475" y="351" width="70" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="510.0" y="389" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">☐</text>
+<rect x="545" y="351" width="70" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="580.0" y="389" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">☐</text>
+<rect x="615" y="351" width="70" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="650.0" y="389" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">☐</text>
+<rect x="685" y="351" width="350" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="860.0" y="389" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal"></text>
+<rect x="55" y="412" width="420" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="73" y="450" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold">Objection comprise</text>
+<rect x="475" y="412" width="70" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="510.0" y="450" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">☐</text>
+<rect x="545" y="412" width="70" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="580.0" y="450" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">☐</text>
+<rect x="615" y="412" width="70" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="650.0" y="450" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">☐</text>
+<rect x="685" y="412" width="350" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="860.0" y="450" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal"></text>
+<rect x="55" y="473" width="420" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="73" y="511" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold">Réponse mathématique</text>
+<rect x="475" y="473" width="70" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="510.0" y="511" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">☐</text>
+<rect x="545" y="473" width="70" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="580.0" y="511" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">☐</text>
+<rect x="615" y="473" width="70" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="650.0" y="511" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">☐</text>
+<rect x="685" y="473" width="350" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="860.0" y="511" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal"></text>
+<rect x="55" y="534" width="420" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="73" y="572" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold">Présentation concise</text>
+<rect x="475" y="534" width="70" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="510.0" y="572" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">☐</text>
+<rect x="545" y="534" width="70" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="580.0" y="572" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">☐</text>
+<rect x="615" y="534" width="70" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="650.0" y="572" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">☐</text>
+<rect x="685" y="534" width="350" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="860.0" y="572" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal"></text>
+<rect x="55" y="595" width="420" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="73" y="633" text-anchor="start" font-family="Arial" font-size="14" font-weight="bold">Parole répartie</text>
+<rect x="475" y="595" width="70" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="510.0" y="633" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">☐</text>
+<rect x="545" y="595" width="70" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="580.0" y="633" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">☐</text>
+<rect x="615" y="595" width="70" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="650.0" y="633" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">☐</text>
+<rect x="685" y="595" width="350" height="61" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="860.0" y="633" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal"></text>
+<text x="55" y="690" text-anchor="start" font-family="Arial" font-size="16" font-weight="bold">Verdict :</text>
+<rect x="170" y="662" width="210" height="45" rx="8" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="275" y="691" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">SOLIDE</text>
+<rect x="410" y="662" width="210" height="45" rx="8" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="515" y="691" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">À RENFORCER</text>
+<rect x="650" y="662" width="210" height="45" rx="8" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="755" y="691" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">À ABANDONNER</text>
+<text x="55" y="750" text-anchor="start" font-family="Arial" font-size="15" font-weight="bold">Objection la plus utile : ___________________________________________________________</text>
+</svg>

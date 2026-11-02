@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+<rect width="100%" height="100%" fill="white"/>
+<text x="10" y="9" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="5.3" font-weight="bold" fill="#111">S50 – Pièces à découper par équipe</text>
+<text x="10" y="15" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.2" font-weight="normal" fill="#111">Chaque disque porte le symbole et la couleur de la pièce.</text>
+<text x="12" y="28" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="4.2" font-weight="bold" fill="#111">ÉQUIPE A</text>
+<circle cx="30" cy="40" r="9" fill="white" stroke="#222" stroke-width="0.55"/>
+<text x="30" y="43.5" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="normal" fill="#111">♔</text>
+<circle cx="52" cy="40" r="9" fill="white" stroke="#222" stroke-width="0.55"/>
+<text x="52" y="43.5" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="normal" fill="#111">♕</text>
+<circle cx="74" cy="40" r="9" fill="#dddddd" stroke="#222" stroke-width="0.55"/>
+<text x="74" y="43.5" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="normal" fill="#111">♚</text>
+<text x="12" y="76" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="4.2" font-weight="bold" fill="#111">ÉQUIPE B</text>
+<circle cx="30" cy="88" r="9" fill="white" stroke="#222" stroke-width="0.55"/>
+<text x="30" y="91.5" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="normal" fill="#111">♔</text>
+<circle cx="52" cy="88" r="9" fill="white" stroke="#222" stroke-width="0.55"/>
+<text x="52" y="91.5" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="normal" fill="#111">♘</text>
+<circle cx="74" cy="88" r="9" fill="#dddddd" stroke="#222" stroke-width="0.55"/>
+<text x="74" y="91.5" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="normal" fill="#111">♚</text>
+<circle cx="96" cy="88" r="9" fill="#dddddd" stroke="#222" stroke-width="0.55"/>
+<text x="96" y="91.5" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="normal" fill="#111">♛</text>
+<text x="12" y="124" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="4.2" font-weight="bold" fill="#111">ÉQUIPE C</text>
+<circle cx="30" cy="136" r="9" fill="white" stroke="#222" stroke-width="0.55"/>
+<text x="30" y="139.5" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="normal" fill="#111">♔</text>
+<circle cx="52" cy="136" r="9" fill="white" stroke="#222" stroke-width="0.55"/>
+<text x="52" y="139.5" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="normal" fill="#111">♖</text>
+<circle cx="74" cy="136" r="9" fill="white" stroke="#222" stroke-width="0.55"/>
+<text x="74" y="139.5" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="normal" fill="#111">♖</text>
+<circle cx="96" cy="136" r="9" fill="white" stroke="#222" stroke-width="0.55"/>
+<text x="96" y="139.5" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="normal" fill="#111">♙</text>
+<circle cx="118" cy="136" r="9" fill="white" stroke="#222" stroke-width="0.55"/>
+<text x="118" y="139.5" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="normal" fill="#111">♙</text>
+<circle cx="140" cy="136" r="9" fill="white" stroke="#222" stroke-width="0.55"/>
+<text x="140" y="139.5" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="normal" fill="#111">♗</text>
+<circle cx="162" cy="136" r="9" fill="#dddddd" stroke="#222" stroke-width="0.55"/>
+<text x="162" y="139.5" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="normal" fill="#111">♚</text>
+<circle cx="184" cy="136" r="9" fill="#dddddd" stroke="#222" stroke-width="0.55"/>
+<text x="184" y="139.5" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="normal" fill="#111">♜</text>
+<text x="12" y="172" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="4.2" font-weight="bold" fill="#111">ÉQUIPE D</text>
+<circle cx="30" cy="184" r="9" fill="white" stroke="#222" stroke-width="0.55"/>
+<text x="30" y="187.5" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="normal" fill="#111">♔</text>
+<circle cx="52" cy="184" r="9" fill="white" stroke="#222" stroke-width="0.55"/>
+<text x="52" y="187.5" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="normal" fill="#111">♖</text>
+<circle cx="74" cy="184" r="9" fill="white" stroke="#222" stroke-width="0.55"/>
+<text x="74" y="187.5" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="normal" fill="#111">♗</text>
+<circle cx="96" cy="184" r="9" fill="#dddddd" stroke="#222" stroke-width="0.55"/>
+<text x="96" y="187.5" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="normal" fill="#111">♚</text>
+<circle cx="118" cy="184" r="9" fill="#dddddd" stroke="#222" stroke-width="0.55"/>
+<text x="118" y="187.5" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="normal" fill="#111">♛</text>
+<text x="12" y="220" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="4.2" font-weight="bold" fill="#111">ÉQUIPE E</text>
+<circle cx="30" cy="232" r="9" fill="white" stroke="#222" stroke-width="0.55"/>
+<text x="30" y="235.5" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="normal" fill="#111">♔</text>
+<circle cx="52" cy="232" r="9" fill="white" stroke="#222" stroke-width="0.55"/>
+<text x="52" y="235.5" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="normal" fill="#111">♖</text>
+<circle cx="74" cy="232" r="9" fill="#dddddd" stroke="#222" stroke-width="0.55"/>
+<text x="74" y="235.5" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="normal" fill="#111">♚</text>
+<circle cx="96" cy="232" r="9" fill="#dddddd" stroke="#222" stroke-width="0.55"/>
+<text x="96" y="235.5" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="normal" fill="#111">♟</text>
+<circle cx="118" cy="232" r="9" fill="#dddddd" stroke="#222" stroke-width="0.55"/>
+<text x="118" y="235.5" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="normal" fill="#111">♟</text>
+<circle cx="140" cy="232" r="9" fill="#dddddd" stroke="#222" stroke-width="0.55"/>
+<text x="140" y="235.5" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="10" font-weight="normal" fill="#111">♟</text>
+<text x="10" y="284" text-anchor="start" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.2" font-weight="bold" fill="#111">Découper les disques. Conserver chaque équipe dans une enveloppe séparée.</text>
+</svg>

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L0,6 L9,3 z" fill="#222"/>
+</marker>
+</defs>
+<text x="40" y="40" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="27" font-weight="bold">S38 – Équipe A – La balise lumineuse</text>
+<text x="40" y="68" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Niveau : Accessible · Dimensions et élévations en millimètres.</text>
+<rect x="45" y="100" width="400" height="500" rx="14" fill="white" stroke="#222" stroke-width="1.6"/>
+<text x="245" y="132" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">MODÈLE À REPRODUIRE</text>
+<rect x="182.0" y="420.0" width="126.0" height="18.0" rx="0" fill="#d8d8d8" stroke="#222" stroke-width="1.3"/>
+<ellipse cx="245.0" cy="317.0" rx="15.0" ry="7" fill="#f5f5f5" stroke="#222" stroke-width="1.2"/>
+<rect x="230.0" y="317.0" width="30.0" height="98.0" rx="0" fill="#dddddd" stroke="#222" stroke-width="1.2"/>
+<ellipse cx="245.0" cy="415.0" rx="15.0" ry="7" fill="#dddddd" stroke="#222" stroke-width="1.2"/>
+<ellipse cx="245.0" cy="272" rx="42.0" ry="7" fill="#f5f5f5" stroke="#222" stroke-width="1.2"/>
+<rect x="203.0" y="272" width="84.0" height="36.0" rx="0" fill="#dddddd" stroke="#222" stroke-width="1.2"/>
+<ellipse cx="245.0" cy="308.0" rx="42.0" ry="7" fill="#dddddd" stroke="#222" stroke-width="1.2"/>
+<ellipse cx="245.0" cy="263.0" rx="48.0" ry="6" fill="#e8e8e8" stroke="#222" stroke-width="1.2"/>
+<polygon points="245.00,223.00 197.00,263.00 293.00,263.00" fill="#e8e8e8" stroke="#222" stroke-width="1.2"/>
+<text x="245" y="565" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">Vue de face schématique</text>
+<rect x="475" y="100" width="610" height="500" rx="14" fill="white" stroke="#222" stroke-width="1.6"/>
+<text x="780" y="132" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">INVENTAIRE DES FORMES</text>
+<rect x="500" y="155" width="130" height="45" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.1"/>
+<text x="565.0" y="184" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Forme</text>
+<rect x="630" y="155" width="170" height="45" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.1"/>
+<text x="715.0" y="184" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Dimensions</text>
+<rect x="800" y="155" width="260" height="45" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.1"/>
+<text x="930.0" y="184" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Position</text>
+<rect x="500" y="200" width="130" height="62" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="565.0" y="220" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.2" font-weight="bold">Boîte</text>
+<rect x="630" y="200" width="170" height="62" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="715.0" y="220" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.2" font-weight="bold">42 × 42 × 6</text>
+<rect x="800" y="200" width="260" height="62" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="930.0" y="220" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.2" font-weight="normal">base : z = 0</text>
+<rect x="500" y="262" width="130" height="62" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="565.0" y="282" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.2" font-weight="bold">Cylindre</text>
+<rect x="630" y="262" width="170" height="62" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="715.0" y="282" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.2" font-weight="bold">Ø 10 × 42</text>
+<rect x="800" y="262" width="260" height="62" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="930.0" y="282" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.2" font-weight="normal">mât centré : base z = 6</text>
+<rect x="500" y="324" width="130" height="62" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="565.0" y="344" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.2" font-weight="bold">Cylindre</text>
+<rect x="630" y="324" width="170" height="62" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="715.0" y="344" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.2" font-weight="bold">Ø 26 × 18</text>
+<rect x="800" y="324" width="260" height="62" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="930.0" y="344" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.2" font-weight="normal">lanterne centrée : base z = 48</text>
+<rect x="500" y="386" width="130" height="62" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="565.0" y="406" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.2" font-weight="bold">Cône</text>
+<rect x="630" y="386" width="170" height="62" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="715.0" y="406" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.2" font-weight="bold">Ø 30 × 14</text>
+<rect x="800" y="386" width="260" height="62" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="930.0" y="406" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.2" font-weight="normal">toit centré : base z = 66</text>
+<text x="500" y="535" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Ordre conseillé :</text>
+<text x="515" y="560" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="normal">1. Construire la base.</text>
+<text x="515" y="585" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="normal">2. Centrer le mât sur les deux axes.</text>
+<text x="515" y="610" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="normal">3. Élever la lanterne au-dessus du mât.</text>
+<text x="515" y="635" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="normal">4. Terminer par le cône.</text>
+<rect x="45" y="630" width="1040" height="110" rx="12" fill="#f5f5f5" stroke="#222" stroke-width="1.4"/>
+<text x="70" y="660" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">Contrôles obligatoires</text>
+<text x="80" y="700" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">☐ hauteur totale 80 mm</text>
+<text x="420" y="700" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">☐ quatre centres superposés</text>
+<text x="760" y="700" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">☐ aucune pièce flottante</text>
+<text x="45" y="775" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Nom du fichier : S38-Equipe-__-Objet-________________________</text>
+</svg>

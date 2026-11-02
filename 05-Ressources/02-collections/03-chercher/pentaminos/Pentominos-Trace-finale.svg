@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="790" viewBox="0 0 1120 790">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,sans-serif;fill:#111}.t{font-size:28px;font-weight:bold}.s{font-size:16px}</style>
+<text class="t" x="45" y="50">S02 – Pentominos · Ma collection finale</text>
+<text class="s" x="45" y="80">Reporte les pièces validées. Aucun nombre de solutions n’est indiqué à l’avance.</text>
+<rect x="45" y="110" width="650" height="600" fill="white" stroke="#555" stroke-width="1.5"/>
+<line x1="71" y1="110" x2="71" y2="710" stroke="#ccc"/>
+<line x1="97" y1="110" x2="97" y2="710" stroke="#ccc"/>
+<line x1="123" y1="110" x2="123" y2="710" stroke="#ccc"/>
+<line x1="149" y1="110" x2="149" y2="710" stroke="#ccc"/>
+<line x1="175" y1="110" x2="175" y2="710" stroke="#ccc"/>
+<line x1="201" y1="110" x2="201" y2="710" stroke="#ccc"/>
+<line x1="227" y1="110" x2="227" y2="710" stroke="#ccc"/>
+<line x1="253" y1="110" x2="253" y2="710" stroke="#ccc"/>
+<line x1="279" y1="110" x2="279" y2="710" stroke="#ccc"/>
+<line x1="305" y1="110" x2="305" y2="710" stroke="#ccc"/>
+<line x1="331" y1="110" x2="331" y2="710" stroke="#ccc"/>
+<line x1="357" y1="110" x2="357" y2="710" stroke="#ccc"/>
+<line x1="383" y1="110" x2="383" y2="710" stroke="#ccc"/>
+<line x1="409" y1="110" x2="409" y2="710" stroke="#ccc"/>
+<line x1="435" y1="110" x2="435" y2="710" stroke="#ccc"/>
+<line x1="461" y1="110" x2="461" y2="710" stroke="#ccc"/>
+<line x1="487" y1="110" x2="487" y2="710" stroke="#ccc"/>
+<line x1="513" y1="110" x2="513" y2="710" stroke="#ccc"/>
+<line x1="539" y1="110" x2="539" y2="710" stroke="#ccc"/>
+<line x1="565" y1="110" x2="565" y2="710" stroke="#ccc"/>
+<line x1="591" y1="110" x2="591" y2="710" stroke="#ccc"/>
+<line x1="617" y1="110" x2="617" y2="710" stroke="#ccc"/>
+<line x1="643" y1="110" x2="643" y2="710" stroke="#ccc"/>
+<line x1="669" y1="110" x2="669" y2="710" stroke="#ccc"/>
+<line x1="45" y1="136" x2="695" y2="136" stroke="#ccc"/>
+<line x1="45" y1="162" x2="695" y2="162" stroke="#ccc"/>
+<line x1="45" y1="188" x2="695" y2="188" stroke="#ccc"/>
+<line x1="45" y1="214" x2="695" y2="214" stroke="#ccc"/>
+<line x1="45" y1="240" x2="695" y2="240" stroke="#ccc"/>
+<line x1="45" y1="266" x2="695" y2="266" stroke="#ccc"/>
+<line x1="45" y1="292" x2="695" y2="292" stroke="#ccc"/>
+<line x1="45" y1="318" x2="695" y2="318" stroke="#ccc"/>
+<line x1="45" y1="344" x2="695" y2="344" stroke="#ccc"/>
+<line x1="45" y1="370" x2="695" y2="370" stroke="#ccc"/>
+<line x1="45" y1="396" x2="695" y2="396" stroke="#ccc"/>
+<line x1="45" y1="422" x2="695" y2="422" stroke="#ccc"/>
+<line x1="45" y1="448" x2="695" y2="448" stroke="#ccc"/>
+<line x1="45" y1="474" x2="695" y2="474" stroke="#ccc"/>
+<line x1="45" y1="500" x2="695" y2="500" stroke="#ccc"/>
+<line x1="45" y1="526" x2="695" y2="526" stroke="#ccc"/>
+<line x1="45" y1="552" x2="695" y2="552" stroke="#ccc"/>
+<line x1="45" y1="578" x2="695" y2="578" stroke="#ccc"/>
+<line x1="45" y1="604" x2="695" y2="604" stroke="#ccc"/>
+<line x1="45" y1="630" x2="695" y2="630" stroke="#ccc"/>
+<line x1="45" y1="656" x2="695" y2="656" stroke="#ccc"/>
+<line x1="45" y1="682" x2="695" y2="682" stroke="#ccc"/>
+<line x1="45" y1="708" x2="695" y2="708" stroke="#ccc"/>
+
+<text class="s" x="730" y="140">Nom : _________________________</text>
+<text class="s" x="730" y="210">Méthode de recherche :</text>
+<line x1="730" y1="245" x2="1060" y2="245" stroke="#777"/>
+<line x1="730" y1="285" x2="1060" y2="285" stroke="#777"/>
+<text class="s" x="730" y="355">Vérification des doublons :</text>
+<line x1="730" y1="390" x2="1060" y2="390" stroke="#777"/>
+<line x1="730" y1="430" x2="1060" y2="430" stroke="#777"/>
+<text class="s" x="730" y="500">Certains d’avoir tout trouvé ?</text>
+<text class="s" x="730" y="535">☐ Oui   ☐ Non   ☐ Nous ne savons pas</text>
+</svg>

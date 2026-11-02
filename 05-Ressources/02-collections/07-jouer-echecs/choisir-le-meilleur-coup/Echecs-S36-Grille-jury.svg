@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L0,6 L9,3 z" fill="#222"/>
+</marker>
+</defs>
+<text x="40" y="40" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="28" font-weight="bold">S36 – Grille du jury</text>
+<text x="40" y="68" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Équipe : ______   Position : ______   Coup annoncé : __________</text>
+<rect x="55" y="110" width="500" height="55" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.4"/>
+<text x="305.0" y="145" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Critère</text>
+<rect x="555" y="110" width="65" height="55" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.4"/>
+<text x="587.5" y="145" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">0</text>
+<rect x="620" y="110" width="65" height="55" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.4"/>
+<text x="652.5" y="145" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">1</text>
+<rect x="685" y="110" width="65" height="55" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.4"/>
+<text x="717.5" y="145" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">2</text>
+<rect x="750" y="110" width="315" height="55" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.4"/>
+<text x="907.5" y="145" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Observation</text>
+<rect x="55" y="165" width="500" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="70" y="204" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">La position est décrite correctement.</text>
+<rect x="555" y="165" width="65" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="587.5" y="204" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal">☐</text>
+<rect x="620" y="165" width="65" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="652.5" y="204" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal">☐</text>
+<rect x="685" y="165" width="65" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="717.5" y="204" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal">☐</text>
+<rect x="750" y="165" width="315" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="907.5" y="204" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal"></text>
+<rect x="55" y="227" width="500" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="70" y="266" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">La menace adverse est recherchée.</text>
+<rect x="555" y="227" width="65" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="587.5" y="266" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal">☐</text>
+<rect x="620" y="227" width="65" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="652.5" y="266" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal">☐</text>
+<rect x="685" y="227" width="65" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="717.5" y="266" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal">☐</text>
+<rect x="750" y="227" width="315" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="907.5" y="266" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal"></text>
+<rect x="55" y="289" width="500" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="70" y="328" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">Les trois coups sont comparés.</text>
+<rect x="555" y="289" width="65" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="587.5" y="328" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal">☐</text>
+<rect x="620" y="289" width="65" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="652.5" y="328" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal">☐</text>
+<rect x="685" y="289" width="65" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="717.5" y="328" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal">☐</text>
+<rect x="750" y="289" width="315" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="907.5" y="328" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal"></text>
+<rect x="55" y="351" width="500" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="70" y="390" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">La meilleure réponse noire est proposée.</text>
+<rect x="555" y="351" width="65" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="587.5" y="390" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal">☐</text>
+<rect x="620" y="351" width="65" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="652.5" y="390" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal">☐</text>
+<rect x="685" y="351" width="65" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="717.5" y="390" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal">☐</text>
+<rect x="750" y="351" width="315" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="907.5" y="390" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal"></text>
+<rect x="55" y="413" width="500" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="70" y="452" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">Les échanges sont poursuivis jusqu’au bout.</text>
+<rect x="555" y="413" width="65" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="587.5" y="452" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal">☐</text>
+<rect x="620" y="413" width="65" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="652.5" y="452" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal">☐</text>
+<rect x="685" y="413" width="65" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="717.5" y="452" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal">☐</text>
+<rect x="750" y="413" width="315" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="907.5" y="452" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal"></text>
+<rect x="55" y="475" width="500" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="70" y="514" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">Le gain ou la perte est calculé.</text>
+<rect x="555" y="475" width="65" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="587.5" y="514" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal">☐</text>
+<rect x="620" y="475" width="65" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="652.5" y="514" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal">☐</text>
+<rect x="685" y="475" width="65" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="717.5" y="514" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal">☐</text>
+<rect x="750" y="475" width="315" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="907.5" y="514" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal"></text>
+<rect x="55" y="537" width="500" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="70" y="576" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">Les coups moins bons sont expliqués.</text>
+<rect x="555" y="537" width="65" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="587.5" y="576" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal">☐</text>
+<rect x="620" y="537" width="65" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="652.5" y="576" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal">☐</text>
+<rect x="685" y="537" width="65" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="717.5" y="576" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal">☐</text>
+<rect x="750" y="537" width="315" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="907.5" y="576" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal"></text>
+<rect x="55" y="599" width="500" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="70" y="638" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">La conclusion est concise.</text>
+<rect x="555" y="599" width="65" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="587.5" y="638" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal">☐</text>
+<rect x="620" y="599" width="65" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="652.5" y="638" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal">☐</text>
+<rect x="685" y="599" width="65" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="717.5" y="638" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal">☐</text>
+<rect x="750" y="599" width="315" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="907.5" y="638" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="normal"></text>
+<text x="55" y="690" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">Objection : __________________________________________________________________________________</text>
+<text x="55" y="735" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">Verdict :  analyse solide  /  analyse à compléter  /  coup à revoir</text>
+</svg>

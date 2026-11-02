@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="35" y="38" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="26" font-weight="bold">S46 – Équipe C – Huit objets, un plus léger</text>
+<rect x="35" y="88" width="1053" height="100" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="55" y="120" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">CONDITION</text>
+<text x="190" y="120" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Un seul objet est plus léger parmi A à H.</text>
+<text x="55" y="160" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">LIMITE</text>
+<text x="190" y="160" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">2 pesées maximum</text>
+<rect x="35" y="215" width="650" height="410" rx="12" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="360" y="246" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16.5" font-weight="bold">TRAVAIL À FAIRE DANS L’ORDRE</text>
+<circle cx="68" cy="285" r="13" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="68" y="290" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" font-weight="bold">1</text>
+<text x="95" y="276" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.7" font-weight="normal">Comparer A+B+C et D+E+F.</text>
+<circle cx="68" cy="343" r="13" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="68" y="348" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" font-weight="bold">2</text>
+<text x="95" y="334" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.7" font-weight="normal">Prévoir le cas où les deux plateaux s’équilibrent.</text>
+<circle cx="68" cy="401" r="13" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="68" y="406" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" font-weight="bold">3</text>
+<text x="95" y="392" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.7" font-weight="normal">Si équilibre, conserver G et H.</text>
+<circle cx="68" cy="459" r="13" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="68" y="464" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" font-weight="bold">4</text>
+<text x="95" y="450" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.7" font-weight="normal">Sinon, conserver les trois objets du plateau le plus léger.</text>
+<circle cx="68" cy="517" r="13" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="68" y="522" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" font-weight="bold">5</text>
+<text x="95" y="508" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.7" font-weight="normal">Prévoir la deuxième pesée dans chaque branche.</text>
+<circle cx="68" cy="575" r="13" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="68" y="580" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" font-weight="bold">6</text>
+<text x="95" y="566" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.7" font-weight="normal">Tester au moins un cas dans chacune des trois branches</text>
+<text x="95" y="583" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.7" font-weight="normal">initiales.</text>
+<rect x="715" y="215" width="373" height="410" rx="12" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="901" y="246" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">À ÉCRIRE AVANT LE TEST</text>
+<text x="755" y="290" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">☐ suspects de départ</text>
+<text x="755" y="332" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">☐ première pesée</text>
+<text x="755" y="374" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">☐ branche gauche</text>
+<text x="755" y="416" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">☐ branche équilibre</text>
+<text x="755" y="458" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">☐ branche droite</text>
+<text x="755" y="500" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">☐ conclusions uniques</text>
+<text x="755" y="542" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">☐ limite respectée</text>
+<text x="755" y="590" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">Arbitre :</text>
+<text x="835" y="590" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="normal">carte cachée</text>
+<rect x="35" y="655" width="1053" height="82" rx="11" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="55" y="684" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">PRODUCTION ATTENDUE</text>
+<text x="240" y="684" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.4" font-weight="bold">Un arbre distinguant les huit objets, y compris G et H.</text>
+<text x="40" y="775" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">La stratégie doit fonctionner avec toutes les cartes autorisées par la mission.</text>
+</svg>

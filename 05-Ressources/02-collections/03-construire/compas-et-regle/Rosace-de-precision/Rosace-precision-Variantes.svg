@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<defs>
+<clipPath id="v1"><circle cx="195" cy="370" r="135"/></clipPath>
+<clipPath id="v2"><circle cx="560" cy="370" r="135"/></clipPath>
+<clipPath id="v3"><circle cx="925" cy="370" r="135"/></clipPath>
+</defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="40" font-family="Arial" font-size="26" font-weight="bold">Rosace de précision – Trois variantes</text>
+<text x="40" y="66" font-family="Arial" font-size="13">Choisir une seule variante après validation de la rosace principale.</text>
+<rect x="35" y="100" width="320" height="610" rx="10" fill="white" stroke="#444" stroke-width="1.5"/>
+<text x="53" y="132" font-family="Arial" font-size="18" font-weight="bold">A – Couronne fine</text>
+<rect x="400" y="100" width="320" height="610" rx="10" fill="white" stroke="#444" stroke-width="1.5"/>
+<text x="418" y="132" font-family="Arial" font-size="18" font-weight="bold">B – Étoile double</text>
+<rect x="765" y="100" width="320" height="610" rx="10" fill="white" stroke="#444" stroke-width="1.5"/>
+<text x="783" y="132" font-family="Arial" font-size="18" font-weight="bold">C – Rosace ajourée</text>
+<circle cx="195" cy="370" r="135" fill="none" stroke="#111" stroke-width="2"/>
+<circle cx="195.0" cy="235.0" r="69.9" fill="none" stroke="#555" stroke-width="1.3" clip-path="url(#v1)"/>
+<circle cx="262.5" cy="253.1" r="69.9" fill="none" stroke="#555" stroke-width="1.3" clip-path="url(#v1)"/>
+<circle cx="311.9" cy="302.5" r="69.9" fill="none" stroke="#555" stroke-width="1.3" clip-path="url(#v1)"/>
+<circle cx="330.0" cy="370.0" r="69.9" fill="none" stroke="#555" stroke-width="1.3" clip-path="url(#v1)"/>
+<circle cx="311.9" cy="437.5" r="69.9" fill="none" stroke="#555" stroke-width="1.3" clip-path="url(#v1)"/>
+<circle cx="262.5" cy="486.9" r="69.9" fill="none" stroke="#555" stroke-width="1.3" clip-path="url(#v1)"/>
+<circle cx="195.0" cy="505.0" r="69.9" fill="none" stroke="#555" stroke-width="1.3" clip-path="url(#v1)"/>
+<circle cx="127.5" cy="486.9" r="69.9" fill="none" stroke="#555" stroke-width="1.3" clip-path="url(#v1)"/>
+<circle cx="78.1" cy="437.5" r="69.9" fill="none" stroke="#555" stroke-width="1.3" clip-path="url(#v1)"/>
+<circle cx="60.0" cy="370.0" r="69.9" fill="none" stroke="#555" stroke-width="1.3" clip-path="url(#v1)"/>
+<circle cx="78.1" cy="302.5" r="69.9" fill="none" stroke="#555" stroke-width="1.3" clip-path="url(#v1)"/>
+<circle cx="127.5" cy="253.1" r="69.9" fill="none" stroke="#555" stroke-width="1.3" clip-path="url(#v1)"/>
+<text x="60" y="565" font-family="Arial" font-size="13">Ouverture : AB.</text>
+<text x="60" y="593" font-family="Arial" font-size="13">Chaque cercle passe par</text>
+<text x="60" y="617" font-family="Arial" font-size="13">les deux points voisins.</text>
+<text x="60" y="655" font-family="Arial" font-size="13">Repasser les arcs intérieurs.</text>
+<circle cx="560" cy="370" r="135" fill="none" stroke="#111" stroke-width="2"/>
+<polyline points="560.0,235.0 676.9,302.5 676.9,437.5 560.0,505.0 443.1,437.5 443.1,302.5 560.0,235.0" fill="none" stroke="#333" stroke-width="2.2"/>
+<polyline points="627.5,253.1 695.0,370.0 627.5,486.9 492.5,486.9 425.0,370.0 492.5,253.1 627.5,253.1" fill="none" stroke="#333" stroke-width="2.2"/>
+<circle cx="560.00" cy="235.00" r="2.5" fill="#111"/>
+<circle cx="627.50" cy="253.09" r="2.5" fill="#111"/>
+<circle cx="676.91" cy="302.50" r="2.5" fill="#111"/>
+<circle cx="695.00" cy="370.00" r="2.5" fill="#111"/>
+<circle cx="676.91" cy="437.50" r="2.5" fill="#111"/>
+<circle cx="627.50" cy="486.91" r="2.5" fill="#111"/>
+<circle cx="560.00" cy="505.00" r="2.5" fill="#111"/>
+<circle cx="492.50" cy="486.91" r="2.5" fill="#111"/>
+<circle cx="443.09" cy="437.50" r="2.5" fill="#111"/>
+<circle cx="425.00" cy="370.00" r="2.5" fill="#111"/>
+<circle cx="443.09" cy="302.50" r="2.5" fill="#111"/>
+<circle cx="492.50" cy="253.09" r="2.5" fill="#111"/>
+<text x="425" y="565" font-family="Arial" font-size="13">Relier un point sur deux.</text>
+<text x="425" y="593" font-family="Arial" font-size="13">Deux hexagones réguliers</text>
+<text x="425" y="617" font-family="Arial" font-size="13">apparaissent.</text>
+<text x="425" y="655" font-family="Arial" font-size="13">Règle : pas de 2.</text>
+<circle cx="925" cy="370" r="135" fill="none" stroke="#111" stroke-width="2"/>
+<circle cx="925.0" cy="235.0" r="135" fill="none" stroke="#555" stroke-width="1.5" clip-path="url(#v3)"/>
+<circle cx="1041.9" cy="302.5" r="135" fill="none" stroke="#555" stroke-width="1.5" clip-path="url(#v3)"/>
+<circle cx="1041.9" cy="437.5" r="135" fill="none" stroke="#555" stroke-width="1.5" clip-path="url(#v3)"/>
+<circle cx="925.0" cy="505.0" r="135" fill="none" stroke="#555" stroke-width="1.5" clip-path="url(#v3)"/>
+<circle cx="808.1" cy="437.5" r="135" fill="none" stroke="#555" stroke-width="1.5" clip-path="url(#v3)"/>
+<circle cx="808.1" cy="302.5" r="135" fill="none" stroke="#555" stroke-width="1.5" clip-path="url(#v3)"/>
+<circle cx="925.00" cy="235.00" r="2.5" fill="#111"/>
+<circle cx="992.50" cy="253.09" r="2.5" fill="#111"/>
+<circle cx="1041.91" cy="302.50" r="2.5" fill="#111"/>
+<circle cx="1060.00" cy="370.00" r="2.5" fill="#111"/>
+<circle cx="1041.91" cy="437.50" r="2.5" fill="#111"/>
+<circle cx="992.50" cy="486.91" r="2.5" fill="#111"/>
+<circle cx="925.00" cy="505.00" r="2.5" fill="#111"/>
+<circle cx="857.50" cy="486.91" r="2.5" fill="#111"/>
+<circle cx="808.09" cy="437.50" r="2.5" fill="#111"/>
+<circle cx="790.00" cy="370.00" r="2.5" fill="#111"/>
+<circle cx="808.09" cy="302.50" r="2.5" fill="#111"/>
+<circle cx="857.50" cy="253.09" r="2.5" fill="#111"/>
+<text x="790" y="565" font-family="Arial" font-size="13">Conserver les centres</text>
+<text x="790" y="589" font-family="Arial" font-size="13">A, C, E, G, I et K.</text>
+<text x="790" y="627" font-family="Arial" font-size="13">Ajouter un coloriage</text>
+<text x="790" y="651" font-family="Arial" font-size="13">de période 3.</text>
+</svg>

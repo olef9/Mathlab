@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="42" y="40" font-family="Arial" font-size="26" font-weight="bold">Les boucles humaines – Cartes-commandes</text>
+<text x="42" y="67" font-family="Arial" font-size="14">Découper les cartes. Prévoir un jeu par équipe.</text>
+<rect x="45" y="95" width="245" height="120" rx="10" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="65" y="130" font-family="Arial" font-size="17" font-weight="bold">AVANCE 1</text>
+<text x="167.5" y="185" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="45">↑</text>
+<rect x="310" y="95" width="245" height="120" rx="10" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="330" y="130" font-family="Arial" font-size="17" font-weight="bold">AVANCE 2</text>
+<text x="432.5" y="185" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="45">⇈</text>
+<rect x="575" y="95" width="245" height="120" rx="10" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="595" y="130" font-family="Arial" font-size="17" font-weight="bold">TOURNE À DROITE</text>
+<text x="697.5" y="185" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="45">↻</text>
+<rect x="840" y="95" width="245" height="120" rx="10" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="860" y="130" font-family="Arial" font-size="17" font-weight="bold">TOURNE À GAUCHE</text>
+<text x="962.5" y="185" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="45">↺</text>
+<rect x="45" y="237" width="245" height="120" rx="10" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="65" y="272" font-family="Arial" font-size="17" font-weight="bold">PRENDS LE JETON</text>
+<text x="167.5" y="327" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="45">●</text>
+<rect x="310" y="237" width="245" height="120" rx="10" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="330" y="272" font-family="Arial" font-size="17" font-weight="bold">DÉPOSE LE JETON</text>
+<text x="432.5" y="327" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="45">○</text>
+<rect x="575" y="237" width="245" height="120" rx="10" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="595" y="272" font-family="Arial" font-size="17" font-weight="bold">STOP</text>
+<text x="697.5" y="327" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="45">■</text>
+<rect x="840" y="237" width="245" height="120" rx="10" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="860" y="272" font-family="Arial" font-size="17" font-weight="bold">FIN DE BOUCLE</text>
+<text x="962.5" y="327" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="45">}</text>
+<rect x="45" y="379" width="245" height="120" rx="10" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="65" y="414" font-family="Arial" font-size="17" font-weight="bold">RÉPÈTE 2 FOIS</text>
+<text x="167.5" y="469" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="45">{</text>
+<rect x="310" y="379" width="245" height="120" rx="10" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="330" y="414" font-family="Arial" font-size="17" font-weight="bold">RÉPÈTE 3 FOIS</text>
+<text x="432.5" y="469" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="45">{</text>
+<rect x="575" y="379" width="245" height="120" rx="10" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="595" y="414" font-family="Arial" font-size="17" font-weight="bold">RÉPÈTE 4 FOIS</text>
+<text x="697.5" y="469" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="45">{</text>
+<rect x="840" y="379" width="245" height="120" rx="10" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="860" y="414" font-family="Arial" font-size="17" font-weight="bold">RÉPÈTE 5 FOIS</text>
+<text x="962.5" y="469" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="45">{</text>
+<rect x="45" y="521" width="245" height="120" rx="10" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="65" y="556" font-family="Arial" font-size="17" font-weight="bold">RÉPÈTE 6 FOIS</text>
+<text x="167.5" y="611" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="45">{</text>
+</svg>

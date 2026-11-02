@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="45" y="45" font-family="Arial" font-size="28" font-weight="bold">CM-06 – Fractions de tour</text>
+<text x="45" y="75" font-family="Arial" font-size="15">Répondre rapidement. Un tour complet mesure 360°.</text>
+<rect x="45" y="110" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="80" cy="145" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="152" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">1</text>
+<text x="130" y="158" font-family="Arial" font-size="19" font-weight="bold">1/2 tour</text>
+<text x="375" y="198" font-family="Arial" font-size="16">________ °</text>
+<rect x="580" y="110" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="615" cy="145" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="152" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">2</text>
+<text x="665" y="158" font-family="Arial" font-size="19" font-weight="bold">1/4 tour</text>
+<text x="910" y="198" font-family="Arial" font-size="16">________ °</text>
+<rect x="45" y="255" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="80" cy="290" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="297" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">3</text>
+<text x="130" y="303" font-family="Arial" font-size="19" font-weight="bold">1/6 tour</text>
+<text x="375" y="343" font-family="Arial" font-size="16">________ °</text>
+<rect x="580" y="255" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="615" cy="290" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="297" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">4</text>
+<text x="665" y="303" font-family="Arial" font-size="19" font-weight="bold">1/12 tour</text>
+<text x="910" y="343" font-family="Arial" font-size="16">________ °</text>
+<rect x="45" y="400" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="80" cy="435" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="442" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">5</text>
+<text x="130" y="448" font-family="Arial" font-size="19" font-weight="bold">Combien de quarts dans 1 tour ?</text>
+<text x="375" y="488" font-family="Arial" font-size="16">________</text>
+<rect x="580" y="400" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="615" cy="435" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="442" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">6</text>
+<text x="665" y="448" font-family="Arial" font-size="19" font-weight="bold">Combien de sixièmes dans 1/2 tour ?</text>
+<text x="910" y="488" font-family="Arial" font-size="16">________</text>
+<rect x="45" y="545" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="80" cy="580" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="80" y="587" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">7</text>
+<text x="130" y="593" font-family="Arial" font-size="19" font-weight="bold">5 × 30°</text>
+<text x="375" y="633" font-family="Arial" font-size="16">________ °</text>
+<rect x="580" y="545" width="500" height="120" rx="8" fill="white" stroke="#555" stroke-width="1.4"/>
+<circle cx="615" cy="580" r="20" fill="white" stroke="#111" stroke-width="2"/>
+<text x="615" y="587" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold">8</text>
+<text x="665" y="593" font-family="Arial" font-size="19" font-weight="bold">360° − 120°</text>
+<text x="910" y="633" font-family="Arial" font-size="16">________ °</text>
+<text x="45" y="720" font-family="Arial" font-size="17" font-weight="bold">Bonus : 210° représentent combien de douzièmes de tour ? __________________</text>
+<text x="45" y="758" font-family="Arial" font-size="14">Calcul : ______________________________________________________________________</text>
+</svg>

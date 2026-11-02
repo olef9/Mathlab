@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L0,6 L9,3 z" fill="#222"/>
+</marker>
+</defs>
+<text x="40" y="40" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="28" font-weight="bold">S36 – Cartes « réponse adverse »</text>
+<text x="40" y="68" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Découper. L’équipe noire pioche ou choisit la question la plus forte.</text>
+<rect x="40" y="105" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="7 5"/>
+<circle cx="68" cy="133" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="68" y="139" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">1</text>
+<text x="205" y="155" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">Puis-je reprendre la pièce qui vient</text>
+<text x="205" y="177" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">de jouer ?</text>
+<rect x="400" y="105" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="7 5"/>
+<circle cx="428" cy="133" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="428" y="139" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">2</text>
+<text x="565" y="155" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">Puis-je déplacer mon roi et sauver</text>
+<text x="565" y="177" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">la pièce attaquée ?</text>
+<rect x="760" y="105" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="7 5"/>
+<circle cx="788" cy="133" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="788" y="139" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">3</text>
+<text x="925" y="155" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">Puis-je interposer une pièce ?</text>
+<rect x="40" y="260" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="7 5"/>
+<circle cx="68" cy="288" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="68" y="294" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">4</text>
+<text x="205" y="310" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">Puis-je donner un échec plus</text>
+<text x="205" y="332" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">dangereux ?</text>
+<rect x="400" y="260" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="7 5"/>
+<circle cx="428" cy="288" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="428" y="294" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">5</text>
+<text x="565" y="310" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">Puis-je créer une menace de mat ?</text>
+<rect x="760" y="260" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="7 5"/>
+<circle cx="788" cy="288" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="788" y="294" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">6</text>
+<text x="925" y="310" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">Puis-je attaquer la dame adverse ?</text>
+<rect x="40" y="415" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="7 5"/>
+<circle cx="68" cy="443" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="68" y="449" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">7</text>
+<text x="205" y="465" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">Puis-je échanger une pièce de</text>
+<text x="205" y="487" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">moindre valeur ?</text>
+<rect x="400" y="415" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="7 5"/>
+<circle cx="428" cy="443" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="428" y="449" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">8</text>
+<text x="565" y="465" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">Puis-je refuser l’échange ?</text>
+<rect x="760" y="415" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="7 5"/>
+<circle cx="788" cy="443" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="788" y="449" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">9</text>
+<text x="925" y="465" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">Puis-je déplacer la pièce attaquée</text>
+<text x="925" y="487" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">avec tempo ?</text>
+<rect x="40" y="570" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="7 5"/>
+<circle cx="68" cy="598" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="68" y="604" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">10</text>
+<text x="205" y="620" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">Quel est mon coup le plus forcé ?</text>
+<rect x="400" y="570" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="7 5"/>
+<circle cx="428" cy="598" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="428" y="604" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">11</text>
+<text x="565" y="620" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">Que gagne réellement l’adversaire</text>
+<text x="565" y="642" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">après ma réponse ?</text>
+<rect x="760" y="570" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.5" stroke-dasharray="7 5"/>
+<circle cx="788" cy="598" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="788" y="604" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">12</text>
+<text x="925" y="620" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">Existe-t-il une défense que vous</text>
+<text x="925" y="642" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.3" font-weight="bold">n’avez pas testée ?</text>
+</svg>

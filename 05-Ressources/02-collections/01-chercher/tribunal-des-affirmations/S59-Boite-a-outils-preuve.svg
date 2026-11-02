@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="28.5" font-weight="bold">S59 – Boîte à outils : preuve et contre-exemple</text>
+<text x="40" y="72" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="normal">Choisir l’outil qui correspond au verdict.</text>
+<rect x="55" y="105" width="1010" height="88" rx="10" fill="#f7f7f7" stroke="#222" stroke-width="1.1"/>
+<text x="80" y="135" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">EXEMPLE</text>
+<text x="270" y="135" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="bold">Montre qu’un cas est possible.</text>
+<text x="270" y="165" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">Ex. : 12 est multiple de 3 et de 6.</text>
+<rect x="55" y="217" width="1010" height="88" rx="10" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="80" y="247" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">CONTRE-EXEMPLE</text>
+<text x="270" y="247" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="bold">Montre qu’une affirmation générale n’est pas toujours vraie.</text>
+<text x="270" y="277" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">Ex. : 9 est multiple de 3 mais pas de 6.</text>
+<rect x="55" y="329" width="1010" height="88" rx="10" fill="#f7f7f7" stroke="#222" stroke-width="1.1"/>
+<text x="80" y="359" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">DÉFINITION</text>
+<text x="270" y="359" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="bold">Permet de raisonner sur tous les objets d’une famille.</text>
+<text x="270" y="389" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">Ex. : deux droites perpendiculaires se coupent.</text>
+<rect x="55" y="441" width="1010" height="88" rx="10" fill="white" stroke="#222" stroke-width="1.1"/>
+<text x="80" y="471" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">LISTE EXHAUSTIVE</text>
+<text x="270" y="471" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="bold">Utile quand il n’existe qu’un nombre fini de cas à tester.</text>
+<text x="270" y="501" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">Ex. : côtés entiers d’un rectangle de périmètre 20 cm.</text>
+<rect x="55" y="553" width="1010" height="88" rx="10" fill="#f7f7f7" stroke="#222" stroke-width="1.1"/>
+<text x="80" y="583" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">RAISON GÉNÉRALE</text>
+<text x="270" y="583" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="bold">Explique pourquoi le résultat reste vrai pour tous les cas.</text>
+<text x="270" y="613" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="normal">Ex. : multiple de 12 = 3 × (4 × entier).</text>
+<rect x="155" y="700" width="815" height="55" rx="10" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="562" y="734" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.7" font-weight="bold">Toujours demander : cette preuve parle-t-elle seulement d’un cas ou de tous les cas ?</text>
+</svg>

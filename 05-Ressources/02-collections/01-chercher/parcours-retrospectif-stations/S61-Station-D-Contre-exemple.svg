@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="35" y="40" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="26" font-weight="bold">S61 – Station D – Périmètre ou aire ?</text>
+<rect x="35" y="80" width="1053" height="120" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="1.3"/>
+<text x="55" y="112" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">AFFIRMATION À TESTER</text>
+<text x="180" y="112" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.2" font-weight="bold">« Si un rectangle a un périmètre plus grand qu’un autre rectangle, alors son</text>
+<text x="180" y="132" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.2" font-weight="bold">aire est forcément plus grande. »</text>
+<rect x="55" y="235" width="1010" height="320" rx="12" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="560" y="270" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">VOTRE TRAVAIL</text>
+<text x="95" y="320" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">1. Décidez si l’affirmation vous paraît toujours vraie.</text>
+<text x="95" y="366" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">2. Testez plusieurs rectangles dont les côtés ont des longueurs entières.</text>
+<text x="95" y="412" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">3. Si vous pensez qu’elle est fausse, cherchez DEUX rectangles qui suffisent à le</text>
+<text x="95" y="430" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">montrer.</text>
+<text x="95" y="458" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">4. Écrivez pour chacun : dimensions, périmètre et aire.</text>
+<text x="95" y="504" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold">5. Rédigez une phrase expliquant ce que vos deux rectangles prouvent.</text>
+<rect x="150" y="590" width="825" height="90" rx="10" fill="#f7f7f7" stroke="#222" stroke-width="1.1"/>
+<text x="562" y="625" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.8" font-weight="bold">Attention : un dessin approximatif ne suffit pas.</text>
+<text x="562" y="655" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">Les deux périmètres et les deux aires doivent être calculés.</text>
+<rect x="120" y="715" width="885" height="48" rx="10" fill="#f4f4f4" stroke="#222" stroke-width="1.2"/>
+<text x="562" y="745" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.8" font-weight="bold">Avant de partir : réponse + trace + démarche + « utile quand… » dans le carnet.</text>
+</svg>

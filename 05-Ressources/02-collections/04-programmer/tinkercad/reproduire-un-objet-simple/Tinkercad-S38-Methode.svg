@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L0,6 L9,3 z" fill="#222"/>
+</marker>
+</defs>
+<text x="40" y="40" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="30" font-weight="bold">S38 – Méthode de construction</text>
+<text x="40" y="70" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="normal">Construire dans un ordre contrôlé.</text>
+<circle cx="85" cy="131" r="23" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="85" y="138" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">1</text>
+<rect x="130" y="103" width="925" height="58" rx="10" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="160" y="127" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="16.5" font-weight="bold">DÉCOMPOSER</text>
+<text x="350" y="127" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Lister toutes les formes avant de commencer.</text>
+<circle cx="85" cy="209" r="23" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="85" y="216" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">2</text>
+<rect x="130" y="181" width="925" height="58" rx="10" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="160" y="205" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="16.5" font-weight="bold">CHOISIR LA BASE</text>
+<text x="350" y="205" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Commencer par la pièce stable ou centrale.</text>
+<circle cx="85" cy="287" r="23" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="85" y="294" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">3</text>
+<rect x="130" y="259" width="925" height="58" rx="10" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="160" y="283" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="16.5" font-weight="bold">DIMENSIONNER</text>
+<text x="350" y="283" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Saisir les valeurs exactes de la fiche.</text>
+<circle cx="85" cy="365" r="23" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="85" y="372" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">4</text>
+<rect x="130" y="337" width="925" height="58" rx="10" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="160" y="361" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="16.5" font-weight="bold">PLACER</text>
+<text x="350" y="361" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Poser, élever, tourner puis aligner.</text>
+<circle cx="85" cy="443" r="23" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="85" y="450" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">5</text>
+<rect x="130" y="415" width="925" height="58" rx="10" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="160" y="439" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="16.5" font-weight="bold">DUPLIQUER</text>
+<text x="350" y="439" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Copier les éléments identiques au lieu de les recréer.</text>
+<circle cx="85" cy="521" r="23" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="85" y="528" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">6</text>
+<rect x="130" y="493" width="925" height="58" rx="10" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="160" y="517" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="16.5" font-weight="bold">VÉRIFIER</text>
+<text x="350" y="517" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Comparer la perspective avec une vue orthogonale.</text>
+<circle cx="85" cy="599" r="23" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="85" y="606" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">7</text>
+<rect x="130" y="571" width="925" height="58" rx="10" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="160" y="595" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="16.5" font-weight="bold">CORRIGER</text>
+<text x="350" y="595" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Une dimension ou une position à la fois.</text>
+<circle cx="85" cy="677" r="23" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="85" y="684" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">8</text>
+<rect x="130" y="649" width="925" height="58" rx="10" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="160" y="673" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="16.5" font-weight="bold">VALIDER</text>
+<text x="350" y="673" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Grouper et réaliser les deux captures.</text>
+<rect x="190" y="720" width="740" height="48" rx="9" fill="white" stroke="#222" stroke-width="1.8"/>
+<text x="560" y="751" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">La précision vient du plan, pas d’un déplacement au hasard.</text>
+</svg>

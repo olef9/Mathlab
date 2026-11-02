@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="35" y="40" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="26" font-weight="bold">Rallye CM2 – Atelier C – Le robot décalé</text>
+<rect x="35" y="80" width="1053" height="95" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="1.3"/>
+<text x="55" y="112" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.8" font-weight="bold">Le robot part en (1,5), orienté vers le nord. Le programme n&#x27;arrive pas sur la cible</text>
+<text x="55" y="131" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.8" font-weight="bold">(5,1). Change UNE SEULE valeur numérique.</text>
+<rect x="165" y="207" width="790" height="50" rx="8" fill="#f7f7f7" stroke="#222" stroke-width="1.3"/>
+<text x="205" y="238" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.2" font-weight="bold">1. avance de 2 cases</text>
+<rect x="165" y="277" width="790" height="50" rx="8" fill="#f7f7f7" stroke="#222" stroke-width="1.3"/>
+<text x="205" y="308" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.2" font-weight="bold">2. tourne à droite</text>
+<rect x="165" y="347" width="790" height="50" rx="8" fill="#f7f7f7" stroke="#222" stroke-width="1.3"/>
+<text x="205" y="378" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.2" font-weight="bold">3. avance de 3 cases</text>
+<rect x="165" y="417" width="790" height="50" rx="8" fill="#f7f7f7" stroke="#222" stroke-width="1.3"/>
+<text x="205" y="448" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.2" font-weight="bold">4. tourne à gauche</text>
+<rect x="165" y="487" width="790" height="50" rx="8" fill="#f7f7f7" stroke="#222" stroke-width="1.3"/>
+<text x="205" y="518" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.2" font-weight="bold">5. avance de 2 cases</text>
+<text x="55" y="650" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">1. Exécute d&#x27;abord le programme exactement.</text>
+<text x="55" y="685" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">2. Entoure l&#x27;instruction à modifier.</text>
+<text x="55" y="720" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">3. Réécris seulement sa nouvelle valeur.</text>
+</svg>

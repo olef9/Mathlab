@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="38" y="38" text-anchor="start" font-family="Arial" font-size="25" font-weight="bold">Kit 2 – Hexagones et octogones réguliers</text>
+<text x="38" y="64" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Toutes les formes ont la même longueur de côté. Découper sur les pointillés.</text>
+<polygon points="135.03,171.00 90.00,197.00 44.97,171.00 44.97,119.00 90.00,93.00 135.03,119.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="260.03,171.00 215.00,197.00 169.97,171.00 169.97,119.00 215.00,93.00 260.03,119.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="385.03,171.00 340.00,197.00 294.97,171.00 294.97,119.00 340.00,93.00 385.03,119.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="510.03,171.00 465.00,197.00 419.97,171.00 419.97,119.00 465.00,93.00 510.03,119.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="635.03,171.00 590.00,197.00 544.97,171.00 544.97,119.00 590.00,93.00 635.03,119.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="760.03,171.00 715.00,197.00 669.97,171.00 669.97,119.00 715.00,93.00 760.03,119.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="135.03,291.00 90.00,317.00 44.97,291.00 44.97,239.00 90.00,213.00 135.03,239.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="260.03,291.00 215.00,317.00 169.97,291.00 169.97,239.00 215.00,213.00 260.03,239.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="385.03,291.00 340.00,317.00 294.97,291.00 294.97,239.00 340.00,213.00 385.03,239.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="510.03,291.00 465.00,317.00 419.97,291.00 419.97,239.00 465.00,213.00 510.03,239.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="635.03,291.00 590.00,317.00 544.97,291.00 544.97,239.00 590.00,213.00 635.03,239.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="760.03,291.00 715.00,317.00 669.97,291.00 669.97,239.00 715.00,213.00 760.03,239.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="135.03,411.00 90.00,437.00 44.97,411.00 44.97,359.00 90.00,333.00 135.03,359.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="260.03,411.00 215.00,437.00 169.97,411.00 169.97,359.00 215.00,333.00 260.03,359.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="385.03,411.00 340.00,437.00 294.97,411.00 294.97,359.00 340.00,333.00 385.03,359.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="510.03,411.00 465.00,437.00 419.97,411.00 419.97,359.00 465.00,333.00 510.03,359.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="635.03,411.00 590.00,437.00 544.97,411.00 544.97,359.00 590.00,333.00 635.03,359.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="760.03,411.00 715.00,437.00 669.97,411.00 669.97,359.00 715.00,333.00 760.03,359.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="135.03,531.00 90.00,557.00 44.97,531.00 44.97,479.00 90.00,453.00 135.03,479.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="260.03,531.00 215.00,557.00 169.97,531.00 169.97,479.00 215.00,453.00 260.03,479.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="385.03,531.00 340.00,557.00 294.97,531.00 294.97,479.00 340.00,453.00 385.03,479.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="510.03,531.00 465.00,557.00 419.97,531.00 419.97,479.00 465.00,453.00 510.03,479.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="635.03,531.00 590.00,557.00 544.97,531.00 544.97,479.00 590.00,453.00 635.03,479.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="760.03,531.00 715.00,557.00 669.97,531.00 669.97,479.00 715.00,453.00 760.03,479.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="135.03,651.00 90.00,677.00 44.97,651.00 44.97,599.00 90.00,573.00 135.03,599.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="260.03,651.00 215.00,677.00 169.97,651.00 169.97,599.00 215.00,573.00 260.03,599.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="385.03,651.00 340.00,677.00 294.97,651.00 294.97,599.00 340.00,573.00 385.03,599.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="510.03,651.00 465.00,677.00 419.97,651.00 419.97,599.00 465.00,573.00 510.03,599.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="635.03,651.00 590.00,677.00 544.97,651.00 544.97,599.00 590.00,573.00 635.03,599.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="760.03,651.00 715.00,677.00 669.97,651.00 669.97,599.00 715.00,573.00 760.03,599.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="952.77,186.00 916.00,222.77 864.00,222.77 827.23,186.00 827.23,134.00 864.00,97.23 916.00,97.23 952.77,134.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="1092.77,186.00 1056.00,222.77 1004.00,222.77 967.23,186.00 967.23,134.00 1004.00,97.23 1056.00,97.23 1092.77,134.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="952.77,341.00 916.00,377.77 864.00,377.77 827.23,341.00 827.23,289.00 864.00,252.23 916.00,252.23 952.77,289.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="1092.77,341.00 1056.00,377.77 1004.00,377.77 967.23,341.00 967.23,289.00 1004.00,252.23 1056.00,252.23 1092.77,289.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="952.77,496.00 916.00,532.77 864.00,532.77 827.23,496.00 827.23,444.00 864.00,407.23 916.00,407.23 952.77,444.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="1092.77,496.00 1056.00,532.77 1004.00,532.77 967.23,496.00 967.23,444.00 1004.00,407.23 1056.00,407.23 1092.77,444.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="952.77,651.00 916.00,687.77 864.00,687.77 827.23,651.00 827.23,599.00 864.00,562.23 916.00,562.23 952.77,599.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<polygon points="1092.77,651.00 1056.00,687.77 1004.00,687.77 967.23,651.00 967.23,599.00 1004.00,562.23 1056.00,562.23 1092.77,599.00" fill="white" stroke="#222" stroke-width="1.2" stroke-dasharray="5 3"/>
+<text x="38" y="760" text-anchor="start" font-family="Arial" font-size="13" font-weight="normal">Imprimer à 100 % sans ajustement automatique.</text>
+</svg>

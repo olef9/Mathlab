@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="45" y="45" font-family="Arial" font-size="28" font-weight="bold">Le programme saboté</text>
+<text x="45" y="73" font-family="Arial" font-size="15">Exécute chaque programme exactement. Arrête-toi au premier écart et corrige le moins possible.</text>
+
+<text x="45" y="107" font-family="Arial" font-size="18" font-weight="bold">Défi 1</text>
+<line x1="45" y1="125" x2="45" y2="401" stroke="#333" stroke-width="1.1"/>
+<line x1="45" y1="125" x2="321" y2="125" stroke="#333" stroke-width="1.1"/>
+<line x1="91" y1="125" x2="91" y2="401" stroke="#333" stroke-width="1.1"/>
+<line x1="45" y1="171" x2="321" y2="171" stroke="#333" stroke-width="1.1"/>
+<line x1="137" y1="125" x2="137" y2="401" stroke="#333" stroke-width="1.1"/>
+<line x1="45" y1="217" x2="321" y2="217" stroke="#333" stroke-width="1.1"/>
+<line x1="183" y1="125" x2="183" y2="401" stroke="#333" stroke-width="1.1"/>
+<line x1="45" y1="263" x2="321" y2="263" stroke="#333" stroke-width="1.1"/>
+<line x1="229" y1="125" x2="229" y2="401" stroke="#333" stroke-width="1.1"/>
+<line x1="45" y1="309" x2="321" y2="309" stroke="#333" stroke-width="1.1"/>
+<line x1="275" y1="125" x2="275" y2="401" stroke="#333" stroke-width="1.1"/>
+<line x1="45" y1="355" x2="321" y2="355" stroke="#333" stroke-width="1.1"/>
+<line x1="321" y1="125" x2="321" y2="401" stroke="#333" stroke-width="1.1"/>
+<line x1="45" y1="401" x2="321" y2="401" stroke="#333" stroke-width="1.1"/>
+<rect x="139" y="265" width="42" height="42" fill="#333"/>
+<rect x="185" y="265" width="42" height="42" fill="#333"/>
+<polyline points="68.0,378.0 68.0,332.0 68.0,286.0 114.0,286.0 114.0,240.0 160.0,240.0 206.0,240.0 252.0,240.0 298.0,240.0 298.0,194.0" fill="none" stroke="#999" stroke-width="2" stroke-dasharray="5 5"/>
+<polygon points="298.0,179.0 302.1,188.3 312.3,189.4 304.7,196.2 306.8,206.1 298.0,201.0 289.2,206.1 291.3,196.2 283.7,189.4 293.9,188.3" fill="none" stroke="#111" stroke-width="2"/>
+<polygon points="68.0,361.0 76.3,388.0 59.7,388.0" fill="#111"/>
+<text x="350" y="128" font-family="Arial" font-size="15" font-weight="bold">Programme A</text>
+<text x="350" y="154" font-family="Consolas" font-size="14">1 AVANCE</text>
+<text x="350" y="176" font-family="Consolas" font-size="14">2 AVANCE</text>
+<text x="350" y="198" font-family="Consolas" font-size="14">3 TOURNE À DROITE</text>
+<text x="350" y="220" font-family="Consolas" font-size="14">4 AVANCE</text>
+<text x="350" y="242" font-family="Consolas" font-size="14">5 TOURNE À DROITE</text>
+<text x="350" y="264" font-family="Consolas" font-size="14">6 AVANCE</text>
+<text x="350" y="286" font-family="Consolas" font-size="14">7 AVANCE</text>
+<text x="350" y="308" font-family="Consolas" font-size="14">8 STOP</text>
+
+<text x="600" y="107" font-family="Arial" font-size="18" font-weight="bold">Défi 2</text>
+<line x1="600" y1="125" x2="600" y2="401" stroke="#333" stroke-width="1.1"/>
+<line x1="600" y1="125" x2="876" y2="125" stroke="#333" stroke-width="1.1"/>
+<line x1="646" y1="125" x2="646" y2="401" stroke="#333" stroke-width="1.1"/>
+<line x1="600" y1="171" x2="876" y2="171" stroke="#333" stroke-width="1.1"/>
+<line x1="692" y1="125" x2="692" y2="401" stroke="#333" stroke-width="1.1"/>
+<line x1="600" y1="217" x2="876" y2="217" stroke="#333" stroke-width="1.1"/>
+<line x1="738" y1="125" x2="738" y2="401" stroke="#333" stroke-width="1.1"/>
+<line x1="600" y1="263" x2="876" y2="263" stroke="#333" stroke-width="1.1"/>
+<line x1="784" y1="125" x2="784" y2="401" stroke="#333" stroke-width="1.1"/>
+<line x1="600" y1="309" x2="876" y2="309" stroke="#333" stroke-width="1.1"/>
+<line x1="830" y1="125" x2="830" y2="401" stroke="#333" stroke-width="1.1"/>
+<line x1="600" y1="355" x2="876" y2="355" stroke="#333" stroke-width="1.1"/>
+<line x1="876" y1="125" x2="876" y2="401" stroke="#333" stroke-width="1.1"/>
+<line x1="600" y1="401" x2="876" y2="401" stroke="#333" stroke-width="1.1"/>
+<rect x="648" y="219" width="42" height="42" fill="#333"/>
+<rect x="694" y="219" width="42" height="42" fill="#333"/>
+<rect x="786" y="265" width="42" height="42" fill="#333"/>
+<polyline points="623.0,378.0 623.0,332.0 669.0,332.0 715.0,332.0 761.0,332.0 761.0,286.0 761.0,240.0 761.0,194.0 807.0,194.0 853.0,194.0 853.0,148.0" fill="none" stroke="#999" stroke-width="2" stroke-dasharray="5 5"/>
+<polygon points="853.0,133.0 857.1,142.3 867.3,143.4 859.7,150.2 861.8,160.1 853.0,155.0 844.2,160.1 846.3,150.2 838.7,143.4 848.9,142.3" fill="none" stroke="#111" stroke-width="2"/>
+<polygon points="623.0,361.0 631.3,388.0 614.7,388.0" fill="#111"/>
+<text x="900" y="128" font-family="Arial" font-size="15" font-weight="bold">Programme B</text>
+<text x="900" y="154" font-family="Consolas" font-size="14">1 AVANCE</text>
+<text x="900" y="176" font-family="Consolas" font-size="14">2 TOURNE À GAUCHE</text>
+<text x="900" y="198" font-family="Consolas" font-size="14">3 AVANCE</text>
+<text x="900" y="220" font-family="Consolas" font-size="14">4 AVANCE</text>
+<text x="900" y="242" font-family="Consolas" font-size="14">5 TOURNE À DROITE</text>
+<text x="900" y="264" font-family="Consolas" font-size="14">6 AVANCE</text>
+<text x="900" y="286" font-family="Consolas" font-size="14">7 TOURNE À DROITE</text>
+<text x="900" y="308" font-family="Consolas" font-size="14">8 AVANCE</text>
+<text x="900" y="330" font-family="Consolas" font-size="14">9 STOP</text>
+
+<text x="45" y="447" font-family="Arial" font-size="18" font-weight="bold">Défi 3</text>
+<line x1="45" y1="465" x2="45" y2="741" stroke="#333" stroke-width="1.1"/>
+<line x1="45" y1="465" x2="321" y2="465" stroke="#333" stroke-width="1.1"/>
+<line x1="91" y1="465" x2="91" y2="741" stroke="#333" stroke-width="1.1"/>
+<line x1="45" y1="511" x2="321" y2="511" stroke="#333" stroke-width="1.1"/>
+<line x1="137" y1="465" x2="137" y2="741" stroke="#333" stroke-width="1.1"/>
+<line x1="45" y1="557" x2="321" y2="557" stroke="#333" stroke-width="1.1"/>
+<line x1="183" y1="465" x2="183" y2="741" stroke="#333" stroke-width="1.1"/>
+<line x1="45" y1="603" x2="321" y2="603" stroke="#333" stroke-width="1.1"/>
+<line x1="229" y1="465" x2="229" y2="741" stroke="#333" stroke-width="1.1"/>
+<line x1="45" y1="649" x2="321" y2="649" stroke="#333" stroke-width="1.1"/>
+<line x1="275" y1="465" x2="275" y2="741" stroke="#333" stroke-width="1.1"/>
+<line x1="45" y1="695" x2="321" y2="695" stroke="#333" stroke-width="1.1"/>
+<line x1="321" y1="465" x2="321" y2="741" stroke="#333" stroke-width="1.1"/>
+<line x1="45" y1="741" x2="321" y2="741" stroke="#333" stroke-width="1.1"/>
+<rect x="139" y="605" width="42" height="42" fill="#333"/>
+<rect x="139" y="513" width="42" height="42" fill="#333"/>
+<rect x="231" y="651" width="42" height="42" fill="#333"/>
+<rect x="139" y="559" width="42" height="42" fill="#333"/>
+<polyline points="68.0,718.0 114.0,718.0 160.0,718.0 206.0,718.0 206.0,672.0 206.0,626.0 206.0,580.0 206.0,534.0 206.0,488.0 252.0,488.0 298.0,488.0" fill="none" stroke="#999" stroke-width="2" stroke-dasharray="5 5"/>
+<polygon points="298.0,473.0 302.1,482.3 312.3,483.4 304.7,490.2 306.8,500.1 298.0,495.0 289.2,500.1 291.3,490.2 283.7,483.4 293.9,482.3" fill="none" stroke="#111" stroke-width="2"/>
+<polygon points="85.0,718.0 58.0,726.3 58.0,709.7" fill="#111"/>
+<text x="350" y="468" font-family="Arial" font-size="15" font-weight="bold">Programme C</text>
+<text x="350" y="494" font-family="Consolas" font-size="14">1 AVANCE</text>
+<text x="350" y="516" font-family="Consolas" font-size="14">2 AVANCE</text>
+<text x="350" y="538" font-family="Consolas" font-size="14">3 TOURNE À DROITE</text>
+<text x="350" y="560" font-family="Consolas" font-size="14">4 AVANCE</text>
+<text x="350" y="582" font-family="Consolas" font-size="14">5 AVANCE</text>
+<text x="350" y="604" font-family="Consolas" font-size="14">6 AVANCE</text>
+<text x="350" y="626" font-family="Consolas" font-size="14">7 TOURNE À GAUCHE</text>
+<text x="350" y="648" font-family="Consolas" font-size="14">8 AVANCE</text>
+<text x="350" y="670" font-family="Consolas" font-size="14">9 STOP</text>
+
+
+<text x="600" y="485" font-family="Arial" font-size="17" font-weight="bold">Rappel</text>
+<text x="600" y="518" font-family="Arial" font-size="15">• tourner = pivoter sur place ;</text>
+<text x="600" y="545" font-family="Arial" font-size="15">• avancer = se déplacer d'une seule case ;</text>
+<text x="600" y="572" font-family="Arial" font-size="15">• le robot ne corrige jamais le programme ;</text>
+<text x="600" y="599" font-family="Arial" font-size="15">• la première erreur explique souvent toutes les suivantes.</text>
+<text x="600" y="650" font-family="Arial" font-size="15">Équipe : __________________________________________</text>
+</svg>

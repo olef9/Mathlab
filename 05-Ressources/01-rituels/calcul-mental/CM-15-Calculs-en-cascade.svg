@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="29" font-weight="bold">CM-15 – Calculs en cascade</text>
+<text x="40" y="72" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="normal">Rituel indépendant de la séance de finalisation numérique.</text>
+<rect x="60" y="115" width="470" height="230" rx="12" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="295" y="150" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">CASCADE A</text>
+<text x="295" y="191" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">20</text>
+<text x="295" y="219" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">× 5</text>
+<text x="295" y="247" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">− 18</text>
+<text x="295" y="275" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">÷ 2</text>
+<text x="295" y="303" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">+ 9</text>
+<text x="295" y="331" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">= ______</text>
+<rect x="580" y="115" width="470" height="230" rx="12" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="815" y="150" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">CASCADE B</text>
+<text x="815" y="191" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">7,5</text>
+<text x="815" y="219" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">+ 2,5</text>
+<text x="815" y="247" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">× 4</text>
+<text x="815" y="275" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">− 12</text>
+<text x="815" y="303" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">÷ 7</text>
+<text x="815" y="331" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">= ______</text>
+<rect x="60" y="405" width="470" height="230" rx="12" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="295" y="440" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">CASCADE C</text>
+<text x="295" y="481" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">36</text>
+<text x="295" y="509" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">÷ 6</text>
+<text x="295" y="537" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">× 15</text>
+<text x="295" y="565" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">− 40</text>
+<text x="295" y="593" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">+ 7</text>
+<text x="295" y="621" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">= ______</text>
+<rect x="580" y="405" width="470" height="230" rx="12" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="815" y="440" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">CASCADE D</text>
+<text x="815" y="481" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">250</text>
+<text x="815" y="509" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">− 50</text>
+<text x="815" y="537" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">÷ 8</text>
+<text x="815" y="565" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">× 3</text>
+<text x="815" y="593" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold">+ 5</text>
+<text x="815" y="621" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">= ______</text>
+<text x="55" y="760" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">Effectuer les opérations dans l’ordre indiqué, sans poser.</text>
+</svg>

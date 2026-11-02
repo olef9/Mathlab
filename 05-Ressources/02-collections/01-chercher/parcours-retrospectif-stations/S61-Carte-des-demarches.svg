@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="29" font-weight="bold">S61 – Cinq démarches de recherche</text>
+<text x="40" y="72" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="normal">À chaque station, choisissez la démarche principale.</text>
+<circle cx="75" cy="140" r="24" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="75" y="148" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">A</text>
+<rect x="115" y="105" width="950" height="80" rx="12" fill="#f7f7f7" stroke="#222" stroke-width="1.2"/>
+<text x="145" y="134" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">ORGANISER TOUS LES CAS</text>
+<text x="145" y="163" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.6" font-weight="bold">Beaucoup de possibilités : classer pour ne rien oublier.</text>
+<circle cx="75" cy="258" r="24" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="75" y="266" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">B</text>
+<rect x="115" y="223" width="950" height="80" rx="12" fill="#f7f7f7" stroke="#222" stroke-width="1.2"/>
+<text x="145" y="252" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">TRAVAILLER À REBOURS</text>
+<text x="145" y="281" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.6" font-weight="bold">L’arrivée est connue : remonter les étapes dans le sens inverse.</text>
+<circle cx="75" cy="376" r="24" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="75" y="384" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">C</text>
+<rect x="115" y="341" width="950" height="80" rx="12" fill="#f7f7f7" stroke="#222" stroke-width="1.2"/>
+<text x="145" y="370" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">CHANGER DE REPRÉSENTATION</text>
+<text x="145" y="399" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.6" font-weight="bold">Le texte est difficile : faire un dessin, un tableau ou un graphe.</text>
+<circle cx="75" cy="494" r="24" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="75" y="502" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">D</text>
+<rect x="115" y="459" width="950" height="80" rx="12" fill="#f7f7f7" stroke="#222" stroke-width="1.2"/>
+<text x="145" y="488" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">CHERCHER UN CONTRE-EXEMPLE</text>
+<text x="145" y="517" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.6" font-weight="bold">Une phrase dit « tous » ou « toujours » : chercher un cas qui la contredit.</text>
+<circle cx="75" cy="612" r="24" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="75" y="620" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="bold">E</text>
+<rect x="115" y="577" width="950" height="80" rx="12" fill="#f7f7f7" stroke="#222" stroke-width="1.2"/>
+<text x="145" y="606" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">TESTER PUIS CORRIGER</text>
+<text x="145" y="635" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.6" font-weight="bold">Une procédure existe : l’exécuter avant de modifier.</text>
+<rect x="160" y="710" width="805" height="52" rx="10" fill="#f4f4f4" stroke="#222" stroke-width="1.2"/>
+<text x="562" y="742" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">La démarche est un outil : elle peut servir dans beaucoup de problèmes différents.</text>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="40" text-anchor="start" font-family="Arial" font-size="28" font-weight="bold">S33 – Missions des cinq équipes</text>
+<text x="40" y="68" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">Découper une carte par équipe.</text>
+<rect x="35" y="105" width="330" height="285" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<circle cx="73" cy="143" r="23" fill="white" stroke="#222" stroke-width="2"/>
+<text x="73" y="150" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">A</text>
+<text x="200" y="185" text-anchor="middle" font-family="Arial" font-size="19" font-weight="bold">CUBE GUIDÉ</text>
+<text x="200" y="230" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">Reproduire un patron valide</text>
+<text x="200" y="260" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">du diagnostic.</text>
+<text x="200" y="290" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">Prévoir les faces opposées.</text>
+<text x="60" y="345" text-anchor="start" font-family="Arial" font-size="13" font-weight="bold">Avant le test, noter :</text>
+<text x="60" y="370" text-anchor="start" font-family="Arial" font-size="12" font-weight="normal">faces opposées et arêtes à joindre.</text>
+<rect x="390" y="105" width="330" height="285" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<circle cx="428" cy="143" r="23" fill="white" stroke="#222" stroke-width="2"/>
+<text x="428" y="150" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">B</text>
+<text x="555" y="185" text-anchor="middle" font-family="Arial" font-size="19" font-weight="bold">PAVÉ DROIT</text>
+<text x="555" y="230" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">Utiliser les six rectangles.</text>
+<text x="555" y="260" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">Ne joindre que des arêtes</text>
+<text x="555" y="290" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">de même longueur.</text>
+<text x="415" y="345" text-anchor="start" font-family="Arial" font-size="13" font-weight="bold">Avant le test, noter :</text>
+<text x="415" y="370" text-anchor="start" font-family="Arial" font-size="12" font-weight="normal">faces opposées et arêtes à joindre.</text>
+<rect x="745" y="105" width="330" height="285" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<circle cx="783" cy="143" r="23" fill="white" stroke="#222" stroke-width="2"/>
+<text x="783" y="150" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">C</text>
+<text x="910" y="185" text-anchor="middle" font-family="Arial" font-size="19" font-weight="bold">PRISME TRIANGULAIRE</text>
+<text x="910" y="230" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">Former une bande de 3 rectangles.</text>
+<text x="910" y="260" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">Placer une base triangulaire</text>
+<text x="910" y="290" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">à chaque extrémité.</text>
+<text x="770" y="345" text-anchor="start" font-family="Arial" font-size="13" font-weight="bold">Avant le test, noter :</text>
+<text x="770" y="370" text-anchor="start" font-family="Arial" font-size="12" font-weight="normal">faces opposées et arêtes à joindre.</text>
+<rect x="210" y="425" width="330" height="285" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<circle cx="248" cy="463" r="23" fill="white" stroke="#222" stroke-width="2"/>
+<text x="248" y="470" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">D</text>
+<text x="375" y="505" text-anchor="middle" font-family="Arial" font-size="19" font-weight="bold">PYRAMIDE CARRÉE</text>
+<text x="375" y="550" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">Utiliser 1 carré et 4 triangles.</text>
+<text x="375" y="580" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">La base de chaque triangle</text>
+<text x="375" y="610" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">mesure 4 cm.</text>
+<text x="235" y="665" text-anchor="start" font-family="Arial" font-size="13" font-weight="bold">Avant le test, noter :</text>
+<text x="235" y="690" text-anchor="start" font-family="Arial" font-size="12" font-weight="normal">faces opposées et arêtes à joindre.</text>
+<rect x="570" y="425" width="330" height="285" rx="14" fill="white" stroke="#222" stroke-width="2" stroke-dasharray="8 5"/>
+<circle cx="608" cy="463" r="23" fill="white" stroke="#222" stroke-width="2"/>
+<text x="608" y="470" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">E</text>
+<text x="735" y="505" text-anchor="middle" font-family="Arial" font-size="19" font-weight="bold">CUBE INVENTÉ</text>
+<text x="735" y="550" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">Créer un patron différent</text>
+<text x="735" y="580" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">de celui de l’équipe A.</text>
+<text x="735" y="610" text-anchor="middle" font-family="Arial" font-size="14" font-weight="normal">Le faire valider avant montage.</text>
+<text x="595" y="665" text-anchor="start" font-family="Arial" font-size="13" font-weight="bold">Avant le test, noter :</text>
+<text x="595" y="690" text-anchor="start" font-family="Arial" font-size="12" font-weight="normal">faces opposées et arêtes à joindre.</text>
+</svg>

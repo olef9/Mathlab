@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="40" text-anchor="start" font-family="Arial" font-size="28" font-weight="bold">S34 – Cartes d’objections</text>
+<text x="40" y="68" text-anchor="start" font-family="Arial" font-size="14" font-weight="normal">Découper. Choisir une question adaptée à la situation présentée.</text>
+<rect x="40" y="105" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.4" stroke-dasharray="7 5"/>
+<circle cx="68" cy="133" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="68" y="139" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">1</text>
+<text x="205" y="153" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">Votre stratégie fonctionne-t-elle</text>
+<text x="205" y="175" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">dans tous les cas ?</text>
+<rect x="400" y="105" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.4" stroke-dasharray="7 5"/>
+<circle cx="428" cy="133" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="428" y="139" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">2</text>
+<text x="565" y="153" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">Avez-vous utilisé le même critère</text>
+<text x="565" y="175" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">pour les trois stratégies ?</text>
+<rect x="760" y="105" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.4" stroke-dasharray="7 5"/>
+<circle cx="788" cy="133" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="788" y="139" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">3</text>
+<text x="925" y="153" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">Quel calcul est vraiment décisif ?</text>
+<rect x="40" y="260" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.4" stroke-dasharray="7 5"/>
+<circle cx="68" cy="288" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="68" y="294" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">4</text>
+<text x="205" y="308" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">Votre exemple suffit-il à garantir</text>
+<text x="205" y="330" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">le résultat ?</text>
+<rect x="400" y="260" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.4" stroke-dasharray="7 5"/>
+<circle cx="428" cy="288" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="428" y="294" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">5</text>
+<text x="565" y="308" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">Que se passe-t-il dans le pire des</text>
+<text x="565" y="330" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">cas ?</text>
+<rect x="760" y="260" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.4" stroke-dasharray="7 5"/>
+<circle cx="788" cy="288" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="788" y="294" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">6</text>
+<text x="925" y="308" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">Avez-vous compté deux fois un même</text>
+<text x="925" y="330" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">élément ?</text>
+<rect x="40" y="415" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.4" stroke-dasharray="7 5"/>
+<circle cx="68" cy="443" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="68" y="449" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">7</text>
+<text x="205" y="463" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">Avez-vous oublié une distance, une</text>
+<text x="205" y="485" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">durée ou une possibilité ?</text>
+<rect x="400" y="415" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.4" stroke-dasharray="7 5"/>
+<circle cx="428" cy="443" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="428" y="449" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">8</text>
+<text x="565" y="463" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">Comment une autre équipe peut-elle</text>
+<text x="565" y="485" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">vérifier votre preuve ?</text>
+<rect x="760" y="415" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.4" stroke-dasharray="7 5"/>
+<circle cx="788" cy="443" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="788" y="449" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">9</text>
+<text x="925" y="463" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">Votre stratégie dépend-elle d’une</text>
+<text x="925" y="485" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">erreur de l’adversaire ?</text>
+<rect x="40" y="570" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.4" stroke-dasharray="7 5"/>
+<circle cx="68" cy="598" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="68" y="604" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">10</text>
+<text x="205" y="618" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">Existe-t-il une autre stratégie</text>
+<text x="205" y="640" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">donnant le même résultat ?</text>
+<rect x="400" y="570" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.4" stroke-dasharray="7 5"/>
+<circle cx="428" cy="598" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="428" y="604" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">11</text>
+<text x="565" y="618" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">Quelle étape de votre argument est</text>
+<text x="565" y="640" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">indispensable ?</text>
+<rect x="760" y="570" width="330" height="125" rx="10" fill="white" stroke="#222" stroke-width="1.4" stroke-dasharray="7 5"/>
+<circle cx="788" cy="598" r="16" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="788" y="604" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold">12</text>
+<text x="925" y="618" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">Pouvez-vous résumer votre preuve en</text>
+<text x="925" y="640" text-anchor="middle" font-family="Arial" font-size="13.5" font-weight="bold">une phrase ?</text>
+</svg>

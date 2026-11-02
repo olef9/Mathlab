@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="35" y="38" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="24.5" font-weight="bold">S58 – Équipe C – Créer un tutoriel : Gabarit de passage</text>
+<rect x="35" y="75" width="1053" height="95" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="1.3"/>
+<text x="55" y="108" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">OBJECTIF DU TUTORIEL</text>
+<text x="250" y="108" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.6" font-weight="bold">Apprendre à fabriquer un gabarit aux dimensions imposées et à l’utiliser</text>
+<text x="250" y="126" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.6" font-weight="bold">pour tester un passage.</text>
+<rect x="35" y="200" width="610" height="330" rx="12" fill="white" stroke="#222" stroke-width="1.3"/>
+<text x="340" y="232" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">LE TUTORIEL DOIT OBLIGATOIREMENT</text>
+<circle cx="67" cy="273" r="12" fill="#f4f4f4" stroke="#222" stroke-width="1"/>
+<text x="67" y="278" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10" font-weight="bold">1</text>
+<text x="95" y="265" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">créer une boîte de 12 × 8 × 45 mm</text>
+<circle cx="67" cy="321" r="12" fill="#f4f4f4" stroke="#222" stroke-width="1"/>
+<text x="67" y="326" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10" font-weight="bold">2</text>
+<text x="95" y="313" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">indiquer où saisir largeur, profondeur et hauteur</text>
+<circle cx="67" cy="369" r="12" fill="#f4f4f4" stroke="#222" stroke-width="1"/>
+<text x="67" y="374" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10" font-weight="bold">3</text>
+<text x="95" y="361" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">placer le gabarit devant le passage</text>
+<circle cx="67" cy="417" r="12" fill="#f4f4f4" stroke="#222" stroke-width="1"/>
+<text x="67" y="422" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10" font-weight="bold">4</text>
+<text x="95" y="409" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">le déplacer complètement dans le passage</text>
+<circle cx="67" cy="465" r="12" fill="#f4f4f4" stroke="#222" stroke-width="1"/>
+<text x="67" y="470" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="10" font-weight="bold">5</text>
+<text x="95" y="457" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.5" font-weight="bold">expliquer qu’il faut retirer le gabarit à la fin</text>
+<rect x="675" y="200" width="413" height="225" rx="12" fill="#f7f7f7" stroke="#222" stroke-width="1.3"/>
+<text x="882" y="232" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.5" font-weight="bold">3 IMAGES MINIMUM</text>
+<text x="705" y="278" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">☐ dimensions 12 × 8 × 45 mm</text>
+<text x="705" y="322" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">☐ gabarit devant le passage</text>
+<text x="705" y="366" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.3" font-weight="bold">☐ gabarit placé sous l’abri</text>
+<rect x="675" y="455" width="413" height="150" rx="12" fill="white" stroke="#222" stroke-width="1.3"/>
+<text x="700" y="487" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="bold">TEST DU LECTEUR</text>
+<text x="700" y="522" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">Le lecteur doit prouver qu’un passage</text>
+<text x="700" y="539" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">accepte un personnage de 45 mm sans</text>
+<text x="700" y="556" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.2" font-weight="bold">traverser une paroi.</text>
+<rect x="35" y="560" width="610" height="125" rx="12" fill="#f7f7f7" stroke="#222" stroke-width="1.3"/>
+<text x="60" y="592" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.2" font-weight="bold">ERREUR FRÉQUENTE À SIGNALER</text>
+<text x="60" y="628" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.4" font-weight="bold">Grouper le gabarit avec l’objet final.</text>
+<rect x="675" y="635" width="413" height="50" rx="10" fill="#f4f4f4" stroke="#222" stroke-width="1.2"/>
+<text x="882" y="666" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.8" font-weight="bold">4 à 6 étapes · 1 page maximum</text>
+<text x="40" y="745" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">Validation : un autre élève doit réussir la manipulation sans aide orale.</text>
+<text x="40" y="775" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.8" font-weight="bold">Le tutoriel explique une technique, pas l’histoire du projet S57.</text>
+</svg>

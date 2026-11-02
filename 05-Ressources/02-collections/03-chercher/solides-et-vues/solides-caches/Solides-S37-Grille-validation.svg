@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L0,6 L9,3 z" fill="#222"/>
+</marker>
+</defs>
+<text x="40" y="40" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="28" font-weight="bold">S37 – Grille de validation croisée</text>
+<text x="40" y="68" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="normal">Équipe observée : ______   Mission : ______</text>
+<rect x="55" y="110" width="470" height="55" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.4"/>
+<text x="290.0" y="145" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Contrôle</text>
+<rect x="525" y="110" width="70" height="55" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.4"/>
+<text x="560.0" y="145" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Oui</text>
+<rect x="595" y="110" width="70" height="55" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.4"/>
+<text x="630.0" y="145" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Non</text>
+<rect x="665" y="110" width="135" height="55" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.4"/>
+<text x="732.5" y="145" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Non concerné</text>
+<rect x="800" y="110" width="265" height="55" rx="0" fill="#eeeeee" stroke="#222" stroke-width="1.4"/>
+<text x="932.5" y="145" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Commentaire</text>
+<rect x="55" y="165" width="470" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="70" y="204" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">L’orientation AVANT est conservée.</text>
+<rect x="525" y="165" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="560.0" y="204" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="595" y="165" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="630.0" y="204" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="665" y="165" width="135" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="732.5" y="204" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="800" y="165" width="265" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="932.5" y="204" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal"></text>
+<rect x="55" y="227" width="470" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="70" y="266" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">Les emplacements de la vue de dessus sont respectés.</text>
+<rect x="525" y="227" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="560.0" y="266" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="595" y="227" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="630.0" y="266" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="665" y="227" width="135" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="732.5" y="266" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="800" y="227" width="265" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="932.5" y="266" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal"></text>
+<rect x="55" y="289" width="470" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="70" y="328" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">La vue de face correspond.</text>
+<rect x="525" y="289" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="560.0" y="328" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="595" y="289" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="630.0" y="328" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="665" y="289" width="135" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="732.5" y="328" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="800" y="289" width="265" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="932.5" y="328" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal"></text>
+<rect x="55" y="351" width="470" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="70" y="390" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">La vue de droite correspond.</text>
+<rect x="525" y="351" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="560.0" y="390" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="595" y="351" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="630.0" y="390" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="665" y="351" width="135" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="732.5" y="390" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="800" y="351" width="265" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="932.5" y="390" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal"></text>
+<rect x="55" y="413" width="470" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="70" y="452" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">Le nombre total de cubes est correct.</text>
+<rect x="525" y="413" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="560.0" y="452" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="595" y="413" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="630.0" y="452" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="665" y="413" width="135" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="732.5" y="452" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="800" y="413" width="265" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="932.5" y="452" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal"></text>
+<rect x="55" y="475" width="470" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="70" y="514" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">La description ou les témoignages sont tous traités.</text>
+<rect x="525" y="475" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="560.0" y="514" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="595" y="475" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="630.0" y="514" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="665" y="475" width="135" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="732.5" y="514" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="800" y="475" width="265" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="932.5" y="514" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal"></text>
+<rect x="55" y="537" width="470" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="70" y="576" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">Une autre solution a été recherchée.</text>
+<rect x="525" y="537" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="560.0" y="576" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="595" y="537" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="630.0" y="576" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="665" y="537" width="135" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="732.5" y="576" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="800" y="537" width="265" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="932.5" y="576" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal"></text>
+<rect x="55" y="599" width="470" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="70" y="638" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">Observation et déduction sont distinguées.</text>
+<rect x="525" y="599" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="560.0" y="638" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="595" y="599" width="70" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="630.0" y="638" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="665" y="599" width="135" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="732.5" y="638" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">☐</text>
+<rect x="800" y="599" width="265" height="62" rx="0" fill="white" stroke="#222" stroke-width="1"/>
+<text x="932.5" y="638" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal"></text>
+<text x="55" y="690" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="bold">Verdict :</text>
+<rect x="175" y="662" width="215" height="45" rx="8" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="282" y="691" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">VALIDÉ</text>
+<rect x="425" y="662" width="215" height="45" rx="8" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="532" y="691" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">À COMPLÉTER</text>
+<rect x="675" y="662" width="215" height="45" rx="8" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="782" y="691" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">À CORRIGER</text>
+<text x="55" y="750" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">Indice à revoir : ______________________________________________________________________________</text>
+</svg>

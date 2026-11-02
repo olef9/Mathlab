@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="1123" height="794" fill="white"/>
+<style>
+text{font-family:Arial,sans-serif;fill:#111}
+.t{font-size:22px;font-weight:bold}
+.s{font-size:15px}
+.n{font-size:13px}
+.cut{stroke:#888;stroke-width:1.2;stroke-dasharray:8 7}
+.line{stroke:#222;stroke-width:2}
+.dot{fill:#111}
+</style>
+
+<line class="cut" x1="561.5" y1="0" x2="561.5" y2="794"/>
+<line class="cut" x1="0" y1="397" x2="1123" y2="397"/>
+
+<text class="t" x="28" y="38">Défi 1 – A sur B</text>
+<text class="s" x="28" y="66">Plie pour que A tombe exactement sur B.</text>
+<circle class="dot" cx="150" cy="220" r="5"/>
+<circle class="dot" cx="420" cy="165" r="5"/>
+<text class="t" x="130" y="210">A</text>
+<text class="t" x="430" y="158">B</text>
+<text class="n" x="28" y="365">Marque le pli, déplie, puis observe.</text>
+
+<text class="t" x="590" y="38">Défi 2 – Partager l'angle en deux</text>
+<text class="s" x="590" y="66">Plie pour superposer exactement les deux côtés.</text>
+<line class="line" x1="835" y1="285" x2="660" y2="120"/>
+<line class="line" x1="835" y1="285" x2="1035" y2="135"/>
+<circle class="dot" cx="835" cy="285" r="4"/>
+<text class="n" x="590" y="365">Marque le pli, déplie, puis explique.</text>
+
+<text class="t" x="28" y="435">Défi 3 – Centre du carré</text>
+<text class="s" x="28" y="463">Trouve le centre exact avec deux plis maximum.</text>
+<rect x="155" y="500" width="245" height="245" fill="none" stroke="#222" stroke-width="2"/>
+<text class="n" x="28" y="765">Pas de règle, pas de mesure, pas de point à l'œil.</text>
+
+<text class="t" x="590" y="435">Premier origami – Le bateau</text>
+<text class="s" x="590" y="490">Lis une étape → observe la flèche → plie → vérifie.</text>
+<text class="s" x="590" y="550">Arrêt 1 : quel pli crée l'axe central ?</text>
+<text class="s" x="590" y="600">Arrêt 2 : que remarques-tu sur la symétrie ?</text>
+<text class="s" x="590" y="650">Arrêt 3 : quelle forme apparaîtra après ouverture ?</text>
+<text class="n" x="590" y="720">En cas d'erreur : revenir à la dernière étape correcte.</text>
+</svg>

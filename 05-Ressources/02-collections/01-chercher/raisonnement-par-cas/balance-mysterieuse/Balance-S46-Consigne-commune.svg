@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="42" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="29" font-weight="bold">S46 – Construire une stratégie complète</text>
+<text x="40" y="72" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.5" font-weight="normal">La stratégie est écrite avant que l’arbitre annonce les verdicts.</text>
+<circle cx="72" cy="120" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="126" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">1</text>
+<rect x="108" y="95" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="116" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">LISTER</text>
+<text x="340" y="116" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">Écrire tous les suspects autorisés par la mission.</text>
+<circle cx="72" cy="197" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="203" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">2</text>
+<rect x="108" y="172" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="193" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">CHOISIR</text>
+<text x="340" y="193" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">Annoncer les deux plateaux de la première pesée.</text>
+<circle cx="72" cy="274" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="280" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">3</text>
+<rect x="108" y="249" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="270" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">PRÉVOIR</text>
+<text x="340" y="270" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">Écrire les trois verdicts : gauche, équilibre, droite.</text>
+<text x="135" y="293" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.7" font-weight="bold">Ne jamais oublier le cas d’équilibre.</text>
+<circle cx="72" cy="351" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="357" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">4</text>
+<rect x="108" y="326" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="347" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">RÉDUIRE</text>
+<text x="340" y="347" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">Donner la liste des suspects conservés dans chaque branche.</text>
+<circle cx="72" cy="428" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="434" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">5</text>
+<rect x="108" y="403" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="424" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">CONTINUER</text>
+<text x="340" y="424" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">Prévoir la pesée suivante séparément pour chaque branche.</text>
+<circle cx="72" cy="505" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="511" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">6</text>
+<rect x="108" y="480" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="501" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">TERMINER</text>
+<text x="340" y="501" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">Aboutir à un seul objet ou à un seul classement.</text>
+<text x="135" y="524" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.7" font-weight="bold">Une branche avec deux suspects n’est pas terminée.</text>
+<circle cx="72" cy="582" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="588" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">7</text>
+<rect x="108" y="557" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="578" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">TESTER</text>
+<text x="340" y="578" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">Appliquer l’arbre à plusieurs cartes secrètes sans le modifier.</text>
+<text x="135" y="601" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.7" font-weight="bold">Une réussite isolée ne valide pas la stratégie.</text>
+<circle cx="72" cy="659" r="20" fill="white" stroke="#222" stroke-width="1.4"/>
+<text x="72" y="665" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">8</text>
+<rect x="108" y="634" width="960" height="54" rx="9" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="135" y="655" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.2" font-weight="bold">CORRIGER</text>
+<text x="340" y="655" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">Réparer une branche oubliée, ambiguë ou trop longue.</text>
+<rect x="165" y="720" width="795" height="48" rx="10" fill="#f4f4f4" stroke="#222" stroke-width="1.4"/>
+<text x="562" y="750" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="16.2" font-weight="bold">À rendre : fiche + arbre + tests + correction + justification</text>
+</svg>

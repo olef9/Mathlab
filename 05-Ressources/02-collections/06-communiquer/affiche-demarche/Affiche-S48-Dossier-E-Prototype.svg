@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794">
+<rect width="100%" height="100%" fill="white"/>
+<text x="35" y="38" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="26" font-weight="bold">Dossier E – Valider un prototype de Maths City</text>
+<text x="35" y="68" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="normal">Le prototype est une maison construite avec des cubes de 20 mm.</text>
+<rect x="60" y="125" width="360" height="55" rx="0" fill="#ededed" stroke="#222" stroke-width="1.1"/>
+<text x="240.0" y="160" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Contrainte</text>
+<rect x="420" y="125" width="210" height="55" rx="0" fill="#ededed" stroke="#222" stroke-width="1.1"/>
+<text x="525.0" y="160" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Attendu</text>
+<rect x="630" y="125" width="250" height="55" rx="0" fill="#ededed" stroke="#222" stroke-width="1.1"/>
+<text x="755.0" y="160" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Observé</text>
+<rect x="880" y="125" width="160" height="55" rx="0" fill="#ededed" stroke="#222" stroke-width="1.1"/>
+<text x="960.0" y="160" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Verdict</text>
+<rect x="60" y="180" width="360" height="70" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="240.0" y="222" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">nombre de cubes</text>
+<rect x="420" y="180" width="210" height="70" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="525.0" y="222" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">18</text>
+<rect x="630" y="180" width="250" height="70" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="755.0" y="222" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">18</text>
+<rect x="880" y="180" width="160" height="70" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="960.0" y="222" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">validé</text>
+<rect x="60" y="250" width="360" height="70" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="240.0" y="292" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">hauteur</text>
+<rect x="420" y="250" width="210" height="70" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="525.0" y="292" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">60 mm</text>
+<rect x="630" y="250" width="250" height="70" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="755.0" y="292" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">40 mm</text>
+<rect x="880" y="250" width="160" height="70" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="960.0" y="292" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">non validé</text>
+<rect x="60" y="320" width="360" height="70" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="240.0" y="362" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">parcelle</text>
+<rect x="420" y="320" width="210" height="70" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="525.0" y="362" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">80 × 80 mm</text>
+<rect x="630" y="320" width="250" height="70" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="755.0" y="362" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">aucun dépassement</text>
+<rect x="880" y="320" width="160" height="70" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="960.0" y="362" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">validé</text>
+<rect x="60" y="390" width="360" height="70" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="240.0" y="432" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">entrée</text>
+<rect x="420" y="390" width="210" height="70" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="525.0" y="432" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">20 mm de large</text>
+<rect x="630" y="390" width="250" height="70" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="755.0" y="432" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="normal">20 mm</text>
+<rect x="880" y="390" width="160" height="70" rx="0" fill="white" stroke="#222" stroke-width="0.9"/>
+<text x="960.0" y="432" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.2" font-weight="bold">validé</text>
+<rect x="60" y="485" width="980" height="120" rx="12" fill="#f4f4f4" stroke="#222" stroke-width="1.3"/>
+<text x="85" y="520" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold">CORRECTION</text>
+<text x="220" y="520" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Déplacer quatre cubes afin de créer un troisième niveau sans changer le</text>
+<text x="220" y="539" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">total de 18 cubes.</text>
+<text x="85" y="575" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Nouveau test :</text>
+<text x="220" y="575" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">hauteur observée = 60 mm → validé</text>
+<rect x="160" y="650" width="803" height="70" rx="10" fill="white" stroke="#222" stroke-width="1.2"/>
+<text x="562" y="680" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="14" font-weight="bold">Une validation contient : attendu + observé + verdict + correction éventuelle</text>
+<text x="35" y="760" text-anchor="start" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.5" font-weight="bold">Piège : « c’est bon » n’est pas une preuve si aucune mesure n’est donnée.</text>
+</svg>
